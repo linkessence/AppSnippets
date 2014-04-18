@@ -1,0 +1,326 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 46;
+	objects = {
+
+/* Begin PBXBuildFile section */
+		804029EE1600FFEE00AB7E51 /* custom-button-normal@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 804029EB1600FFEE00AB7E51 /* custom-button-normal@2x.png */; };
+		804029EF1600FFEE00AB7E51 /* custom-cancel-normal@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 804029EC1600FFEE00AB7E51 /* custom-cancel-normal@2x.png */; };
+		804029F01600FFEE00AB7E51 /* custom-dialog-background@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 804029ED1600FFEE00AB7E51 /* custom-dialog-background@2x.png */; };
+		805A82B715FFF5200024B7CC /* QuartzCore.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 805A82B615FFF5200024B7CC /* QuartzCore.framework */; };
+		805D73391606FEB900F98EA0 /* custom-button-normal.png in Resources */ = {isa = PBXBuildFile; fileRef = 805D73361606FEB900F98EA0 /* custom-button-normal.png */; };
+		805D733A1606FEB900F98EA0 /* custom-cancel-normal.png in Resources */ = {isa = PBXBuildFile; fileRef = 805D73371606FEB900F98EA0 /* custom-cancel-normal.png */; };
+		805D733B1606FEB900F98EA0 /* custom-dialog-background.png in Resources */ = {isa = PBXBuildFile; fileRef = 805D73381606FEB900F98EA0 /* custom-dialog-background.png */; };
+		80C6F10415FE54A900ABF313 /* UIKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 80C6F10315FE54A900ABF313 /* UIKit.framework */; };
+		80C6F10615FE54A900ABF313 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 80C6F10515FE54A900ABF313 /* Foundation.framework */; };
+		80C6F10815FE54A900ABF313 /* CoreGraphics.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 80C6F10715FE54A900ABF313 /* CoreGraphics.framework */; };
+		80C6F10E15FE54A900ABF313 /* InfoPlist.strings in Resources */ = {isa = PBXBuildFile; fileRef = 80C6F10C15FE54A900ABF313 /* InfoPlist.strings */; };
+		80C6F11015FE54A900ABF313 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 80C6F10F15FE54A900ABF313 /* main.m */; };
+		80C6F11415FE54A900ABF313 /* AHAppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 80C6F11315FE54A900ABF313 /* AHAppDelegate.m */; };
+		80C6F11C15FE54E900ABF313 /* AHAlertSampleViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 80C6F11B15FE54E900ABF313 /* AHAlertSampleViewController.m */; };
+		80C6F12015FE551000ABF313 /* AHAlertView.m in Sources */ = {isa = PBXBuildFile; fileRef = 80C6F11F15FE551000ABF313 /* AHAlertView.m */; };
+/* End PBXBuildFile section */
+
+/* Begin PBXFileReference section */
+		804029EB1600FFEE00AB7E51 /* custom-button-normal@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "custom-button-normal@2x.png"; path = "Resources/custom-button-normal@2x.png"; sourceTree = SOURCE_ROOT; };
+		804029EC1600FFEE00AB7E51 /* custom-cancel-normal@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "custom-cancel-normal@2x.png"; path = "Resources/custom-cancel-normal@2x.png"; sourceTree = SOURCE_ROOT; };
+		804029ED1600FFEE00AB7E51 /* custom-dialog-background@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "custom-dialog-background@2x.png"; path = "Resources/custom-dialog-background@2x.png"; sourceTree = SOURCE_ROOT; };
+		805A82B615FFF5200024B7CC /* QuartzCore.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = QuartzCore.framework; path = System/Library/Frameworks/QuartzCore.framework; sourceTree = SDKROOT; };
+		805D73361606FEB900F98EA0 /* custom-button-normal.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "custom-button-normal.png"; path = "Resources/custom-button-normal.png"; sourceTree = SOURCE_ROOT; };
+		805D73371606FEB900F98EA0 /* custom-cancel-normal.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "custom-cancel-normal.png"; path = "Resources/custom-cancel-normal.png"; sourceTree = SOURCE_ROOT; };
+		805D73381606FEB900F98EA0 /* custom-dialog-background.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "custom-dialog-background.png"; path = "Resources/custom-dialog-background.png"; sourceTree = SOURCE_ROOT; };
+		80C6F0FF15FE54A900ABF313 /* AHAlertViewSample.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = AHAlertViewSample.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		80C6F10315FE54A900ABF313 /* UIKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = UIKit.framework; path = System/Library/Frameworks/UIKit.framework; sourceTree = SDKROOT; };
+		80C6F10515FE54A900ABF313 /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = System/Library/Frameworks/Foundation.framework; sourceTree = SDKROOT; };
+		80C6F10715FE54A900ABF313 /* CoreGraphics.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreGraphics.framework; path = System/Library/Frameworks/CoreGraphics.framework; sourceTree = SDKROOT; };
+		80C6F10B15FE54A900ABF313 /* AHAlertViewSample-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = "AHAlertViewSample-Info.plist"; sourceTree = "<group>"; };
+		80C6F10D15FE54A900ABF313 /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/InfoPlist.strings; sourceTree = "<group>"; };
+		80C6F10F15FE54A900ABF313 /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
+		80C6F11115FE54A900ABF313 /* AHAlertViewSample-Prefix.pch */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "AHAlertViewSample-Prefix.pch"; sourceTree = "<group>"; };
+		80C6F11215FE54A900ABF313 /* AHAppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = AHAppDelegate.h; sourceTree = "<group>"; };
+		80C6F11315FE54A900ABF313 /* AHAppDelegate.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = AHAppDelegate.m; sourceTree = "<group>"; };
+		80C6F11A15FE54E900ABF313 /* AHAlertSampleViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = AHAlertSampleViewController.h; sourceTree = "<group>"; };
+		80C6F11B15FE54E900ABF313 /* AHAlertSampleViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = AHAlertSampleViewController.m; sourceTree = "<group>"; };
+		80C6F11E15FE551000ABF313 /* AHAlertView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = AHAlertView.h; sourceTree = "<group>"; };
+		80C6F11F15FE551000ABF313 /* AHAlertView.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = AHAlertView.m; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		80C6F0FC15FE54A900ABF313 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				805A82B715FFF5200024B7CC /* QuartzCore.framework in Frameworks */,
+				80C6F10415FE54A900ABF313 /* UIKit.framework in Frameworks */,
+				80C6F10615FE54A900ABF313 /* Foundation.framework in Frameworks */,
+				80C6F10815FE54A900ABF313 /* CoreGraphics.framework in Frameworks */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		804029E91600FFDE00AB7E51 /* Images */ = {
+			isa = PBXGroup;
+			children = (
+				805D73361606FEB900F98EA0 /* custom-button-normal.png */,
+				804029EB1600FFEE00AB7E51 /* custom-button-normal@2x.png */,
+				805D73371606FEB900F98EA0 /* custom-cancel-normal.png */,
+				804029EC1600FFEE00AB7E51 /* custom-cancel-normal@2x.png */,
+				805D73381606FEB900F98EA0 /* custom-dialog-background.png */,
+				804029ED1600FFEE00AB7E51 /* custom-dialog-background@2x.png */,
+			);
+			name = Images;
+			sourceTree = "<group>";
+		};
+		80C6F0F415FE54A900ABF313 = {
+			isa = PBXGroup;
+			children = (
+				80C6F10915FE54A900ABF313 /* AHAlertViewSample */,
+				80C6F10215FE54A900ABF313 /* Frameworks */,
+				80C6F10015FE54A900ABF313 /* Products */,
+			);
+			sourceTree = "<group>";
+		};
+		80C6F10015FE54A900ABF313 /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				80C6F0FF15FE54A900ABF313 /* AHAlertViewSample.app */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+		80C6F10215FE54A900ABF313 /* Frameworks */ = {
+			isa = PBXGroup;
+			children = (
+				80C6F10315FE54A900ABF313 /* UIKit.framework */,
+				80C6F10515FE54A900ABF313 /* Foundation.framework */,
+				80C6F10715FE54A900ABF313 /* CoreGraphics.framework */,
+				805A82B615FFF5200024B7CC /* QuartzCore.framework */,
+			);
+			name = Frameworks;
+			sourceTree = "<group>";
+		};
+		80C6F10915FE54A900ABF313 /* AHAlertViewSample */ = {
+			isa = PBXGroup;
+			children = (
+				80C6F11D15FE54FF00ABF313 /* AHAlertView */,
+				80C6F11A15FE54E900ABF313 /* AHAlertSampleViewController.h */,
+				80C6F11B15FE54E900ABF313 /* AHAlertSampleViewController.m */,
+				80C6F11215FE54A900ABF313 /* AHAppDelegate.h */,
+				80C6F11315FE54A900ABF313 /* AHAppDelegate.m */,
+				80C6F10A15FE54A900ABF313 /* Supporting Files */,
+			);
+			path = AHAlertViewSample;
+			sourceTree = "<group>";
+		};
+		80C6F10A15FE54A900ABF313 /* Supporting Files */ = {
+			isa = PBXGroup;
+			children = (
+				804029E91600FFDE00AB7E51 /* Images */,
+				80C6F10B15FE54A900ABF313 /* AHAlertViewSample-Info.plist */,
+				80C6F10C15FE54A900ABF313 /* InfoPlist.strings */,
+				80C6F10F15FE54A900ABF313 /* main.m */,
+				80C6F11115FE54A900ABF313 /* AHAlertViewSample-Prefix.pch */,
+			);
+			name = "Supporting Files";
+			sourceTree = "<group>";
+		};
+		80C6F11D15FE54FF00ABF313 /* AHAlertView */ = {
+			isa = PBXGroup;
+			children = (
+				80C6F11E15FE551000ABF313 /* AHAlertView.h */,
+				80C6F11F15FE551000ABF313 /* AHAlertView.m */,
+			);
+			name = AHAlertView;
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXNativeTarget section */
+		80C6F0FE15FE54A900ABF313 /* AHAlertViewSample */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 80C6F11715FE54A900ABF313 /* Build configuration list for PBXNativeTarget "AHAlertViewSample" */;
+			buildPhases = (
+				80C6F0FB15FE54A900ABF313 /* Sources */,
+				80C6F0FC15FE54A900ABF313 /* Frameworks */,
+				80C6F0FD15FE54A900ABF313 /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = AHAlertViewSample;
+			productName = AHAlertViewSample;
+			productReference = 80C6F0FF15FE54A900ABF313 /* AHAlertViewSample.app */;
+			productType = "com.apple.product-type.application";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		80C6F0F615FE54A900ABF313 /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				CLASSPREFIX = AH;
+				LastUpgradeCheck = 0440;
+				ORGANIZATIONNAME = "Auerhaus Development, LLC";
+			};
+			buildConfigurationList = 80C6F0F915FE54A900ABF313 /* Build configuration list for PBXProject "AHAlertViewSample" */;
+			compatibilityVersion = "Xcode 3.2";
+			developmentRegion = English;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+			);
+			mainGroup = 80C6F0F415FE54A900ABF313;
+			productRefGroup = 80C6F10015FE54A900ABF313 /* Products */;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				80C6F0FE15FE54A900ABF313 /* AHAlertViewSample */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXResourcesBuildPhase section */
+		80C6F0FD15FE54A900ABF313 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				80C6F10E15FE54A900ABF313 /* InfoPlist.strings in Resources */,
+				804029EE1600FFEE00AB7E51 /* custom-button-normal@2x.png in Resources */,
+				804029EF1600FFEE00AB7E51 /* custom-cancel-normal@2x.png in Resources */,
+				804029F01600FFEE00AB7E51 /* custom-dialog-background@2x.png in Resources */,
+				805D73391606FEB900F98EA0 /* custom-button-normal.png in Resources */,
+				805D733A1606FEB900F98EA0 /* custom-cancel-normal.png in Resources */,
+				805D733B1606FEB900F98EA0 /* custom-dialog-background.png in Resources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXResourcesBuildPhase section */
+
+/* Begin PBXSourcesBuildPhase section */
+		80C6F0FB15FE54A900ABF313 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				80C6F11015FE54A900ABF313 /* main.m in Sources */,
+				80C6F11415FE54A900ABF313 /* AHAppDelegate.m in Sources */,
+				80C6F11C15FE54E900ABF313 /* AHAlertSampleViewController.m in Sources */,
+				80C6F12015FE551000ABF313 /* AHAlertView.m in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin PBXVariantGroup section */
+		80C6F10C15FE54A900ABF313 /* InfoPlist.strings */ = {
+			isa = PBXVariantGroup;
+			children = (
+				80C6F10D15FE54A900ABF313 /* en */,
+			);
+			name = InfoPlist.strings;
+			sourceTree = "<group>";
+		};
+/* End PBXVariantGroup section */
+
+/* Begin XCBuildConfiguration section */
+		80C6F11515FE54A900ABF313 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				ARCHS = "$(ARCHS_STANDARD_32_BIT)";
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++0x";
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				COPY_PHASE_STRIP = NO;
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				GCC_SYMBOLS_PRIVATE_EXTERN = NO;
+				GCC_VERSION = com.apple.compilers.llvm.clang.1_0;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 5.1;
+				SDKROOT = iphoneos;
+			};
+			name = Debug;
+		};
+		80C6F11615FE54A900ABF313 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				ARCHS = "$(ARCHS_STANDARD_32_BIT)";
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++0x";
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				COPY_PHASE_STRIP = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_VERSION = com.apple.compilers.llvm.clang.1_0;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 5.1;
+				OTHER_CFLAGS = "-DNS_BLOCK_ASSERTIONS=1";
+				SDKROOT = iphoneos;
+				VALIDATE_PRODUCT = YES;
+			};
+			name = Release;
+		};
+		80C6F11815FE54A900ABF313 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				GCC_PRECOMPILE_PREFIX_HEADER = YES;
+				GCC_PREFIX_HEADER = "AHAlertViewSample/AHAlertViewSample-Prefix.pch";
+				INFOPLIST_FILE = "AHAlertViewSample/AHAlertViewSample-Info.plist";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				WRAPPER_EXTENSION = app;
+			};
+			name = Debug;
+		};
+		80C6F11915FE54A900ABF313 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				GCC_PRECOMPILE_PREFIX_HEADER = YES;
+				GCC_PREFIX_HEADER = "AHAlertViewSample/AHAlertViewSample-Prefix.pch";
+				INFOPLIST_FILE = "AHAlertViewSample/AHAlertViewSample-Info.plist";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				WRAPPER_EXTENSION = app;
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		80C6F0F915FE54A900ABF313 /* Build configuration list for PBXProject "AHAlertViewSample" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				80C6F11515FE54A900ABF313 /* Debug */,
+				80C6F11615FE54A900ABF313 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		80C6F11715FE54A900ABF313 /* Build configuration list for PBXNativeTarget "AHAlertViewSample" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				80C6F11815FE54A900ABF313 /* Debug */,
+				80C6F11915FE54A900ABF313 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = 80C6F0F615FE54A900ABF313 /* Project object */;
+}
