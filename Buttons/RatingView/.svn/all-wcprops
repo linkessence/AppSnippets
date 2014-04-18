@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/svn/!svn/ver/5/trunk/iPhone/RatingView
+END
+main.m
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/5/trunk/iPhone/RatingView/main.m
+END
+0.png
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/5/trunk/iPhone/RatingView/0.png
+END
+1.png
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/5/trunk/iPhone/RatingView/1.png
+END
+2.png
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/5/trunk/iPhone/RatingView/2.png
+END
+Info.plist
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/5/trunk/iPhone/RatingView/Info.plist
+END
+RatingView.h
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/5/trunk/iPhone/RatingView/RatingView.h
+END
+RatingControllerViewController.xib
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/5/trunk/iPhone/RatingView/RatingControllerViewController.xib
+END
+RatingView.m
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/5/trunk/iPhone/RatingView/RatingView.m
+END
+MainWindow.xib
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/5/trunk/iPhone/RatingView/MainWindow.xib
+END
+RatingController_Prefix.pch
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/5/trunk/iPhone/RatingView/RatingController_Prefix.pch
+END

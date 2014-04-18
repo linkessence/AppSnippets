@@ -1,0 +1,342 @@
+// !$*UTF8*$!
+{
+	1D3623240D0F684500981E51 /* RatingControllerAppDelegate.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {938, 817}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 525}";
+		};
+	};
+	1D3623250D0F684500981E51 /* RatingControllerAppDelegate.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {938, 817}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 655}";
+		};
+	};
+	1D6058900D05DD3D006BFB54 /* RatingController */ = {
+		activeExec = 0;
+		executables = (
+			F85BB2560F5971440042E590 /* RatingController */,
+		);
+	};
+	28D7ACF60DDB3853001CB0EB /* RatingControllerViewController.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {938, 817}}";
+			sepNavSelRange = "{462, 35}";
+			sepNavVisRange = "{0, 543}";
+		};
+	};
+	28D7ACF70DDB3853001CB0EB /* RatingControllerViewController.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {938, 817}}";
+			sepNavSelRange = "{803, 0}";
+			sepNavVisRange = "{0, 809}";
+		};
+	};
+	29B97313FDCFA39411CA2CEA /* Project object */ = {
+		activeBuildConfigurationName = Debug;
+		activeExecutable = F85BB2560F5971440042E590 /* RatingController */;
+		activeTarget = 1D6058900D05DD3D006BFB54 /* RatingController */;
+		addToTargets = (
+			1D6058900D05DD3D006BFB54 /* RatingController */,
+		);
+		breakpoints = (
+			F85BB2990F5994800042E590 /* RatingView.m:28 */,
+			F85BB3080F59961F0042E590 /* RatingView.m:86 */,
+		);
+		codeSenseManager = F85BB2790F5971630042E590 /* Code sense */;
+		executables = (
+			F85BB2560F5971440042E590 /* RatingController */,
+		);
+		perUserDictionary = {
+			PBXConfiguration.PBXFileTableDataSource3.PBXFileTableDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					760,
+					20,
+					48,
+					43,
+					43,
+					20,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+					PBXFileDataSource_Target_ColumnID,
+				);
+			};
+			PBXPerProjectTemplateStateSaveDate = 257536111;
+			PBXWorkspaceStateSaveDate = 257536111;
+		};
+		perUserProjectItems = {
+			F82E77000F59B0BB00511CE3 /* PBXTextBookmark */ = F82E77000F59B0BB00511CE3 /* PBXTextBookmark */;
+			F85BB29F0F59948F0042E590 /* PBXBookmark */ = F85BB29F0F59948F0042E590 /* PBXBookmark */;
+			F85BB2A00F59948F0042E590 /* PBXBookmark */ = F85BB2A00F59948F0042E590 /* PBXBookmark */;
+			F85BB2A10F59948F0042E590 /* PBXBookmark */ = F85BB2A10F59948F0042E590 /* PBXBookmark */;
+			F85BB2A30F59948F0042E590 /* PBXTextBookmark */ = F85BB2A30F59948F0042E590 /* PBXTextBookmark */;
+			F85BB2A40F59948F0042E590 /* PBXTextBookmark */ = F85BB2A40F59948F0042E590 /* PBXTextBookmark */;
+			F85BB2C50F59948F0042E590 /* PBXTextBookmark */ = F85BB2C50F59948F0042E590 /* PBXTextBookmark */;
+			F85BB2C60F59948F0042E590 /* PBXTextBookmark */ = F85BB2C60F59948F0042E590 /* PBXTextBookmark */;
+			F85BB2CD0F59948F0042E590 /* PBXTextBookmark */ = F85BB2CD0F59948F0042E590 /* PBXTextBookmark */;
+			F85BB2EB0F59948F0042E590 /* PBXBookmark */ = F85BB2EB0F59948F0042E590 /* PBXBookmark */;
+			F85BB2EC0F59948F0042E590 /* PBXBookmark */ = F85BB2EC0F59948F0042E590 /* PBXBookmark */;
+			F85BB2ED0F59948F0042E590 /* PBXBookmark */ = F85BB2ED0F59948F0042E590 /* PBXBookmark */;
+			F85BB3450F59AD220042E590 /* PBXTextBookmark */ = F85BB3450F59AD220042E590 /* PBXTextBookmark */;
+			F85BB3460F59AD220042E590 /* PBXTextBookmark */ = F85BB3460F59AD220042E590 /* PBXTextBookmark */;
+			F85BB3470F59AD220042E590 /* PBXTextBookmark */ = F85BB3470F59AD220042E590 /* PBXTextBookmark */;
+			F85BB3480F59AD220042E590 /* PBXTextBookmark */ = F85BB3480F59AD220042E590 /* PBXTextBookmark */;
+			F85BB34C0F59AD220042E590 /* PBXTextBookmark */ = F85BB34C0F59AD220042E590 /* PBXTextBookmark */;
+			F85BB3550F59AE6D0042E590 /* PBXTextBookmark */ = F85BB3550F59AE6D0042E590 /* PBXTextBookmark */;
+			F85BB3590F59AE7D0042E590 /* PBXTextBookmark */ = F85BB3590F59AE7D0042E590 /* PBXTextBookmark */;
+		};
+		sourceControlManager = F85BB2780F5971630042E590 /* Source Control */;
+		userBuildSettings = {
+		};
+	};
+	F82E77000F59B0BB00511CE3 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = F85BB27E0F59722A0042E590 /* RatingView.m */;
+		name = "RatingView.m: 108";
+		rLen = 0;
+		rLoc = 2977;
+		rType = 0;
+		vrLen = 1195;
+		vrLoc = 2677;
+	};
+	F85BB2560F5971440042E590 /* RatingController */ = {
+		isa = PBXExecutable;
+		activeArgIndices = (
+		);
+		argumentStrings = (
+		);
+		autoAttachOnCrash = 1;
+		breakpointsEnabled = 0;
+		configStateDict = {
+		};
+		customDataFormattersEnabled = 1;
+		debuggerPlugin = GDBDebugging;
+		disassemblyDisplayState = 0;
+		dylibVariantSuffix = "";
+		enableDebugStr = 1;
+		environmentEntries = (
+		);
+		executableSystemSymbolLevel = 0;
+		executableUserSymbolLevel = 0;
+		libgmallocEnabled = 0;
+		name = RatingController;
+		savedGlobals = {
+		};
+		sourceDirectories = (
+		);
+	};
+	F85BB2780F5971630042E590 /* Source Control */ = {
+		isa = PBXSourceControlManager;
+		fallbackIsa = XCSourceControlManager;
+		isSCMEnabled = 0;
+		scmConfiguration = {
+		};
+	};
+	F85BB2790F5971630042E590 /* Code sense */ = {
+		isa = PBXCodeSenseManager;
+		indexTemplatePath = "";
+	};
+	F85BB27D0F59722A0042E590 /* RatingView.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {938, 817}}";
+			sepNavSelRange = "{750, 0}";
+			sepNavVisRange = "{0, 999}";
+		};
+	};
+	F85BB27E0F59722A0042E590 /* RatingView.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {938, 2142}}";
+			sepNavSelRange = "{2977, 0}";
+			sepNavVisRange = "{2677, 1195}";
+		};
+	};
+	F85BB2990F5994800042E590 /* RatingView.m:28 */ = {
+		isa = PBXFileBreakpoint;
+		actions = (
+		);
+		breakpointStyle = 0;
+		continueAfterActions = 0;
+		countType = 0;
+		delayBeforeContinue = 0;
+		fileReference = F85BB27E0F59722A0042E590 /* RatingView.m */;
+		functionName = "-setImagesDeselected:partlySelected:fullSelected:andDelegate:";
+		hitCount = 0;
+		ignoreCount = 0;
+		lineNumber = 28;
+		location = RatingController;
+		modificationTime = 257529375.288583;
+		state = 2;
+	};
+	F85BB29F0F59948F0042E590 /* PBXBookmark */ = {
+		isa = PBXBookmark;
+		fRef = F85BB28B0F598F980042E590 /* 1.png */;
+	};
+	F85BB2A00F59948F0042E590 /* PBXBookmark */ = {
+		isa = PBXBookmark;
+		fRef = F85BB28A0F598F980042E590 /* 2.png */;
+	};
+	F85BB2A10F59948F0042E590 /* PBXBookmark */ = {
+		isa = PBXBookmark;
+		fRef = F85BB28C0F598F980042E590 /* 0.png */;
+	};
+	F85BB2A30F59948F0042E590 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = F85BB27D0F59722A0042E590 /* RatingView.h */;
+		name = "RatingViewController.h: 16";
+		rLen = 0;
+		rLoc = 976;
+		rType = 0;
+		vrLen = 297;
+		vrLoc = 0;
+	};
+	F85BB2A40F59948F0042E590 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = F85BB27E0F59722A0042E590 /* RatingView.m */;
+		name = "RatingViewController.m: 19";
+		rLen = 0;
+		rLoc = 2418;
+		rType = 0;
+		vrLen = 1081;
+		vrLoc = 30;
+	};
+	F85BB2C50F59948F0042E590 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF70DDB3853001CB0EB /* RatingControllerViewController.m */;
+		name = "RatingControllerViewController.m: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 1068;
+		vrLoc = 0;
+	};
+	F85BB2C60F59948F0042E590 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF60DDB3853001CB0EB /* RatingControllerViewController.h */;
+		name = "RatingControllerViewController.h: 15";
+		rLen = 0;
+		rLoc = 337;
+		rType = 0;
+		vrLen = 448;
+		vrLoc = 0;
+	};
+	F85BB2CD0F59948F0042E590 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1D3623250D0F684500981E51 /* RatingControllerAppDelegate.m */;
+		name = "RatingControllerAppDelegate.m: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 655;
+		vrLoc = 0;
+	};
+	F85BB2EB0F59948F0042E590 /* PBXBookmark */ = {
+		isa = PBXBookmark;
+		fRef = F85BB28C0F598F980042E590 /* 0.png */;
+	};
+	F85BB2EC0F59948F0042E590 /* PBXBookmark */ = {
+		isa = PBXBookmark;
+		fRef = F85BB28B0F598F980042E590 /* 1.png */;
+	};
+	F85BB2ED0F59948F0042E590 /* PBXBookmark */ = {
+		isa = PBXBookmark;
+		fRef = F85BB28A0F598F980042E590 /* 2.png */;
+	};
+	F85BB3080F59961F0042E590 /* RatingView.m:86 */ = {
+		isa = PBXFileBreakpoint;
+		actions = (
+		);
+		breakpointStyle = 0;
+		continueAfterActions = 0;
+		countType = 0;
+		delayBeforeContinue = 0;
+		fileReference = F85BB27E0F59722A0042E590 /* RatingView.m */;
+		functionName = "-displayRating:";
+		hitCount = 0;
+		ignoreCount = 0;
+		lineNumber = 86;
+		location = RatingController;
+		modificationTime = 257529394.0372531;
+		state = 2;
+	};
+	F85BB3450F59AD220042E590 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF70DDB3853001CB0EB /* RatingControllerViewController.m */;
+		name = "RatingControllerViewController.m: 37";
+		rLen = 0;
+		rLoc = 803;
+		rType = 0;
+		vrLen = 809;
+		vrLoc = 0;
+	};
+	F85BB3460F59AD220042E590 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF60DDB3853001CB0EB /* RatingControllerViewController.h */;
+		name = "RatingControllerViewController.h: 20";
+		rLen = 35;
+		rLoc = 462;
+		rType = 0;
+		vrLen = 543;
+		vrLoc = 0;
+	};
+	F85BB3470F59AD220042E590 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1D3623250D0F684500981E51 /* RatingControllerAppDelegate.m */;
+		name = "RatingControllerAppDelegate.m: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 655;
+		vrLoc = 0;
+	};
+	F85BB3480F59AD220042E590 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1D3623240D0F684500981E51 /* RatingControllerAppDelegate.h */;
+		name = "RatingControllerAppDelegate.h: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 525;
+		vrLoc = 0;
+	};
+	F85BB34C0F59AD220042E590 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1D3623240D0F684500981E51 /* RatingControllerAppDelegate.h */;
+		name = "RatingControllerAppDelegate.h: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 525;
+		vrLoc = 0;
+	};
+	F85BB3550F59AE6D0042E590 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = F85BB27D0F59722A0042E590 /* RatingView.h */;
+		name = "RatingView.h: 30";
+		rLen = 0;
+		rLoc = 750;
+		rType = 0;
+		vrLen = 999;
+		vrLoc = 0;
+	};
+	F85BB3590F59AE7D0042E590 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = F85BB27E0F59722A0042E590 /* RatingView.m */;
+		name = "RatingView.m: 108";
+		rLen = 0;
+		rLoc = 2977;
+		rType = 0;
+		vrLen = 1195;
+		vrLoc = 2677;
+	};
+}

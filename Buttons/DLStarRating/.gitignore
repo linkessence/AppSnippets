@@ -1,0 +1,7 @@
+DLStarRatingDemo/build/*
+*.pbxuser
+*.perspective*
+*.xcworkspace
+*xcuserdata
+.DS_Store
+DLStarRatingDemo/.idea/*

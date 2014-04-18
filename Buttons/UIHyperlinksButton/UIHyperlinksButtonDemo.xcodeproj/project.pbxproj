@@ -1,0 +1,311 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 46;
+	objects = {
+
+/* Begin PBXBuildFile section */
+		2361953517BA238C00B98011 /* UIKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 2361953417BA238C00B98011 /* UIKit.framework */; };
+		2361953717BA238C00B98011 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 2361953617BA238C00B98011 /* Foundation.framework */; };
+		2361953917BA238C00B98011 /* CoreGraphics.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 2361953817BA238C00B98011 /* CoreGraphics.framework */; };
+		2361953F17BA238C00B98011 /* InfoPlist.strings in Resources */ = {isa = PBXBuildFile; fileRef = 2361953D17BA238C00B98011 /* InfoPlist.strings */; };
+		2361954117BA238C00B98011 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 2361954017BA238C00B98011 /* main.m */; };
+		2361954517BA238C00B98011 /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 2361954417BA238C00B98011 /* AppDelegate.m */; };
+		2361954717BA238C00B98011 /* Default.png in Resources */ = {isa = PBXBuildFile; fileRef = 2361954617BA238C00B98011 /* Default.png */; };
+		2361954917BA238C00B98011 /* Default@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 2361954817BA238C00B98011 /* Default@2x.png */; };
+		2361954B17BA238C00B98011 /* Default-568h@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 2361954A17BA238C00B98011 /* Default-568h@2x.png */; };
+		2361954E17BA238C00B98011 /* ViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 2361954D17BA238C00B98011 /* ViewController.m */; };
+		2361955117BA238C00B98011 /* ViewController.xib in Resources */ = {isa = PBXBuildFile; fileRef = 2361954F17BA238C00B98011 /* ViewController.xib */; };
+		2361955917BA23B100B98011 /* UIHyperlinksButton.m in Sources */ = {isa = PBXBuildFile; fileRef = 2361955817BA23B100B98011 /* UIHyperlinksButton.m */; };
+/* End PBXBuildFile section */
+
+/* Begin PBXFileReference section */
+		2361953117BA238C00B98011 /* UIHyperlinksButtonDemo.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = UIHyperlinksButtonDemo.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		2361953417BA238C00B98011 /* UIKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = UIKit.framework; path = System/Library/Frameworks/UIKit.framework; sourceTree = SDKROOT; };
+		2361953617BA238C00B98011 /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = System/Library/Frameworks/Foundation.framework; sourceTree = SDKROOT; };
+		2361953817BA238C00B98011 /* CoreGraphics.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreGraphics.framework; path = System/Library/Frameworks/CoreGraphics.framework; sourceTree = SDKROOT; };
+		2361953C17BA238C00B98011 /* UIHyperlinksButtonDemo-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = "UIHyperlinksButtonDemo-Info.plist"; sourceTree = "<group>"; };
+		2361953E17BA238C00B98011 /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/InfoPlist.strings; sourceTree = "<group>"; };
+		2361954017BA238C00B98011 /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
+		2361954217BA238C00B98011 /* UIHyperlinksButtonDemo-Prefix.pch */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "UIHyperlinksButtonDemo-Prefix.pch"; sourceTree = "<group>"; };
+		2361954317BA238C00B98011 /* AppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = AppDelegate.h; sourceTree = "<group>"; };
+		2361954417BA238C00B98011 /* AppDelegate.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = AppDelegate.m; sourceTree = "<group>"; };
+		2361954617BA238C00B98011 /* Default.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Default.png; sourceTree = "<group>"; };
+		2361954817BA238C00B98011 /* Default@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Default@2x.png"; sourceTree = "<group>"; };
+		2361954A17BA238C00B98011 /* Default-568h@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Default-568h@2x.png"; sourceTree = "<group>"; };
+		2361954C17BA238C00B98011 /* ViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = ViewController.h; sourceTree = "<group>"; };
+		2361954D17BA238C00B98011 /* ViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = ViewController.m; sourceTree = "<group>"; };
+		2361955017BA238C00B98011 /* en */ = {isa = PBXFileReference; lastKnownFileType = file.xib; name = en; path = en.lproj/ViewController.xib; sourceTree = "<group>"; };
+		2361955717BA23B100B98011 /* UIHyperlinksButton.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = UIHyperlinksButton.h; sourceTree = "<group>"; };
+		2361955817BA23B100B98011 /* UIHyperlinksButton.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = UIHyperlinksButton.m; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		2361952E17BA238C00B98011 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				2361953517BA238C00B98011 /* UIKit.framework in Frameworks */,
+				2361953717BA238C00B98011 /* Foundation.framework in Frameworks */,
+				2361953917BA238C00B98011 /* CoreGraphics.framework in Frameworks */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		2361952817BA238C00B98011 = {
+			isa = PBXGroup;
+			children = (
+				2361953A17BA238C00B98011 /* UIHyperlinksButtonDemo */,
+				2361953317BA238C00B98011 /* Frameworks */,
+				2361953217BA238C00B98011 /* Products */,
+			);
+			sourceTree = "<group>";
+		};
+		2361953217BA238C00B98011 /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				2361953117BA238C00B98011 /* UIHyperlinksButtonDemo.app */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+		2361953317BA238C00B98011 /* Frameworks */ = {
+			isa = PBXGroup;
+			children = (
+				2361953417BA238C00B98011 /* UIKit.framework */,
+				2361953617BA238C00B98011 /* Foundation.framework */,
+				2361953817BA238C00B98011 /* CoreGraphics.framework */,
+			);
+			name = Frameworks;
+			sourceTree = "<group>";
+		};
+		2361953A17BA238C00B98011 /* UIHyperlinksButtonDemo */ = {
+			isa = PBXGroup;
+			children = (
+				2361954317BA238C00B98011 /* AppDelegate.h */,
+				2361954417BA238C00B98011 /* AppDelegate.m */,
+				2361954C17BA238C00B98011 /* ViewController.h */,
+				2361954D17BA238C00B98011 /* ViewController.m */,
+				2361954F17BA238C00B98011 /* ViewController.xib */,
+				2361953B17BA238C00B98011 /* Supporting Files */,
+				2361955717BA23B100B98011 /* UIHyperlinksButton.h */,
+				2361955817BA23B100B98011 /* UIHyperlinksButton.m */,
+			);
+			path = UIHyperlinksButtonDemo;
+			sourceTree = "<group>";
+		};
+		2361953B17BA238C00B98011 /* Supporting Files */ = {
+			isa = PBXGroup;
+			children = (
+				2361953C17BA238C00B98011 /* UIHyperlinksButtonDemo-Info.plist */,
+				2361953D17BA238C00B98011 /* InfoPlist.strings */,
+				2361954017BA238C00B98011 /* main.m */,
+				2361954217BA238C00B98011 /* UIHyperlinksButtonDemo-Prefix.pch */,
+				2361954617BA238C00B98011 /* Default.png */,
+				2361954817BA238C00B98011 /* Default@2x.png */,
+				2361954A17BA238C00B98011 /* Default-568h@2x.png */,
+			);
+			name = "Supporting Files";
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXNativeTarget section */
+		2361953017BA238C00B98011 /* UIHyperlinksButtonDemo */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 2361955417BA238C00B98011 /* Build configuration list for PBXNativeTarget "UIHyperlinksButtonDemo" */;
+			buildPhases = (
+				2361952D17BA238C00B98011 /* Sources */,
+				2361952E17BA238C00B98011 /* Frameworks */,
+				2361952F17BA238C00B98011 /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = UIHyperlinksButtonDemo;
+			productName = UIHyperlinksButtonDemo;
+			productReference = 2361953117BA238C00B98011 /* UIHyperlinksButtonDemo.app */;
+			productType = "com.apple.product-type.application";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		2361952917BA238C00B98011 /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				LastUpgradeCheck = 0460;
+				ORGANIZATIONNAME = yaoqianyi;
+			};
+			buildConfigurationList = 2361952C17BA238C00B98011 /* Build configuration list for PBXProject "UIHyperlinksButtonDemo" */;
+			compatibilityVersion = "Xcode 3.2";
+			developmentRegion = English;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+			);
+			mainGroup = 2361952817BA238C00B98011;
+			productRefGroup = 2361953217BA238C00B98011 /* Products */;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				2361953017BA238C00B98011 /* UIHyperlinksButtonDemo */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXResourcesBuildPhase section */
+		2361952F17BA238C00B98011 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				2361953F17BA238C00B98011 /* InfoPlist.strings in Resources */,
+				2361954717BA238C00B98011 /* Default.png in Resources */,
+				2361954917BA238C00B98011 /* Default@2x.png in Resources */,
+				2361954B17BA238C00B98011 /* Default-568h@2x.png in Resources */,
+				2361955117BA238C00B98011 /* ViewController.xib in Resources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXResourcesBuildPhase section */
+
+/* Begin PBXSourcesBuildPhase section */
+		2361952D17BA238C00B98011 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				2361954117BA238C00B98011 /* main.m in Sources */,
+				2361954517BA238C00B98011 /* AppDelegate.m in Sources */,
+				2361954E17BA238C00B98011 /* ViewController.m in Sources */,
+				2361955917BA23B100B98011 /* UIHyperlinksButton.m in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin PBXVariantGroup section */
+		2361953D17BA238C00B98011 /* InfoPlist.strings */ = {
+			isa = PBXVariantGroup;
+			children = (
+				2361953E17BA238C00B98011 /* en */,
+			);
+			name = InfoPlist.strings;
+			sourceTree = "<group>";
+		};
+		2361954F17BA238C00B98011 /* ViewController.xib */ = {
+			isa = PBXVariantGroup;
+			children = (
+				2361955017BA238C00B98011 /* en */,
+			);
+			name = ViewController.xib;
+			sourceTree = "<group>";
+		};
+/* End PBXVariantGroup section */
+
+/* Begin XCBuildConfiguration section */
+		2361955217BA238C00B98011 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++0x";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				COPY_PHASE_STRIP = NO;
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				GCC_SYMBOLS_PRIVATE_EXTERN = NO;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 6.1;
+				ONLY_ACTIVE_ARCH = YES;
+				SDKROOT = iphoneos;
+			};
+			name = Debug;
+		};
+		2361955317BA238C00B98011 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++0x";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				COPY_PHASE_STRIP = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 6.1;
+				OTHER_CFLAGS = "-DNS_BLOCK_ASSERTIONS=1";
+				SDKROOT = iphoneos;
+				VALIDATE_PRODUCT = YES;
+			};
+			name = Release;
+		};
+		2361955517BA238C00B98011 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				GCC_PRECOMPILE_PREFIX_HEADER = YES;
+				GCC_PREFIX_HEADER = "UIHyperlinksButtonDemo/UIHyperlinksButtonDemo-Prefix.pch";
+				INFOPLIST_FILE = "UIHyperlinksButtonDemo/UIHyperlinksButtonDemo-Info.plist";
+				IPHONEOS_DEPLOYMENT_TARGET = 4.3;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				WRAPPER_EXTENSION = app;
+			};
+			name = Debug;
+		};
+		2361955617BA238C00B98011 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				GCC_PRECOMPILE_PREFIX_HEADER = YES;
+				GCC_PREFIX_HEADER = "UIHyperlinksButtonDemo/UIHyperlinksButtonDemo-Prefix.pch";
+				INFOPLIST_FILE = "UIHyperlinksButtonDemo/UIHyperlinksButtonDemo-Info.plist";
+				IPHONEOS_DEPLOYMENT_TARGET = 4.3;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				WRAPPER_EXTENSION = app;
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		2361952C17BA238C00B98011 /* Build configuration list for PBXProject "UIHyperlinksButtonDemo" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				2361955217BA238C00B98011 /* Debug */,
+				2361955317BA238C00B98011 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		2361955417BA238C00B98011 /* Build configuration list for PBXNativeTarget "UIHyperlinksButtonDemo" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				2361955517BA238C00B98011 /* Debug */,
+				2361955617BA238C00B98011 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = 2361952917BA238C00B98011 /* Project object */;
+}
