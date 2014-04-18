@@ -1,0 +1,344 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 46;
+	objects = {
+
+/* Begin PBXBuildFile section */
+		05A29F3E17B23E3900E95042 /* UIKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 05A29F3D17B23E3900E95042 /* UIKit.framework */; };
+		05A29F4017B23E3900E95042 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 05A29F3F17B23E3900E95042 /* Foundation.framework */; };
+		05A29F4217B23E3900E95042 /* CoreGraphics.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 05A29F4117B23E3900E95042 /* CoreGraphics.framework */; };
+		05A29F4817B23E3900E95042 /* InfoPlist.strings in Resources */ = {isa = PBXBuildFile; fileRef = 05A29F4617B23E3900E95042 /* InfoPlist.strings */; };
+		05A29F4A17B23E3900E95042 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 05A29F4917B23E3900E95042 /* main.m */; };
+		05A29F4E17B23E3900E95042 /* TaobanIdeAppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 05A29F4D17B23E3900E95042 /* TaobanIdeAppDelegate.m */; };
+		05A29F5017B23E3900E95042 /* Default.png in Resources */ = {isa = PBXBuildFile; fileRef = 05A29F4F17B23E3900E95042 /* Default.png */; };
+		05A29F5217B23E3900E95042 /* Default@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 05A29F5117B23E3900E95042 /* Default@2x.png */; };
+		05A29F5417B23E3900E95042 /* Default-568h@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 05A29F5317B23E3900E95042 /* Default-568h@2x.png */; };
+		05A29F5717B23E3900E95042 /* MainStoryboard.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 05A29F5517B23E3900E95042 /* MainStoryboard.storyboard */; };
+		05A29F5A17B23E3900E95042 /* TaobanIdeViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 05A29F5917B23E3900E95042 /* TaobanIdeViewController.m */; };
+		05A29F6617B23EA600E95042 /* WTStatusWindow.m in Sources */ = {isa = PBXBuildFile; fileRef = 05A29F6117B23EA600E95042 /* WTStatusWindow.m */; };
+		05A29F6717B23EA600E95042 /* WTStatusView.m in Sources */ = {isa = PBXBuildFile; fileRef = 05A29F6317B23EA600E95042 /* WTStatusView.m */; };
+		05A29F6817B23EA600E95042 /* WTStatusBar.m in Sources */ = {isa = PBXBuildFile; fileRef = 05A29F6517B23EA600E95042 /* WTStatusBar.m */; };
+		05A29F6B17B23F5900E95042 /* Circle.m in Sources */ = {isa = PBXBuildFile; fileRef = 05A29F6A17B23F5900E95042 /* Circle.m */; };
+		05A29F6E17B23F6E00E95042 /* CirActivityIndicatorView.m in Sources */ = {isa = PBXBuildFile; fileRef = 05A29F6D17B23F6E00E95042 /* CirActivityIndicatorView.m */; };
+		05A29F7017B2455700E95042 /* QuartzCore.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 05A29F6F17B2455700E95042 /* QuartzCore.framework */; };
+		05A29F7217B24CCA00E95042 /* IMG_0710_x.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 05A29F7117B24CCA00E95042 /* IMG_0710_x.jpg */; };
+/* End PBXBuildFile section */
+
+/* Begin PBXFileReference section */
+		05A29F3A17B23E3900E95042 /* LodingBar.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = LodingBar.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		05A29F3D17B23E3900E95042 /* UIKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = UIKit.framework; path = System/Library/Frameworks/UIKit.framework; sourceTree = SDKROOT; };
+		05A29F3F17B23E3900E95042 /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = System/Library/Frameworks/Foundation.framework; sourceTree = SDKROOT; };
+		05A29F4117B23E3900E95042 /* CoreGraphics.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreGraphics.framework; path = System/Library/Frameworks/CoreGraphics.framework; sourceTree = SDKROOT; };
+		05A29F4517B23E3900E95042 /* LodingBar-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = "LodingBar-Info.plist"; sourceTree = "<group>"; };
+		05A29F4717B23E3900E95042 /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/InfoPlist.strings; sourceTree = "<group>"; };
+		05A29F4917B23E3900E95042 /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
+		05A29F4B17B23E3900E95042 /* LodingBar-Prefix.pch */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "LodingBar-Prefix.pch"; sourceTree = "<group>"; };
+		05A29F4C17B23E3900E95042 /* TaobanIdeAppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = TaobanIdeAppDelegate.h; sourceTree = "<group>"; };
+		05A29F4D17B23E3900E95042 /* TaobanIdeAppDelegate.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = TaobanIdeAppDelegate.m; sourceTree = "<group>"; };
+		05A29F4F17B23E3900E95042 /* Default.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Default.png; sourceTree = "<group>"; };
+		05A29F5117B23E3900E95042 /* Default@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Default@2x.png"; sourceTree = "<group>"; };
+		05A29F5317B23E3900E95042 /* Default-568h@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Default-568h@2x.png"; sourceTree = "<group>"; };
+		05A29F5617B23E3900E95042 /* en */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = en; path = en.lproj/MainStoryboard.storyboard; sourceTree = "<group>"; };
+		05A29F5817B23E3900E95042 /* TaobanIdeViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = TaobanIdeViewController.h; sourceTree = "<group>"; };
+		05A29F5917B23E3900E95042 /* TaobanIdeViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = TaobanIdeViewController.m; sourceTree = "<group>"; };
+		05A29F6017B23EA600E95042 /* WTStatusWindow.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = WTStatusWindow.h; sourceTree = "<group>"; };
+		05A29F6117B23EA600E95042 /* WTStatusWindow.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = WTStatusWindow.m; sourceTree = "<group>"; };
+		05A29F6217B23EA600E95042 /* WTStatusView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = WTStatusView.h; sourceTree = "<group>"; };
+		05A29F6317B23EA600E95042 /* WTStatusView.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = WTStatusView.m; sourceTree = "<group>"; };
+		05A29F6417B23EA600E95042 /* WTStatusBar.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = WTStatusBar.h; sourceTree = "<group>"; };
+		05A29F6517B23EA600E95042 /* WTStatusBar.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = WTStatusBar.m; sourceTree = "<group>"; };
+		05A29F6917B23F5900E95042 /* Circle.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = Circle.h; sourceTree = "<group>"; };
+		05A29F6A17B23F5900E95042 /* Circle.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = Circle.m; sourceTree = "<group>"; };
+		05A29F6C17B23F6E00E95042 /* CirActivityIndicatorView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = CirActivityIndicatorView.h; sourceTree = "<group>"; };
+		05A29F6D17B23F6E00E95042 /* CirActivityIndicatorView.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = CirActivityIndicatorView.m; sourceTree = "<group>"; };
+		05A29F6F17B2455700E95042 /* QuartzCore.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = QuartzCore.framework; path = System/Library/Frameworks/QuartzCore.framework; sourceTree = SDKROOT; };
+		05A29F7117B24CCA00E95042 /* IMG_0710_x.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = IMG_0710_x.jpg; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		05A29F3717B23E3900E95042 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				05A29F7017B2455700E95042 /* QuartzCore.framework in Frameworks */,
+				05A29F3E17B23E3900E95042 /* UIKit.framework in Frameworks */,
+				05A29F4017B23E3900E95042 /* Foundation.framework in Frameworks */,
+				05A29F4217B23E3900E95042 /* CoreGraphics.framework in Frameworks */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		05A29F3117B23E3900E95042 = {
+			isa = PBXGroup;
+			children = (
+				05A29F4317B23E3900E95042 /* LodingBar */,
+				05A29F3C17B23E3900E95042 /* Frameworks */,
+				05A29F3B17B23E3900E95042 /* Products */,
+			);
+			sourceTree = "<group>";
+		};
+		05A29F3B17B23E3900E95042 /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				05A29F3A17B23E3900E95042 /* LodingBar.app */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+		05A29F3C17B23E3900E95042 /* Frameworks */ = {
+			isa = PBXGroup;
+			children = (
+				05A29F6F17B2455700E95042 /* QuartzCore.framework */,
+				05A29F3D17B23E3900E95042 /* UIKit.framework */,
+				05A29F3F17B23E3900E95042 /* Foundation.framework */,
+				05A29F4117B23E3900E95042 /* CoreGraphics.framework */,
+			);
+			name = Frameworks;
+			sourceTree = "<group>";
+		};
+		05A29F4317B23E3900E95042 /* LodingBar */ = {
+			isa = PBXGroup;
+			children = (
+				05A29F6C17B23F6E00E95042 /* CirActivityIndicatorView.h */,
+				05A29F6D17B23F6E00E95042 /* CirActivityIndicatorView.m */,
+				05A29F6917B23F5900E95042 /* Circle.h */,
+				05A29F6A17B23F5900E95042 /* Circle.m */,
+				05A29F6017B23EA600E95042 /* WTStatusWindow.h */,
+				05A29F6117B23EA600E95042 /* WTStatusWindow.m */,
+				05A29F6217B23EA600E95042 /* WTStatusView.h */,
+				05A29F6317B23EA600E95042 /* WTStatusView.m */,
+				05A29F6417B23EA600E95042 /* WTStatusBar.h */,
+				05A29F6517B23EA600E95042 /* WTStatusBar.m */,
+				05A29F4C17B23E3900E95042 /* TaobanIdeAppDelegate.h */,
+				05A29F4D17B23E3900E95042 /* TaobanIdeAppDelegate.m */,
+				05A29F5517B23E3900E95042 /* MainStoryboard.storyboard */,
+				05A29F5817B23E3900E95042 /* TaobanIdeViewController.h */,
+				05A29F5917B23E3900E95042 /* TaobanIdeViewController.m */,
+				05A29F4417B23E3900E95042 /* Supporting Files */,
+			);
+			path = LodingBar;
+			sourceTree = "<group>";
+		};
+		05A29F4417B23E3900E95042 /* Supporting Files */ = {
+			isa = PBXGroup;
+			children = (
+				05A29F7117B24CCA00E95042 /* IMG_0710_x.jpg */,
+				05A29F4517B23E3900E95042 /* LodingBar-Info.plist */,
+				05A29F4617B23E3900E95042 /* InfoPlist.strings */,
+				05A29F4917B23E3900E95042 /* main.m */,
+				05A29F4B17B23E3900E95042 /* LodingBar-Prefix.pch */,
+				05A29F4F17B23E3900E95042 /* Default.png */,
+				05A29F5117B23E3900E95042 /* Default@2x.png */,
+				05A29F5317B23E3900E95042 /* Default-568h@2x.png */,
+			);
+			name = "Supporting Files";
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXNativeTarget section */
+		05A29F3917B23E3900E95042 /* LodingBar */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 05A29F5D17B23E3900E95042 /* Build configuration list for PBXNativeTarget "LodingBar" */;
+			buildPhases = (
+				05A29F3617B23E3900E95042 /* Sources */,
+				05A29F3717B23E3900E95042 /* Frameworks */,
+				05A29F3817B23E3900E95042 /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = LodingBar;
+			productName = LodingBar;
+			productReference = 05A29F3A17B23E3900E95042 /* LodingBar.app */;
+			productType = "com.apple.product-type.application";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		05A29F3217B23E3900E95042 /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				CLASSPREFIX = TaobanIde;
+				LastUpgradeCheck = 0460;
+				ORGANIZATIONNAME = "笑书的钢琴";
+			};
+			buildConfigurationList = 05A29F3517B23E3900E95042 /* Build configuration list for PBXProject "LodingBar" */;
+			compatibilityVersion = "Xcode 3.2";
+			developmentRegion = English;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+			);
+			mainGroup = 05A29F3117B23E3900E95042;
+			productRefGroup = 05A29F3B17B23E3900E95042 /* Products */;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				05A29F3917B23E3900E95042 /* LodingBar */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXResourcesBuildPhase section */
+		05A29F3817B23E3900E95042 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				05A29F4817B23E3900E95042 /* InfoPlist.strings in Resources */,
+				05A29F5017B23E3900E95042 /* Default.png in Resources */,
+				05A29F5217B23E3900E95042 /* Default@2x.png in Resources */,
+				05A29F5417B23E3900E95042 /* Default-568h@2x.png in Resources */,
+				05A29F5717B23E3900E95042 /* MainStoryboard.storyboard in Resources */,
+				05A29F7217B24CCA00E95042 /* IMG_0710_x.jpg in Resources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXResourcesBuildPhase section */
+
+/* Begin PBXSourcesBuildPhase section */
+		05A29F3617B23E3900E95042 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				05A29F4A17B23E3900E95042 /* main.m in Sources */,
+				05A29F4E17B23E3900E95042 /* TaobanIdeAppDelegate.m in Sources */,
+				05A29F5A17B23E3900E95042 /* TaobanIdeViewController.m in Sources */,
+				05A29F6617B23EA600E95042 /* WTStatusWindow.m in Sources */,
+				05A29F6717B23EA600E95042 /* WTStatusView.m in Sources */,
+				05A29F6817B23EA600E95042 /* WTStatusBar.m in Sources */,
+				05A29F6B17B23F5900E95042 /* Circle.m in Sources */,
+				05A29F6E17B23F6E00E95042 /* CirActivityIndicatorView.m in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin PBXVariantGroup section */
+		05A29F4617B23E3900E95042 /* InfoPlist.strings */ = {
+			isa = PBXVariantGroup;
+			children = (
+				05A29F4717B23E3900E95042 /* en */,
+			);
+			name = InfoPlist.strings;
+			sourceTree = "<group>";
+		};
+		05A29F5517B23E3900E95042 /* MainStoryboard.storyboard */ = {
+			isa = PBXVariantGroup;
+			children = (
+				05A29F5617B23E3900E95042 /* en */,
+			);
+			name = MainStoryboard.storyboard;
+			sourceTree = "<group>";
+		};
+/* End PBXVariantGroup section */
+
+/* Begin XCBuildConfiguration section */
+		05A29F5B17B23E3900E95042 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++0x";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				COPY_PHASE_STRIP = NO;
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				GCC_SYMBOLS_PRIVATE_EXTERN = NO;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 6.1;
+				ONLY_ACTIVE_ARCH = YES;
+				SDKROOT = iphoneos;
+			};
+			name = Debug;
+		};
+		05A29F5C17B23E3900E95042 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++0x";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				COPY_PHASE_STRIP = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 6.1;
+				OTHER_CFLAGS = "-DNS_BLOCK_ASSERTIONS=1";
+				SDKROOT = iphoneos;
+				VALIDATE_PRODUCT = YES;
+			};
+			name = Release;
+		};
+		05A29F5E17B23E3900E95042 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				GCC_PRECOMPILE_PREFIX_HEADER = YES;
+				GCC_PREFIX_HEADER = "LodingBar/LodingBar-Prefix.pch";
+				INFOPLIST_FILE = "LodingBar/LodingBar-Info.plist";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				WRAPPER_EXTENSION = app;
+			};
+			name = Debug;
+		};
+		05A29F5F17B23E3900E95042 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				GCC_PRECOMPILE_PREFIX_HEADER = YES;
+				GCC_PREFIX_HEADER = "LodingBar/LodingBar-Prefix.pch";
+				INFOPLIST_FILE = "LodingBar/LodingBar-Info.plist";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				WRAPPER_EXTENSION = app;
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		05A29F3517B23E3900E95042 /* Build configuration list for PBXProject "LodingBar" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				05A29F5B17B23E3900E95042 /* Debug */,
+				05A29F5C17B23E3900E95042 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		05A29F5D17B23E3900E95042 /* Build configuration list for PBXNativeTarget "LodingBar" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				05A29F5E17B23E3900E95042 /* Debug */,
+				05A29F5F17B23E3900E95042 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = 05A29F3217B23E3900E95042 /* Project object */;
+}

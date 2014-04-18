@@ -1,0 +1,285 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 46;
+	objects = {
+
+/* Begin PBXBuildFile section */
+		E36E185D177C0700006DE236 /* UIKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = E36E185C177C0700006DE236 /* UIKit.framework */; };
+		E36E185F177C0700006DE236 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = E36E185E177C0700006DE236 /* Foundation.framework */; };
+		E36E1861177C0700006DE236 /* CoreGraphics.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = E36E1860177C0700006DE236 /* CoreGraphics.framework */; };
+		E36E1867177C0700006DE236 /* InfoPlist.strings in Resources */ = {isa = PBXBuildFile; fileRef = E36E1865177C0700006DE236 /* InfoPlist.strings */; };
+		E36E1869177C0700006DE236 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = E36E1868177C0700006DE236 /* main.m */; };
+		E36E186D177C0700006DE236 /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = E36E186C177C0700006DE236 /* AppDelegate.m */; };
+		E36E186F177C0700006DE236 /* Default.png in Resources */ = {isa = PBXBuildFile; fileRef = E36E186E177C0700006DE236 /* Default.png */; };
+		E36E1871177C0700006DE236 /* Default@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = E36E1870177C0700006DE236 /* Default@2x.png */; };
+		E36E1873177C0700006DE236 /* Default-568h@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = E36E1872177C0700006DE236 /* Default-568h@2x.png */; };
+/* End PBXBuildFile section */
+
+/* Begin PBXFileReference section */
+		E36E1859177C0700006DE236 /* 淘宝状态栏.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "淘宝状态栏.app"; sourceTree = BUILT_PRODUCTS_DIR; };
+		E36E185C177C0700006DE236 /* UIKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = UIKit.framework; path = System/Library/Frameworks/UIKit.framework; sourceTree = SDKROOT; };
+		E36E185E177C0700006DE236 /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = System/Library/Frameworks/Foundation.framework; sourceTree = SDKROOT; };
+		E36E1860177C0700006DE236 /* CoreGraphics.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreGraphics.framework; path = System/Library/Frameworks/CoreGraphics.framework; sourceTree = SDKROOT; };
+		E36E1864177C0700006DE236 /* 淘宝状态栏-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = "淘宝状态栏-Info.plist"; sourceTree = "<group>"; };
+		E36E1866177C0700006DE236 /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/InfoPlist.strings; sourceTree = "<group>"; };
+		E36E1868177C0700006DE236 /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
+		E36E186A177C0700006DE236 /* 淘宝状态栏-Prefix.pch */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "淘宝状态栏-Prefix.pch"; sourceTree = "<group>"; };
+		E36E186B177C0700006DE236 /* AppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = AppDelegate.h; sourceTree = "<group>"; };
+		E36E186C177C0700006DE236 /* AppDelegate.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = AppDelegate.m; sourceTree = "<group>"; };
+		E36E186E177C0700006DE236 /* Default.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Default.png; sourceTree = "<group>"; };
+		E36E1870177C0700006DE236 /* Default@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Default@2x.png"; sourceTree = "<group>"; };
+		E36E1872177C0700006DE236 /* Default-568h@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Default-568h@2x.png"; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		E36E1856177C0700006DE236 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				E36E185D177C0700006DE236 /* UIKit.framework in Frameworks */,
+				E36E185F177C0700006DE236 /* Foundation.framework in Frameworks */,
+				E36E1861177C0700006DE236 /* CoreGraphics.framework in Frameworks */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		E36E1850177C0700006DE236 = {
+			isa = PBXGroup;
+			children = (
+				E36E1862177C0700006DE236 /* 淘宝状态栏 */,
+				E36E185B177C0700006DE236 /* Frameworks */,
+				E36E185A177C0700006DE236 /* Products */,
+			);
+			sourceTree = "<group>";
+		};
+		E36E185A177C0700006DE236 /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				E36E1859177C0700006DE236 /* 淘宝状态栏.app */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+		E36E185B177C0700006DE236 /* Frameworks */ = {
+			isa = PBXGroup;
+			children = (
+				E36E185C177C0700006DE236 /* UIKit.framework */,
+				E36E185E177C0700006DE236 /* Foundation.framework */,
+				E36E1860177C0700006DE236 /* CoreGraphics.framework */,
+			);
+			name = Frameworks;
+			sourceTree = "<group>";
+		};
+		E36E1862177C0700006DE236 /* 淘宝状态栏 */ = {
+			isa = PBXGroup;
+			children = (
+				E36E186B177C0700006DE236 /* AppDelegate.h */,
+				E36E186C177C0700006DE236 /* AppDelegate.m */,
+				E36E1863177C0700006DE236 /* Supporting Files */,
+			);
+			path = "淘宝状态栏";
+			sourceTree = "<group>";
+		};
+		E36E1863177C0700006DE236 /* Supporting Files */ = {
+			isa = PBXGroup;
+			children = (
+				E36E1864177C0700006DE236 /* 淘宝状态栏-Info.plist */,
+				E36E1865177C0700006DE236 /* InfoPlist.strings */,
+				E36E1868177C0700006DE236 /* main.m */,
+				E36E186A177C0700006DE236 /* 淘宝状态栏-Prefix.pch */,
+				E36E186E177C0700006DE236 /* Default.png */,
+				E36E1870177C0700006DE236 /* Default@2x.png */,
+				E36E1872177C0700006DE236 /* Default-568h@2x.png */,
+			);
+			name = "Supporting Files";
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXNativeTarget section */
+		E36E1858177C0700006DE236 /* 淘宝状态栏 */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = E36E187C177C0700006DE236 /* Build configuration list for PBXNativeTarget "淘宝状态栏" */;
+			buildPhases = (
+				E36E1855177C0700006DE236 /* Sources */,
+				E36E1856177C0700006DE236 /* Frameworks */,
+				E36E1857177C0700006DE236 /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = "淘宝状态栏";
+			productName = "淘宝状态栏";
+			productReference = E36E1859177C0700006DE236 /* 淘宝状态栏.app */;
+			productType = "com.apple.product-type.application";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		E36E1851177C0700006DE236 /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				LastUpgradeCheck = 0460;
+				ORGANIZATIONNAME = Jian;
+			};
+			buildConfigurationList = E36E1854177C0700006DE236 /* Build configuration list for PBXProject "淘宝状态栏" */;
+			compatibilityVersion = "Xcode 3.2";
+			developmentRegion = English;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+			);
+			mainGroup = E36E1850177C0700006DE236;
+			productRefGroup = E36E185A177C0700006DE236 /* Products */;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				E36E1858177C0700006DE236 /* 淘宝状态栏 */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXResourcesBuildPhase section */
+		E36E1857177C0700006DE236 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				E36E1867177C0700006DE236 /* InfoPlist.strings in Resources */,
+				E36E186F177C0700006DE236 /* Default.png in Resources */,
+				E36E1871177C0700006DE236 /* Default@2x.png in Resources */,
+				E36E1873177C0700006DE236 /* Default-568h@2x.png in Resources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXResourcesBuildPhase section */
+
+/* Begin PBXSourcesBuildPhase section */
+		E36E1855177C0700006DE236 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				E36E1869177C0700006DE236 /* main.m in Sources */,
+				E36E186D177C0700006DE236 /* AppDelegate.m in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin PBXVariantGroup section */
+		E36E1865177C0700006DE236 /* InfoPlist.strings */ = {
+			isa = PBXVariantGroup;
+			children = (
+				E36E1866177C0700006DE236 /* en */,
+			);
+			name = InfoPlist.strings;
+			sourceTree = "<group>";
+		};
+/* End PBXVariantGroup section */
+
+/* Begin XCBuildConfiguration section */
+		E36E187A177C0700006DE236 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++0x";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				COPY_PHASE_STRIP = NO;
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				GCC_SYMBOLS_PRIVATE_EXTERN = NO;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 6.1;
+				ONLY_ACTIVE_ARCH = YES;
+				SDKROOT = iphoneos;
+			};
+			name = Debug;
+		};
+		E36E187B177C0700006DE236 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++0x";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				COPY_PHASE_STRIP = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 6.1;
+				OTHER_CFLAGS = "-DNS_BLOCK_ASSERTIONS=1";
+				SDKROOT = iphoneos;
+				VALIDATE_PRODUCT = YES;
+			};
+			name = Release;
+		};
+		E36E187D177C0700006DE236 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				GCC_PRECOMPILE_PREFIX_HEADER = YES;
+				GCC_PREFIX_HEADER = "淘宝状态栏/淘宝状态栏-Prefix.pch";
+				INFOPLIST_FILE = "淘宝状态栏/淘宝状态栏-Info.plist";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				WRAPPER_EXTENSION = app;
+			};
+			name = Debug;
+		};
+		E36E187E177C0700006DE236 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				GCC_PRECOMPILE_PREFIX_HEADER = YES;
+				GCC_PREFIX_HEADER = "淘宝状态栏/淘宝状态栏-Prefix.pch";
+				INFOPLIST_FILE = "淘宝状态栏/淘宝状态栏-Info.plist";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				WRAPPER_EXTENSION = app;
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		E36E1854177C0700006DE236 /* Build configuration list for PBXProject "淘宝状态栏" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				E36E187A177C0700006DE236 /* Debug */,
+				E36E187B177C0700006DE236 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		E36E187C177C0700006DE236 /* Build configuration list for PBXNativeTarget "淘宝状态栏" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				E36E187D177C0700006DE236 /* Debug */,
+				E36E187E177C0700006DE236 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = E36E1851177C0700006DE236 /* Project object */;
+}
