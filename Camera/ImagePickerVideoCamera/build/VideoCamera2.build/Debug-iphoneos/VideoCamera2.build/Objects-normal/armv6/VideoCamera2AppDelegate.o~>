@@ -1,0 +1,2 @@
+/Users/mac/Documents/VideoCamera2副本/Classes/VideoCamera2AppDelegate.m: In function '-[VideoCamera2AppDelegate application:didFinishLaunchingWithOptions:]':
+/Users/mac/Documents/VideoCamera2副本/Classes/VideoCamera2AppDelegate.m:34: warning: format not a string literal and no format arguments

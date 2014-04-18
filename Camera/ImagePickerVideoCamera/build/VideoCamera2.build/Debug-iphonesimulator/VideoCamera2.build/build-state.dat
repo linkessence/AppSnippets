@@ -1,0 +1,617 @@
+TVideoCamera2
+v7
+r0
+t365393018.350681
+cCheck dependencies
+cProcessInfoPlistFile /Users/mac/Documents/VideoCamera2副本/build/Debug-iphonesimulator/VideoCamera2.app/Info.plist VideoCamera2-Info.plist
+cCompileXIB /Users/mac/Documents/VideoCamera2副本/MainWindow.xib
+cCompileXIB /Users/mac/Documents/VideoCamera2副本/Classes/VideoCamera.xib
+cProcessPCH /var/folders/V5/V50X+xwaFHGY7+C6k0EAv++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/VideoCamera2_Prefix-hgtdyllnuvyxrscleenxhmiyiziv/VideoCamera2_Prefix.pch.gch VideoCamera2_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/VideoCamera2.build/Debug-iphonesimulator/VideoCamera2.build/Objects-normal/i386/main.o /Users/mac/Documents/VideoCamera2副本/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/VideoCamera2.build/Debug-iphonesimulator/VideoCamera2.build/Objects-normal/i386/VideoCamera2AppDelegate.o /Users/mac/Documents/VideoCamera2副本/Classes/VideoCamera2AppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/VideoCamera2.build/Debug-iphonesimulator/VideoCamera2.build/Objects-normal/i386/VideoCamera.o /Users/mac/Documents/VideoCamera2副本/Classes/VideoCamera.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/VideoCamera2.build/Debug-iphonesimulator/VideoCamera2.build/Objects-normal/i386/FTPHelper.o /Users/mac/Documents/VideoCamera2副本/Classes/FTPHelper.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cLd /Users/mac/Documents/VideoCamera2副本/build/Debug-iphonesimulator/VideoCamera2.app/VideoCamera2 normal i386
+cGenerateDSYMFile /Users/mac/Documents/VideoCamera2副本/build/Debug-iphonesimulator/VideoCamera2.app.dSYM /Users/mac/Documents/VideoCamera2副本/build/Debug-iphonesimulator/VideoCamera2.app/VideoCamera2
+cTouch /Users/mac/Documents/VideoCamera2副本/build/Debug-iphonesimulator/VideoCamera2.app
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk
+c000000004F2B72A30000000000000110
+t1328247459
+s272
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/AVFoundation.framework/AVFoundation
+c000000004CC1288A00000000000F34A0
+t1287727242
+s996512
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/AVFoundation.framework/Headers/AVFoundation.h
+c000000004CC128840000000000000733
+t1287727236
+s1843
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/AssetsLibrary.framework/AssetsLibrary
+c000000004CC6583F00000000000106F0
+t1288067135
+s67312
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/AssetsLibrary.framework/Headers/AssetsLibrary.h
+c000000004CC6583B0000000000000134
+t1288067131
+s308
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/CFNetwork.framework/CFNetwork
+c000000004CC1224400000000001C3D40
+t1287725636
+s1850688
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/CFNetwork.framework/Headers/CFNetwork.h
+c000000004CC1221800000000000004CF
+t1287725592
+s1231
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004CC12246000000000029B310
+t1287725638
+s2732816
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/CoreGraphics.framework/Headers/CoreGraphics.h
+c000000004CC121DB00000000000004FE
+t1287725531
+s1278
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/CoreMedia.framework/CoreMedia
+c000000004CC127FC0000000000063DD0
+t1287727100
+s409040
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/CoreMedia.framework/Headers/CoreMedia.h
+c000000004CC127F400000000000001F4
+t1287727092
+s500
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/CoreTelephony.framework/CoreTelephony
+c000000004CC122BC00000000000C2CC0
+t1287725756
+s797888
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004CC1226D000000000029D5D0
+t1287725677
+s2741712
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004CC1225F0000000000001466
+t1287725663
+s5222
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/MobileCoreServices.framework/Headers/UTCoreTypes.h
+c000000004CC122CF000000000000520D
+t1287725775
+s21005
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/MobileCoreServices.framework/MobileCoreServices
+c000000004CC122D0000000000005BF20
+t1287725776
+s376608
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004CC1281F0000000000000AA1
+t1287727135
+s2721
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004CC12883000000000074D7B0
+t1287727235
+s7657392
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator5.0.sdk
+c000000004F2A59BE0000000000000110
+t1328175550
+s272
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator5.0.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004E72F1CC0000000000245480
+t1316155852
+s2380928
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator5.0.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004E72F2960000000000353830
+t1316156054
+s3487792
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator5.0.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004E72F28F0000000000001534
+t1316156047
+s5428
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator5.0.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004E78066A0000000000000BCB
+t1316488810
+s3019
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator5.0.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004E7806AB00000000008F7390
+t1316488875
+s9401232
+
+N/Users/mac/Documents/VideoCamera2/Classes/VideoCamera.h
+c000000004FD191ED00000000000003FD
+t1339134445
+s1021
+i<UIKit/UIKit.h>
+i<MobileCoreServices/UTCoreTypes.h>
+i<AVFoundation/AVFoundation.h>
+i<CoreMedia/CoreMedia.h>
+i<CoreGraphics/CoreGraphics.h>
+i<AssetsLibrary/AssetsLibrary.h>
+
+N/Users/mac/Documents/VideoCamera2/Classes/VideoCamera.m
+c000000004FD1926C0000000000001617
+t1339134572
+s5655
+i"VideoCamera.h"
+
+N/Users/mac/Documents/VideoCamera2/Classes/VideoCamera.xib
+c000000004FD045E200000000000078D1
+t1339049442
+s30929
+
+N/Users/mac/Documents/VideoCamera2/Classes/VideoCamera2AppDelegate.h
+c000000004FCC7F4C00000000000001C5
+t1338801996
+s453
+i<UIKit/UIKit.h>
+i"VideoCamera.h"
+
+N/Users/mac/Documents/VideoCamera2/Classes/VideoCamera2AppDelegate.m
+c000000004FCC7FCB0000000000000A59
+t1338802123
+s2649
+i"VideoCamera2AppDelegate.h"
+
+N/Users/mac/Documents/VideoCamera2/MainWindow.xib
+c000000004FCC7E210000000000002121
+t1338801697
+s8481
+
+N/Users/mac/Documents/VideoCamera2/VideoCamera2_Prefix.pch
+c000000004FCC7E2100000000000000C1
+t1338801697
+s193
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/Users/mac/Documents/VideoCamera2/build/Debug-iphonesimulator/VideoCamera2.app
+t1339134573
+s238
+
+N/Users/mac/Documents/VideoCamera2/build/Debug-iphonesimulator/VideoCamera2.app.dSYM
+t1339134573
+s102
+
+N/Users/mac/Documents/VideoCamera2/build/Debug-iphonesimulator/VideoCamera2.app/Info.plist
+t1339133649
+s611
+
+N/Users/mac/Documents/VideoCamera2/build/Debug-iphonesimulator/VideoCamera2.app/MainWindow.nib
+t1339133650
+s989
+
+N/Users/mac/Documents/VideoCamera2/build/Debug-iphonesimulator/VideoCamera2.app/PkgInfo
+t1339133649
+s8
+
+N/Users/mac/Documents/VideoCamera2/build/Debug-iphonesimulator/VideoCamera2.app/VideoCamera.nib
+t1339133650
+s2786
+
+N/Users/mac/Documents/VideoCamera2/build/Debug-iphonesimulator/VideoCamera2.app/VideoCamera2
+t1339134573
+s24796
+
+N/Users/mac/Documents/VideoCamera2/build/VideoCamera2.build/Debug-iphonesimulator/VideoCamera2.build/Objects-normal/i386/VideoCamera.o
+t1339134573
+s61728
+
+N/Users/mac/Documents/VideoCamera2/build/VideoCamera2.build/Debug-iphonesimulator/VideoCamera2.build/Objects-normal/i386/VideoCamera2.LinkFileList
+c000000004FD18ED10000000000000197
+t1339133649
+s407
+
+N/Users/mac/Documents/VideoCamera2/build/VideoCamera2.build/Debug-iphonesimulator/VideoCamera2.build/Objects-normal/i386/VideoCamera2AppDelegate.o
+t1339134448
+s53288
+
+N/Users/mac/Documents/VideoCamera2/build/VideoCamera2.build/Debug-iphonesimulator/VideoCamera2.build/Objects-normal/i386/main.o
+t1339133652
+s6292
+
+N/Users/mac/Documents/VideoCamera2/main.m
+c000000004FCC7E210000000000000173
+t1338801697
+s371
+i<UIKit/UIKit.h>
+
+N/Users/mac/Documents/VideoCamera2副本/Classes/FTPHelper.h
+c000000004FD6B7AA000000000000057A
+t1339471786
+s1402
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+i<CFNetwork/CFNetwork.h>
+
+N/Users/mac/Documents/VideoCamera2副本/Classes/FTPHelper.m
+c000000004FF2BC4000000000000088C3
+t1341307968
+s35011
+i"FTPHelper.h"
+
+N/Users/mac/Documents/VideoCamera2副本/Classes/VideoCamera.h
+c000000004FF2B4BF00000000000004EB
+t1341306047
+s1259
+i<UIKit/UIKit.h>
+i<MobileCoreServices/UTCoreTypes.h>
+i<AVFoundation/AVFoundation.h>
+i<CoreMedia/CoreMedia.h>
+i<CoreGraphics/CoreGraphics.h>
+i<AssetsLibrary/AssetsLibrary.h>
+i"FTPHelper.h"
+
+N/Users/mac/Documents/VideoCamera2副本/Classes/VideoCamera.m
+c000000004FF2BBF60000000000001D06
+t1341307894
+s7430
+i"VideoCamera.h"
+
+N/Users/mac/Documents/VideoCamera2副本/Classes/VideoCamera.xib
+c000000004FD045E200000000000078D1
+t1339049442
+s30929
+
+N/Users/mac/Documents/VideoCamera2副本/Classes/VideoCamera2AppDelegate.h
+c0000000050173C5800000000000001C5
+t1343700056
+s453
+i<UIKit/UIKit.h>
+i"VideoCamera.h"
+
+N/Users/mac/Documents/VideoCamera2副本/Classes/VideoCamera2AppDelegate.m
+c0000000050173CDA0000000000000AB9
+t1343700186
+s2745
+i"VideoCamera2AppDelegate.h"
+
+N/Users/mac/Documents/VideoCamera2副本/MainWindow.xib
+c000000004FCC7E210000000000002121
+t1338801697
+s8481
+
+N/Users/mac/Documents/VideoCamera2副本/VideoCamera2_Prefix.pch
+c000000004FCC7E2100000000000000C1
+t1338801697
+s193
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/Users/mac/Documents/VideoCamera2副本/build/Debug-iphonesimulator/VideoCamera2.app
+t1343700218
+s238
+
+N/Users/mac/Documents/VideoCamera2副本/build/Debug-iphonesimulator/VideoCamera2.app.dSYM
+t1343700218
+s102
+
+N/Users/mac/Documents/VideoCamera2副本/build/Debug-iphonesimulator/VideoCamera2.app/Info.plist
+t1339133649
+s611
+
+N/Users/mac/Documents/VideoCamera2副本/build/Debug-iphonesimulator/VideoCamera2.app/MainWindow.nib
+t1339133650
+s989
+
+N/Users/mac/Documents/VideoCamera2副本/build/Debug-iphonesimulator/VideoCamera2.app/PkgInfo
+t1339133649
+s8
+
+N/Users/mac/Documents/VideoCamera2副本/build/Debug-iphonesimulator/VideoCamera2.app/VideoCamera.nib
+t1339133650
+s2786
+
+N/Users/mac/Documents/VideoCamera2副本/build/Debug-iphonesimulator/VideoCamera2.app/VideoCamera2
+t1343700218
+s57360
+
+N/Users/mac/Documents/VideoCamera2副本/build/VideoCamera2.build/Debug-iphonesimulator/VideoCamera2.build/Objects-normal/i386/FTPHelper.o
+t1343700218
+s63080
+
+N/Users/mac/Documents/VideoCamera2副本/build/VideoCamera2.build/Debug-iphonesimulator/VideoCamera2.build/Objects-normal/i386/VideoCamera.o
+t1343700217
+s68328
+
+N/Users/mac/Documents/VideoCamera2副本/build/VideoCamera2.build/Debug-iphonesimulator/VideoCamera2.build/Objects-normal/i386/VideoCamera2.LinkFileList
+c000000004FF2945E0000000000000233
+t1341297758
+s563
+
+N/Users/mac/Documents/VideoCamera2副本/build/VideoCamera2.build/Debug-iphonesimulator/VideoCamera2.build/Objects-normal/i386/VideoCamera2AppDelegate.o
+t1343700217
+s53584
+
+N/Users/mac/Documents/VideoCamera2副本/build/VideoCamera2.build/Debug-iphonesimulator/VideoCamera2.build/Objects-normal/i386/main.o
+t1341297758
+s6304
+
+N/Users/mac/Documents/VideoCamera2副本/main.m
+c000000004FCC7E210000000000000173
+t1338801697
+s371
+i<UIKit/UIKit.h>
+
+N/var/folders/V5/V50X+xwaFHGY7+C6k0EAv++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/VideoCamera2_Prefix-fxatpxccjltdgkczuyhsfqjnvygw/VideoCamera2_Prefix.pch.gch
+t1339133652
+s15453392
+
+N/var/folders/V5/V50X+xwaFHGY7+C6k0EAv++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/VideoCamera2_Prefix-hgtdyllnuvyxrscleenxhmiyiziv/VideoCamera2_Prefix.pch.gch
+t1341297758
+s15453392
+
+N/var/folders/V5/V50X+xwaFHGY7+C6k0EAv++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/VideoCamera2_Prefix-hhviiabodielozfvnbgljgivexdx/VideoCamera2_Prefix.pch.gch
+t1338801876
+s18039792
+
+NVideoCamera2-Info.plist
+c000000004FCC7E21000000000000038D
+t1338801697
+s909
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies365393016#365393016#0(0"0(0#1#0"8618759648#0"0#
+
+CCompileC build/VideoCamera2.build/Debug-iphonesimulator/VideoCamera2.build/Objects-normal/i386/FTPHelper.o /Users/mac/Documents/VideoCamera2副本/Classes/FTPHelper.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s365393017.886801
+e365393018.042174
+r1
+xCompileC
+xbuild/VideoCamera2.build/Debug-iphonesimulator/VideoCamera2.build/Objects-normal/i386/FTPHelper.o
+x/Users/mac/Documents/VideoCamera2副本/Classes/FTPHelper.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+o/Users/mac/Documents/VideoCamera2副本/Classes/FTPHelper.m: In function 'MyDirectoryListingCallBack':
+o/Users/mac/Documents/VideoCamera2副本/Classes/FTPHelper.m:180: warning: format '%d' expects type 'int', but argument 3 has type 'CFIndex'
+o/Users/mac/Documents/VideoCamera2副本/Classes/FTPHelper.m:187: warning: format '%d' expects type 'int', but argument 3 has type 'CFStreamEventType'
+o/Users/mac/Documents/VideoCamera2副本/Classes/FTPHelper.m: In function 'MyUploadCallBack':
+o/Users/mac/Documents/VideoCamera2副本/Classes/FTPHelper.m:439: warning: format '%d' expects type 'int', but argument 3 has type 'CFIndex'
+o/Users/mac/Documents/VideoCamera2副本/Classes/FTPHelper.m:447: warning: format '%d' expects type 'int', but argument 3 has type 'CFStreamEventType'
+o/Users/mac/Documents/VideoCamera2副本/Classes/FTPHelper.m: In function 'MyDownloadCallBack':
+o/Users/mac/Documents/VideoCamera2副本/Classes/FTPHelper.m:712: warning: format '%d' expects type 'int', but argument 3 has type 'CFIndex'
+o/Users/mac/Documents/VideoCamera2副本/Classes/FTPHelper.m:720: warning: format '%d' expects type 'int', but argument 3 has type 'CFStreamEventType'
+lSLF07#2@67"Compile /Users/mac/Documents/VideoCamera2副本/Classes/FTPHelper.m365393017#365393018#0(1161"/Users/mac/Documents/VideoCamera2副本/Classes/FTPHelper.m: In function 'MyDirectoryListingCallBack':/Users/mac/Documents/VideoCamera2副本/Classes/FTPHelper.m:180: warning: format '%d' expects type 'int', but argument 3 has type 'CFIndex'/Users/mac/Documents/VideoCamera2副本/Classes/FTPHelper.m:187: warning: format '%d' expects type 'int', but argument 3 has type 'CFStreamEventType'/Users/mac/Documents/VideoCamera2副本/Classes/FTPHelper.m: In function 'MyUploadCallBack':/Users/mac/Documents/VideoCamera2副本/Classes/FTPHelper.m:439: warning: format '%d' expects type 'int', but argument 3 has type 'CFIndex'/Users/mac/Documents/VideoCamera2副本/Classes/FTPHelper.m:447: warning: format '%d' expects type 'int', but argument 3 has type 'CFStreamEventType'/Users/mac/Documents/VideoCamera2副本/Classes/FTPHelper.m: In function 'MyDownloadCallBack':/Users/mac/Documents/VideoCamera2副本/Classes/FTPHelper.m:712: warning: format '%d' expects type 'int', but argument 3 has type 'CFIndex'/Users/mac/Documents/VideoCamera2副本/Classes/FTPHelper.m:720: warning: format '%d' expects type 'int', but argument 3 has type 'CFStreamEventType'6(22@65"Format '%d' expects type 'int', but argument 3 has type 'CFIndex'365393017#99#136#0(6@59"/Users/mac/Documents/VideoCamera2副本/Classes/FTPHelper.m363000768#180#0#180#0#56"format '*' expects type '*', but argument * has type '*'0(22@75"Format '%d' expects type 'int', but argument 3 has type 'CFStreamEventType'365393017#235#146#0(6@59"/Users/mac/Documents/VideoCamera2副本/Classes/FTPHelper.m363000768#187#0#187#0#56"format '*' expects type '*', but argument * has type '*'0(22@65"Format '%d' expects type 'int', but argument 3 has type 'CFIndex'365393017#470#136#0(6@59"/Users/mac/Documents/VideoCamera2副本/Classes/FTPHelper.m363000768#439#0#439#0#56"format '*' expects type '*', but argument * has type '*'0(22@75"Format '%d' expects type 'int', but argument 3 has type 'CFStreamEventType'365393017#606#146#0(6@59"/Users/mac/Documents/VideoCamera2副本/Classes/FTPHelper.m363000768#447#0#447#0#56"format '*' expects type '*', but argument * has type '*'0(22@65"Format '%d' expects type 'int', but argument 3 has type 'CFIndex'365393017#843#136#0(6@59"/Users/mac/Documents/VideoCamera2副本/Classes/FTPHelper.m363000768#712#0#712#0#56"format '*' expects type '*', but argument * has type '*'0(22@75"Format '%d' expects type 'int', but argument 3 has type 'CFStreamEventType'365393017#979#146#0(6@59"/Users/mac/Documents/VideoCamera2副本/Classes/FTPHelper.m363000768#720#0#720#0#56"format '*' expects type '*', but argument * has type '*'0(0#0#59"/Users/mac/Documents/VideoCamera2副本/Classes/FTPHelper.m8590349056#2043"    cd /Users/mac/Documents/VideoCamera2副本    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/mac/Documents/VideoCamera2副本/build/VideoCamera2.build/Debug-iphonesimulator/VideoCamera2.build/VideoCamera2-generated-files.hmap -I/Users/mac/Documents/VideoCamera2副本/build/VideoCamera2.build/Debug-iphonesimulator/VideoCamera2.build/VideoCamera2-own-target-headers.hmap -I/Users/mac/Documents/VideoCamera2副本/build/VideoCamera2.build/Debug-iphonesimulator/VideoCamera2.build/VideoCamera2-all-target-headers.hmap -iquote /Users/mac/Documents/VideoCamera2副本/build/VideoCamera2.build/Debug-iphonesimulator/VideoCamera2.build/VideoCamera2-project-headers.hmap -F/Users/mac/Documents/VideoCamera2副本/build/Debug-iphonesimulator -I/Users/mac/Documents/VideoCamera2副本/build/Debug-iphonesimulator/include -I/Users/mac/Documents/VideoCamera2副本/build/VideoCamera2.build/Debug-iphonesimulator/VideoCamera2.build/DerivedSources/i386 -I/Users/mac/Documents/VideoCamera2副本/build/VideoCamera2.build/Debug-iphonesimulator/VideoCamera2.build/DerivedSources -include /var/folders/V5/V50X+xwaFHGY7+C6k0EAv++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/VideoCamera2_Prefix-hgtdyllnuvyxrscleenxhmiyiziv/VideoCamera2_Prefix.pch -c /Users/mac/Documents/VideoCamera2副本/Classes/FTPHelper.m -o /Users/mac/Documents/VideoCamera2副本/build/VideoCamera2.build/Debug-iphonesimulator/VideoCamera2.build/Objects-normal/i386/FTPHelper.o0#
+
+CCompileC build/VideoCamera2.build/Debug-iphonesimulator/VideoCamera2.build/Objects-normal/i386/VideoCamera.o /Users/mac/Documents/VideoCamera2/Classes/VideoCamera.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s360827373.137188
+e360827373.323760
+r1
+xCompileC
+xbuild/VideoCamera2.build/Debug-iphonesimulator/VideoCamera2.build/Objects-normal/i386/VideoCamera.o
+x/Users/mac/Documents/VideoCamera2/Classes/VideoCamera.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+o/Users/mac/Documents/VideoCamera2/Classes/VideoCamera.m: In function '-[VideoCamera startCamera:]':
+o/Users/mac/Documents/VideoCamera2/Classes/VideoCamera.m:63: warning: class 'VideoCamera' does not implement the 'UINavigationControllerDelegate' protocol
+o/Users/mac/Documents/VideoCamera2/Classes/VideoCamera.m: In function '-[VideoCamera selectFile:]':
+o/Users/mac/Documents/VideoCamera2/Classes/VideoCamera.m:106: warning: class 'VideoCamera' does not implement the 'UINavigationControllerDelegate' protocol
+o/Users/mac/Documents/VideoCamera2/Classes/VideoCamera.m: In function '-[VideoCamera sendFile:]':
+o/Users/mac/Documents/VideoCamera2/Classes/VideoCamera.m:128: warning: 'VideoCamera' may not respond to '-sendFileByPath:'
+o/Users/mac/Documents/VideoCamera2/Classes/VideoCamera.m:128: warning: (Messages without a matching method signature
+o/Users/mac/Documents/VideoCamera2/Classes/VideoCamera.m:128: warning: will be assumed to return 'id' and accept
+o/Users/mac/Documents/VideoCamera2/Classes/VideoCamera.m:128: warning: '...' as arguments.)
+o/Users/mac/Documents/VideoCamera2/Classes/VideoCamera.m: In function '-[VideoCamera imagePickerController:didFinishPickingMediaWithInfo:]':
+o/Users/mac/Documents/VideoCamera2/Classes/VideoCamera.m:153: warning: unused variable 'mediaData'
+lSLF07#2@63"Compile /Users/mac/Documents/VideoCamera2/Classes/VideoCamera.m360827373#360827373#0(1284"/Users/mac/Documents/VideoCamera2/Classes/VideoCamera.m: In function '-[VideoCamera startCamera:]':/Users/mac/Documents/VideoCamera2/Classes/VideoCamera.m:63: warning: class 'VideoCamera' does not implement the 'UINavigationControllerDelegate' protocol/Users/mac/Documents/VideoCamera2/Classes/VideoCamera.m: In function '-[VideoCamera selectFile:]':/Users/mac/Documents/VideoCamera2/Classes/VideoCamera.m:106: warning: class 'VideoCamera' does not implement the 'UINavigationControllerDelegate' protocol/Users/mac/Documents/VideoCamera2/Classes/VideoCamera.m: In function '-[VideoCamera sendFile:]':/Users/mac/Documents/VideoCamera2/Classes/VideoCamera.m:128: warning: 'VideoCamera' may not respond to '-sendFileByPath:'/Users/mac/Documents/VideoCamera2/Classes/VideoCamera.m:128: warning: (Messages without a matching method signature/Users/mac/Documents/VideoCamera2/Classes/VideoCamera.m:128: warning: will be assumed to return 'id' and accept/Users/mac/Documents/VideoCamera2/Classes/VideoCamera.m:128: warning: '...' as arguments.)/Users/mac/Documents/VideoCamera2/Classes/VideoCamera.m: In function '-[VideoCamera imagePickerController:didFinishPickingMediaWithInfo:]':/Users/mac/Documents/VideoCamera2/Classes/VideoCamera.m:153: warning: unused variable 'mediaData'5(22@84"Class 'VideoCamera' does not implement the 'UINavigationControllerDelegate' protocol360827373#100#154#0(6@55"/Users/mac/Documents/VideoCamera2/Classes/VideoCamera.m360827372#63#0#63#0#45"class '*' does not implement the '*' protocol0(22@84"Class 'VideoCamera' does not implement the 'UINavigationControllerDelegate' protocol360827373#353#155#0(6@55"/Users/mac/Documents/VideoCamera2/Classes/VideoCamera.m360827372#106#0#106#0#45"class '*' does not implement the '*' protocol0(22@51"'VideoCamera' may not respond to '-sendFileByPath:'360827373#605#122#0(6@55"/Users/mac/Documents/VideoCamera2/Classes/VideoCamera.m360827372#128#0#128#0#26"'*' may not respond to '*'0(13@108"(Messages without a matching method signature will be assumed to return 'id' and accept '...' as arguments.)360827373#727#116#0(6@55"/Users/mac/Documents/VideoCamera2/Classes/VideoCamera.m360827372#128#0#128#0#0"0(22@27"Unused variable 'mediaData'360827373#1186#98#0(6@55"/Users/mac/Documents/VideoCamera2/Classes/VideoCamera.m360827372#153#0#153#0#19"unused variable '*'0(0#0#55"/Users/mac/Documents/VideoCamera2/Classes/VideoCamera.m8616360128#1981"    cd /Users/mac/Documents/VideoCamera2    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/mac/Documents/VideoCamera2/build/VideoCamera2.build/Debug-iphonesimulator/VideoCamera2.build/VideoCamera2-generated-files.hmap -I/Users/mac/Documents/VideoCamera2/build/VideoCamera2.build/Debug-iphonesimulator/VideoCamera2.build/VideoCamera2-own-target-headers.hmap -I/Users/mac/Documents/VideoCamera2/build/VideoCamera2.build/Debug-iphonesimulator/VideoCamera2.build/VideoCamera2-all-target-headers.hmap -iquote /Users/mac/Documents/VideoCamera2/build/VideoCamera2.build/Debug-iphonesimulator/VideoCamera2.build/VideoCamera2-project-headers.hmap -F/Users/mac/Documents/VideoCamera2/build/Debug-iphonesimulator -I/Users/mac/Documents/VideoCamera2/build/Debug-iphonesimulator/include -I/Users/mac/Documents/VideoCamera2/build/VideoCamera2.build/Debug-iphonesimulator/VideoCamera2.build/DerivedSources/i386 -I/Users/mac/Documents/VideoCamera2/build/VideoCamera2.build/Debug-iphonesimulator/VideoCamera2.build/DerivedSources -include /var/folders/V5/V50X+xwaFHGY7+C6k0EAv++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/VideoCamera2_Prefix-fxatpxccjltdgkczuyhsfqjnvygw/VideoCamera2_Prefix.pch -c /Users/mac/Documents/VideoCamera2/Classes/VideoCamera.m -o /Users/mac/Documents/VideoCamera2/build/VideoCamera2.build/Debug-iphonesimulator/VideoCamera2.build/Objects-normal/i386/VideoCamera.o0#
+
+CCompileC build/VideoCamera2.build/Debug-iphonesimulator/VideoCamera2.build/Objects-normal/i386/VideoCamera.o /Users/mac/Documents/VideoCamera2副本/Classes/VideoCamera.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s365393016.958138
+e365393017.903487
+r1
+xCompileC
+xbuild/VideoCamera2.build/Debug-iphonesimulator/VideoCamera2.build/Objects-normal/i386/VideoCamera.o
+x/Users/mac/Documents/VideoCamera2副本/Classes/VideoCamera.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+o/Users/mac/Documents/VideoCamera2副本/Classes/VideoCamera.m: In function '-[VideoCamera startCamera:]':
+o/Users/mac/Documents/VideoCamera2副本/Classes/VideoCamera.m:72: warning: class 'VideoCamera' does not implement the 'UINavigationControllerDelegate' protocol
+o/Users/mac/Documents/VideoCamera2副本/Classes/VideoCamera.m: In function '-[VideoCamera selectFile:]':
+o/Users/mac/Documents/VideoCamera2副本/Classes/VideoCamera.m:113: warning: class 'VideoCamera' does not implement the 'UINavigationControllerDelegate' protocol
+lSLF07#2@69"Compile /Users/mac/Documents/VideoCamera2副本/Classes/VideoCamera.m365393016#365393017#0(532"/Users/mac/Documents/VideoCamera2副本/Classes/VideoCamera.m: In function '-[VideoCamera startCamera:]':/Users/mac/Documents/VideoCamera2副本/Classes/VideoCamera.m:72: warning: class 'VideoCamera' does not implement the 'UINavigationControllerDelegate' protocol/Users/mac/Documents/VideoCamera2副本/Classes/VideoCamera.m: In function '-[VideoCamera selectFile:]':/Users/mac/Documents/VideoCamera2副本/Classes/VideoCamera.m:113: warning: class 'VideoCamera' does not implement the 'UINavigationControllerDelegate' protocol2(22@84"Class 'VideoCamera' does not implement the 'UINavigationControllerDelegate' protocol365393017#102#156#0(6@61"/Users/mac/Documents/VideoCamera2副本/Classes/VideoCamera.m363000694#72#0#72#0#45"class '*' does not implement the '*' protocol0(22@84"Class 'VideoCamera' does not implement the 'UINavigationControllerDelegate' protocol365393017#359#157#0(6@61"/Users/mac/Documents/VideoCamera2副本/Classes/VideoCamera.m363000694#113#0#113#0#45"class '*' does not implement the '*' protocol0(0#0#61"/Users/mac/Documents/VideoCamera2副本/Classes/VideoCamera.m8618729056#2047"    cd /Users/mac/Documents/VideoCamera2副本    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/mac/Documents/VideoCamera2副本/build/VideoCamera2.build/Debug-iphonesimulator/VideoCamera2.build/VideoCamera2-generated-files.hmap -I/Users/mac/Documents/VideoCamera2副本/build/VideoCamera2.build/Debug-iphonesimulator/VideoCamera2.build/VideoCamera2-own-target-headers.hmap -I/Users/mac/Documents/VideoCamera2副本/build/VideoCamera2.build/Debug-iphonesimulator/VideoCamera2.build/VideoCamera2-all-target-headers.hmap -iquote /Users/mac/Documents/VideoCamera2副本/build/VideoCamera2.build/Debug-iphonesimulator/VideoCamera2.build/VideoCamera2-project-headers.hmap -F/Users/mac/Documents/VideoCamera2副本/build/Debug-iphonesimulator -I/Users/mac/Documents/VideoCamera2副本/build/Debug-iphonesimulator/include -I/Users/mac/Documents/VideoCamera2副本/build/VideoCamera2.build/Debug-iphonesimulator/VideoCamera2.build/DerivedSources/i386 -I/Users/mac/Documents/VideoCamera2副本/build/VideoCamera2.build/Debug-iphonesimulator/VideoCamera2.build/DerivedSources -include /var/folders/V5/V50X+xwaFHGY7+C6k0EAv++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/VideoCamera2_Prefix-hgtdyllnuvyxrscleenxhmiyiziv/VideoCamera2_Prefix.pch -c /Users/mac/Documents/VideoCamera2副本/Classes/VideoCamera.m -o /Users/mac/Documents/VideoCamera2副本/build/VideoCamera2.build/Debug-iphonesimulator/VideoCamera2.build/Objects-normal/i386/VideoCamera.o0#
+
+CCompileC build/VideoCamera2.build/Debug-iphonesimulator/VideoCamera2.build/Objects-normal/i386/VideoCamera2AppDelegate.o /Users/mac/Documents/VideoCamera2/Classes/VideoCamera2AppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s360827248.429802
+e360827248.570398
+r1
+xCompileC
+xbuild/VideoCamera2.build/Debug-iphonesimulator/VideoCamera2.build/Objects-normal/i386/VideoCamera2AppDelegate.o
+x/Users/mac/Documents/VideoCamera2/Classes/VideoCamera2AppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@75"Compile /Users/mac/Documents/VideoCamera2/Classes/VideoCamera2AppDelegate.m360827248#360827248#0(0"0(0#0#67"/Users/mac/Documents/VideoCamera2/Classes/VideoCamera2AppDelegate.m7165020502491229184#2005"    cd /Users/mac/Documents/VideoCamera2    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/mac/Documents/VideoCamera2/build/VideoCamera2.build/Debug-iphonesimulator/VideoCamera2.build/VideoCamera2-generated-files.hmap -I/Users/mac/Documents/VideoCamera2/build/VideoCamera2.build/Debug-iphonesimulator/VideoCamera2.build/VideoCamera2-own-target-headers.hmap -I/Users/mac/Documents/VideoCamera2/build/VideoCamera2.build/Debug-iphonesimulator/VideoCamera2.build/VideoCamera2-all-target-headers.hmap -iquote /Users/mac/Documents/VideoCamera2/build/VideoCamera2.build/Debug-iphonesimulator/VideoCamera2.build/VideoCamera2-project-headers.hmap -F/Users/mac/Documents/VideoCamera2/build/Debug-iphonesimulator -I/Users/mac/Documents/VideoCamera2/build/Debug-iphonesimulator/include -I/Users/mac/Documents/VideoCamera2/build/VideoCamera2.build/Debug-iphonesimulator/VideoCamera2.build/DerivedSources/i386 -I/Users/mac/Documents/VideoCamera2/build/VideoCamera2.build/Debug-iphonesimulator/VideoCamera2.build/DerivedSources -include /var/folders/V5/V50X+xwaFHGY7+C6k0EAv++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/VideoCamera2_Prefix-fxatpxccjltdgkczuyhsfqjnvygw/VideoCamera2_Prefix.pch -c /Users/mac/Documents/VideoCamera2/Classes/VideoCamera2AppDelegate.m -o /Users/mac/Documents/VideoCamera2/build/VideoCamera2.build/Debug-iphonesimulator/VideoCamera2.build/Objects-normal/i386/VideoCamera2AppDelegate.o0#
+
+CCompileC build/VideoCamera2.build/Debug-iphonesimulator/VideoCamera2.build/Objects-normal/i386/VideoCamera2AppDelegate.o /Users/mac/Documents/VideoCamera2副本/Classes/VideoCamera2AppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s365393016.956898
+e365393017.886705
+r1
+xCompileC
+xbuild/VideoCamera2.build/Debug-iphonesimulator/VideoCamera2.build/Objects-normal/i386/VideoCamera2AppDelegate.o
+x/Users/mac/Documents/VideoCamera2副本/Classes/VideoCamera2AppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+o/Users/mac/Documents/VideoCamera2副本/Classes/VideoCamera2AppDelegate.m: In function '-[VideoCamera2AppDelegate application:didFinishLaunchingWithOptions:]':
+o/Users/mac/Documents/VideoCamera2副本/Classes/VideoCamera2AppDelegate.m:34: warning: format not a string literal and no format arguments
+lSLF07#2@81"Compile /Users/mac/Documents/VideoCamera2副本/Classes/VideoCamera2AppDelegate.m365393016#365393017#0(299"/Users/mac/Documents/VideoCamera2副本/Classes/VideoCamera2AppDelegate.m: In function '-[VideoCamera2AppDelegate application:didFinishLaunchingWithOptions:]':/Users/mac/Documents/VideoCamera2副本/Classes/VideoCamera2AppDelegate.m:34: warning: format not a string literal and no format arguments1(22@51"Format not a string literal and no format arguments365393017#156#135#0(6@73"/Users/mac/Documents/VideoCamera2副本/Classes/VideoCamera2AppDelegate.m365392986#34#0#34#0#51"format not a string literal and no format arguments0(0#0#73"/Users/mac/Documents/VideoCamera2副本/Classes/VideoCamera2AppDelegate.m8606383424#2071"    cd /Users/mac/Documents/VideoCamera2副本    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/mac/Documents/VideoCamera2副本/build/VideoCamera2.build/Debug-iphonesimulator/VideoCamera2.build/VideoCamera2-generated-files.hmap -I/Users/mac/Documents/VideoCamera2副本/build/VideoCamera2.build/Debug-iphonesimulator/VideoCamera2.build/VideoCamera2-own-target-headers.hmap -I/Users/mac/Documents/VideoCamera2副本/build/VideoCamera2.build/Debug-iphonesimulator/VideoCamera2.build/VideoCamera2-all-target-headers.hmap -iquote /Users/mac/Documents/VideoCamera2副本/build/VideoCamera2.build/Debug-iphonesimulator/VideoCamera2.build/VideoCamera2-project-headers.hmap -F/Users/mac/Documents/VideoCamera2副本/build/Debug-iphonesimulator -I/Users/mac/Documents/VideoCamera2副本/build/Debug-iphonesimulator/include -I/Users/mac/Documents/VideoCamera2副本/build/VideoCamera2.build/Debug-iphonesimulator/VideoCamera2.build/DerivedSources/i386 -I/Users/mac/Documents/VideoCamera2副本/build/VideoCamera2.build/Debug-iphonesimulator/VideoCamera2.build/DerivedSources -include /var/folders/V5/V50X+xwaFHGY7+C6k0EAv++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/VideoCamera2_Prefix-hgtdyllnuvyxrscleenxhmiyiziv/VideoCamera2_Prefix.pch -c /Users/mac/Documents/VideoCamera2副本/Classes/VideoCamera2AppDelegate.m -o /Users/mac/Documents/VideoCamera2副本/build/VideoCamera2.build/Debug-iphonesimulator/VideoCamera2.build/Objects-normal/i386/VideoCamera2AppDelegate.o0#
+
+CCompileC build/VideoCamera2.build/Debug-iphonesimulator/VideoCamera2.build/Objects-normal/i386/main.o /Users/mac/Documents/VideoCamera2/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s360826452.268015
+e360826452.325908
+r1
+xCompileC
+xbuild/VideoCamera2.build/Debug-iphonesimulator/VideoCamera2.build/Objects-normal/i386/main.o
+x/Users/mac/Documents/VideoCamera2/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@48"Compile /Users/mac/Documents/VideoCamera2/main.m360826452#360826452#0(0"0(0#0#40"/Users/mac/Documents/VideoCamera2/main.m8620980800#1959"    cd /Users/mac/Documents/VideoCamera2    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/mac/Documents/VideoCamera2/build/VideoCamera2.build/Debug-iphonesimulator/VideoCamera2.build/VideoCamera2-generated-files.hmap -I/Users/mac/Documents/VideoCamera2/build/VideoCamera2.build/Debug-iphonesimulator/VideoCamera2.build/VideoCamera2-own-target-headers.hmap -I/Users/mac/Documents/VideoCamera2/build/VideoCamera2.build/Debug-iphonesimulator/VideoCamera2.build/VideoCamera2-all-target-headers.hmap -iquote /Users/mac/Documents/VideoCamera2/build/VideoCamera2.build/Debug-iphonesimulator/VideoCamera2.build/VideoCamera2-project-headers.hmap -F/Users/mac/Documents/VideoCamera2/build/Debug-iphonesimulator -I/Users/mac/Documents/VideoCamera2/build/Debug-iphonesimulator/include -I/Users/mac/Documents/VideoCamera2/build/VideoCamera2.build/Debug-iphonesimulator/VideoCamera2.build/DerivedSources/i386 -I/Users/mac/Documents/VideoCamera2/build/VideoCamera2.build/Debug-iphonesimulator/VideoCamera2.build/DerivedSources -include /var/folders/V5/V50X+xwaFHGY7+C6k0EAv++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/VideoCamera2_Prefix-fxatpxccjltdgkczuyhsfqjnvygw/VideoCamera2_Prefix.pch -c /Users/mac/Documents/VideoCamera2/main.m -o /Users/mac/Documents/VideoCamera2/build/VideoCamera2.build/Debug-iphonesimulator/VideoCamera2.build/Objects-normal/i386/main.o0#
+
+CCompileC build/VideoCamera2.build/Debug-iphonesimulator/VideoCamera2.build/Objects-normal/i386/main.o /Users/mac/Documents/VideoCamera2副本/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s362990558.876830
+e362990558.933682
+r1
+xCompileC
+xbuild/VideoCamera2.build/Debug-iphonesimulator/VideoCamera2.build/Objects-normal/i386/main.o
+x/Users/mac/Documents/VideoCamera2副本/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@54"Compile /Users/mac/Documents/VideoCamera2副本/main.m362990558#362990558#0(0"0(0#0#46"/Users/mac/Documents/VideoCamera2副本/main.m8609118848#2025"    cd /Users/mac/Documents/VideoCamera2副本    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/mac/Documents/VideoCamera2副本/build/VideoCamera2.build/Debug-iphonesimulator/VideoCamera2.build/VideoCamera2-generated-files.hmap -I/Users/mac/Documents/VideoCamera2副本/build/VideoCamera2.build/Debug-iphonesimulator/VideoCamera2.build/VideoCamera2-own-target-headers.hmap -I/Users/mac/Documents/VideoCamera2副本/build/VideoCamera2.build/Debug-iphonesimulator/VideoCamera2.build/VideoCamera2-all-target-headers.hmap -iquote /Users/mac/Documents/VideoCamera2副本/build/VideoCamera2.build/Debug-iphonesimulator/VideoCamera2.build/VideoCamera2-project-headers.hmap -F/Users/mac/Documents/VideoCamera2副本/build/Debug-iphonesimulator -I/Users/mac/Documents/VideoCamera2副本/build/Debug-iphonesimulator/include -I/Users/mac/Documents/VideoCamera2副本/build/VideoCamera2.build/Debug-iphonesimulator/VideoCamera2.build/DerivedSources/i386 -I/Users/mac/Documents/VideoCamera2副本/build/VideoCamera2.build/Debug-iphonesimulator/VideoCamera2.build/DerivedSources -include /var/folders/V5/V50X+xwaFHGY7+C6k0EAv++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/VideoCamera2_Prefix-hgtdyllnuvyxrscleenxhmiyiziv/VideoCamera2_Prefix.pch -c /Users/mac/Documents/VideoCamera2副本/main.m -o /Users/mac/Documents/VideoCamera2副本/build/VideoCamera2.build/Debug-iphonesimulator/VideoCamera2.build/Objects-normal/i386/main.o0#
+
+CCompileXIB /Users/mac/Documents/VideoCamera2/Classes/VideoCamera.xib
+s360826449.618337
+e360826450.748126
+r1
+xCompileXIB
+x/Users/mac/Documents/VideoCamera2/Classes/VideoCamera.xib
+lSLF07#2@34"CompileXIB Classes/VideoCamera.xib360826449#360826450#0(0"0(0#0#57"/Users/mac/Documents/VideoCamera2/Classes/VideoCamera.xib8612342912#570"    cd /Users/mac/Documents/VideoCamera2    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.2    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/mac/Documents/VideoCamera2/build/Debug-iphonesimulator/VideoCamera2.app/VideoCamera.nib /Users/mac/Documents/VideoCamera2/Classes/VideoCamera.xib --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk0#
+
+CCompileXIB /Users/mac/Documents/VideoCamera2/MainWindow.xib
+s360826449.617473
+e360826450.667066
+r1
+xCompileXIB
+x/Users/mac/Documents/VideoCamera2/MainWindow.xib
+lSLF07#2@25"CompileXIB MainWindow.xib360826449#360826450#0(0"0(0#0#48"/Users/mac/Documents/VideoCamera2/MainWindow.xib28429440805568580#560"    cd /Users/mac/Documents/VideoCamera2    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.2    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/mac/Documents/VideoCamera2/build/Debug-iphonesimulator/VideoCamera2.app/MainWindow.nib /Users/mac/Documents/VideoCamera2/MainWindow.xib --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk0#
+
+CCompileXIB /Users/mac/Documents/VideoCamera2副本/Classes/VideoCamera.xib
+r0
+
+CCompileXIB /Users/mac/Documents/VideoCamera2副本/MainWindow.xib
+r0
+
+CGenerateDSYMFile /Users/mac/Documents/VideoCamera2/build/Debug-iphonesimulator/VideoCamera2.app.dSYM /Users/mac/Documents/VideoCamera2/build/Debug-iphonesimulator/VideoCamera2.app/VideoCamera2
+s360827373.349343
+e360827373.365854
+r1
+xGenerateDSYMFile
+x/Users/mac/Documents/VideoCamera2/build/Debug-iphonesimulator/VideoCamera2.app.dSYM
+x/Users/mac/Documents/VideoCamera2/build/Debug-iphonesimulator/VideoCamera2.app/VideoCamera2
+lSLF07#2@124"GenerateDSYMFile build/Debug-iphonesimulator/VideoCamera2.app.dSYM build/Debug-iphonesimulator/VideoCamera2.app/VideoCamera2360827373#360827373#0(0"0(0#0#91"/Users/mac/Documents/VideoCamera2/build/Debug-iphonesimulator/VideoCamera2.app/VideoCamera28615242048#383"    cd /Users/mac/Documents/VideoCamera2    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/dsymutil /Users/mac/Documents/VideoCamera2/build/Debug-iphonesimulator/VideoCamera2.app/VideoCamera2 -o /Users/mac/Documents/VideoCamera2/build/Debug-iphonesimulator/VideoCamera2.app.dSYM0#
+
+CGenerateDSYMFile /Users/mac/Documents/VideoCamera2副本/build/Debug-iphonesimulator/VideoCamera2.app.dSYM /Users/mac/Documents/VideoCamera2副本/build/Debug-iphonesimulator/VideoCamera2.app/VideoCamera2
+s365393018.206108
+e365393018.347968
+r1
+xGenerateDSYMFile
+x/Users/mac/Documents/VideoCamera2副本/build/Debug-iphonesimulator/VideoCamera2.app.dSYM
+x/Users/mac/Documents/VideoCamera2副本/build/Debug-iphonesimulator/VideoCamera2.app/VideoCamera2
+lSLF07#2@124"GenerateDSYMFile build/Debug-iphonesimulator/VideoCamera2.app.dSYM build/Debug-iphonesimulator/VideoCamera2.app/VideoCamera2365393018#365393018#0(0"0(0#0#97"/Users/mac/Documents/VideoCamera2副本/build/Debug-iphonesimulator/VideoCamera2.app/VideoCamera28618162720#401"    cd /Users/mac/Documents/VideoCamera2副本    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/dsymutil /Users/mac/Documents/VideoCamera2副本/build/Debug-iphonesimulator/VideoCamera2.app/VideoCamera2 -o /Users/mac/Documents/VideoCamera2副本/build/Debug-iphonesimulator/VideoCamera2.app.dSYM0#
+
+CLd /Users/mac/Documents/VideoCamera2/build/Debug-iphonesimulator/VideoCamera2.app/VideoCamera2 normal i386
+s360827373.323857
+e360827373.349226
+r1
+xLd
+x/Users/mac/Documents/VideoCamera2/build/Debug-iphonesimulator/VideoCamera2.app/VideoCamera2
+xnormal
+xi386
+lSLF07#2@96"Link /Users/mac/Documents/VideoCamera2/build/Debug-iphonesimulator/VideoCamera2.app/VideoCamera2360827373#360827373#0(0"0(0#0#0"8617195968#1000"    cd /Users/mac/Documents/VideoCamera2    setenv MACOSX_DEPLOYMENT_TARGET 10.6    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -arch i386 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -L/Users/mac/Documents/VideoCamera2/build/Debug-iphonesimulator -F/Users/mac/Documents/VideoCamera2/build/Debug-iphonesimulator -filelist /Users/mac/Documents/VideoCamera2/build/VideoCamera2.build/Debug-iphonesimulator/VideoCamera2.build/Objects-normal/i386/VideoCamera2.LinkFileList -mmacosx-version-min=10.6 -Xlinker -objc_abi_version -Xlinker 2 -framework Foundation -framework UIKit -framework CoreGraphics -framework MobileCoreServices -framework AVFoundation -framework CoreMedia -framework AssetsLibrary -o /Users/mac/Documents/VideoCamera2/build/Debug-iphonesimulator/VideoCamera2.app/VideoCamera20#
+
+CLd /Users/mac/Documents/VideoCamera2副本/build/Debug-iphonesimulator/VideoCamera2.app/VideoCamera2 normal i386
+s365393018.042271
+e365393018.206018
+r1
+xLd
+x/Users/mac/Documents/VideoCamera2副本/build/Debug-iphonesimulator/VideoCamera2.app/VideoCamera2
+xnormal
+xi386
+lSLF07#2@102"Link /Users/mac/Documents/VideoCamera2副本/build/Debug-iphonesimulator/VideoCamera2.app/VideoCamera2365393018#365393018#0(0"0(0#0#0"8597164448#1076"    cd /Users/mac/Documents/VideoCamera2副本    setenv MACOSX_DEPLOYMENT_TARGET 10.6    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -arch i386 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -L/Users/mac/Documents/VideoCamera2副本/build/Debug-iphonesimulator -F/Users/mac/Documents/VideoCamera2副本/build/Debug-iphonesimulator -filelist /Users/mac/Documents/VideoCamera2副本/build/VideoCamera2.build/Debug-iphonesimulator/VideoCamera2.build/Objects-normal/i386/VideoCamera2.LinkFileList -mmacosx-version-min=10.6 -Xlinker -objc_abi_version -Xlinker 2 -framework Foundation -framework UIKit -framework CoreGraphics -framework MobileCoreServices -framework AVFoundation -framework CoreMedia -framework AssetsLibrary -framework CFNetwork -framework CoreTelephony -o /Users/mac/Documents/VideoCamera2副本/build/Debug-iphonesimulator/VideoCamera2.app/VideoCamera20#
+
+CProcessInfoPlistFile /Users/mac/Documents/VideoCamera2/build/Debug-iphonesimulator/VideoCamera2.app/Info.plist VideoCamera2-Info.plist
+s360826449.613389
+e360826449.617368
+r1
+xProcessInfoPlistFile
+x/Users/mac/Documents/VideoCamera2/build/Debug-iphonesimulator/VideoCamera2.app/Info.plist
+xVideoCamera2-Info.plist
+lSLF07#2@31"Process VideoCamera2-Info.plist360826449#360826449#0(0"0(0#0#57"/Users/mac/Documents/VideoCamera2/VideoCamera2-Info.plist8614431808#479"    cd /Users/mac/Documents/VideoCamera2    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility VideoCamera2-Info.plist -genpkginfo /Users/mac/Documents/VideoCamera2/build/Debug-iphonesimulator/VideoCamera2.app/PkgInfo -expandbuildsettings -format binary -platform iphonesimulator -o /Users/mac/Documents/VideoCamera2/build/Debug-iphonesimulator/VideoCamera2.app/Info.plist0#
+
+CProcessInfoPlistFile /Users/mac/Documents/VideoCamera2副本/build/Debug-iphonesimulator/VideoCamera2.app/Info.plist VideoCamera2-Info.plist
+r0
+
+CProcessPCH /var/folders/V5/V50X+xwaFHGY7+C6k0EAv++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/VideoCamera2_Prefix-fxatpxccjltdgkczuyhsfqjnvygw/VideoCamera2_Prefix.pch.gch VideoCamera2_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+s360826450.748249
+e360826452.267573
+r1
+xProcessPCH
+x/var/folders/V5/V50X+xwaFHGY7+C6k0EAv++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/VideoCamera2_Prefix-fxatpxccjltdgkczuyhsfqjnvygw/VideoCamera2_Prefix.pch.gch
+xVideoCamera2_Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@34"Precompile VideoCamera2_Prefix.pch360826450#360826452#0(0"0(0#0#57"/Users/mac/Documents/VideoCamera2/VideoCamera2_Prefix.pch8621452768#1851"    cd /Users/mac/Documents/VideoCamera2    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/mac/Documents/VideoCamera2/build/VideoCamera2.build/Debug-iphonesimulator/VideoCamera2.build/VideoCamera2-generated-files.hmap -I/Users/mac/Documents/VideoCamera2/build/VideoCamera2.build/Debug-iphonesimulator/VideoCamera2.build/VideoCamera2-own-target-headers.hmap -I/Users/mac/Documents/VideoCamera2/build/VideoCamera2.build/Debug-iphonesimulator/VideoCamera2.build/VideoCamera2-all-target-headers.hmap -iquote /Users/mac/Documents/VideoCamera2/build/VideoCamera2.build/Debug-iphonesimulator/VideoCamera2.build/VideoCamera2-project-headers.hmap -F/Users/mac/Documents/VideoCamera2/build/Debug-iphonesimulator -I/Users/mac/Documents/VideoCamera2/build/Debug-iphonesimulator/include -I/Users/mac/Documents/VideoCamera2/build/VideoCamera2.build/Debug-iphonesimulator/VideoCamera2.build/DerivedSources/i386 -I/Users/mac/Documents/VideoCamera2/build/VideoCamera2.build/Debug-iphonesimulator/VideoCamera2.build/DerivedSources -c /Users/mac/Documents/VideoCamera2/VideoCamera2_Prefix.pch -o /var/folders/V5/V50X+xwaFHGY7+C6k0EAv++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/VideoCamera2_Prefix-fxatpxccjltdgkczuyhsfqjnvygw/VideoCamera2_Prefix.pch.gch0#
+
+CProcessPCH /var/folders/V5/V50X+xwaFHGY7+C6k0EAv++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/VideoCamera2_Prefix-hgtdyllnuvyxrscleenxhmiyiziv/VideoCamera2_Prefix.pch.gch VideoCamera2_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+s362990558.082406
+e362990558.876577
+r1
+xProcessPCH
+x/var/folders/V5/V50X+xwaFHGY7+C6k0EAv++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/VideoCamera2_Prefix-hgtdyllnuvyxrscleenxhmiyiziv/VideoCamera2_Prefix.pch.gch
+xVideoCamera2_Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@34"Precompile VideoCamera2_Prefix.pch362990558#362990558#0(0"0(0#0#63"/Users/mac/Documents/VideoCamera2副本/VideoCamera2_Prefix.pch8604509248#1911"    cd /Users/mac/Documents/VideoCamera2副本    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/mac/Documents/VideoCamera2副本/build/VideoCamera2.build/Debug-iphonesimulator/VideoCamera2.build/VideoCamera2-generated-files.hmap -I/Users/mac/Documents/VideoCamera2副本/build/VideoCamera2.build/Debug-iphonesimulator/VideoCamera2.build/VideoCamera2-own-target-headers.hmap -I/Users/mac/Documents/VideoCamera2副本/build/VideoCamera2.build/Debug-iphonesimulator/VideoCamera2.build/VideoCamera2-all-target-headers.hmap -iquote /Users/mac/Documents/VideoCamera2副本/build/VideoCamera2.build/Debug-iphonesimulator/VideoCamera2.build/VideoCamera2-project-headers.hmap -F/Users/mac/Documents/VideoCamera2副本/build/Debug-iphonesimulator -I/Users/mac/Documents/VideoCamera2副本/build/Debug-iphonesimulator/include -I/Users/mac/Documents/VideoCamera2副本/build/VideoCamera2.build/Debug-iphonesimulator/VideoCamera2.build/DerivedSources/i386 -I/Users/mac/Documents/VideoCamera2副本/build/VideoCamera2.build/Debug-iphonesimulator/VideoCamera2.build/DerivedSources -c /Users/mac/Documents/VideoCamera2副本/VideoCamera2_Prefix.pch -o /var/folders/V5/V50X+xwaFHGY7+C6k0EAv++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/VideoCamera2_Prefix-hgtdyllnuvyxrscleenxhmiyiziv/VideoCamera2_Prefix.pch.gch0#
+
+CProcessPCH /var/folders/V5/V50X+xwaFHGY7+C6k0EAv++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/VideoCamera2_Prefix-hhviiabodielozfvnbgljgivexdx/VideoCamera2_Prefix.pch.gch VideoCamera2_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+s360494674.931229
+e360494676.459959
+r1
+xProcessPCH
+x/var/folders/V5/V50X+xwaFHGY7+C6k0EAv++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/VideoCamera2_Prefix-hhviiabodielozfvnbgljgivexdx/VideoCamera2_Prefix.pch.gch
+xVideoCamera2_Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@34"Precompile VideoCamera2_Prefix.pch360494674#360494676#0(0"0(0#0#57"/Users/mac/Documents/VideoCamera2/VideoCamera2_Prefix.pch8610072800#1851"    cd /Users/mac/Documents/VideoCamera2    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator5.0.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=50000 -iquote /Users/mac/Documents/VideoCamera2/build/VideoCamera2.build/Debug-iphonesimulator/VideoCamera2.build/VideoCamera2-generated-files.hmap -I/Users/mac/Documents/VideoCamera2/build/VideoCamera2.build/Debug-iphonesimulator/VideoCamera2.build/VideoCamera2-own-target-headers.hmap -I/Users/mac/Documents/VideoCamera2/build/VideoCamera2.build/Debug-iphonesimulator/VideoCamera2.build/VideoCamera2-all-target-headers.hmap -iquote /Users/mac/Documents/VideoCamera2/build/VideoCamera2.build/Debug-iphonesimulator/VideoCamera2.build/VideoCamera2-project-headers.hmap -F/Users/mac/Documents/VideoCamera2/build/Debug-iphonesimulator -I/Users/mac/Documents/VideoCamera2/build/Debug-iphonesimulator/include -I/Users/mac/Documents/VideoCamera2/build/VideoCamera2.build/Debug-iphonesimulator/VideoCamera2.build/DerivedSources/i386 -I/Users/mac/Documents/VideoCamera2/build/VideoCamera2.build/Debug-iphonesimulator/VideoCamera2.build/DerivedSources -c /Users/mac/Documents/VideoCamera2/VideoCamera2_Prefix.pch -o /var/folders/V5/V50X+xwaFHGY7+C6k0EAv++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/VideoCamera2_Prefix-hhviiabodielozfvnbgljgivexdx/VideoCamera2_Prefix.pch.gch0#
+
+CTouch /Users/mac/Documents/VideoCamera2/build/Debug-iphonesimulator/VideoCamera2.app
+s360827373.365942
+e360827373.368424
+r1
+xTouch
+x/Users/mac/Documents/VideoCamera2/build/Debug-iphonesimulator/VideoCamera2.app
+lSLF07#2@84"Touch /Users/mac/Documents/VideoCamera2/build/Debug-iphonesimulator/VideoCamera2.app360827373#360827373#0(0"0(0#0#0"8619493184#273"    cd /Users/mac/Documents/VideoCamera2    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c /Users/mac/Documents/VideoCamera2/build/Debug-iphonesimulator/VideoCamera2.app0#
+
+CTouch /Users/mac/Documents/VideoCamera2副本/build/Debug-iphonesimulator/VideoCamera2.app
+s365393018.348057
+e365393018.350640
+r1
+xTouch
+x/Users/mac/Documents/VideoCamera2副本/build/Debug-iphonesimulator/VideoCamera2.app
+lSLF07#2@90"Touch /Users/mac/Documents/VideoCamera2副本/build/Debug-iphonesimulator/VideoCamera2.app365393018#365393018#0(0"0(0#0#0"8618060704#285"    cd /Users/mac/Documents/VideoCamera2副本    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c /Users/mac/Documents/VideoCamera2副本/build/Debug-iphonesimulator/VideoCamera2.app0#
+

@@ -1,0 +1,9 @@
+/Users/mac/Documents/VideoCamera2副本/Classes/FTPHelper.m: In function 'MyDirectoryListingCallBack':
+/Users/mac/Documents/VideoCamera2副本/Classes/FTPHelper.m:180: warning: format '%d' expects type 'int', but argument 3 has type 'CFIndex'
+/Users/mac/Documents/VideoCamera2副本/Classes/FTPHelper.m:187: warning: format '%d' expects type 'int', but argument 3 has type 'CFStreamEventType'
+/Users/mac/Documents/VideoCamera2副本/Classes/FTPHelper.m: In function 'MyUploadCallBack':
+/Users/mac/Documents/VideoCamera2副本/Classes/FTPHelper.m:439: warning: format '%d' expects type 'int', but argument 3 has type 'CFIndex'
+/Users/mac/Documents/VideoCamera2副本/Classes/FTPHelper.m:447: warning: format '%d' expects type 'int', but argument 3 has type 'CFStreamEventType'
+/Users/mac/Documents/VideoCamera2副本/Classes/FTPHelper.m: In function 'MyDownloadCallBack':
+/Users/mac/Documents/VideoCamera2副本/Classes/FTPHelper.m:712: warning: format '%d' expects type 'int', but argument 3 has type 'CFIndex'
+/Users/mac/Documents/VideoCamera2副本/Classes/FTPHelper.m:720: warning: format '%d' expects type 'int', but argument 3 has type 'CFStreamEventType'

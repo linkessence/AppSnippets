@@ -1,0 +1,1218 @@
+TVideoCamera2
+v7
+r0
+t363000697.951412
+cCheck dependencies
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk
+c000000004CC7DC9E0000000000000110
+t1288166558
+s272
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/Entitlements.plist
+c000000004CB3DFCF00000000000001A7
+t1286856655
+s423
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/ResourceRules.plist
+c000000004CB3DFCF00000000000001E5
+t1286856655
+s485
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/System/Library/Frameworks/AVFoundation.framework/AVFoundation
+c000000004CC11C42000000000020BF30
+t1287724098
+s2146096
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/System/Library/Frameworks/AVFoundation.framework/Headers/AVFoundation.h
+c000000004CC11C240000000000000733
+t1287724068
+s1843
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/System/Library/Frameworks/AssetsLibrary.framework/AssetsLibrary
+c000000004CC12CA3000000000001E560
+t1287728291
+s124256
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/System/Library/Frameworks/AssetsLibrary.framework/Headers/AssetsLibrary.h
+c000000004CC12C9F0000000000000134
+t1287728287
+s308
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/System/Library/Frameworks/CFNetwork.framework/CFNetwork
+c000000004CC10EEE00000000002C9710
+t1287720686
+s2922256
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/System/Library/Frameworks/CFNetwork.framework/Headers/CFNetwork.h
+c000000004CC10EAD00000000000004CF
+t1287720621
+s1231
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004CC10EF500000000003532B0
+t1287720693
+s3486384
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/System/Library/Frameworks/CoreGraphics.framework/Headers/CoreGraphics.h
+c000000004CC10DCA00000000000004FE
+t1287720394
+s1278
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/System/Library/Frameworks/CoreMedia.framework/CoreMedia
+c000000004CC110B500000000000E44B0
+t1287721141
+s935088
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/System/Library/Frameworks/CoreMedia.framework/Headers/CoreMedia.h
+c000000004CC110A700000000000001F4
+t1287721127
+s500
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/System/Library/Frameworks/CoreTelephony.framework/CoreTelephony
+c000000004CC110670000000000100240
+t1287721063
+s1049152
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004CC10F4700000000003E1F20
+t1287720775
+s4071200
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004CC10F1C0000000000001466
+t1287720732
+s5222
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/System/Library/Frameworks/MobileCoreServices.framework/Headers/UTCoreTypes.h
+c000000004CC11068000000000000520D
+t1287721064
+s21005
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/System/Library/Frameworks/MobileCoreServices.framework/MobileCoreServices
+c000000004CC110680000000000094AF0
+t1287721064
+s609008
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004CC11AE60000000000000AA1
+t1287723750
+s2721
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004CC11B750000000000C769F0
+t1287723893
+s13068784
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS5.0.sdk
+c000000004E7840290000000000000110
+t1316503593
+s272
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS5.0.sdk/ResourceRules.plist
+c000000004E5C595800000000000001E5
+t1314675032
+s485
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS5.0.sdk/System/Library/Frameworks/AVFoundation.framework/AVFoundation
+c000000004E7807DB000000000015F8A0
+t1316489179
+s1439904
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS5.0.sdk/System/Library/Frameworks/AVFoundation.framework/Headers/AVFoundation.h
+c000000004E7807D300000000000007FF
+t1316489171
+s2047
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS5.0.sdk/System/Library/Frameworks/AssetsLibrary.framework/AssetsLibrary
+c000000004E780C9F0000000000018680
+t1316490399
+s99968
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS5.0.sdk/System/Library/Frameworks/AssetsLibrary.framework/Headers/AssetsLibrary.h
+c000000004E780C9D0000000000000134
+t1316490397
+s308
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS5.0.sdk/System/Library/Frameworks/CFNetwork.framework/CFNetwork
+c000000004E72F307000000000032AC00
+t1316156167
+s3320832
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS5.0.sdk/System/Library/Frameworks/CFNetwork.framework/Headers/CFNetwork.h
+c000000004E72F2C500000000000004CF
+t1316156101
+s1231
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS5.0.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004E72F28700000000003AB0A0
+t1316156039
+s3846304
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS5.0.sdk/System/Library/Frameworks/CoreGraphics.framework/Headers/CoreGraphics.h
+c000000004E72F1AC00000000000004FE
+t1316155820
+s1278
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS5.0.sdk/System/Library/Frameworks/CoreMedia.framework/CoreMedia
+c000000004E78069100000000000748C0
+t1316488849
+s477376
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS5.0.sdk/System/Library/Frameworks/CoreMedia.framework/Headers/CoreMedia.h
+c000000004E78068900000000000001F9
+t1316488841
+s505
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS5.0.sdk/System/Library/Frameworks/CoreTelephony.framework/CoreTelephony
+c000000004E72F47D000000000008CA70
+t1316156541
+s576112
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS5.0.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004E72F3440000000000529540
+t1316156228
+s5412160
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS5.0.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004E72F3370000000000001534
+t1316156215
+s5428
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS5.0.sdk/System/Library/Frameworks/MobileCoreServices.framework/Headers/UTCoreTypes.h
+c000000004E72F557000000000000520D
+t1316156759
+s21005
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS5.0.sdk/System/Library/Frameworks/MobileCoreServices.framework/MobileCoreServices
+c000000004E72F558000000000006E530
+t1316156760
+s451888
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS5.0.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004E7808770000000000000BCB
+t1316489335
+s3019
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS5.0.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004E7808C7000000000078BE50
+t1316489415
+s7913040
+
+N/Users/mac/Documents/VideoCamera2/Classes/AppDelegate.h
+c000000004C3505B60000000000000E47
+t1278543286
+s3655
+i<UIKit/UIKit.h>
+
+N/Users/mac/Documents/VideoCamera2/Classes/AppDelegate.m
+c000000004FD050660000000000002DFE
+t1339052134
+s11774
+i"AppDelegate.h"
+
+N/Users/mac/Documents/VideoCamera2/Classes/FTPHelper.h
+c000000004FD6B7AA000000000000057A
+t1339471786
+s1402
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+i<CFNetwork/CFNetwork.h>
+
+N/Users/mac/Documents/VideoCamera2/Classes/FTPHelper.m
+c000000004FD6B7C500000000000088C7
+t1339471813
+s35015
+i"FTPHelper.h"
+
+N/Users/mac/Documents/VideoCamera2/Classes/FTPHelper.mm
+c000000004FD59927000000000000792C
+t1339398439
+s31020
+i"FTPHelper.h"
+
+N/Users/mac/Documents/VideoCamera2/Classes/VideoCamera.h
+c000000004FD6B9C800000000000004EB
+t1339472328
+s1259
+i<UIKit/UIKit.h>
+i<MobileCoreServices/UTCoreTypes.h>
+i<AVFoundation/AVFoundation.h>
+i<CoreMedia/CoreMedia.h>
+i<CoreGraphics/CoreGraphics.h>
+i<AssetsLibrary/AssetsLibrary.h>
+i"FTPHelper.h"
+
+N/Users/mac/Documents/VideoCamera2/Classes/VideoCamera.m
+c000000004FD7EDD70000000000001D23
+t1339551191
+s7459
+i"VideoCamera.h"
+
+N/Users/mac/Documents/VideoCamera2/Classes/VideoCamera.xib
+c000000004FD045E200000000000078D1
+t1339049442
+s30929
+
+N/Users/mac/Documents/VideoCamera2/Classes/VideoCamera2AppDelegate.h
+c000000004FCC7F4C00000000000001C5
+t1338801996
+s453
+i<UIKit/UIKit.h>
+i"VideoCamera.h"
+
+N/Users/mac/Documents/VideoCamera2/Classes/VideoCamera2AppDelegate.m
+c000000004FCC7FCB0000000000000A59
+t1338802123
+s2649
+i"VideoCamera2AppDelegate.h"
+
+N/Users/mac/Documents/VideoCamera2/MainWindow.xib
+c000000004FCC7E210000000000002121
+t1338801697
+s8481
+
+N/Users/mac/Documents/VideoCamera2/VideoCamera2_Prefix.pch
+c000000004FCC7E2100000000000000C1
+t1338801697
+s193
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/Users/mac/Documents/VideoCamera2/build/Debug-iphoneos/VideoCamera2.app
+t1339473512
+s374
+
+N/Users/mac/Documents/VideoCamera2/build/Debug-iphoneos/VideoCamera2.app.dSYM
+t1339473512
+s102
+
+N/Users/mac/Documents/VideoCamera2/build/Debug-iphoneos/VideoCamera2.app/Info.plist
+t1339038004
+s801
+
+N/Users/mac/Documents/VideoCamera2/build/Debug-iphoneos/VideoCamera2.app/MainWindow.nib
+t1339038005
+s989
+
+N/Users/mac/Documents/VideoCamera2/build/Debug-iphoneos/VideoCamera2.app/PkgInfo
+t1339038004
+s8
+
+N/Users/mac/Documents/VideoCamera2/build/Debug-iphoneos/VideoCamera2.app/ResourceRules.plist
+t1339038004
+s485
+
+N/Users/mac/Documents/VideoCamera2/build/Debug-iphoneos/VideoCamera2.app/VideoCamera.nib
+t1339049459
+s2788
+
+N/Users/mac/Documents/VideoCamera2/build/Debug-iphoneos/VideoCamera2.app/VideoCamera2
+t1339473512
+s128640
+
+N/Users/mac/Documents/VideoCamera2/build/Debug-iphoneos/VideoCamera2.app/embedded.mobileprovision
+t1339038008
+s9316
+
+N/Users/mac/Documents/VideoCamera2/build/VideoCamera2.build/Debug-iphoneos/VideoCamera2.build/Objects-normal/armv6/AppDelegate.o
+t2
+s0
+
+N/Users/mac/Documents/VideoCamera2/build/VideoCamera2.build/Debug-iphoneos/VideoCamera2.build/Objects-normal/armv6/FTPHelper.o
+t1339471814
+s64152
+
+N/Users/mac/Documents/VideoCamera2/build/VideoCamera2.build/Debug-iphoneos/VideoCamera2.build/Objects-normal/armv6/VideoCamera.o
+t1339473512
+s66684
+
+N/Users/mac/Documents/VideoCamera2/build/VideoCamera2.build/Debug-iphoneos/VideoCamera2.build/Objects-normal/armv6/VideoCamera2
+t1339473512
+s57168
+
+N/Users/mac/Documents/VideoCamera2/build/VideoCamera2.build/Debug-iphoneos/VideoCamera2.build/Objects-normal/armv6/VideoCamera2.LinkFileList
+c000000004FD1B4280000000000000203
+t1339143208
+s515
+
+N/Users/mac/Documents/VideoCamera2/build/VideoCamera2.build/Debug-iphoneos/VideoCamera2.build/Objects-normal/armv6/VideoCamera2AppDelegate.o
+t1339472332
+s53012
+
+N/Users/mac/Documents/VideoCamera2/build/VideoCamera2.build/Debug-iphoneos/VideoCamera2.build/Objects-normal/armv6/main.o
+t1339038007
+s6436
+
+N/Users/mac/Documents/VideoCamera2/build/VideoCamera2.build/Debug-iphoneos/VideoCamera2.build/Objects-normal/armv7/AppDelegate.o
+t2
+s0
+
+N/Users/mac/Documents/VideoCamera2/build/VideoCamera2.build/Debug-iphoneos/VideoCamera2.build/Objects-normal/armv7/FTPHelper.o
+t1339471814
+s60532
+
+N/Users/mac/Documents/VideoCamera2/build/VideoCamera2.build/Debug-iphoneos/VideoCamera2.build/Objects-normal/armv7/VideoCamera.o
+t1339473512
+s66004
+
+N/Users/mac/Documents/VideoCamera2/build/VideoCamera2.build/Debug-iphoneos/VideoCamera2.build/Objects-normal/armv7/VideoCamera2
+t1339473512
+s52932
+
+N/Users/mac/Documents/VideoCamera2/build/VideoCamera2.build/Debug-iphoneos/VideoCamera2.build/Objects-normal/armv7/VideoCamera2.LinkFileList
+c000000004FD1B4280000000000000203
+t1339143208
+s515
+
+N/Users/mac/Documents/VideoCamera2/build/VideoCamera2.build/Debug-iphoneos/VideoCamera2.build/Objects-normal/armv7/VideoCamera2AppDelegate.o
+t1339472332
+s52928
+
+N/Users/mac/Documents/VideoCamera2/build/VideoCamera2.build/Debug-iphoneos/VideoCamera2.build/Objects-normal/armv7/main.o
+t1339038008
+s6420
+
+N/Users/mac/Documents/VideoCamera2/build/VideoCamera2.build/Debug-iphoneos/VideoCamera2.build/VideoCamera2.xcent
+t1339038008
+s430
+
+N/Users/mac/Documents/VideoCamera2/main.m
+c000000004FCC7E210000000000000173
+t1338801697
+s371
+i<UIKit/UIKit.h>
+
+N/Users/mac/Documents/VideoCamera2副本/Classes/FTPHelper.h
+c000000004FD6B7AA000000000000057A
+t1339471786
+s1402
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+i<CFNetwork/CFNetwork.h>
+
+N/Users/mac/Documents/VideoCamera2副本/Classes/FTPHelper.m
+c000000004FF2BC4000000000000088C3
+t1341307968
+s35011
+i"FTPHelper.h"
+
+N/Users/mac/Documents/VideoCamera2副本/Classes/VideoCamera.h
+c000000004FF2B4BF00000000000004EB
+t1341306047
+s1259
+i<UIKit/UIKit.h>
+i<MobileCoreServices/UTCoreTypes.h>
+i<AVFoundation/AVFoundation.h>
+i<CoreMedia/CoreMedia.h>
+i<CoreGraphics/CoreGraphics.h>
+i<AssetsLibrary/AssetsLibrary.h>
+i"FTPHelper.h"
+
+N/Users/mac/Documents/VideoCamera2副本/Classes/VideoCamera.m
+c000000004FF2BBF60000000000001D06
+t1341307894
+s7430
+i"VideoCamera.h"
+
+N/Users/mac/Documents/VideoCamera2副本/Classes/VideoCamera.xib
+c000000004FD045E200000000000078D1
+t1339049442
+s30929
+
+N/Users/mac/Documents/VideoCamera2副本/Classes/VideoCamera2AppDelegate.h
+c0000000050173FF200000000000001E0
+t1343700978
+s480
+i<UIKit/UIKit.h>
+i"VideoCamera.h"
+
+N/Users/mac/Documents/VideoCamera2副本/Classes/VideoCamera2AppDelegate.m
+c0000000050173FFA0000000000000B00
+t1343700986
+s2816
+i"VideoCamera2AppDelegate.h"
+
+N/Users/mac/Documents/VideoCamera2副本/MainWindow.xib
+c000000004FCC7E210000000000002121
+t1338801697
+s8481
+
+N/Users/mac/Documents/VideoCamera2副本/VideoCamera2_Prefix.pch
+c000000004FCC7E2100000000000000C1
+t1338801697
+s193
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/Users/mac/Documents/VideoCamera2副本/build/Debug-iphoneos/VideoCamera2.app
+t1341307897
+s374
+
+N/Users/mac/Documents/VideoCamera2副本/build/Debug-iphoneos/VideoCamera2.app.dSYM
+t1341307897
+s102
+
+N/Users/mac/Documents/VideoCamera2副本/build/Debug-iphoneos/VideoCamera2.app/Info.plist
+t1339038004
+s801
+
+N/Users/mac/Documents/VideoCamera2副本/build/Debug-iphoneos/VideoCamera2.app/MainWindow.nib
+t1339038005
+s989
+
+N/Users/mac/Documents/VideoCamera2副本/build/Debug-iphoneos/VideoCamera2.app/PkgInfo
+t1339038004
+s8
+
+N/Users/mac/Documents/VideoCamera2副本/build/Debug-iphoneos/VideoCamera2.app/ResourceRules.plist
+t1339038004
+s485
+
+N/Users/mac/Documents/VideoCamera2副本/build/Debug-iphoneos/VideoCamera2.app/VideoCamera.nib
+t1339049459
+s2788
+
+N/Users/mac/Documents/VideoCamera2副本/build/Debug-iphoneos/VideoCamera2.app/VideoCamera2
+t1341307897
+s133104
+
+N/Users/mac/Documents/VideoCamera2副本/build/Debug-iphoneos/VideoCamera2.app/embedded.mobileprovision
+t1339038008
+s9316
+
+N/Users/mac/Documents/VideoCamera2副本/build/VideoCamera2.build/Debug-iphoneos/VideoCamera2.build/Objects-normal/armv6/FTPHelper.o
+t1341307496
+s64492
+
+N/Users/mac/Documents/VideoCamera2副本/build/VideoCamera2.build/Debug-iphoneos/VideoCamera2.build/Objects-normal/armv6/VideoCamera.o
+t1341307897
+s66548
+
+N/Users/mac/Documents/VideoCamera2副本/build/VideoCamera2.build/Debug-iphoneos/VideoCamera2.build/Objects-normal/armv6/VideoCamera2
+t1341307897
+s57496
+
+N/Users/mac/Documents/VideoCamera2副本/build/VideoCamera2.build/Debug-iphoneos/VideoCamera2.build/Objects-normal/armv6/VideoCamera2.LinkFileList
+c000000004FF29450000000000000021B
+t1341297744
+s539
+
+N/Users/mac/Documents/VideoCamera2副本/build/VideoCamera2.build/Debug-iphoneos/VideoCamera2.build/Objects-normal/armv6/VideoCamera2AppDelegate.o
+t1341306050
+s53024
+
+N/Users/mac/Documents/VideoCamera2副本/build/VideoCamera2.build/Debug-iphoneos/VideoCamera2.build/Objects-normal/armv6/main.o
+t1341297747
+s6448
+
+N/Users/mac/Documents/VideoCamera2副本/build/VideoCamera2.build/Debug-iphoneos/VideoCamera2.build/Objects-normal/armv7/FTPHelper.o
+t1341307495
+s60824
+
+N/Users/mac/Documents/VideoCamera2副本/build/VideoCamera2.build/Debug-iphoneos/VideoCamera2.build/Objects-normal/armv7/VideoCamera.o
+t1341307897
+s65872
+
+N/Users/mac/Documents/VideoCamera2副本/build/VideoCamera2.build/Debug-iphoneos/VideoCamera2.build/Objects-normal/armv7/VideoCamera2
+t1341307897
+s57356
+
+N/Users/mac/Documents/VideoCamera2副本/build/VideoCamera2.build/Debug-iphoneos/VideoCamera2.build/Objects-normal/armv7/VideoCamera2.LinkFileList
+c000000004FF29450000000000000021B
+t1341297744
+s539
+
+N/Users/mac/Documents/VideoCamera2副本/build/VideoCamera2.build/Debug-iphoneos/VideoCamera2.build/Objects-normal/armv7/VideoCamera2AppDelegate.o
+t1341306051
+s52940
+
+N/Users/mac/Documents/VideoCamera2副本/build/VideoCamera2.build/Debug-iphoneos/VideoCamera2.build/Objects-normal/armv7/main.o
+t1341297748
+s6432
+
+N/Users/mac/Documents/VideoCamera2副本/build/VideoCamera2.build/Debug-iphoneos/VideoCamera2.build/VideoCamera2.xcent
+t1339038008
+s430
+
+N/Users/mac/Documents/VideoCamera2副本/main.m
+c000000004FCC7E210000000000000173
+t1338801697
+s371
+i<UIKit/UIKit.h>
+
+N/Users/mac/Library/MobileDevice/Provisioning Profiles/658CED48-411E-41AD-A945-4830E130A428.mobileprovision
+c000000004FCC18A00000000000002464
+t1338775712
+s9316
+
+N/Users/mac/Library/MobileDevice/Provisioning Profiles/AB1BD49F-FDE3-43E5-9FB0-6FAFB30A7BED.mobileprovision
+c00000000500F4B3000000000000025CC
+t1343179568
+s9676
+
+N/var/folders/V5/V50X+xwaFHGY7+C6k0EAv++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/VideoCamera2_Prefix-bumjmbqocftbgjejulmcfrglzlmg/VideoCamera2_Prefix.pch.gch
+t1339398345
+s11048552
+
+N/var/folders/V5/V50X+xwaFHGY7+C6k0EAv++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/VideoCamera2_Prefix-dettwycgysarxnajqdelaurplpvl/VideoCamera2_Prefix.pch.gch
+t1341297747
+s9983704
+
+N/var/folders/V5/V50X+xwaFHGY7+C6k0EAv++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/VideoCamera2_Prefix-eadbrvzdsfjznmgwlavbblsfttgi/VideoCamera2_Prefix.pch.gch
+t2
+s0
+
+N/var/folders/V5/V50X+xwaFHGY7+C6k0EAv++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/VideoCamera2_Prefix-enjcldjhazvdoabubwnbthcfzwui/VideoCamera2_Prefix.pch.gch
+t1339038007
+s10446552
+
+N/var/folders/V5/V50X+xwaFHGY7+C6k0EAv++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/VideoCamera2_Prefix-fhnwycpwzigewuaxabnttrysatht/VideoCamera2_Prefix.pch.gch
+t1339398345
+s10585704
+
+N/var/folders/V5/V50X+xwaFHGY7+C6k0EAv++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/VideoCamera2_Prefix-fpxnjcruudyhbmbaeeucsvobaene/VideoCamera2_Prefix.pch.gch
+t1339038007
+s9983704
+
+N/var/folders/V5/V50X+xwaFHGY7+C6k0EAv++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/VideoCamera2_Prefix-fxcrysixxvnnmmcikyqxjinuodpy/VideoCamera2_Prefix.pch.gch
+t2
+s0
+
+N/var/folders/V5/V50X+xwaFHGY7+C6k0EAv++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/VideoCamera2_Prefix-fymqgjwmkqsfzmbdmaqdazetkhjd/VideoCamera2_Prefix.pch.gch
+t1341297747
+s10446552
+
+NVideoCamera2-Info.plist
+c000000004FCC7E21000000000000038D
+t1338801697
+s909
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies365393191#365393191#0(99"[BEROR]Code Sign error: Provisioning profile '658CED48-411E-41AD-A945-4830E130A428' can't be found1(4@91"Code Sign error: Provisioning profile '658CED48-411E-41AD-A945-4830E130A428' can't be found365393191#18446744073709551615#0#0(1@0"0(0#1#0"8619766912#0"0#
+
+CCodeSign /Users/mac/Documents/VideoCamera2/build/Debug-iphoneos/VideoCamera2.app
+s361166312.460468
+e361166312.645255
+r1
+xCodeSign
+x/Users/mac/Documents/VideoCamera2/build/Debug-iphoneos/VideoCamera2.app
+lSLF07#2@46"CodeSign build/Debug-iphoneos/VideoCamera2.app361166312#361166312#0(0"0(0#0#71"/Users/mac/Documents/VideoCamera2/build/Debug-iphoneos/VideoCamera2.app8621943904#649"    cd /Users/mac/Documents/VideoCamera2    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    setenv _CODESIGN_ALLOCATE_ /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/codesign_allocate    /usr/bin/codesign -f -s "iPhone Developer: Gao Hong (HLY39935FA)" --resource-rules=/Users/mac/Documents/VideoCamera2/build/Debug-iphoneos/VideoCamera2.app/ResourceRules.plist --entitlements /Users/mac/Documents/VideoCamera2/build/VideoCamera2.build/Debug-iphoneos/VideoCamera2.build/VideoCamera2.xcent /Users/mac/Documents/VideoCamera2/build/Debug-iphoneos/VideoCamera2.app0#
+
+CCodeSign /Users/mac/Documents/VideoCamera2副本/build/Debug-iphoneos/VideoCamera2.app
+s363000697.758290
+e363000697.951375
+r1
+xCodeSign
+x/Users/mac/Documents/VideoCamera2副本/build/Debug-iphoneos/VideoCamera2.app
+lSLF07#2@46"CodeSign build/Debug-iphoneos/VideoCamera2.app363000697#363000697#0(0"0(0#0#77"/Users/mac/Documents/VideoCamera2副本/build/Debug-iphoneos/VideoCamera2.app8624407488#673"    cd /Users/mac/Documents/VideoCamera2副本    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    setenv _CODESIGN_ALLOCATE_ /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/codesign_allocate    /usr/bin/codesign -f -s "iPhone Developer: Gao Hong (HLY39935FA)" --resource-rules=/Users/mac/Documents/VideoCamera2副本/build/Debug-iphoneos/VideoCamera2.app/ResourceRules.plist --entitlements /Users/mac/Documents/VideoCamera2副本/build/VideoCamera2.build/Debug-iphoneos/VideoCamera2.build/VideoCamera2.xcent /Users/mac/Documents/VideoCamera2副本/build/Debug-iphoneos/VideoCamera2.app0#
+
+CCompileC build/VideoCamera2.build/Debug-iphoneos/VideoCamera2.build/Objects-normal/armv6/AppDelegate.o /Users/mac/Documents/VideoCamera2/Classes/AppDelegate.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/VideoCamera2.build/Debug-iphoneos/VideoCamera2.build/Objects-normal/armv6/FTPHelper.o /Users/mac/Documents/VideoCamera2/Classes/FTPHelper.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+s361164614.634127
+e361164614.954321
+r1
+xCompileC
+xbuild/VideoCamera2.build/Debug-iphoneos/VideoCamera2.build/Objects-normal/armv6/FTPHelper.o
+x/Users/mac/Documents/VideoCamera2/Classes/FTPHelper.m
+xnormal
+xarmv6
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+o/Users/mac/Documents/VideoCamera2/Classes/FTPHelper.m: In function 'MyDirectoryListingCallBack':
+o/Users/mac/Documents/VideoCamera2/Classes/FTPHelper.m:180: warning: format '%d' expects type 'int', but argument 3 has type 'CFIndex'
+o/Users/mac/Documents/VideoCamera2/Classes/FTPHelper.m:187: warning: format '%d' expects type 'int', but argument 3 has type 'CFStreamEventType'
+o/Users/mac/Documents/VideoCamera2/Classes/FTPHelper.m: In function 'MyUploadCallBack':
+o/Users/mac/Documents/VideoCamera2/Classes/FTPHelper.m:439: warning: format '%d' expects type 'int', but argument 3 has type 'CFIndex'
+o/Users/mac/Documents/VideoCamera2/Classes/FTPHelper.m:447: warning: format '%d' expects type 'int', but argument 3 has type 'CFStreamEventType'
+o/Users/mac/Documents/VideoCamera2/Classes/FTPHelper.m: In function 'MyDownloadCallBack':
+o/Users/mac/Documents/VideoCamera2/Classes/FTPHelper.m:713: warning: format '%d' expects type 'int', but argument 3 has type 'CFIndex'
+o/Users/mac/Documents/VideoCamera2/Classes/FTPHelper.m:721: warning: format '%d' expects type 'int', but argument 3 has type 'CFStreamEventType'
+lSLF07#2@61"Compile /Users/mac/Documents/VideoCamera2/Classes/FTPHelper.m361164614#361164614#0(1107"/Users/mac/Documents/VideoCamera2/Classes/FTPHelper.m: In function 'MyDirectoryListingCallBack':/Users/mac/Documents/VideoCamera2/Classes/FTPHelper.m:180: warning: format '%d' expects type 'int', but argument 3 has type 'CFIndex'/Users/mac/Documents/VideoCamera2/Classes/FTPHelper.m:187: warning: format '%d' expects type 'int', but argument 3 has type 'CFStreamEventType'/Users/mac/Documents/VideoCamera2/Classes/FTPHelper.m: In function 'MyUploadCallBack':/Users/mac/Documents/VideoCamera2/Classes/FTPHelper.m:439: warning: format '%d' expects type 'int', but argument 3 has type 'CFIndex'/Users/mac/Documents/VideoCamera2/Classes/FTPHelper.m:447: warning: format '%d' expects type 'int', but argument 3 has type 'CFStreamEventType'/Users/mac/Documents/VideoCamera2/Classes/FTPHelper.m: In function 'MyDownloadCallBack':/Users/mac/Documents/VideoCamera2/Classes/FTPHelper.m:713: warning: format '%d' expects type 'int', but argument 3 has type 'CFIndex'/Users/mac/Documents/VideoCamera2/Classes/FTPHelper.m:721: warning: format '%d' expects type 'int', but argument 3 has type 'CFStreamEventType'6(22@65"Format '%d' expects type 'int', but argument 3 has type 'CFIndex'361164614#97#134#0(6@53"/Users/mac/Documents/VideoCamera2/Classes/FTPHelper.m361164613#180#0#180#0#56"format '*' expects type '*', but argument * has type '*'0(22@75"Format '%d' expects type 'int', but argument 3 has type 'CFStreamEventType'361164614#231#144#0(6@53"/Users/mac/Documents/VideoCamera2/Classes/FTPHelper.m361164613#187#0#187#0#56"format '*' expects type '*', but argument * has type '*'0(22@65"Format '%d' expects type 'int', but argument 3 has type 'CFIndex'361164614#462#134#0(6@53"/Users/mac/Documents/VideoCamera2/Classes/FTPHelper.m361164613#439#0#439#0#56"format '*' expects type '*', but argument * has type '*'0(22@75"Format '%d' expects type 'int', but argument 3 has type 'CFStreamEventType'361164614#596#144#0(6@53"/Users/mac/Documents/VideoCamera2/Classes/FTPHelper.m361164613#447#0#447#0#56"format '*' expects type '*', but argument * has type '*'0(22@65"Format '%d' expects type 'int', but argument 3 has type 'CFIndex'361164614#829#134#0(6@53"/Users/mac/Documents/VideoCamera2/Classes/FTPHelper.m361164613#713#0#713#0#56"format '*' expects type '*', but argument * has type '*'0(22@75"Format '%d' expects type 'int', but argument 3 has type 'CFStreamEventType'361164614#963#144#0(6@53"/Users/mac/Documents/VideoCamera2/Classes/FTPHelper.m361164613#721#0#721#0#56"format '*' expects type '*', but argument * has type '*'0(0#0#53"/Users/mac/Documents/VideoCamera2/Classes/FTPHelper.m8611054336#1787"    cd /Users/mac/Documents/VideoCamera2    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv6 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=4.2 -iquote /Users/mac/Documents/VideoCamera2/build/VideoCamera2.build/Debug-iphoneos/VideoCamera2.build/VideoCamera2-generated-files.hmap -I/Users/mac/Documents/VideoCamera2/build/VideoCamera2.build/Debug-iphoneos/VideoCamera2.build/VideoCamera2-own-target-headers.hmap -I/Users/mac/Documents/VideoCamera2/build/VideoCamera2.build/Debug-iphoneos/VideoCamera2.build/VideoCamera2-all-target-headers.hmap -iquote /Users/mac/Documents/VideoCamera2/build/VideoCamera2.build/Debug-iphoneos/VideoCamera2.build/VideoCamera2-project-headers.hmap -F/Users/mac/Documents/VideoCamera2/build/Debug-iphoneos -I/Users/mac/Documents/VideoCamera2/build/Debug-iphoneos/include -I/Users/mac/Documents/VideoCamera2/build/VideoCamera2.build/Debug-iphoneos/VideoCamera2.build/DerivedSources/armv6 -I/Users/mac/Documents/VideoCamera2/build/VideoCamera2.build/Debug-iphoneos/VideoCamera2.build/DerivedSources -include /var/folders/V5/V50X+xwaFHGY7+C6k0EAv++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/VideoCamera2_Prefix-fpxnjcruudyhbmbaeeucsvobaene/VideoCamera2_Prefix.pch -c /Users/mac/Documents/VideoCamera2/Classes/FTPHelper.m -o /Users/mac/Documents/VideoCamera2/build/VideoCamera2.build/Debug-iphoneos/VideoCamera2.build/Objects-normal/armv6/FTPHelper.o0#
+
+CCompileC build/VideoCamera2.build/Debug-iphoneos/VideoCamera2.build/Objects-normal/armv6/FTPHelper.o /Users/mac/Documents/VideoCamera2/Classes/FTPHelper.mm normal armv6 objective-c++ com.apple.compilers.gcc.4_2
+s361091209.370908
+e361091209.572798
+r0
+xCompileC
+xbuild/VideoCamera2.build/Debug-iphoneos/VideoCamera2.build/Objects-normal/armv6/FTPHelper.o
+x/Users/mac/Documents/VideoCamera2/Classes/FTPHelper.mm
+xnormal
+xarmv6
+xobjective-c++
+xcom.apple.compilers.gcc.4_2
+o/Users/mac/Documents/VideoCamera2/Classes/FTPHelper.mm: In function 'void MyStreamInfoCreate(MyStreamInfo**, __CFReadStream*, __CFWriteStream*)':
+o/Users/mac/Documents/VideoCamera2/Classes/FTPHelper.mm:55: error: invalid conversion from 'void*' to 'MyStreamInfo*'
+o/Users/mac/Documents/VideoCamera2/Classes/FTPHelper.mm: In function 'void MyDirectoryListingCallBack(__CFReadStream*, CFStreamEventType, void*)':
+o/Users/mac/Documents/VideoCamera2/Classes/FTPHelper.mm:180: warning: format '%d' expects type 'int', but argument 3 has type 'CFIndex'
+o/Users/mac/Documents/VideoCamera2/Classes/FTPHelper.mm:187: warning: format '%d' expects type 'int', but argument 3 has type 'CFStreamEventType'
+o/Users/mac/Documents/VideoCamera2/Classes/FTPHelper.mm: In function 'NSString* +[FTPHelper textForDirectoryListing:](objc_object*, objc_selector*, const __CFDictionary*)':
+o/Users/mac/Documents/VideoCamera2/Classes/FTPHelper.mm:274: error: invalid conversion from 'const void*' to 'const __CFNumber*'
+o/Users/mac/Documents/VideoCamera2/Classes/FTPHelper.mm:279: error: invalid conversion from 'const void*' to 'const __CFNumber*'
+o/Users/mac/Documents/VideoCamera2/Classes/FTPHelper.mm:291: error: invalid conversion from 'const void*' to 'const __CFString*'
+o/Users/mac/Documents/VideoCamera2/Classes/FTPHelper.mm:298: error: invalid conversion from 'const void*' to 'const __CFString*'
+o/Users/mac/Documents/VideoCamera2/Classes/FTPHelper.mm:305: error: invalid conversion from 'const void*' to 'const __CFNumber*'
+o/Users/mac/Documents/VideoCamera2/Classes/FTPHelper.mm:312: error: invalid conversion from 'const void*' to 'const __CFDate*'
+o/Users/mac/Documents/VideoCamera2/Classes/FTPHelper.mm:352: error: invalid conversion from 'const void*' to 'const __CFString*'
+o/Users/mac/Documents/VideoCamera2/Classes/FTPHelper.mm:358: error: invalid conversion from 'const void*' to 'const __CFString*'
+o/Users/mac/Documents/VideoCamera2/Classes/FTPHelper.mm: In function 'void MyUploadCallBack(__CFWriteStream*, CFStreamEventType, void*)':
+o/Users/mac/Documents/VideoCamera2/Classes/FTPHelper.mm:439: warning: format '%d' expects type 'int', but argument 3 has type 'CFIndex'
+o/Users/mac/Documents/VideoCamera2/Classes/FTPHelper.mm:443: error: jump to case label
+o/Users/mac/Documents/VideoCamera2/Classes/FTPHelper.mm:440: error:   crosses initialization of 'NSString* reason'
+o/Users/mac/Documents/VideoCamera2/Classes/FTPHelper.mm:446: error: jump to case label
+o/Users/mac/Documents/VideoCamera2/Classes/FTPHelper.mm:440: error:   crosses initialization of 'NSString* reason'
+o/Users/mac/Documents/VideoCamera2/Classes/FTPHelper.mm:447: warning: format '%d' expects type 'int', but argument 3 has type 'CFStreamEventType'
+o/Users/mac/Documents/VideoCamera2/Classes/FTPHelper.mm: In function 'void MyDownloadCallBack(__CFReadStream*, CFStreamEventType, void*)':
+o/Users/mac/Documents/VideoCamera2/Classes/FTPHelper.mm:578: error: invalid conversion from 'const void*' to 'const __CFNumber*'
+o/Users/mac/Documents/VideoCamera2/Classes/FTPHelper.mm:581: error: expected `)' before 'PRId64'
+o/Users/mac/Documents/VideoCamera2/Classes/FTPHelper.mm:581: warning: spurious trailing '%' in format
+o/Users/mac/Documents/VideoCamera2/Classes/FTPHelper.mm:621: warning: format '%d' expects type 'int', but argument 3 has type 'CFIndex'
+o/Users/mac/Documents/VideoCamera2/Classes/FTPHelper.mm:624: error: jump to case label
+o/Users/mac/Documents/VideoCamera2/Classes/FTPHelper.mm:620: error:   crosses initialization of 'NSString* reason'
+o/Users/mac/Documents/VideoCamera2/Classes/FTPHelper.mm:628: error: jump to case label
+o/Users/mac/Documents/VideoCamera2/Classes/FTPHelper.mm:620: error:   crosses initialization of 'NSString* reason'
+o/Users/mac/Documents/VideoCamera2/Classes/FTPHelper.mm:629: warning: format '%d' expects type 'int', but argument 3 has type 'CFStreamEventType'
+lSLF07#2@62"Compile /Users/mac/Documents/VideoCamera2/Classes/FTPHelper.mm361091209#361091209#0(3843"/Users/mac/Documents/VideoCamera2/Classes/FTPHelper.mm: In function 'void MyStreamInfoCreate(MyStreamInfo**, __CFReadStream*, __CFWriteStream*)':/Users/mac/Documents/VideoCamera2/Classes/FTPHelper.mm:55: error: invalid conversion from 'void*' to 'MyStreamInfo*'/Users/mac/Documents/VideoCamera2/Classes/FTPHelper.mm: In function 'void MyDirectoryListingCallBack(__CFReadStream*, CFStreamEventType, void*)':/Users/mac/Documents/VideoCamera2/Classes/FTPHelper.mm:180: warning: format '%d' expects type 'int', but argument 3 has type 'CFIndex'/Users/mac/Documents/VideoCamera2/Classes/FTPHelper.mm:187: warning: format '%d' expects type 'int', but argument 3 has type 'CFStreamEventType'/Users/mac/Documents/VideoCamera2/Classes/FTPHelper.mm: In function 'NSString* +[FTPHelper textForDirectoryListing:](objc_object*, objc_selector*, const __CFDictionary*)':/Users/mac/Documents/VideoCamera2/Classes/FTPHelper.mm:274: error: invalid conversion from 'const void*' to 'const __CFNumber*'/Users/mac/Documents/VideoCamera2/Classes/FTPHelper.mm:279: error: invalid conversion from 'const void*' to 'const __CFNumber*'/Users/mac/Documents/VideoCamera2/Classes/FTPHelper.mm:291: error: invalid conversion from 'const void*' to 'const __CFString*'/Users/mac/Documents/VideoCamera2/Classes/FTPHelper.mm:298: error: invalid conversion from 'const void*' to 'const __CFString*'/Users/mac/Documents/VideoCamera2/Classes/FTPHelper.mm:305: error: invalid conversion from 'const void*' to 'const __CFNumber*'/Users/mac/Documents/VideoCamera2/Classes/FTPHelper.mm:312: error: invalid conversion from 'const void*' to 'const __CFDate*'/Users/mac/Documents/VideoCamera2/Classes/FTPHelper.mm:352: error: invalid conversion from 'const void*' to 'const __CFString*'/Users/mac/Documents/VideoCamera2/Classes/FTPHelper.mm:358: error: invalid conversion from 'const void*' to 'const __CFString*'/Users/mac/Documents/VideoCamera2/Classes/FTPHelper.mm: In function 'void MyUploadCallBack(__CFWriteStream*, CFStreamEventType, void*)':/Users/mac/Documents/VideoCamera2/Classes/FTPHelper.mm:439: warning: format '%d' expects type 'int', but argument 3 has type 'CFIndex'/Users/mac/Documents/VideoCamera2/Classes/FTPHelper.mm:443: error: jump to case label/Users/mac/Documents/VideoCamera2/Classes/FTPHelper.mm:440: error:   crosses initialization of 'NSString* reason'/Users/mac/Documents/VideoCamera2/Classes/FTPHelper.mm:446: error: jump to case label/Users/mac/Documents/VideoCamera2/Classes/FTPHelper.mm:440: error:   crosses initialization of 'NSString* reason'/Users/mac/Documents/VideoCamera2/Classes/FTPHelper.mm:447: warning: format '%d' expects type 'int', but argument 3 has type 'CFStreamEventType'/Users/mac/Documents/VideoCamera2/Classes/FTPHelper.mm: In function 'void MyDownloadCallBack(__CFReadStream*, CFStreamEventType, void*)':/Users/mac/Documents/VideoCamera2/Classes/FTPHelper.mm:578: error: invalid conversion from 'const void*' to 'const __CFNumber*'/Users/mac/Documents/VideoCamera2/Classes/FTPHelper.mm:581: error: expected `)' before 'PRId64'/Users/mac/Documents/VideoCamera2/Classes/FTPHelper.mm:581: warning: spurious trailing '%' in format/Users/mac/Documents/VideoCamera2/Classes/FTPHelper.mm:621: warning: format '%d' expects type 'int', but argument 3 has type 'CFIndex'/Users/mac/Documents/VideoCamera2/Classes/FTPHelper.mm:624: error: jump to case label/Users/mac/Documents/VideoCamera2/Classes/FTPHelper.mm:620: error:   crosses initialization of 'NSString* reason'/Users/mac/Documents/VideoCamera2/Classes/FTPHelper.mm:628: error: jump to case label/Users/mac/Documents/VideoCamera2/Classes/FTPHelper.mm:620: error:   crosses initialization of 'NSString* reason'/Users/mac/Documents/VideoCamera2/Classes/FTPHelper.mm:629: warning: format '%d' expects type 'int', but argument 3 has type 'CFStreamEventType'26(4@50"Invalid conversion from 'void*' to 'MyStreamInfo*'361091209#146#117#0(6@54"/Users/mac/Documents/VideoCamera2/Classes/FTPHelper.mm361091209#55#0#55#0#34"invalid conversion from '*' to '*'0(22@65"Format '%d' expects type 'int', but argument 3 has type 'CFIndex'361091209#409#135#0(6@54"/Users/mac/Documents/VideoCamera2/Classes/FTPHelper.mm361091209#180#0#180#0#56"format '*' expects type '*', but argument * has type '*'0(22@75"Format '%d' expects type 'int', but argument 3 has type 'CFStreamEventType'361091209#544#145#0(6@54"/Users/mac/Documents/VideoCamera2/Classes/FTPHelper.mm361091209#187#0#187#0#56"format '*' expects type '*', but argument * has type '*'0(4@60"Invalid conversion from 'const void*' to 'const __CFNumber*'361091209#861#128#0(6@54"/Users/mac/Documents/VideoCamera2/Classes/FTPHelper.mm361091209#274#0#274#0#34"invalid conversion from '*' to '*'0(4@60"Invalid conversion from 'const void*' to 'const __CFNumber*'361091209#989#128#0(6@54"/Users/mac/Documents/VideoCamera2/Classes/FTPHelper.mm361091209#279#0#279#0#34"invalid conversion from '*' to '*'0(4@60"Invalid conversion from 'const void*' to 'const __CFString*'361091209#1117#128#0(6@54"/Users/mac/Documents/VideoCamera2/Classes/FTPHelper.mm361091209#291#0#291#0#34"invalid conversion from '*' to '*'0(4@60"Invalid conversion from 'const void*' to 'const __CFString*'361091209#1245#128#0(6@54"/Users/mac/Documents/VideoCamera2/Classes/FTPHelper.mm361091209#298#0#298#0#34"invalid conversion from '*' to '*'0(4@60"Invalid conversion from 'const void*' to 'const __CFNumber*'361091209#1373#128#0(6@54"/Users/mac/Documents/VideoCamera2/Classes/FTPHelper.mm361091209#305#0#305#0#34"invalid conversion from '*' to '*'0(4@58"Invalid conversion from 'const void*' to 'const __CFDate*'361091209#1501#126#0(6@54"/Users/mac/Documents/VideoCamera2/Classes/FTPHelper.mm361091209#312#0#312#0#34"invalid conversion from '*' to '*'0(4@60"Invalid conversion from 'const void*' to 'const __CFString*'361091209#1627#128#0(6@54"/Users/mac/Documents/VideoCamera2/Classes/FTPHelper.mm361091209#352#0#352#0#34"invalid conversion from '*' to '*'0(4@60"Invalid conversion from 'const void*' to 'const __CFString*'361091209#1755#128#0(6@54"/Users/mac/Documents/VideoCamera2/Classes/FTPHelper.mm361091209#358#0#358#0#34"invalid conversion from '*' to '*'0(22@65"Format '%d' expects type 'int', but argument 3 has type 'CFIndex'361091209#2020#135#0(6@54"/Users/mac/Documents/VideoCamera2/Classes/FTPHelper.mm361091209#439#0#439#0#56"format '*' expects type '*', but argument * has type '*'0(4@18"Jump to case label361091209#2155#86#0(6@54"/Users/mac/Documents/VideoCamera2/Classes/FTPHelper.mm361091209#443#0#443#0#0"0(4@44"Crosses initialization of 'NSString* reason'361091209#2241#114#0(6@54"/Users/mac/Documents/VideoCamera2/Classes/FTPHelper.mm361091209#440#0#440#0#0"0(4@18"Jump to case label361091209#2355#86#0(6@54"/Users/mac/Documents/VideoCamera2/Classes/FTPHelper.mm361091209#446#0#446#0#0"0(4@44"Crosses initialization of 'NSString* reason'361091209#2441#114#0(6@54"/Users/mac/Documents/VideoCamera2/Classes/FTPHelper.mm361091209#440#0#440#0#0"0(22@75"Format '%d' expects type 'int', but argument 3 has type 'CFStreamEventType'361091209#2555#145#0(6@54"/Users/mac/Documents/VideoCamera2/Classes/FTPHelper.mm361091209#447#0#447#0#56"format '*' expects type '*', but argument * has type '*'0(4@60"Invalid conversion from 'const void*' to 'const __CFNumber*'361091209#2838#128#0(6@54"/Users/mac/Documents/VideoCamera2/Classes/FTPHelper.mm361091209#578#0#578#0#34"invalid conversion from '*' to '*'0(4@28"Expected `)' before 'PRId64'361091209#2966#96#0(6@54"/Users/mac/Documents/VideoCamera2/Classes/FTPHelper.mm361091209#581#0#581#0#19"expected * before *0(22@31"Spurious trailing '%' in format361091209#3062#101#0(6@54"/Users/mac/Documents/VideoCamera2/Classes/FTPHelper.mm361091209#581#0#581#0#0"0(22@65"Format '%d' expects type 'int', but argument 3 has type 'CFIndex'361091209#3163#135#0(6@54"/Users/mac/Documents/VideoCamera2/Classes/FTPHelper.mm361091209#621#0#621#0#56"format '*' expects type '*', but argument * has type '*'0(4@18"Jump to case label361091209#3298#86#0(6@54"/Users/mac/Documents/VideoCamera2/Classes/FTPHelper.mm361091209#624#0#624#0#0"0(4@44"Crosses initialization of 'NSString* reason'361091209#3384#114#0(6@54"/Users/mac/Documents/VideoCamera2/Classes/FTPHelper.mm361091209#620#0#620#0#0"0(4@18"Jump to case label361091209#3498#86#0(6@54"/Users/mac/Documents/VideoCamera2/Classes/FTPHelper.mm361091209#628#0#628#0#0"0(4@44"Crosses initialization of 'NSString* reason'361091209#3584#114#0(6@54"/Users/mac/Documents/VideoCamera2/Classes/FTPHelper.mm361091209#620#0#620#0#0"0(22@75"Format '%d' expects type 'int', but argument 3 has type 'CFStreamEventType'361091209#3698#145#0(6@54"/Users/mac/Documents/VideoCamera2/Classes/FTPHelper.mm361091209#629#0#629#0#56"format '*' expects type '*', but argument * has type '*'0(0#0#54"/Users/mac/Documents/VideoCamera2/Classes/FTPHelper.mm8595000672#1809"    cd /Users/mac/Documents/VideoCamera2    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c++ -arch armv6 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk -fvisibility=hidden -fvisibility-inlines-hidden -gdwarf-2 -mthumb -miphoneos-version-min=4.2 -iquote /Users/mac/Documents/VideoCamera2/build/VideoCamera2.build/Debug-iphoneos/VideoCamera2.build/VideoCamera2-generated-files.hmap -I/Users/mac/Documents/VideoCamera2/build/VideoCamera2.build/Debug-iphoneos/VideoCamera2.build/VideoCamera2-own-target-headers.hmap -I/Users/mac/Documents/VideoCamera2/build/VideoCamera2.build/Debug-iphoneos/VideoCamera2.build/VideoCamera2-all-target-headers.hmap -iquote /Users/mac/Documents/VideoCamera2/build/VideoCamera2.build/Debug-iphoneos/VideoCamera2.build/VideoCamera2-project-headers.hmap -F/Users/mac/Documents/VideoCamera2/build/Debug-iphoneos -I/Users/mac/Documents/VideoCamera2/build/Debug-iphoneos/include -I/Users/mac/Documents/VideoCamera2/build/VideoCamera2.build/Debug-iphoneos/VideoCamera2.build/DerivedSources/armv6 -I/Users/mac/Documents/VideoCamera2/build/VideoCamera2.build/Debug-iphoneos/VideoCamera2.build/DerivedSources -include /var/folders/V5/V50X+xwaFHGY7+C6k0EAv++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/VideoCamera2_Prefix-fhnwycpwzigewuaxabnttrysatht/VideoCamera2_Prefix.pch -c /Users/mac/Documents/VideoCamera2/Classes/FTPHelper.mm -o /Users/mac/Documents/VideoCamera2/build/VideoCamera2.build/Debug-iphoneos/VideoCamera2.build/Objects-normal/armv6/FTPHelper.o1#
+
+CCompileC build/VideoCamera2.build/Debug-iphoneos/VideoCamera2.build/Objects-normal/armv6/FTPHelper.o /Users/mac/Documents/VideoCamera2副本/Classes/FTPHelper.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+s363000295.699652
+e363000296.002300
+r1
+xCompileC
+xbuild/VideoCamera2.build/Debug-iphoneos/VideoCamera2.build/Objects-normal/armv6/FTPHelper.o
+x/Users/mac/Documents/VideoCamera2副本/Classes/FTPHelper.m
+xnormal
+xarmv6
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+o/Users/mac/Documents/VideoCamera2副本/Classes/FTPHelper.m: In function 'MyDirectoryListingCallBack':
+o/Users/mac/Documents/VideoCamera2副本/Classes/FTPHelper.m:180: warning: format '%d' expects type 'int', but argument 3 has type 'CFIndex'
+o/Users/mac/Documents/VideoCamera2副本/Classes/FTPHelper.m:187: warning: format '%d' expects type 'int', but argument 3 has type 'CFStreamEventType'
+o/Users/mac/Documents/VideoCamera2副本/Classes/FTPHelper.m: In function 'MyUploadCallBack':
+o/Users/mac/Documents/VideoCamera2副本/Classes/FTPHelper.m:439: warning: format '%d' expects type 'int', but argument 3 has type 'CFIndex'
+o/Users/mac/Documents/VideoCamera2副本/Classes/FTPHelper.m:447: warning: format '%d' expects type 'int', but argument 3 has type 'CFStreamEventType'
+o/Users/mac/Documents/VideoCamera2副本/Classes/FTPHelper.m: In function 'MyDownloadCallBack':
+o/Users/mac/Documents/VideoCamera2副本/Classes/FTPHelper.m:719: warning: format '%d' expects type 'int', but argument 3 has type 'CFIndex'
+o/Users/mac/Documents/VideoCamera2副本/Classes/FTPHelper.m:727: warning: format '%d' expects type 'int', but argument 3 has type 'CFStreamEventType'
+lSLF07#2@67"Compile /Users/mac/Documents/VideoCamera2副本/Classes/FTPHelper.m363000295#363000296#0(1161"/Users/mac/Documents/VideoCamera2副本/Classes/FTPHelper.m: In function 'MyDirectoryListingCallBack':/Users/mac/Documents/VideoCamera2副本/Classes/FTPHelper.m:180: warning: format '%d' expects type 'int', but argument 3 has type 'CFIndex'/Users/mac/Documents/VideoCamera2副本/Classes/FTPHelper.m:187: warning: format '%d' expects type 'int', but argument 3 has type 'CFStreamEventType'/Users/mac/Documents/VideoCamera2副本/Classes/FTPHelper.m: In function 'MyUploadCallBack':/Users/mac/Documents/VideoCamera2副本/Classes/FTPHelper.m:439: warning: format '%d' expects type 'int', but argument 3 has type 'CFIndex'/Users/mac/Documents/VideoCamera2副本/Classes/FTPHelper.m:447: warning: format '%d' expects type 'int', but argument 3 has type 'CFStreamEventType'/Users/mac/Documents/VideoCamera2副本/Classes/FTPHelper.m: In function 'MyDownloadCallBack':/Users/mac/Documents/VideoCamera2副本/Classes/FTPHelper.m:719: warning: format '%d' expects type 'int', but argument 3 has type 'CFIndex'/Users/mac/Documents/VideoCamera2副本/Classes/FTPHelper.m:727: warning: format '%d' expects type 'int', but argument 3 has type 'CFStreamEventType'6(22@65"Format '%d' expects type 'int', but argument 3 has type 'CFIndex'363000295#99#136#0(6@59"/Users/mac/Documents/VideoCamera2副本/Classes/FTPHelper.m363000293#180#0#180#0#56"format '*' expects type '*', but argument * has type '*'0(22@75"Format '%d' expects type 'int', but argument 3 has type 'CFStreamEventType'363000295#235#146#0(6@59"/Users/mac/Documents/VideoCamera2副本/Classes/FTPHelper.m363000293#187#0#187#0#56"format '*' expects type '*', but argument * has type '*'0(22@65"Format '%d' expects type 'int', but argument 3 has type 'CFIndex'363000295#470#136#0(6@59"/Users/mac/Documents/VideoCamera2副本/Classes/FTPHelper.m363000293#439#0#439#0#56"format '*' expects type '*', but argument * has type '*'0(22@75"Format '%d' expects type 'int', but argument 3 has type 'CFStreamEventType'363000295#606#146#0(6@59"/Users/mac/Documents/VideoCamera2副本/Classes/FTPHelper.m363000293#447#0#447#0#56"format '*' expects type '*', but argument * has type '*'0(22@65"Format '%d' expects type 'int', but argument 3 has type 'CFIndex'363000295#843#136#0(6@59"/Users/mac/Documents/VideoCamera2副本/Classes/FTPHelper.m363000293#719#0#719#0#56"format '*' expects type '*', but argument * has type '*'0(22@75"Format '%d' expects type 'int', but argument 3 has type 'CFStreamEventType'363000295#979#146#0(6@59"/Users/mac/Documents/VideoCamera2副本/Classes/FTPHelper.m363000293#727#0#727#0#56"format '*' expects type '*', but argument * has type '*'0(0#0#59"/Users/mac/Documents/VideoCamera2副本/Classes/FTPHelper.m8651175360#1853"    cd /Users/mac/Documents/VideoCamera2副本    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv6 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=4.2 -iquote /Users/mac/Documents/VideoCamera2副本/build/VideoCamera2.build/Debug-iphoneos/VideoCamera2.build/VideoCamera2-generated-files.hmap -I/Users/mac/Documents/VideoCamera2副本/build/VideoCamera2.build/Debug-iphoneos/VideoCamera2.build/VideoCamera2-own-target-headers.hmap -I/Users/mac/Documents/VideoCamera2副本/build/VideoCamera2.build/Debug-iphoneos/VideoCamera2.build/VideoCamera2-all-target-headers.hmap -iquote /Users/mac/Documents/VideoCamera2副本/build/VideoCamera2.build/Debug-iphoneos/VideoCamera2.build/VideoCamera2-project-headers.hmap -F/Users/mac/Documents/VideoCamera2副本/build/Debug-iphoneos -I/Users/mac/Documents/VideoCamera2副本/build/Debug-iphoneos/include -I/Users/mac/Documents/VideoCamera2副本/build/VideoCamera2.build/Debug-iphoneos/VideoCamera2.build/DerivedSources/armv6 -I/Users/mac/Documents/VideoCamera2副本/build/VideoCamera2.build/Debug-iphoneos/VideoCamera2.build/DerivedSources -include /var/folders/V5/V50X+xwaFHGY7+C6k0EAv++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/VideoCamera2_Prefix-dettwycgysarxnajqdelaurplpvl/VideoCamera2_Prefix.pch -c /Users/mac/Documents/VideoCamera2副本/Classes/FTPHelper.m -o /Users/mac/Documents/VideoCamera2副本/build/VideoCamera2.build/Debug-iphoneos/VideoCamera2.build/Objects-normal/armv6/FTPHelper.o0#
+
+CCompileC build/VideoCamera2.build/Debug-iphoneos/VideoCamera2.build/Objects-normal/armv6/VideoCamera.o /Users/mac/Documents/VideoCamera2/Classes/VideoCamera.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+s361166311.954069
+e361166312.250716
+r1
+xCompileC
+xbuild/VideoCamera2.build/Debug-iphoneos/VideoCamera2.build/Objects-normal/armv6/VideoCamera.o
+x/Users/mac/Documents/VideoCamera2/Classes/VideoCamera.m
+xnormal
+xarmv6
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+o/Users/mac/Documents/VideoCamera2/Classes/VideoCamera.m: In function '-[VideoCamera startCamera:]':
+o/Users/mac/Documents/VideoCamera2/Classes/VideoCamera.m:73: warning: class 'VideoCamera' does not implement the 'UINavigationControllerDelegate' protocol
+o/Users/mac/Documents/VideoCamera2/Classes/VideoCamera.m: In function '-[VideoCamera selectFile:]':
+o/Users/mac/Documents/VideoCamera2/Classes/VideoCamera.m:114: warning: class 'VideoCamera' does not implement the 'UINavigationControllerDelegate' protocol
+lSLF07#2@63"Compile /Users/mac/Documents/VideoCamera2/Classes/VideoCamera.m361166311#361166312#0(508"/Users/mac/Documents/VideoCamera2/Classes/VideoCamera.m: In function '-[VideoCamera startCamera:]':/Users/mac/Documents/VideoCamera2/Classes/VideoCamera.m:73: warning: class 'VideoCamera' does not implement the 'UINavigationControllerDelegate' protocol/Users/mac/Documents/VideoCamera2/Classes/VideoCamera.m: In function '-[VideoCamera selectFile:]':/Users/mac/Documents/VideoCamera2/Classes/VideoCamera.m:114: warning: class 'VideoCamera' does not implement the 'UINavigationControllerDelegate' protocol2(22@84"Class 'VideoCamera' does not implement the 'UINavigationControllerDelegate' protocol361166312#100#154#0(6@55"/Users/mac/Documents/VideoCamera2/Classes/VideoCamera.m361166300#73#0#73#0#45"class '*' does not implement the '*' protocol0(22@84"Class 'VideoCamera' does not implement the 'UINavigationControllerDelegate' protocol361166312#353#155#0(6@55"/Users/mac/Documents/VideoCamera2/Classes/VideoCamera.m361166300#114#0#114#0#45"class '*' does not implement the '*' protocol0(0#0#55"/Users/mac/Documents/VideoCamera2/Classes/VideoCamera.m8617501920#1791"    cd /Users/mac/Documents/VideoCamera2    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv6 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=4.2 -iquote /Users/mac/Documents/VideoCamera2/build/VideoCamera2.build/Debug-iphoneos/VideoCamera2.build/VideoCamera2-generated-files.hmap -I/Users/mac/Documents/VideoCamera2/build/VideoCamera2.build/Debug-iphoneos/VideoCamera2.build/VideoCamera2-own-target-headers.hmap -I/Users/mac/Documents/VideoCamera2/build/VideoCamera2.build/Debug-iphoneos/VideoCamera2.build/VideoCamera2-all-target-headers.hmap -iquote /Users/mac/Documents/VideoCamera2/build/VideoCamera2.build/Debug-iphoneos/VideoCamera2.build/VideoCamera2-project-headers.hmap -F/Users/mac/Documents/VideoCamera2/build/Debug-iphoneos -I/Users/mac/Documents/VideoCamera2/build/Debug-iphoneos/include -I/Users/mac/Documents/VideoCamera2/build/VideoCamera2.build/Debug-iphoneos/VideoCamera2.build/DerivedSources/armv6 -I/Users/mac/Documents/VideoCamera2/build/VideoCamera2.build/Debug-iphoneos/VideoCamera2.build/DerivedSources -include /var/folders/V5/V50X+xwaFHGY7+C6k0EAv++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/VideoCamera2_Prefix-fpxnjcruudyhbmbaeeucsvobaene/VideoCamera2_Prefix.pch -c /Users/mac/Documents/VideoCamera2/Classes/VideoCamera.m -o /Users/mac/Documents/VideoCamera2/build/VideoCamera2.build/Debug-iphoneos/VideoCamera2.build/Objects-normal/armv6/VideoCamera.o0#
+
+CCompileC build/VideoCamera2.build/Debug-iphoneos/VideoCamera2.build/Objects-normal/armv6/VideoCamera.o /Users/mac/Documents/VideoCamera2副本/Classes/VideoCamera.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+s363000697.417679
+e363000697.681808
+r1
+xCompileC
+xbuild/VideoCamera2.build/Debug-iphoneos/VideoCamera2.build/Objects-normal/armv6/VideoCamera.o
+x/Users/mac/Documents/VideoCamera2副本/Classes/VideoCamera.m
+xnormal
+xarmv6
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+o/Users/mac/Documents/VideoCamera2副本/Classes/VideoCamera.m: In function '-[VideoCamera startCamera:]':
+o/Users/mac/Documents/VideoCamera2副本/Classes/VideoCamera.m:72: warning: class 'VideoCamera' does not implement the 'UINavigationControllerDelegate' protocol
+o/Users/mac/Documents/VideoCamera2副本/Classes/VideoCamera.m: In function '-[VideoCamera selectFile:]':
+o/Users/mac/Documents/VideoCamera2副本/Classes/VideoCamera.m:113: warning: class 'VideoCamera' does not implement the 'UINavigationControllerDelegate' protocol
+lSLF07#2@69"Compile /Users/mac/Documents/VideoCamera2副本/Classes/VideoCamera.m363000697#363000697#0(532"/Users/mac/Documents/VideoCamera2副本/Classes/VideoCamera.m: In function '-[VideoCamera startCamera:]':/Users/mac/Documents/VideoCamera2副本/Classes/VideoCamera.m:72: warning: class 'VideoCamera' does not implement the 'UINavigationControllerDelegate' protocol/Users/mac/Documents/VideoCamera2副本/Classes/VideoCamera.m: In function '-[VideoCamera selectFile:]':/Users/mac/Documents/VideoCamera2副本/Classes/VideoCamera.m:113: warning: class 'VideoCamera' does not implement the 'UINavigationControllerDelegate' protocol2(22@84"Class 'VideoCamera' does not implement the 'UINavigationControllerDelegate' protocol363000697#102#156#0(6@61"/Users/mac/Documents/VideoCamera2副本/Classes/VideoCamera.m363000694#72#0#72#0#45"class '*' does not implement the '*' protocol0(22@84"Class 'VideoCamera' does not implement the 'UINavigationControllerDelegate' protocol363000697#359#157#0(6@61"/Users/mac/Documents/VideoCamera2副本/Classes/VideoCamera.m363000694#113#0#113#0#45"class '*' does not implement the '*' protocol0(0#0#61"/Users/mac/Documents/VideoCamera2副本/Classes/VideoCamera.m8659705728#1857"    cd /Users/mac/Documents/VideoCamera2副本    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv6 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=4.2 -iquote /Users/mac/Documents/VideoCamera2副本/build/VideoCamera2.build/Debug-iphoneos/VideoCamera2.build/VideoCamera2-generated-files.hmap -I/Users/mac/Documents/VideoCamera2副本/build/VideoCamera2.build/Debug-iphoneos/VideoCamera2.build/VideoCamera2-own-target-headers.hmap -I/Users/mac/Documents/VideoCamera2副本/build/VideoCamera2.build/Debug-iphoneos/VideoCamera2.build/VideoCamera2-all-target-headers.hmap -iquote /Users/mac/Documents/VideoCamera2副本/build/VideoCamera2.build/Debug-iphoneos/VideoCamera2.build/VideoCamera2-project-headers.hmap -F/Users/mac/Documents/VideoCamera2副本/build/Debug-iphoneos -I/Users/mac/Documents/VideoCamera2副本/build/Debug-iphoneos/include -I/Users/mac/Documents/VideoCamera2副本/build/VideoCamera2.build/Debug-iphoneos/VideoCamera2.build/DerivedSources/armv6 -I/Users/mac/Documents/VideoCamera2副本/build/VideoCamera2.build/Debug-iphoneos/VideoCamera2.build/DerivedSources -include /var/folders/V5/V50X+xwaFHGY7+C6k0EAv++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/VideoCamera2_Prefix-dettwycgysarxnajqdelaurplpvl/VideoCamera2_Prefix.pch -c /Users/mac/Documents/VideoCamera2副本/Classes/VideoCamera.m -o /Users/mac/Documents/VideoCamera2副本/build/VideoCamera2.build/Debug-iphoneos/VideoCamera2.build/Objects-normal/armv6/VideoCamera.o0#
+
+CCompileC build/VideoCamera2.build/Debug-iphoneos/VideoCamera2.build/Objects-normal/armv6/VideoCamera2AppDelegate.o /Users/mac/Documents/VideoCamera2/Classes/VideoCamera2AppDelegate.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+s361165132.261686
+e361165132.432017
+r1
+xCompileC
+xbuild/VideoCamera2.build/Debug-iphoneos/VideoCamera2.build/Objects-normal/armv6/VideoCamera2AppDelegate.o
+x/Users/mac/Documents/VideoCamera2/Classes/VideoCamera2AppDelegate.m
+xnormal
+xarmv6
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@75"Compile /Users/mac/Documents/VideoCamera2/Classes/VideoCamera2AppDelegate.m361165132#361165132#0(0"0(0#0#67"/Users/mac/Documents/VideoCamera2/Classes/VideoCamera2AppDelegate.m8618781312#1815"    cd /Users/mac/Documents/VideoCamera2    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv6 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=4.2 -iquote /Users/mac/Documents/VideoCamera2/build/VideoCamera2.build/Debug-iphoneos/VideoCamera2.build/VideoCamera2-generated-files.hmap -I/Users/mac/Documents/VideoCamera2/build/VideoCamera2.build/Debug-iphoneos/VideoCamera2.build/VideoCamera2-own-target-headers.hmap -I/Users/mac/Documents/VideoCamera2/build/VideoCamera2.build/Debug-iphoneos/VideoCamera2.build/VideoCamera2-all-target-headers.hmap -iquote /Users/mac/Documents/VideoCamera2/build/VideoCamera2.build/Debug-iphoneos/VideoCamera2.build/VideoCamera2-project-headers.hmap -F/Users/mac/Documents/VideoCamera2/build/Debug-iphoneos -I/Users/mac/Documents/VideoCamera2/build/Debug-iphoneos/include -I/Users/mac/Documents/VideoCamera2/build/VideoCamera2.build/Debug-iphoneos/VideoCamera2.build/DerivedSources/armv6 -I/Users/mac/Documents/VideoCamera2/build/VideoCamera2.build/Debug-iphoneos/VideoCamera2.build/DerivedSources -include /var/folders/V5/V50X+xwaFHGY7+C6k0EAv++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/VideoCamera2_Prefix-fpxnjcruudyhbmbaeeucsvobaene/VideoCamera2_Prefix.pch -c /Users/mac/Documents/VideoCamera2/Classes/VideoCamera2AppDelegate.m -o /Users/mac/Documents/VideoCamera2/build/VideoCamera2.build/Debug-iphoneos/VideoCamera2.build/Objects-normal/armv6/VideoCamera2AppDelegate.o0#
+
+CCompileC build/VideoCamera2.build/Debug-iphoneos/VideoCamera2.build/Objects-normal/armv6/VideoCamera2AppDelegate.o /Users/mac/Documents/VideoCamera2副本/Classes/VideoCamera2AppDelegate.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+s362998850.604879
+e362998850.885048
+r1
+xCompileC
+xbuild/VideoCamera2.build/Debug-iphoneos/VideoCamera2.build/Objects-normal/armv6/VideoCamera2AppDelegate.o
+x/Users/mac/Documents/VideoCamera2副本/Classes/VideoCamera2AppDelegate.m
+xnormal
+xarmv6
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@81"Compile /Users/mac/Documents/VideoCamera2副本/Classes/VideoCamera2AppDelegate.m362998850#362998850#0(0"0(0#0#73"/Users/mac/Documents/VideoCamera2副本/Classes/VideoCamera2AppDelegate.m8662121184#1881"    cd /Users/mac/Documents/VideoCamera2副本    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv6 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=4.2 -iquote /Users/mac/Documents/VideoCamera2副本/build/VideoCamera2.build/Debug-iphoneos/VideoCamera2.build/VideoCamera2-generated-files.hmap -I/Users/mac/Documents/VideoCamera2副本/build/VideoCamera2.build/Debug-iphoneos/VideoCamera2.build/VideoCamera2-own-target-headers.hmap -I/Users/mac/Documents/VideoCamera2副本/build/VideoCamera2.build/Debug-iphoneos/VideoCamera2.build/VideoCamera2-all-target-headers.hmap -iquote /Users/mac/Documents/VideoCamera2副本/build/VideoCamera2.build/Debug-iphoneos/VideoCamera2.build/VideoCamera2-project-headers.hmap -F/Users/mac/Documents/VideoCamera2副本/build/Debug-iphoneos -I/Users/mac/Documents/VideoCamera2副本/build/Debug-iphoneos/include -I/Users/mac/Documents/VideoCamera2副本/build/VideoCamera2.build/Debug-iphoneos/VideoCamera2.build/DerivedSources/armv6 -I/Users/mac/Documents/VideoCamera2副本/build/VideoCamera2.build/Debug-iphoneos/VideoCamera2.build/DerivedSources -include /var/folders/V5/V50X+xwaFHGY7+C6k0EAv++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/VideoCamera2_Prefix-dettwycgysarxnajqdelaurplpvl/VideoCamera2_Prefix.pch -c /Users/mac/Documents/VideoCamera2副本/Classes/VideoCamera2AppDelegate.m -o /Users/mac/Documents/VideoCamera2副本/build/VideoCamera2.build/Debug-iphoneos/VideoCamera2.build/Objects-normal/armv6/VideoCamera2AppDelegate.o0#
+
+CCompileC build/VideoCamera2.build/Debug-iphoneos/VideoCamera2.build/Objects-normal/armv6/main.o /Users/mac/Documents/VideoCamera2/main.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+s360730807.873145
+e360730807.927957
+r1
+xCompileC
+xbuild/VideoCamera2.build/Debug-iphoneos/VideoCamera2.build/Objects-normal/armv6/main.o
+x/Users/mac/Documents/VideoCamera2/main.m
+xnormal
+xarmv6
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@48"Compile /Users/mac/Documents/VideoCamera2/main.m360730807#360730807#0(0"0(0#0#40"/Users/mac/Documents/VideoCamera2/main.m8621141568#1769"    cd /Users/mac/Documents/VideoCamera2    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv6 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=4.2 -iquote /Users/mac/Documents/VideoCamera2/build/VideoCamera2.build/Debug-iphoneos/VideoCamera2.build/VideoCamera2-generated-files.hmap -I/Users/mac/Documents/VideoCamera2/build/VideoCamera2.build/Debug-iphoneos/VideoCamera2.build/VideoCamera2-own-target-headers.hmap -I/Users/mac/Documents/VideoCamera2/build/VideoCamera2.build/Debug-iphoneos/VideoCamera2.build/VideoCamera2-all-target-headers.hmap -iquote /Users/mac/Documents/VideoCamera2/build/VideoCamera2.build/Debug-iphoneos/VideoCamera2.build/VideoCamera2-project-headers.hmap -F/Users/mac/Documents/VideoCamera2/build/Debug-iphoneos -I/Users/mac/Documents/VideoCamera2/build/Debug-iphoneos/include -I/Users/mac/Documents/VideoCamera2/build/VideoCamera2.build/Debug-iphoneos/VideoCamera2.build/DerivedSources/armv6 -I/Users/mac/Documents/VideoCamera2/build/VideoCamera2.build/Debug-iphoneos/VideoCamera2.build/DerivedSources -include /var/folders/V5/V50X+xwaFHGY7+C6k0EAv++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/VideoCamera2_Prefix-fpxnjcruudyhbmbaeeucsvobaene/VideoCamera2_Prefix.pch -c /Users/mac/Documents/VideoCamera2/main.m -o /Users/mac/Documents/VideoCamera2/build/VideoCamera2.build/Debug-iphoneos/VideoCamera2.build/Objects-normal/armv6/main.o0#
+
+CCompileC build/VideoCamera2.build/Debug-iphoneos/VideoCamera2.build/Objects-normal/armv6/main.o /Users/mac/Documents/VideoCamera2副本/main.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+s362990547.704243
+e362990547.926588
+r1
+xCompileC
+xbuild/VideoCamera2.build/Debug-iphoneos/VideoCamera2.build/Objects-normal/armv6/main.o
+x/Users/mac/Documents/VideoCamera2副本/main.m
+xnormal
+xarmv6
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@54"Compile /Users/mac/Documents/VideoCamera2副本/main.m362990547#362990547#0(0"0(0#0#46"/Users/mac/Documents/VideoCamera2副本/main.m8605942560#1835"    cd /Users/mac/Documents/VideoCamera2副本    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv6 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=4.2 -iquote /Users/mac/Documents/VideoCamera2副本/build/VideoCamera2.build/Debug-iphoneos/VideoCamera2.build/VideoCamera2-generated-files.hmap -I/Users/mac/Documents/VideoCamera2副本/build/VideoCamera2.build/Debug-iphoneos/VideoCamera2.build/VideoCamera2-own-target-headers.hmap -I/Users/mac/Documents/VideoCamera2副本/build/VideoCamera2.build/Debug-iphoneos/VideoCamera2.build/VideoCamera2-all-target-headers.hmap -iquote /Users/mac/Documents/VideoCamera2副本/build/VideoCamera2.build/Debug-iphoneos/VideoCamera2.build/VideoCamera2-project-headers.hmap -F/Users/mac/Documents/VideoCamera2副本/build/Debug-iphoneos -I/Users/mac/Documents/VideoCamera2副本/build/Debug-iphoneos/include -I/Users/mac/Documents/VideoCamera2副本/build/VideoCamera2.build/Debug-iphoneos/VideoCamera2.build/DerivedSources/armv6 -I/Users/mac/Documents/VideoCamera2副本/build/VideoCamera2.build/Debug-iphoneos/VideoCamera2.build/DerivedSources -include /var/folders/V5/V50X+xwaFHGY7+C6k0EAv++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/VideoCamera2_Prefix-dettwycgysarxnajqdelaurplpvl/VideoCamera2_Prefix.pch -c /Users/mac/Documents/VideoCamera2副本/main.m -o /Users/mac/Documents/VideoCamera2副本/build/VideoCamera2.build/Debug-iphoneos/VideoCamera2.build/Objects-normal/armv6/main.o0#
+
+CCompileC build/VideoCamera2.build/Debug-iphoneos/VideoCamera2.build/Objects-normal/armv7/AppDelegate.o /Users/mac/Documents/VideoCamera2/Classes/AppDelegate.m normal armv7 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/VideoCamera2.build/Debug-iphoneos/VideoCamera2.build/Objects-normal/armv7/FTPHelper.o /Users/mac/Documents/VideoCamera2/Classes/FTPHelper.m normal armv7 objective-c com.apple.compilers.gcc.4_2
+s361164614.689775
+e361164614.911943
+r1
+xCompileC
+xbuild/VideoCamera2.build/Debug-iphoneos/VideoCamera2.build/Objects-normal/armv7/FTPHelper.o
+x/Users/mac/Documents/VideoCamera2/Classes/FTPHelper.m
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+o/Users/mac/Documents/VideoCamera2/Classes/FTPHelper.m: In function 'MyDirectoryListingCallBack':
+o/Users/mac/Documents/VideoCamera2/Classes/FTPHelper.m:180: warning: format '%d' expects type 'int', but argument 3 has type 'CFIndex'
+o/Users/mac/Documents/VideoCamera2/Classes/FTPHelper.m:187: warning: format '%d' expects type 'int', but argument 3 has type 'CFStreamEventType'
+o/Users/mac/Documents/VideoCamera2/Classes/FTPHelper.m: In function 'MyUploadCallBack':
+o/Users/mac/Documents/VideoCamera2/Classes/FTPHelper.m:439: warning: format '%d' expects type 'int', but argument 3 has type 'CFIndex'
+o/Users/mac/Documents/VideoCamera2/Classes/FTPHelper.m:447: warning: format '%d' expects type 'int', but argument 3 has type 'CFStreamEventType'
+o/Users/mac/Documents/VideoCamera2/Classes/FTPHelper.m: In function 'MyDownloadCallBack':
+o/Users/mac/Documents/VideoCamera2/Classes/FTPHelper.m:713: warning: format '%d' expects type 'int', but argument 3 has type 'CFIndex'
+o/Users/mac/Documents/VideoCamera2/Classes/FTPHelper.m:721: warning: format '%d' expects type 'int', but argument 3 has type 'CFStreamEventType'
+lSLF07#2@61"Compile /Users/mac/Documents/VideoCamera2/Classes/FTPHelper.m361164614#361164614#0(1107"/Users/mac/Documents/VideoCamera2/Classes/FTPHelper.m: In function 'MyDirectoryListingCallBack':/Users/mac/Documents/VideoCamera2/Classes/FTPHelper.m:180: warning: format '%d' expects type 'int', but argument 3 has type 'CFIndex'/Users/mac/Documents/VideoCamera2/Classes/FTPHelper.m:187: warning: format '%d' expects type 'int', but argument 3 has type 'CFStreamEventType'/Users/mac/Documents/VideoCamera2/Classes/FTPHelper.m: In function 'MyUploadCallBack':/Users/mac/Documents/VideoCamera2/Classes/FTPHelper.m:439: warning: format '%d' expects type 'int', but argument 3 has type 'CFIndex'/Users/mac/Documents/VideoCamera2/Classes/FTPHelper.m:447: warning: format '%d' expects type 'int', but argument 3 has type 'CFStreamEventType'/Users/mac/Documents/VideoCamera2/Classes/FTPHelper.m: In function 'MyDownloadCallBack':/Users/mac/Documents/VideoCamera2/Classes/FTPHelper.m:713: warning: format '%d' expects type 'int', but argument 3 has type 'CFIndex'/Users/mac/Documents/VideoCamera2/Classes/FTPHelper.m:721: warning: format '%d' expects type 'int', but argument 3 has type 'CFStreamEventType'6(22@65"Format '%d' expects type 'int', but argument 3 has type 'CFIndex'361164614#97#134#0(6@53"/Users/mac/Documents/VideoCamera2/Classes/FTPHelper.m361164613#180#0#180#0#56"format '*' expects type '*', but argument * has type '*'0(22@75"Format '%d' expects type 'int', but argument 3 has type 'CFStreamEventType'361164614#231#144#0(6@53"/Users/mac/Documents/VideoCamera2/Classes/FTPHelper.m361164613#187#0#187#0#56"format '*' expects type '*', but argument * has type '*'0(22@65"Format '%d' expects type 'int', but argument 3 has type 'CFIndex'361164614#462#134#0(6@53"/Users/mac/Documents/VideoCamera2/Classes/FTPHelper.m361164613#439#0#439#0#56"format '*' expects type '*', but argument * has type '*'0(22@75"Format '%d' expects type 'int', but argument 3 has type 'CFStreamEventType'361164614#596#144#0(6@53"/Users/mac/Documents/VideoCamera2/Classes/FTPHelper.m361164613#447#0#447#0#56"format '*' expects type '*', but argument * has type '*'0(22@65"Format '%d' expects type 'int', but argument 3 has type 'CFIndex'361164614#829#134#0(6@53"/Users/mac/Documents/VideoCamera2/Classes/FTPHelper.m361164613#713#0#713#0#56"format '*' expects type '*', but argument * has type '*'0(22@75"Format '%d' expects type 'int', but argument 3 has type 'CFStreamEventType'361164614#963#144#0(6@53"/Users/mac/Documents/VideoCamera2/Classes/FTPHelper.m361164613#721#0#721#0#56"format '*' expects type '*', but argument * has type '*'0(0#0#53"/Users/mac/Documents/VideoCamera2/Classes/FTPHelper.m8622155456#1787"    cd /Users/mac/Documents/VideoCamera2    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv7 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=4.2 -iquote /Users/mac/Documents/VideoCamera2/build/VideoCamera2.build/Debug-iphoneos/VideoCamera2.build/VideoCamera2-generated-files.hmap -I/Users/mac/Documents/VideoCamera2/build/VideoCamera2.build/Debug-iphoneos/VideoCamera2.build/VideoCamera2-own-target-headers.hmap -I/Users/mac/Documents/VideoCamera2/build/VideoCamera2.build/Debug-iphoneos/VideoCamera2.build/VideoCamera2-all-target-headers.hmap -iquote /Users/mac/Documents/VideoCamera2/build/VideoCamera2.build/Debug-iphoneos/VideoCamera2.build/VideoCamera2-project-headers.hmap -F/Users/mac/Documents/VideoCamera2/build/Debug-iphoneos -I/Users/mac/Documents/VideoCamera2/build/Debug-iphoneos/include -I/Users/mac/Documents/VideoCamera2/build/VideoCamera2.build/Debug-iphoneos/VideoCamera2.build/DerivedSources/armv7 -I/Users/mac/Documents/VideoCamera2/build/VideoCamera2.build/Debug-iphoneos/VideoCamera2.build/DerivedSources -include /var/folders/V5/V50X+xwaFHGY7+C6k0EAv++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/VideoCamera2_Prefix-enjcldjhazvdoabubwnbthcfzwui/VideoCamera2_Prefix.pch -c /Users/mac/Documents/VideoCamera2/Classes/FTPHelper.m -o /Users/mac/Documents/VideoCamera2/build/VideoCamera2.build/Debug-iphoneos/VideoCamera2.build/Objects-normal/armv7/FTPHelper.o0#
+
+CCompileC build/VideoCamera2.build/Debug-iphoneos/VideoCamera2.build/Objects-normal/armv7/FTPHelper.o /Users/mac/Documents/VideoCamera2/Classes/FTPHelper.mm normal armv7 objective-c++ com.apple.compilers.gcc.4_2
+s361091209.649890
+e361091209.720406
+r0
+xCompileC
+xbuild/VideoCamera2.build/Debug-iphoneos/VideoCamera2.build/Objects-normal/armv7/FTPHelper.o
+x/Users/mac/Documents/VideoCamera2/Classes/FTPHelper.mm
+xnormal
+xarmv7
+xobjective-c++
+xcom.apple.compilers.gcc.4_2
+o/Users/mac/Documents/VideoCamera2/Classes/FTPHelper.mm: In function 'void MyStreamInfoCreate(MyStreamInfo**, __CFReadStream*, __CFWriteStream*)':
+o/Users/mac/Documents/VideoCamera2/Classes/FTPHelper.mm:55: error: invalid conversion from 'void*' to 'MyStreamInfo*'
+o/Users/mac/Documents/VideoCamera2/Classes/FTPHelper.mm: In function 'void MyDirectoryListingCallBack(__CFReadStream*, CFStreamEventType, void*)':
+o/Users/mac/Documents/VideoCamera2/Classes/FTPHelper.mm:180: warning: format '%d' expects type 'int', but argument 3 has type 'CFIndex'
+o/Users/mac/Documents/VideoCamera2/Classes/FTPHelper.mm:187: warning: format '%d' expects type 'int', but argument 3 has type 'CFStreamEventType'
+o/Users/mac/Documents/VideoCamera2/Classes/FTPHelper.mm: In function 'NSString* +[FTPHelper textForDirectoryListing:](objc_object*, objc_selector*, const __CFDictionary*)':
+o/Users/mac/Documents/VideoCamera2/Classes/FTPHelper.mm:274: error: invalid conversion from 'const void*' to 'const __CFNumber*'
+o/Users/mac/Documents/VideoCamera2/Classes/FTPHelper.mm:279: error: invalid conversion from 'const void*' to 'const __CFNumber*'
+o/Users/mac/Documents/VideoCamera2/Classes/FTPHelper.mm:291: error: invalid conversion from 'const void*' to 'const __CFString*'
+o/Users/mac/Documents/VideoCamera2/Classes/FTPHelper.mm:298: error: invalid conversion from 'const void*' to 'const __CFString*'
+o/Users/mac/Documents/VideoCamera2/Classes/FTPHelper.mm:305: error: invalid conversion from 'const void*' to 'const __CFNumber*'
+o/Users/mac/Documents/VideoCamera2/Classes/FTPHelper.mm:312: error: invalid conversion from 'const void*' to 'const __CFDate*'
+o/Users/mac/Documents/VideoCamera2/Classes/FTPHelper.mm:352: error: invalid conversion from 'const void*' to 'const __CFString*'
+o/Users/mac/Documents/VideoCamera2/Classes/FTPHelper.mm:358: error: invalid conversion from 'const void*' to 'const __CFString*'
+o/Users/mac/Documents/VideoCamera2/Classes/FTPHelper.mm: In function 'void MyUploadCallBack(__CFWriteStream*, CFStreamEventType, void*)':
+o/Users/mac/Documents/VideoCamera2/Classes/FTPHelper.mm:439: warning: format '%d' expects type 'int', but argument 3 has type 'CFIndex'
+o/Users/mac/Documents/VideoCamera2/Classes/FTPHelper.mm:443: error: jump to case label
+o/Users/mac/Documents/VideoCamera2/Classes/FTPHelper.mm:440: error:   crosses initialization of 'NSString* reason'
+o/Users/mac/Documents/VideoCamera2/Classes/FTPHelper.mm:446: error: jump to case label
+o/Users/mac/Documents/VideoCamera2/Classes/FTPHelper.mm:440: error:   crosses initialization of 'NSString* reason'
+o/Users/mac/Documents/VideoCamera2/Classes/FTPHelper.mm:447: warning: format '%d' expects type 'int', but argument 3 has type 'CFStreamEventType'
+o/Users/mac/Documents/VideoCamera2/Classes/FTPHelper.mm: In function 'void MyDownloadCallBack(__CFReadStream*, CFStreamEventType, void*)':
+o/Users/mac/Documents/VideoCamera2/Classes/FTPHelper.mm:578: error: invalid conversion from 'const void*' to 'const __CFNumber*'
+o/Users/mac/Documents/VideoCamera2/Classes/FTPHelper.mm:581: error: expected `)' before 'PRId64'
+o/Users/mac/Documents/VideoCamera2/Classes/FTPHelper.mm:581: warning: spurious trailing '%' in format
+o/Users/mac/Documents/VideoCamera2/Classes/FTPHelper.mm:621: warning: format '%d' expects type 'int', but argument 3 has type 'CFIndex'
+o/Users/mac/Documents/VideoCamera2/Classes/FTPHelper.mm:624: error: jump to case label
+o/Users/mac/Documents/VideoCamera2/Classes/FTPHelper.mm:620: error:   crosses initialization of 'NSString* reason'
+o/Users/mac/Documents/VideoCamera2/Classes/FTPHelper.mm:628: error: jump to case label
+o/Users/mac/Documents/VideoCamera2/Classes/FTPHelper.mm:620: error:   crosses initialization of 'NSString* reason'
+o/Users/mac/Documents/VideoCamera2/Classes/FTPHelper.mm:629: warning: format '%d' expects type 'int', but argument 3 has type 'CFStreamEventType'
+lSLF07#2@62"Compile /Users/mac/Documents/VideoCamera2/Classes/FTPHelper.mm361091209#361091209#0(3843"/Users/mac/Documents/VideoCamera2/Classes/FTPHelper.mm: In function 'void MyStreamInfoCreate(MyStreamInfo**, __CFReadStream*, __CFWriteStream*)':/Users/mac/Documents/VideoCamera2/Classes/FTPHelper.mm:55: error: invalid conversion from 'void*' to 'MyStreamInfo*'/Users/mac/Documents/VideoCamera2/Classes/FTPHelper.mm: In function 'void MyDirectoryListingCallBack(__CFReadStream*, CFStreamEventType, void*)':/Users/mac/Documents/VideoCamera2/Classes/FTPHelper.mm:180: warning: format '%d' expects type 'int', but argument 3 has type 'CFIndex'/Users/mac/Documents/VideoCamera2/Classes/FTPHelper.mm:187: warning: format '%d' expects type 'int', but argument 3 has type 'CFStreamEventType'/Users/mac/Documents/VideoCamera2/Classes/FTPHelper.mm: In function 'NSString* +[FTPHelper textForDirectoryListing:](objc_object*, objc_selector*, const __CFDictionary*)':/Users/mac/Documents/VideoCamera2/Classes/FTPHelper.mm:274: error: invalid conversion from 'const void*' to 'const __CFNumber*'/Users/mac/Documents/VideoCamera2/Classes/FTPHelper.mm:279: error: invalid conversion from 'const void*' to 'const __CFNumber*'/Users/mac/Documents/VideoCamera2/Classes/FTPHelper.mm:291: error: invalid conversion from 'const void*' to 'const __CFString*'/Users/mac/Documents/VideoCamera2/Classes/FTPHelper.mm:298: error: invalid conversion from 'const void*' to 'const __CFString*'/Users/mac/Documents/VideoCamera2/Classes/FTPHelper.mm:305: error: invalid conversion from 'const void*' to 'const __CFNumber*'/Users/mac/Documents/VideoCamera2/Classes/FTPHelper.mm:312: error: invalid conversion from 'const void*' to 'const __CFDate*'/Users/mac/Documents/VideoCamera2/Classes/FTPHelper.mm:352: error: invalid conversion from 'const void*' to 'const __CFString*'/Users/mac/Documents/VideoCamera2/Classes/FTPHelper.mm:358: error: invalid conversion from 'const void*' to 'const __CFString*'/Users/mac/Documents/VideoCamera2/Classes/FTPHelper.mm: In function 'void MyUploadCallBack(__CFWriteStream*, CFStreamEventType, void*)':/Users/mac/Documents/VideoCamera2/Classes/FTPHelper.mm:439: warning: format '%d' expects type 'int', but argument 3 has type 'CFIndex'/Users/mac/Documents/VideoCamera2/Classes/FTPHelper.mm:443: error: jump to case label/Users/mac/Documents/VideoCamera2/Classes/FTPHelper.mm:440: error:   crosses initialization of 'NSString* reason'/Users/mac/Documents/VideoCamera2/Classes/FTPHelper.mm:446: error: jump to case label/Users/mac/Documents/VideoCamera2/Classes/FTPHelper.mm:440: error:   crosses initialization of 'NSString* reason'/Users/mac/Documents/VideoCamera2/Classes/FTPHelper.mm:447: warning: format '%d' expects type 'int', but argument 3 has type 'CFStreamEventType'/Users/mac/Documents/VideoCamera2/Classes/FTPHelper.mm: In function 'void MyDownloadCallBack(__CFReadStream*, CFStreamEventType, void*)':/Users/mac/Documents/VideoCamera2/Classes/FTPHelper.mm:578: error: invalid conversion from 'const void*' to 'const __CFNumber*'/Users/mac/Documents/VideoCamera2/Classes/FTPHelper.mm:581: error: expected `)' before 'PRId64'/Users/mac/Documents/VideoCamera2/Classes/FTPHelper.mm:581: warning: spurious trailing '%' in format/Users/mac/Documents/VideoCamera2/Classes/FTPHelper.mm:621: warning: format '%d' expects type 'int', but argument 3 has type 'CFIndex'/Users/mac/Documents/VideoCamera2/Classes/FTPHelper.mm:624: error: jump to case label/Users/mac/Documents/VideoCamera2/Classes/FTPHelper.mm:620: error:   crosses initialization of 'NSString* reason'/Users/mac/Documents/VideoCamera2/Classes/FTPHelper.mm:628: error: jump to case label/Users/mac/Documents/VideoCamera2/Classes/FTPHelper.mm:620: error:   crosses initialization of 'NSString* reason'/Users/mac/Documents/VideoCamera2/Classes/FTPHelper.mm:629: warning: format '%d' expects type 'int', but argument 3 has type 'CFStreamEventType'26(4@50"Invalid conversion from 'void*' to 'MyStreamInfo*'361091209#146#117#0(6@54"/Users/mac/Documents/VideoCamera2/Classes/FTPHelper.mm361091209#55#0#55#0#34"invalid conversion from '*' to '*'0(22@65"Format '%d' expects type 'int', but argument 3 has type 'CFIndex'361091209#409#135#0(6@54"/Users/mac/Documents/VideoCamera2/Classes/FTPHelper.mm361091209#180#0#180#0#56"format '*' expects type '*', but argument * has type '*'0(22@75"Format '%d' expects type 'int', but argument 3 has type 'CFStreamEventType'361091209#544#145#0(6@54"/Users/mac/Documents/VideoCamera2/Classes/FTPHelper.mm361091209#187#0#187#0#56"format '*' expects type '*', but argument * has type '*'0(4@60"Invalid conversion from 'const void*' to 'const __CFNumber*'361091209#861#128#0(6@54"/Users/mac/Documents/VideoCamera2/Classes/FTPHelper.mm361091209#274#0#274#0#34"invalid conversion from '*' to '*'0(4@60"Invalid conversion from 'const void*' to 'const __CFNumber*'361091209#989#128#0(6@54"/Users/mac/Documents/VideoCamera2/Classes/FTPHelper.mm361091209#279#0#279#0#34"invalid conversion from '*' to '*'0(4@60"Invalid conversion from 'const void*' to 'const __CFString*'361091209#1117#128#0(6@54"/Users/mac/Documents/VideoCamera2/Classes/FTPHelper.mm361091209#291#0#291#0#34"invalid conversion from '*' to '*'0(4@60"Invalid conversion from 'const void*' to 'const __CFString*'361091209#1245#128#0(6@54"/Users/mac/Documents/VideoCamera2/Classes/FTPHelper.mm361091209#298#0#298#0#34"invalid conversion from '*' to '*'0(4@60"Invalid conversion from 'const void*' to 'const __CFNumber*'361091209#1373#128#0(6@54"/Users/mac/Documents/VideoCamera2/Classes/FTPHelper.mm361091209#305#0#305#0#34"invalid conversion from '*' to '*'0(4@58"Invalid conversion from 'const void*' to 'const __CFDate*'361091209#1501#126#0(6@54"/Users/mac/Documents/VideoCamera2/Classes/FTPHelper.mm361091209#312#0#312#0#34"invalid conversion from '*' to '*'0(4@60"Invalid conversion from 'const void*' to 'const __CFString*'361091209#1627#128#0(6@54"/Users/mac/Documents/VideoCamera2/Classes/FTPHelper.mm361091209#352#0#352#0#34"invalid conversion from '*' to '*'0(4@60"Invalid conversion from 'const void*' to 'const __CFString*'361091209#1755#128#0(6@54"/Users/mac/Documents/VideoCamera2/Classes/FTPHelper.mm361091209#358#0#358#0#34"invalid conversion from '*' to '*'0(22@65"Format '%d' expects type 'int', but argument 3 has type 'CFIndex'361091209#2020#135#0(6@54"/Users/mac/Documents/VideoCamera2/Classes/FTPHelper.mm361091209#439#0#439#0#56"format '*' expects type '*', but argument * has type '*'0(4@18"Jump to case label361091209#2155#86#0(6@54"/Users/mac/Documents/VideoCamera2/Classes/FTPHelper.mm361091209#443#0#443#0#0"0(4@44"Crosses initialization of 'NSString* reason'361091209#2241#114#0(6@54"/Users/mac/Documents/VideoCamera2/Classes/FTPHelper.mm361091209#440#0#440#0#0"0(4@18"Jump to case label361091209#2355#86#0(6@54"/Users/mac/Documents/VideoCamera2/Classes/FTPHelper.mm361091209#446#0#446#0#0"0(4@44"Crosses initialization of 'NSString* reason'361091209#2441#114#0(6@54"/Users/mac/Documents/VideoCamera2/Classes/FTPHelper.mm361091209#440#0#440#0#0"0(22@75"Format '%d' expects type 'int', but argument 3 has type 'CFStreamEventType'361091209#2555#145#0(6@54"/Users/mac/Documents/VideoCamera2/Classes/FTPHelper.mm361091209#447#0#447#0#56"format '*' expects type '*', but argument * has type '*'0(4@60"Invalid conversion from 'const void*' to 'const __CFNumber*'361091209#2838#128#0(6@54"/Users/mac/Documents/VideoCamera2/Classes/FTPHelper.mm361091209#578#0#578#0#34"invalid conversion from '*' to '*'0(4@28"Expected `)' before 'PRId64'361091209#2966#96#0(6@54"/Users/mac/Documents/VideoCamera2/Classes/FTPHelper.mm361091209#581#0#581#0#19"expected * before *0(22@31"Spurious trailing '%' in format361091209#3062#101#0(6@54"/Users/mac/Documents/VideoCamera2/Classes/FTPHelper.mm361091209#581#0#581#0#0"0(22@65"Format '%d' expects type 'int', but argument 3 has type 'CFIndex'361091209#3163#135#0(6@54"/Users/mac/Documents/VideoCamera2/Classes/FTPHelper.mm361091209#621#0#621#0#56"format '*' expects type '*', but argument * has type '*'0(4@18"Jump to case label361091209#3298#86#0(6@54"/Users/mac/Documents/VideoCamera2/Classes/FTPHelper.mm361091209#624#0#624#0#0"0(4@44"Crosses initialization of 'NSString* reason'361091209#3384#114#0(6@54"/Users/mac/Documents/VideoCamera2/Classes/FTPHelper.mm361091209#620#0#620#0#0"0(4@18"Jump to case label361091209#3498#86#0(6@54"/Users/mac/Documents/VideoCamera2/Classes/FTPHelper.mm361091209#628#0#628#0#0"0(4@44"Crosses initialization of 'NSString* reason'361091209#3584#114#0(6@54"/Users/mac/Documents/VideoCamera2/Classes/FTPHelper.mm361091209#620#0#620#0#0"0(22@75"Format '%d' expects type 'int', but argument 3 has type 'CFStreamEventType'361091209#3698#145#0(6@54"/Users/mac/Documents/VideoCamera2/Classes/FTPHelper.mm361091209#629#0#629#0#56"format '*' expects type '*', but argument * has type '*'0(0#0#54"/Users/mac/Documents/VideoCamera2/Classes/FTPHelper.mm8619527072#1809"    cd /Users/mac/Documents/VideoCamera2    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c++ -arch armv7 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk -fvisibility=hidden -fvisibility-inlines-hidden -gdwarf-2 -mthumb -miphoneos-version-min=4.2 -iquote /Users/mac/Documents/VideoCamera2/build/VideoCamera2.build/Debug-iphoneos/VideoCamera2.build/VideoCamera2-generated-files.hmap -I/Users/mac/Documents/VideoCamera2/build/VideoCamera2.build/Debug-iphoneos/VideoCamera2.build/VideoCamera2-own-target-headers.hmap -I/Users/mac/Documents/VideoCamera2/build/VideoCamera2.build/Debug-iphoneos/VideoCamera2.build/VideoCamera2-all-target-headers.hmap -iquote /Users/mac/Documents/VideoCamera2/build/VideoCamera2.build/Debug-iphoneos/VideoCamera2.build/VideoCamera2-project-headers.hmap -F/Users/mac/Documents/VideoCamera2/build/Debug-iphoneos -I/Users/mac/Documents/VideoCamera2/build/Debug-iphoneos/include -I/Users/mac/Documents/VideoCamera2/build/VideoCamera2.build/Debug-iphoneos/VideoCamera2.build/DerivedSources/armv7 -I/Users/mac/Documents/VideoCamera2/build/VideoCamera2.build/Debug-iphoneos/VideoCamera2.build/DerivedSources -include /var/folders/V5/V50X+xwaFHGY7+C6k0EAv++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/VideoCamera2_Prefix-bumjmbqocftbgjejulmcfrglzlmg/VideoCamera2_Prefix.pch -c /Users/mac/Documents/VideoCamera2/Classes/FTPHelper.mm -o /Users/mac/Documents/VideoCamera2/build/VideoCamera2.build/Debug-iphoneos/VideoCamera2.build/Objects-normal/armv7/FTPHelper.o1#
+
+CCompileC build/VideoCamera2.build/Debug-iphoneos/VideoCamera2.build/Objects-normal/armv7/FTPHelper.o /Users/mac/Documents/VideoCamera2副本/Classes/FTPHelper.m normal armv7 objective-c com.apple.compilers.gcc.4_2
+s363000295.760051
+e363000295.973510
+r1
+xCompileC
+xbuild/VideoCamera2.build/Debug-iphoneos/VideoCamera2.build/Objects-normal/armv7/FTPHelper.o
+x/Users/mac/Documents/VideoCamera2副本/Classes/FTPHelper.m
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+o/Users/mac/Documents/VideoCamera2副本/Classes/FTPHelper.m: In function 'MyDirectoryListingCallBack':
+o/Users/mac/Documents/VideoCamera2副本/Classes/FTPHelper.m:180: warning: format '%d' expects type 'int', but argument 3 has type 'CFIndex'
+o/Users/mac/Documents/VideoCamera2副本/Classes/FTPHelper.m:187: warning: format '%d' expects type 'int', but argument 3 has type 'CFStreamEventType'
+o/Users/mac/Documents/VideoCamera2副本/Classes/FTPHelper.m: In function 'MyUploadCallBack':
+o/Users/mac/Documents/VideoCamera2副本/Classes/FTPHelper.m:439: warning: format '%d' expects type 'int', but argument 3 has type 'CFIndex'
+o/Users/mac/Documents/VideoCamera2副本/Classes/FTPHelper.m:447: warning: format '%d' expects type 'int', but argument 3 has type 'CFStreamEventType'
+o/Users/mac/Documents/VideoCamera2副本/Classes/FTPHelper.m: In function 'MyDownloadCallBack':
+o/Users/mac/Documents/VideoCamera2副本/Classes/FTPHelper.m:719: warning: format '%d' expects type 'int', but argument 3 has type 'CFIndex'
+o/Users/mac/Documents/VideoCamera2副本/Classes/FTPHelper.m:727: warning: format '%d' expects type 'int', but argument 3 has type 'CFStreamEventType'
+lSLF07#2@67"Compile /Users/mac/Documents/VideoCamera2副本/Classes/FTPHelper.m363000295#363000295#0(1161"/Users/mac/Documents/VideoCamera2副本/Classes/FTPHelper.m: In function 'MyDirectoryListingCallBack':/Users/mac/Documents/VideoCamera2副本/Classes/FTPHelper.m:180: warning: format '%d' expects type 'int', but argument 3 has type 'CFIndex'/Users/mac/Documents/VideoCamera2副本/Classes/FTPHelper.m:187: warning: format '%d' expects type 'int', but argument 3 has type 'CFStreamEventType'/Users/mac/Documents/VideoCamera2副本/Classes/FTPHelper.m: In function 'MyUploadCallBack':/Users/mac/Documents/VideoCamera2副本/Classes/FTPHelper.m:439: warning: format '%d' expects type 'int', but argument 3 has type 'CFIndex'/Users/mac/Documents/VideoCamera2副本/Classes/FTPHelper.m:447: warning: format '%d' expects type 'int', but argument 3 has type 'CFStreamEventType'/Users/mac/Documents/VideoCamera2副本/Classes/FTPHelper.m: In function 'MyDownloadCallBack':/Users/mac/Documents/VideoCamera2副本/Classes/FTPHelper.m:719: warning: format '%d' expects type 'int', but argument 3 has type 'CFIndex'/Users/mac/Documents/VideoCamera2副本/Classes/FTPHelper.m:727: warning: format '%d' expects type 'int', but argument 3 has type 'CFStreamEventType'6(22@65"Format '%d' expects type 'int', but argument 3 has type 'CFIndex'363000295#99#136#0(6@59"/Users/mac/Documents/VideoCamera2副本/Classes/FTPHelper.m363000293#180#0#180#0#56"format '*' expects type '*', but argument * has type '*'0(22@75"Format '%d' expects type 'int', but argument 3 has type 'CFStreamEventType'363000295#235#146#0(6@59"/Users/mac/Documents/VideoCamera2副本/Classes/FTPHelper.m363000293#187#0#187#0#56"format '*' expects type '*', but argument * has type '*'0(22@65"Format '%d' expects type 'int', but argument 3 has type 'CFIndex'363000295#470#136#0(6@59"/Users/mac/Documents/VideoCamera2副本/Classes/FTPHelper.m363000293#439#0#439#0#56"format '*' expects type '*', but argument * has type '*'0(22@75"Format '%d' expects type 'int', but argument 3 has type 'CFStreamEventType'363000295#606#146#0(6@59"/Users/mac/Documents/VideoCamera2副本/Classes/FTPHelper.m363000293#447#0#447#0#56"format '*' expects type '*', but argument * has type '*'0(22@65"Format '%d' expects type 'int', but argument 3 has type 'CFIndex'363000295#843#136#0(6@59"/Users/mac/Documents/VideoCamera2副本/Classes/FTPHelper.m363000293#719#0#719#0#56"format '*' expects type '*', but argument * has type '*'0(22@75"Format '%d' expects type 'int', but argument 3 has type 'CFStreamEventType'363000295#979#146#0(6@59"/Users/mac/Documents/VideoCamera2副本/Classes/FTPHelper.m363000293#727#0#727#0#56"format '*' expects type '*', but argument * has type '*'0(0#0#59"/Users/mac/Documents/VideoCamera2副本/Classes/FTPHelper.m8663127040#1853"    cd /Users/mac/Documents/VideoCamera2副本    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv7 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=4.2 -iquote /Users/mac/Documents/VideoCamera2副本/build/VideoCamera2.build/Debug-iphoneos/VideoCamera2.build/VideoCamera2-generated-files.hmap -I/Users/mac/Documents/VideoCamera2副本/build/VideoCamera2.build/Debug-iphoneos/VideoCamera2.build/VideoCamera2-own-target-headers.hmap -I/Users/mac/Documents/VideoCamera2副本/build/VideoCamera2.build/Debug-iphoneos/VideoCamera2.build/VideoCamera2-all-target-headers.hmap -iquote /Users/mac/Documents/VideoCamera2副本/build/VideoCamera2.build/Debug-iphoneos/VideoCamera2.build/VideoCamera2-project-headers.hmap -F/Users/mac/Documents/VideoCamera2副本/build/Debug-iphoneos -I/Users/mac/Documents/VideoCamera2副本/build/Debug-iphoneos/include -I/Users/mac/Documents/VideoCamera2副本/build/VideoCamera2.build/Debug-iphoneos/VideoCamera2.build/DerivedSources/armv7 -I/Users/mac/Documents/VideoCamera2副本/build/VideoCamera2.build/Debug-iphoneos/VideoCamera2.build/DerivedSources -include /var/folders/V5/V50X+xwaFHGY7+C6k0EAv++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/VideoCamera2_Prefix-fymqgjwmkqsfzmbdmaqdazetkhjd/VideoCamera2_Prefix.pch -c /Users/mac/Documents/VideoCamera2副本/Classes/FTPHelper.m -o /Users/mac/Documents/VideoCamera2副本/build/VideoCamera2.build/Debug-iphoneos/VideoCamera2.build/Objects-normal/armv7/FTPHelper.o0#
+
+CCompileC build/VideoCamera2.build/Debug-iphoneos/VideoCamera2.build/Objects-normal/armv7/VideoCamera.o /Users/mac/Documents/VideoCamera2/Classes/VideoCamera.m normal armv7 objective-c com.apple.compilers.gcc.4_2
+s361166312.006653
+e361166312.239568
+r1
+xCompileC
+xbuild/VideoCamera2.build/Debug-iphoneos/VideoCamera2.build/Objects-normal/armv7/VideoCamera.o
+x/Users/mac/Documents/VideoCamera2/Classes/VideoCamera.m
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+o/Users/mac/Documents/VideoCamera2/Classes/VideoCamera.m: In function '-[VideoCamera startCamera:]':
+o/Users/mac/Documents/VideoCamera2/Classes/VideoCamera.m:73: warning: class 'VideoCamera' does not implement the 'UINavigationControllerDelegate' protocol
+o/Users/mac/Documents/VideoCamera2/Classes/VideoCamera.m: In function '-[VideoCamera selectFile:]':
+o/Users/mac/Documents/VideoCamera2/Classes/VideoCamera.m:114: warning: class 'VideoCamera' does not implement the 'UINavigationControllerDelegate' protocol
+lSLF07#2@63"Compile /Users/mac/Documents/VideoCamera2/Classes/VideoCamera.m361166312#361166312#0(508"/Users/mac/Documents/VideoCamera2/Classes/VideoCamera.m: In function '-[VideoCamera startCamera:]':/Users/mac/Documents/VideoCamera2/Classes/VideoCamera.m:73: warning: class 'VideoCamera' does not implement the 'UINavigationControllerDelegate' protocol/Users/mac/Documents/VideoCamera2/Classes/VideoCamera.m: In function '-[VideoCamera selectFile:]':/Users/mac/Documents/VideoCamera2/Classes/VideoCamera.m:114: warning: class 'VideoCamera' does not implement the 'UINavigationControllerDelegate' protocol2(22@84"Class 'VideoCamera' does not implement the 'UINavigationControllerDelegate' protocol361166312#100#154#0(6@55"/Users/mac/Documents/VideoCamera2/Classes/VideoCamera.m361166300#73#0#73#0#45"class '*' does not implement the '*' protocol0(22@84"Class 'VideoCamera' does not implement the 'UINavigationControllerDelegate' protocol361166312#353#155#0(6@55"/Users/mac/Documents/VideoCamera2/Classes/VideoCamera.m361166300#114#0#114#0#45"class '*' does not implement the '*' protocol0(0#0#55"/Users/mac/Documents/VideoCamera2/Classes/VideoCamera.m8622418720#1791"    cd /Users/mac/Documents/VideoCamera2    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv7 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=4.2 -iquote /Users/mac/Documents/VideoCamera2/build/VideoCamera2.build/Debug-iphoneos/VideoCamera2.build/VideoCamera2-generated-files.hmap -I/Users/mac/Documents/VideoCamera2/build/VideoCamera2.build/Debug-iphoneos/VideoCamera2.build/VideoCamera2-own-target-headers.hmap -I/Users/mac/Documents/VideoCamera2/build/VideoCamera2.build/Debug-iphoneos/VideoCamera2.build/VideoCamera2-all-target-headers.hmap -iquote /Users/mac/Documents/VideoCamera2/build/VideoCamera2.build/Debug-iphoneos/VideoCamera2.build/VideoCamera2-project-headers.hmap -F/Users/mac/Documents/VideoCamera2/build/Debug-iphoneos -I/Users/mac/Documents/VideoCamera2/build/Debug-iphoneos/include -I/Users/mac/Documents/VideoCamera2/build/VideoCamera2.build/Debug-iphoneos/VideoCamera2.build/DerivedSources/armv7 -I/Users/mac/Documents/VideoCamera2/build/VideoCamera2.build/Debug-iphoneos/VideoCamera2.build/DerivedSources -include /var/folders/V5/V50X+xwaFHGY7+C6k0EAv++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/VideoCamera2_Prefix-enjcldjhazvdoabubwnbthcfzwui/VideoCamera2_Prefix.pch -c /Users/mac/Documents/VideoCamera2/Classes/VideoCamera.m -o /Users/mac/Documents/VideoCamera2/build/VideoCamera2.build/Debug-iphoneos/VideoCamera2.build/Objects-normal/armv7/VideoCamera.o0#
+
+CCompileC build/VideoCamera2.build/Debug-iphoneos/VideoCamera2.build/Objects-normal/armv7/VideoCamera.o /Users/mac/Documents/VideoCamera2副本/Classes/VideoCamera.m normal armv7 objective-c com.apple.compilers.gcc.4_2
+s363000697.480950
+e363000697.673542
+r1
+xCompileC
+xbuild/VideoCamera2.build/Debug-iphoneos/VideoCamera2.build/Objects-normal/armv7/VideoCamera.o
+x/Users/mac/Documents/VideoCamera2副本/Classes/VideoCamera.m
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+o/Users/mac/Documents/VideoCamera2副本/Classes/VideoCamera.m: In function '-[VideoCamera startCamera:]':
+o/Users/mac/Documents/VideoCamera2副本/Classes/VideoCamera.m:72: warning: class 'VideoCamera' does not implement the 'UINavigationControllerDelegate' protocol
+o/Users/mac/Documents/VideoCamera2副本/Classes/VideoCamera.m: In function '-[VideoCamera selectFile:]':
+o/Users/mac/Documents/VideoCamera2副本/Classes/VideoCamera.m:113: warning: class 'VideoCamera' does not implement the 'UINavigationControllerDelegate' protocol
+lSLF07#2@69"Compile /Users/mac/Documents/VideoCamera2副本/Classes/VideoCamera.m363000697#363000697#0(532"/Users/mac/Documents/VideoCamera2副本/Classes/VideoCamera.m: In function '-[VideoCamera startCamera:]':/Users/mac/Documents/VideoCamera2副本/Classes/VideoCamera.m:72: warning: class 'VideoCamera' does not implement the 'UINavigationControllerDelegate' protocol/Users/mac/Documents/VideoCamera2副本/Classes/VideoCamera.m: In function '-[VideoCamera selectFile:]':/Users/mac/Documents/VideoCamera2副本/Classes/VideoCamera.m:113: warning: class 'VideoCamera' does not implement the 'UINavigationControllerDelegate' protocol2(22@84"Class 'VideoCamera' does not implement the 'UINavigationControllerDelegate' protocol363000697#102#156#0(6@61"/Users/mac/Documents/VideoCamera2副本/Classes/VideoCamera.m363000694#72#0#72#0#45"class '*' does not implement the '*' protocol0(22@84"Class 'VideoCamera' does not implement the 'UINavigationControllerDelegate' protocol363000697#359#157#0(6@61"/Users/mac/Documents/VideoCamera2副本/Classes/VideoCamera.m363000694#113#0#113#0#45"class '*' does not implement the '*' protocol0(0#0#61"/Users/mac/Documents/VideoCamera2副本/Classes/VideoCamera.m8661993472#1857"    cd /Users/mac/Documents/VideoCamera2副本    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv7 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=4.2 -iquote /Users/mac/Documents/VideoCamera2副本/build/VideoCamera2.build/Debug-iphoneos/VideoCamera2.build/VideoCamera2-generated-files.hmap -I/Users/mac/Documents/VideoCamera2副本/build/VideoCamera2.build/Debug-iphoneos/VideoCamera2.build/VideoCamera2-own-target-headers.hmap -I/Users/mac/Documents/VideoCamera2副本/build/VideoCamera2.build/Debug-iphoneos/VideoCamera2.build/VideoCamera2-all-target-headers.hmap -iquote /Users/mac/Documents/VideoCamera2副本/build/VideoCamera2.build/Debug-iphoneos/VideoCamera2.build/VideoCamera2-project-headers.hmap -F/Users/mac/Documents/VideoCamera2副本/build/Debug-iphoneos -I/Users/mac/Documents/VideoCamera2副本/build/Debug-iphoneos/include -I/Users/mac/Documents/VideoCamera2副本/build/VideoCamera2.build/Debug-iphoneos/VideoCamera2.build/DerivedSources/armv7 -I/Users/mac/Documents/VideoCamera2副本/build/VideoCamera2.build/Debug-iphoneos/VideoCamera2.build/DerivedSources -include /var/folders/V5/V50X+xwaFHGY7+C6k0EAv++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/VideoCamera2_Prefix-fymqgjwmkqsfzmbdmaqdazetkhjd/VideoCamera2_Prefix.pch -c /Users/mac/Documents/VideoCamera2副本/Classes/VideoCamera.m -o /Users/mac/Documents/VideoCamera2副本/build/VideoCamera2.build/Debug-iphoneos/VideoCamera2.build/Objects-normal/armv7/VideoCamera.o0#
+
+CCompileC build/VideoCamera2.build/Debug-iphoneos/VideoCamera2.build/Objects-normal/armv7/VideoCamera2AppDelegate.o /Users/mac/Documents/VideoCamera2/Classes/VideoCamera2AppDelegate.m normal armv7 objective-c com.apple.compilers.gcc.4_2
+s361165132.432367
+e361165132.629521
+r1
+xCompileC
+xbuild/VideoCamera2.build/Debug-iphoneos/VideoCamera2.build/Objects-normal/armv7/VideoCamera2AppDelegate.o
+x/Users/mac/Documents/VideoCamera2/Classes/VideoCamera2AppDelegate.m
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@75"Compile /Users/mac/Documents/VideoCamera2/Classes/VideoCamera2AppDelegate.m361165132#361165132#0(0"0(0#0#67"/Users/mac/Documents/VideoCamera2/Classes/VideoCamera2AppDelegate.m8618086912#1815"    cd /Users/mac/Documents/VideoCamera2    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv7 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=4.2 -iquote /Users/mac/Documents/VideoCamera2/build/VideoCamera2.build/Debug-iphoneos/VideoCamera2.build/VideoCamera2-generated-files.hmap -I/Users/mac/Documents/VideoCamera2/build/VideoCamera2.build/Debug-iphoneos/VideoCamera2.build/VideoCamera2-own-target-headers.hmap -I/Users/mac/Documents/VideoCamera2/build/VideoCamera2.build/Debug-iphoneos/VideoCamera2.build/VideoCamera2-all-target-headers.hmap -iquote /Users/mac/Documents/VideoCamera2/build/VideoCamera2.build/Debug-iphoneos/VideoCamera2.build/VideoCamera2-project-headers.hmap -F/Users/mac/Documents/VideoCamera2/build/Debug-iphoneos -I/Users/mac/Documents/VideoCamera2/build/Debug-iphoneos/include -I/Users/mac/Documents/VideoCamera2/build/VideoCamera2.build/Debug-iphoneos/VideoCamera2.build/DerivedSources/armv7 -I/Users/mac/Documents/VideoCamera2/build/VideoCamera2.build/Debug-iphoneos/VideoCamera2.build/DerivedSources -include /var/folders/V5/V50X+xwaFHGY7+C6k0EAv++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/VideoCamera2_Prefix-enjcldjhazvdoabubwnbthcfzwui/VideoCamera2_Prefix.pch -c /Users/mac/Documents/VideoCamera2/Classes/VideoCamera2AppDelegate.m -o /Users/mac/Documents/VideoCamera2/build/VideoCamera2.build/Debug-iphoneos/VideoCamera2.build/Objects-normal/armv7/VideoCamera2AppDelegate.o0#
+
+CCompileC build/VideoCamera2.build/Debug-iphoneos/VideoCamera2.build/Objects-normal/armv7/VideoCamera2AppDelegate.o /Users/mac/Documents/VideoCamera2副本/Classes/VideoCamera2AppDelegate.m normal armv7 objective-c com.apple.compilers.gcc.4_2
+s362998850.885546
+e362998851.062368
+r1
+xCompileC
+xbuild/VideoCamera2.build/Debug-iphoneos/VideoCamera2.build/Objects-normal/armv7/VideoCamera2AppDelegate.o
+x/Users/mac/Documents/VideoCamera2副本/Classes/VideoCamera2AppDelegate.m
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@81"Compile /Users/mac/Documents/VideoCamera2副本/Classes/VideoCamera2AppDelegate.m362998850#362998851#0(0"0(0#0#73"/Users/mac/Documents/VideoCamera2副本/Classes/VideoCamera2AppDelegate.m8623646656#1881"    cd /Users/mac/Documents/VideoCamera2副本    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv7 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=4.2 -iquote /Users/mac/Documents/VideoCamera2副本/build/VideoCamera2.build/Debug-iphoneos/VideoCamera2.build/VideoCamera2-generated-files.hmap -I/Users/mac/Documents/VideoCamera2副本/build/VideoCamera2.build/Debug-iphoneos/VideoCamera2.build/VideoCamera2-own-target-headers.hmap -I/Users/mac/Documents/VideoCamera2副本/build/VideoCamera2.build/Debug-iphoneos/VideoCamera2.build/VideoCamera2-all-target-headers.hmap -iquote /Users/mac/Documents/VideoCamera2副本/build/VideoCamera2.build/Debug-iphoneos/VideoCamera2.build/VideoCamera2-project-headers.hmap -F/Users/mac/Documents/VideoCamera2副本/build/Debug-iphoneos -I/Users/mac/Documents/VideoCamera2副本/build/Debug-iphoneos/include -I/Users/mac/Documents/VideoCamera2副本/build/VideoCamera2.build/Debug-iphoneos/VideoCamera2.build/DerivedSources/armv7 -I/Users/mac/Documents/VideoCamera2副本/build/VideoCamera2.build/Debug-iphoneos/VideoCamera2.build/DerivedSources -include /var/folders/V5/V50X+xwaFHGY7+C6k0EAv++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/VideoCamera2_Prefix-fymqgjwmkqsfzmbdmaqdazetkhjd/VideoCamera2_Prefix.pch -c /Users/mac/Documents/VideoCamera2副本/Classes/VideoCamera2AppDelegate.m -o /Users/mac/Documents/VideoCamera2副本/build/VideoCamera2.build/Debug-iphoneos/VideoCamera2.build/Objects-normal/armv7/VideoCamera2AppDelegate.o0#
+
+CCompileC build/VideoCamera2.build/Debug-iphoneos/VideoCamera2.build/Objects-normal/armv7/main.o /Users/mac/Documents/VideoCamera2/main.m normal armv7 objective-c com.apple.compilers.gcc.4_2
+s360730808.003199
+e360730808.070982
+r1
+xCompileC
+xbuild/VideoCamera2.build/Debug-iphoneos/VideoCamera2.build/Objects-normal/armv7/main.o
+x/Users/mac/Documents/VideoCamera2/main.m
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@48"Compile /Users/mac/Documents/VideoCamera2/main.m360730808#360730808#0(0"0(0#0#40"/Users/mac/Documents/VideoCamera2/main.m8614632128#1769"    cd /Users/mac/Documents/VideoCamera2    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv7 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=4.2 -iquote /Users/mac/Documents/VideoCamera2/build/VideoCamera2.build/Debug-iphoneos/VideoCamera2.build/VideoCamera2-generated-files.hmap -I/Users/mac/Documents/VideoCamera2/build/VideoCamera2.build/Debug-iphoneos/VideoCamera2.build/VideoCamera2-own-target-headers.hmap -I/Users/mac/Documents/VideoCamera2/build/VideoCamera2.build/Debug-iphoneos/VideoCamera2.build/VideoCamera2-all-target-headers.hmap -iquote /Users/mac/Documents/VideoCamera2/build/VideoCamera2.build/Debug-iphoneos/VideoCamera2.build/VideoCamera2-project-headers.hmap -F/Users/mac/Documents/VideoCamera2/build/Debug-iphoneos -I/Users/mac/Documents/VideoCamera2/build/Debug-iphoneos/include -I/Users/mac/Documents/VideoCamera2/build/VideoCamera2.build/Debug-iphoneos/VideoCamera2.build/DerivedSources/armv7 -I/Users/mac/Documents/VideoCamera2/build/VideoCamera2.build/Debug-iphoneos/VideoCamera2.build/DerivedSources -include /var/folders/V5/V50X+xwaFHGY7+C6k0EAv++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/VideoCamera2_Prefix-enjcldjhazvdoabubwnbthcfzwui/VideoCamera2_Prefix.pch -c /Users/mac/Documents/VideoCamera2/main.m -o /Users/mac/Documents/VideoCamera2/build/VideoCamera2.build/Debug-iphoneos/VideoCamera2.build/Objects-normal/armv7/main.o0#
+
+CCompileC build/VideoCamera2.build/Debug-iphoneos/VideoCamera2.build/Objects-normal/armv7/main.o /Users/mac/Documents/VideoCamera2副本/main.m normal armv7 objective-c com.apple.compilers.gcc.4_2
+s362990548.481630
+e362990548.559825
+r1
+xCompileC
+xbuild/VideoCamera2.build/Debug-iphoneos/VideoCamera2.build/Objects-normal/armv7/main.o
+x/Users/mac/Documents/VideoCamera2副本/main.m
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@54"Compile /Users/mac/Documents/VideoCamera2副本/main.m362990548#362990548#0(0"0(0#0#46"/Users/mac/Documents/VideoCamera2副本/main.m8605852672#1835"    cd /Users/mac/Documents/VideoCamera2副本    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv7 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=4.2 -iquote /Users/mac/Documents/VideoCamera2副本/build/VideoCamera2.build/Debug-iphoneos/VideoCamera2.build/VideoCamera2-generated-files.hmap -I/Users/mac/Documents/VideoCamera2副本/build/VideoCamera2.build/Debug-iphoneos/VideoCamera2.build/VideoCamera2-own-target-headers.hmap -I/Users/mac/Documents/VideoCamera2副本/build/VideoCamera2.build/Debug-iphoneos/VideoCamera2.build/VideoCamera2-all-target-headers.hmap -iquote /Users/mac/Documents/VideoCamera2副本/build/VideoCamera2.build/Debug-iphoneos/VideoCamera2.build/VideoCamera2-project-headers.hmap -F/Users/mac/Documents/VideoCamera2副本/build/Debug-iphoneos -I/Users/mac/Documents/VideoCamera2副本/build/Debug-iphoneos/include -I/Users/mac/Documents/VideoCamera2副本/build/VideoCamera2.build/Debug-iphoneos/VideoCamera2.build/DerivedSources/armv7 -I/Users/mac/Documents/VideoCamera2副本/build/VideoCamera2.build/Debug-iphoneos/VideoCamera2.build/DerivedSources -include /var/folders/V5/V50X+xwaFHGY7+C6k0EAv++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/VideoCamera2_Prefix-fymqgjwmkqsfzmbdmaqdazetkhjd/VideoCamera2_Prefix.pch -c /Users/mac/Documents/VideoCamera2副本/main.m -o /Users/mac/Documents/VideoCamera2副本/build/VideoCamera2.build/Debug-iphoneos/VideoCamera2.build/Objects-normal/armv7/main.o0#
+
+CCompileXIB /Users/mac/Documents/VideoCamera2/Classes/VideoCamera.xib
+s360742258.714163
+e360742259.274034
+r1
+xCompileXIB
+x/Users/mac/Documents/VideoCamera2/Classes/VideoCamera.xib
+lSLF07#2@34"CompileXIB Classes/VideoCamera.xib360742258#360742259#0(0"0(0#0#57"/Users/mac/Documents/VideoCamera2/Classes/VideoCamera.xib28429440805568580#542"    cd /Users/mac/Documents/VideoCamera2    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.2    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/mac/Documents/VideoCamera2/build/Debug-iphoneos/VideoCamera2.app/VideoCamera.nib /Users/mac/Documents/VideoCamera2/Classes/VideoCamera.xib --sdk /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk0#
+
+CCompileXIB /Users/mac/Documents/VideoCamera2/MainWindow.xib
+s360730804.813492
+e360730805.987732
+r1
+xCompileXIB
+x/Users/mac/Documents/VideoCamera2/MainWindow.xib
+lSLF07#2@25"CompileXIB MainWindow.xib360730804#360730805#0(0"0(0#0#48"/Users/mac/Documents/VideoCamera2/MainWindow.xib28429440805568580#532"    cd /Users/mac/Documents/VideoCamera2    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.2    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/mac/Documents/VideoCamera2/build/Debug-iphoneos/VideoCamera2.app/MainWindow.nib /Users/mac/Documents/VideoCamera2/MainWindow.xib --sdk /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk0#
+
+CCompileXIB /Users/mac/Documents/VideoCamera2副本/Classes/VideoCamera.xib
+r0
+
+CCompileXIB /Users/mac/Documents/VideoCamera2副本/MainWindow.xib
+r0
+
+CCpResource build/Debug-iphoneos/VideoCamera2.app/ResourceRules.plist /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/ResourceRules.plist
+s360730804.667013
+e360730804.813396
+r1
+xCpResource
+xbuild/Debug-iphoneos/VideoCamera2.app/ResourceRules.plist
+x/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/ResourceRules.plist
+lSLF07#2@94"Copy /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/ResourceRules.plist360730804#360730804#0(0"0(0#0#89"/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/ResourceRules.plist8617041792#489"    cd /Users/mac/Documents/VideoCamera2    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/ResourceRules.plist /Users/mac/Documents/VideoCamera2/build/Debug-iphoneos/VideoCamera2.app0#
+
+CCpResource build/Debug-iphoneos/VideoCamera2.app/ResourceRules.plist /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS5.0.sdk/ResourceRules.plist
+r0
+
+CCreateUniversalBinary /Users/mac/Documents/VideoCamera2/build/Debug-iphoneos/VideoCamera2.app/VideoCamera2 normal "armv6 armv7"
+s361166312.287431
+e361166312.314212
+r1
+xCreateUniversalBinary
+x/Users/mac/Documents/VideoCamera2/build/Debug-iphoneos/VideoCamera2.app/VideoCamera2
+xnormal
+xarmv6 armv7
+lSLF07#2@93"CreateUniversalBinary build/Debug-iphoneos/VideoCamera2.app/VideoCamera2 normal "armv6 armv7"361166312#361166312#0(0"0(0#0#45"/Users/mac/Documents/VideoCamera2/armv6 armv78600781536#538"    cd /Users/mac/Documents/VideoCamera2    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/lipo -create /Users/mac/Documents/VideoCamera2/build/VideoCamera2.build/Debug-iphoneos/VideoCamera2.build/Objects-normal/armv6/VideoCamera2 /Users/mac/Documents/VideoCamera2/build/VideoCamera2.build/Debug-iphoneos/VideoCamera2.build/Objects-normal/armv7/VideoCamera2 -output /Users/mac/Documents/VideoCamera2/build/Debug-iphoneos/VideoCamera2.app/VideoCamera20#
+
+CCreateUniversalBinary /Users/mac/Documents/VideoCamera2副本/build/Debug-iphoneos/VideoCamera2.app/VideoCamera2 normal "armv6 armv7"
+s363000697.725557
+e363000697.728818
+r1
+xCreateUniversalBinary
+x/Users/mac/Documents/VideoCamera2副本/build/Debug-iphoneos/VideoCamera2.app/VideoCamera2
+xnormal
+xarmv6 armv7
+lSLF07#2@93"CreateUniversalBinary build/Debug-iphoneos/VideoCamera2.app/VideoCamera2 normal "armv6 armv7"363000697#363000697#0(0"0(0#0#51"/Users/mac/Documents/VideoCamera2副本/armv6 armv78658970752#562"    cd /Users/mac/Documents/VideoCamera2副本    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/lipo -create /Users/mac/Documents/VideoCamera2副本/build/VideoCamera2.build/Debug-iphoneos/VideoCamera2.build/Objects-normal/armv6/VideoCamera2 /Users/mac/Documents/VideoCamera2副本/build/VideoCamera2.build/Debug-iphoneos/VideoCamera2.build/Objects-normal/armv7/VideoCamera2 -output /Users/mac/Documents/VideoCamera2副本/build/Debug-iphoneos/VideoCamera2.app/VideoCamera20#
+
+CGenerateDSYMFile /Users/mac/Documents/VideoCamera2/build/Debug-iphoneos/VideoCamera2.app.dSYM /Users/mac/Documents/VideoCamera2/build/Debug-iphoneos/VideoCamera2.app/VideoCamera2
+s361166312.314341
+e361166312.457639
+r1
+xGenerateDSYMFile
+x/Users/mac/Documents/VideoCamera2/build/Debug-iphoneos/VideoCamera2.app.dSYM
+x/Users/mac/Documents/VideoCamera2/build/Debug-iphoneos/VideoCamera2.app/VideoCamera2
+lSLF07#2@110"GenerateDSYMFile build/Debug-iphoneos/VideoCamera2.app.dSYM build/Debug-iphoneos/VideoCamera2.app/VideoCamera2361166312#361166312#0(0"0(0#0#84"/Users/mac/Documents/VideoCamera2/build/Debug-iphoneos/VideoCamera2.app/VideoCamera28621310560#362"    cd /Users/mac/Documents/VideoCamera2    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/dsymutil /Users/mac/Documents/VideoCamera2/build/Debug-iphoneos/VideoCamera2.app/VideoCamera2 -o /Users/mac/Documents/VideoCamera2/build/Debug-iphoneos/VideoCamera2.app.dSYM0#
+
+CGenerateDSYMFile /Users/mac/Documents/VideoCamera2副本/build/Debug-iphoneos/VideoCamera2.app.dSYM /Users/mac/Documents/VideoCamera2副本/build/Debug-iphoneos/VideoCamera2.app/VideoCamera2
+s363000697.728905
+e363000697.755396
+r1
+xGenerateDSYMFile
+x/Users/mac/Documents/VideoCamera2副本/build/Debug-iphoneos/VideoCamera2.app.dSYM
+x/Users/mac/Documents/VideoCamera2副本/build/Debug-iphoneos/VideoCamera2.app/VideoCamera2
+lSLF07#2@110"GenerateDSYMFile build/Debug-iphoneos/VideoCamera2.app.dSYM build/Debug-iphoneos/VideoCamera2.app/VideoCamera2363000697#363000697#0(0"0(0#0#90"/Users/mac/Documents/VideoCamera2副本/build/Debug-iphoneos/VideoCamera2.app/VideoCamera28656412224#380"    cd /Users/mac/Documents/VideoCamera2副本    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/dsymutil /Users/mac/Documents/VideoCamera2副本/build/Debug-iphoneos/VideoCamera2.app/VideoCamera2 -o /Users/mac/Documents/VideoCamera2副本/build/Debug-iphoneos/VideoCamera2.app.dSYM0#
+
+CLd /Users/mac/Documents/VideoCamera2/build/VideoCamera2.build/Debug-iphoneos/VideoCamera2.build/Objects-normal/armv6/VideoCamera2 normal armv6
+s361166312.250808
+e361166312.287331
+r1
+xLd
+x/Users/mac/Documents/VideoCamera2/build/VideoCamera2.build/Debug-iphoneos/VideoCamera2.build/Objects-normal/armv6/VideoCamera2
+xnormal
+xarmv6
+lSLF07#2@131"Link /Users/mac/Documents/VideoCamera2/build/VideoCamera2.build/Debug-iphoneos/VideoCamera2.build/Objects-normal/armv6/VideoCamera2361166312#361166312#0(0"0(0#0#0"8619852320#985"    cd /Users/mac/Documents/VideoCamera2    setenv IPHONEOS_DEPLOYMENT_TARGET 4.2    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -arch armv6 -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk -L/Users/mac/Documents/VideoCamera2/build/Debug-iphoneos -F/Users/mac/Documents/VideoCamera2/build/Debug-iphoneos -filelist /Users/mac/Documents/VideoCamera2/build/VideoCamera2.build/Debug-iphoneos/VideoCamera2.build/Objects-normal/armv6/VideoCamera2.LinkFileList -dead_strip -miphoneos-version-min=4.2 -framework Foundation -framework UIKit -framework CoreGraphics -framework MobileCoreServices -framework AVFoundation -framework CoreMedia -framework AssetsLibrary -framework CFNetwork -o /Users/mac/Documents/VideoCamera2/build/VideoCamera2.build/Debug-iphoneos/VideoCamera2.build/Objects-normal/armv6/VideoCamera20#
+
+CLd /Users/mac/Documents/VideoCamera2/build/VideoCamera2.build/Debug-iphoneos/VideoCamera2.build/Objects-normal/armv7/VideoCamera2 normal armv7
+s361166312.239827
+e361166312.279503
+r1
+xLd
+x/Users/mac/Documents/VideoCamera2/build/VideoCamera2.build/Debug-iphoneos/VideoCamera2.build/Objects-normal/armv7/VideoCamera2
+xnormal
+xarmv7
+lSLF07#2@131"Link /Users/mac/Documents/VideoCamera2/build/VideoCamera2.build/Debug-iphoneos/VideoCamera2.build/Objects-normal/armv7/VideoCamera2361166312#361166312#0(0"0(0#0#0"8620818464#985"    cd /Users/mac/Documents/VideoCamera2    setenv IPHONEOS_DEPLOYMENT_TARGET 4.2    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -arch armv7 -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk -L/Users/mac/Documents/VideoCamera2/build/Debug-iphoneos -F/Users/mac/Documents/VideoCamera2/build/Debug-iphoneos -filelist /Users/mac/Documents/VideoCamera2/build/VideoCamera2.build/Debug-iphoneos/VideoCamera2.build/Objects-normal/armv7/VideoCamera2.LinkFileList -dead_strip -miphoneos-version-min=4.2 -framework Foundation -framework UIKit -framework CoreGraphics -framework MobileCoreServices -framework AVFoundation -framework CoreMedia -framework AssetsLibrary -framework CFNetwork -o /Users/mac/Documents/VideoCamera2/build/VideoCamera2.build/Debug-iphoneos/VideoCamera2.build/Objects-normal/armv7/VideoCamera20#
+
+CLd /Users/mac/Documents/VideoCamera2副本/build/VideoCamera2.build/Debug-iphoneos/VideoCamera2.build/Objects-normal/armv6/VideoCamera2 normal armv6
+s363000697.681898
+e363000697.725449
+r1
+xLd
+x/Users/mac/Documents/VideoCamera2副本/build/VideoCamera2.build/Debug-iphoneos/VideoCamera2.build/Objects-normal/armv6/VideoCamera2
+xnormal
+xarmv6
+lSLF07#2@137"Link /Users/mac/Documents/VideoCamera2副本/build/VideoCamera2.build/Debug-iphoneos/VideoCamera2.build/Objects-normal/armv6/VideoCamera2363000697#363000697#0(0"0(0#0#0"8661860192#1015"    cd /Users/mac/Documents/VideoCamera2副本    setenv IPHONEOS_DEPLOYMENT_TARGET 4.2    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -arch armv6 -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk -L/Users/mac/Documents/VideoCamera2副本/build/Debug-iphoneos -F/Users/mac/Documents/VideoCamera2副本/build/Debug-iphoneos -filelist /Users/mac/Documents/VideoCamera2副本/build/VideoCamera2.build/Debug-iphoneos/VideoCamera2.build/Objects-normal/armv6/VideoCamera2.LinkFileList -dead_strip -miphoneos-version-min=4.2 -framework Foundation -framework UIKit -framework CoreGraphics -framework MobileCoreServices -framework AVFoundation -framework CoreMedia -framework AssetsLibrary -framework CFNetwork -o /Users/mac/Documents/VideoCamera2副本/build/VideoCamera2.build/Debug-iphoneos/VideoCamera2.build/Objects-normal/armv6/VideoCamera20#
+
+CLd /Users/mac/Documents/VideoCamera2副本/build/VideoCamera2.build/Debug-iphoneos/VideoCamera2.build/Objects-normal/armv7/VideoCamera2 normal armv7
+s363000697.673833
+e363000697.713059
+r1
+xLd
+x/Users/mac/Documents/VideoCamera2副本/build/VideoCamera2.build/Debug-iphoneos/VideoCamera2.build/Objects-normal/armv7/VideoCamera2
+xnormal
+xarmv7
+lSLF07#2@137"Link /Users/mac/Documents/VideoCamera2副本/build/VideoCamera2.build/Debug-iphoneos/VideoCamera2.build/Objects-normal/armv7/VideoCamera2363000697#363000697#0(0"0(0#0#0"8662916064#1015"    cd /Users/mac/Documents/VideoCamera2副本    setenv IPHONEOS_DEPLOYMENT_TARGET 4.2    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -arch armv7 -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk -L/Users/mac/Documents/VideoCamera2副本/build/Debug-iphoneos -F/Users/mac/Documents/VideoCamera2副本/build/Debug-iphoneos -filelist /Users/mac/Documents/VideoCamera2副本/build/VideoCamera2.build/Debug-iphoneos/VideoCamera2.build/Objects-normal/armv7/VideoCamera2.LinkFileList -dead_strip -miphoneos-version-min=4.2 -framework Foundation -framework UIKit -framework CoreGraphics -framework MobileCoreServices -framework AVFoundation -framework CoreMedia -framework AssetsLibrary -framework CFNetwork -o /Users/mac/Documents/VideoCamera2副本/build/VideoCamera2.build/Debug-iphoneos/VideoCamera2.build/Objects-normal/armv7/VideoCamera20#
+
+CProcessInfoPlistFile /Users/mac/Documents/VideoCamera2/build/Debug-iphoneos/VideoCamera2.app/Info.plist VideoCamera2-Info.plist
+s360730804.667981
+e360730804.768766
+r1
+xProcessInfoPlistFile
+x/Users/mac/Documents/VideoCamera2/build/Debug-iphoneos/VideoCamera2.app/Info.plist
+xVideoCamera2-Info.plist
+lSLF07#2@31"Process VideoCamera2-Info.plist360730804#360730804#0(0"0(0#0#57"/Users/mac/Documents/VideoCamera2/VideoCamera2-Info.plist8614374496#562"    cd /Users/mac/Documents/VideoCamera2    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility VideoCamera2-Info.plist -genpkginfo /Users/mac/Documents/VideoCamera2/build/Debug-iphoneos/VideoCamera2.app/PkgInfo -expandbuildsettings -format binary -platform iphoneos -resourcerulesfile /Users/mac/Documents/VideoCamera2/build/Debug-iphoneos/VideoCamera2.app/ResourceRules.plist -o /Users/mac/Documents/VideoCamera2/build/Debug-iphoneos/VideoCamera2.app/Info.plist0#
+
+CProcessInfoPlistFile /Users/mac/Documents/VideoCamera2副本/build/Debug-iphoneos/VideoCamera2.app/Info.plist VideoCamera2-Info.plist
+r0
+
+CProcessPCH /var/folders/V5/V50X+xwaFHGY7+C6k0EAv++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/VideoCamera2_Prefix-dettwycgysarxnajqdelaurplpvl/VideoCamera2_Prefix.pch.gch VideoCamera2_Prefix.pch normal armv6 objective-c com.apple.compilers.gcc.4_2
+s362990544.798551
+e362990547.522626
+r1
+xProcessPCH
+x/var/folders/V5/V50X+xwaFHGY7+C6k0EAv++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/VideoCamera2_Prefix-dettwycgysarxnajqdelaurplpvl/VideoCamera2_Prefix.pch.gch
+xVideoCamera2_Prefix.pch
+xnormal
+xarmv6
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@34"Precompile VideoCamera2_Prefix.pch362990544#362990547#0(0"0(0#0#63"/Users/mac/Documents/VideoCamera2副本/VideoCamera2_Prefix.pch8243114957482189824#1727"    cd /Users/mac/Documents/VideoCamera2副本    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch armv6 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=4.2 -iquote /Users/mac/Documents/VideoCamera2副本/build/VideoCamera2.build/Debug-iphoneos/VideoCamera2.build/VideoCamera2-generated-files.hmap -I/Users/mac/Documents/VideoCamera2副本/build/VideoCamera2.build/Debug-iphoneos/VideoCamera2.build/VideoCamera2-own-target-headers.hmap -I/Users/mac/Documents/VideoCamera2副本/build/VideoCamera2.build/Debug-iphoneos/VideoCamera2.build/VideoCamera2-all-target-headers.hmap -iquote /Users/mac/Documents/VideoCamera2副本/build/VideoCamera2.build/Debug-iphoneos/VideoCamera2.build/VideoCamera2-project-headers.hmap -F/Users/mac/Documents/VideoCamera2副本/build/Debug-iphoneos -I/Users/mac/Documents/VideoCamera2副本/build/Debug-iphoneos/include -I/Users/mac/Documents/VideoCamera2副本/build/VideoCamera2.build/Debug-iphoneos/VideoCamera2.build/DerivedSources/armv6 -I/Users/mac/Documents/VideoCamera2副本/build/VideoCamera2.build/Debug-iphoneos/VideoCamera2.build/DerivedSources -c /Users/mac/Documents/VideoCamera2副本/VideoCamera2_Prefix.pch -o /var/folders/V5/V50X+xwaFHGY7+C6k0EAv++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/VideoCamera2_Prefix-dettwycgysarxnajqdelaurplpvl/VideoCamera2_Prefix.pch.gch0#
+
+CProcessPCH /var/folders/V5/V50X+xwaFHGY7+C6k0EAv++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/VideoCamera2_Prefix-eadbrvzdsfjznmgwlavbblsfttgi/VideoCamera2_Prefix.pch.gch VideoCamera2_Prefix.pch normal armv6 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CProcessPCH /var/folders/V5/V50X+xwaFHGY7+C6k0EAv++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/VideoCamera2_Prefix-enjcldjhazvdoabubwnbthcfzwui/VideoCamera2_Prefix.pch.gch VideoCamera2_Prefix.pch normal armv7 objective-c com.apple.compilers.gcc.4_2
+s360730806.740942
+e360730807.872891
+r1
+xProcessPCH
+x/var/folders/V5/V50X+xwaFHGY7+C6k0EAv++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/VideoCamera2_Prefix-enjcldjhazvdoabubwnbthcfzwui/VideoCamera2_Prefix.pch.gch
+xVideoCamera2_Prefix.pch
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@34"Precompile VideoCamera2_Prefix.pch360730806#360730807#0(0"0(0#0#57"/Users/mac/Documents/VideoCamera2/VideoCamera2_Prefix.pch8616131616#1667"    cd /Users/mac/Documents/VideoCamera2    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch armv7 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=4.2 -iquote /Users/mac/Documents/VideoCamera2/build/VideoCamera2.build/Debug-iphoneos/VideoCamera2.build/VideoCamera2-generated-files.hmap -I/Users/mac/Documents/VideoCamera2/build/VideoCamera2.build/Debug-iphoneos/VideoCamera2.build/VideoCamera2-own-target-headers.hmap -I/Users/mac/Documents/VideoCamera2/build/VideoCamera2.build/Debug-iphoneos/VideoCamera2.build/VideoCamera2-all-target-headers.hmap -iquote /Users/mac/Documents/VideoCamera2/build/VideoCamera2.build/Debug-iphoneos/VideoCamera2.build/VideoCamera2-project-headers.hmap -F/Users/mac/Documents/VideoCamera2/build/Debug-iphoneos -I/Users/mac/Documents/VideoCamera2/build/Debug-iphoneos/include -I/Users/mac/Documents/VideoCamera2/build/VideoCamera2.build/Debug-iphoneos/VideoCamera2.build/DerivedSources/armv7 -I/Users/mac/Documents/VideoCamera2/build/VideoCamera2.build/Debug-iphoneos/VideoCamera2.build/DerivedSources -c /Users/mac/Documents/VideoCamera2/VideoCamera2_Prefix.pch -o /var/folders/V5/V50X+xwaFHGY7+C6k0EAv++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/VideoCamera2_Prefix-enjcldjhazvdoabubwnbthcfzwui/VideoCamera2_Prefix.pch.gch0#
+
+CProcessPCH /var/folders/V5/V50X+xwaFHGY7+C6k0EAv++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/VideoCamera2_Prefix-fpxnjcruudyhbmbaeeucsvobaene/VideoCamera2_Prefix.pch.gch VideoCamera2_Prefix.pch normal armv6 objective-c com.apple.compilers.gcc.4_2
+s360730806.739666
+e360730807.736012
+r1
+xProcessPCH
+x/var/folders/V5/V50X+xwaFHGY7+C6k0EAv++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/VideoCamera2_Prefix-fpxnjcruudyhbmbaeeucsvobaene/VideoCamera2_Prefix.pch.gch
+xVideoCamera2_Prefix.pch
+xnormal
+xarmv6
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@34"Precompile VideoCamera2_Prefix.pch360730806#360730807#0(0"0(0#0#57"/Users/mac/Documents/VideoCamera2/VideoCamera2_Prefix.pch8621776768#1667"    cd /Users/mac/Documents/VideoCamera2    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch armv6 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=4.2 -iquote /Users/mac/Documents/VideoCamera2/build/VideoCamera2.build/Debug-iphoneos/VideoCamera2.build/VideoCamera2-generated-files.hmap -I/Users/mac/Documents/VideoCamera2/build/VideoCamera2.build/Debug-iphoneos/VideoCamera2.build/VideoCamera2-own-target-headers.hmap -I/Users/mac/Documents/VideoCamera2/build/VideoCamera2.build/Debug-iphoneos/VideoCamera2.build/VideoCamera2-all-target-headers.hmap -iquote /Users/mac/Documents/VideoCamera2/build/VideoCamera2.build/Debug-iphoneos/VideoCamera2.build/VideoCamera2-project-headers.hmap -F/Users/mac/Documents/VideoCamera2/build/Debug-iphoneos -I/Users/mac/Documents/VideoCamera2/build/Debug-iphoneos/include -I/Users/mac/Documents/VideoCamera2/build/VideoCamera2.build/Debug-iphoneos/VideoCamera2.build/DerivedSources/armv6 -I/Users/mac/Documents/VideoCamera2/build/VideoCamera2.build/Debug-iphoneos/VideoCamera2.build/DerivedSources -c /Users/mac/Documents/VideoCamera2/VideoCamera2_Prefix.pch -o /var/folders/V5/V50X+xwaFHGY7+C6k0EAv++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/VideoCamera2_Prefix-fpxnjcruudyhbmbaeeucsvobaene/VideoCamera2_Prefix.pch.gch0#
+
+CProcessPCH /var/folders/V5/V50X+xwaFHGY7+C6k0EAv++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/VideoCamera2_Prefix-fxcrysixxvnnmmcikyqxjinuodpy/VideoCamera2_Prefix.pch.gch VideoCamera2_Prefix.pch normal armv7 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CProcessPCH /var/folders/V5/V50X+xwaFHGY7+C6k0EAv++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/VideoCamera2_Prefix-fymqgjwmkqsfzmbdmaqdazetkhjd/VideoCamera2_Prefix.pch.gch VideoCamera2_Prefix.pch normal armv7 objective-c com.apple.compilers.gcc.4_2
+s362990544.802392
+e362990547.704114
+r1
+xProcessPCH
+x/var/folders/V5/V50X+xwaFHGY7+C6k0EAv++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/VideoCamera2_Prefix-fymqgjwmkqsfzmbdmaqdazetkhjd/VideoCamera2_Prefix.pch.gch
+xVideoCamera2_Prefix.pch
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@34"Precompile VideoCamera2_Prefix.pch362990544#362990547#0(0"0(0#0#63"/Users/mac/Documents/VideoCamera2副本/VideoCamera2_Prefix.pch8605852928#1727"    cd /Users/mac/Documents/VideoCamera2副本    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch armv7 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=4.2 -iquote /Users/mac/Documents/VideoCamera2副本/build/VideoCamera2.build/Debug-iphoneos/VideoCamera2.build/VideoCamera2-generated-files.hmap -I/Users/mac/Documents/VideoCamera2副本/build/VideoCamera2.build/Debug-iphoneos/VideoCamera2.build/VideoCamera2-own-target-headers.hmap -I/Users/mac/Documents/VideoCamera2副本/build/VideoCamera2.build/Debug-iphoneos/VideoCamera2.build/VideoCamera2-all-target-headers.hmap -iquote /Users/mac/Documents/VideoCamera2副本/build/VideoCamera2.build/Debug-iphoneos/VideoCamera2.build/VideoCamera2-project-headers.hmap -F/Users/mac/Documents/VideoCamera2副本/build/Debug-iphoneos -I/Users/mac/Documents/VideoCamera2副本/build/Debug-iphoneos/include -I/Users/mac/Documents/VideoCamera2副本/build/VideoCamera2.build/Debug-iphoneos/VideoCamera2.build/DerivedSources/armv7 -I/Users/mac/Documents/VideoCamera2副本/build/VideoCamera2.build/Debug-iphoneos/VideoCamera2.build/DerivedSources -c /Users/mac/Documents/VideoCamera2副本/VideoCamera2_Prefix.pch -o /var/folders/V5/V50X+xwaFHGY7+C6k0EAv++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/VideoCamera2_Prefix-fymqgjwmkqsfzmbdmaqdazetkhjd/VideoCamera2_Prefix.pch.gch0#
+
+CProcessPCH++ /var/folders/V5/V50X+xwaFHGY7+C6k0EAv++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/VideoCamera2_Prefix-bumjmbqocftbgjejulmcfrglzlmg/VideoCamera2_Prefix.pch.gch VideoCamera2_Prefix.pch normal armv7 objective-c++ com.apple.compilers.gcc.4_2
+s361091142.545613
+e361091145.317195
+r1
+xProcessPCH++
+x/var/folders/V5/V50X+xwaFHGY7+C6k0EAv++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/VideoCamera2_Prefix-bumjmbqocftbgjejulmcfrglzlmg/VideoCamera2_Prefix.pch.gch
+xVideoCamera2_Prefix.pch
+xnormal
+xarmv7
+xobjective-c++
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@34"Precompile VideoCamera2_Prefix.pch361091142#361091145#0(0"0(0#0#57"/Users/mac/Documents/VideoCamera2/VideoCamera2_Prefix.pch8617405568#1688"    cd /Users/mac/Documents/VideoCamera2    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c++-header -arch armv7 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk -fvisibility=hidden -fvisibility-inlines-hidden -gdwarf-2 -mthumb -miphoneos-version-min=4.2 -iquote /Users/mac/Documents/VideoCamera2/build/VideoCamera2.build/Debug-iphoneos/VideoCamera2.build/VideoCamera2-generated-files.hmap -I/Users/mac/Documents/VideoCamera2/build/VideoCamera2.build/Debug-iphoneos/VideoCamera2.build/VideoCamera2-own-target-headers.hmap -I/Users/mac/Documents/VideoCamera2/build/VideoCamera2.build/Debug-iphoneos/VideoCamera2.build/VideoCamera2-all-target-headers.hmap -iquote /Users/mac/Documents/VideoCamera2/build/VideoCamera2.build/Debug-iphoneos/VideoCamera2.build/VideoCamera2-project-headers.hmap -F/Users/mac/Documents/VideoCamera2/build/Debug-iphoneos -I/Users/mac/Documents/VideoCamera2/build/Debug-iphoneos/include -I/Users/mac/Documents/VideoCamera2/build/VideoCamera2.build/Debug-iphoneos/VideoCamera2.build/DerivedSources/armv7 -I/Users/mac/Documents/VideoCamera2/build/VideoCamera2.build/Debug-iphoneos/VideoCamera2.build/DerivedSources -c /Users/mac/Documents/VideoCamera2/VideoCamera2_Prefix.pch -o /var/folders/V5/V50X+xwaFHGY7+C6k0EAv++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/VideoCamera2_Prefix-bumjmbqocftbgjejulmcfrglzlmg/VideoCamera2_Prefix.pch.gch0#
+
+CProcessPCH++ /var/folders/V5/V50X+xwaFHGY7+C6k0EAv++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/VideoCamera2_Prefix-fhnwycpwzigewuaxabnttrysatht/VideoCamera2_Prefix.pch.gch VideoCamera2_Prefix.pch normal armv6 objective-c++ com.apple.compilers.gcc.4_2
+s361091142.544360
+e361091145.237262
+r1
+xProcessPCH++
+x/var/folders/V5/V50X+xwaFHGY7+C6k0EAv++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/VideoCamera2_Prefix-fhnwycpwzigewuaxabnttrysatht/VideoCamera2_Prefix.pch.gch
+xVideoCamera2_Prefix.pch
+xnormal
+xarmv6
+xobjective-c++
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@34"Precompile VideoCamera2_Prefix.pch361091142#361091145#0(0"0(0#0#57"/Users/mac/Documents/VideoCamera2/VideoCamera2_Prefix.pch8616848704#1688"    cd /Users/mac/Documents/VideoCamera2    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c++-header -arch armv6 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk -fvisibility=hidden -fvisibility-inlines-hidden -gdwarf-2 -mthumb -miphoneos-version-min=4.2 -iquote /Users/mac/Documents/VideoCamera2/build/VideoCamera2.build/Debug-iphoneos/VideoCamera2.build/VideoCamera2-generated-files.hmap -I/Users/mac/Documents/VideoCamera2/build/VideoCamera2.build/Debug-iphoneos/VideoCamera2.build/VideoCamera2-own-target-headers.hmap -I/Users/mac/Documents/VideoCamera2/build/VideoCamera2.build/Debug-iphoneos/VideoCamera2.build/VideoCamera2-all-target-headers.hmap -iquote /Users/mac/Documents/VideoCamera2/build/VideoCamera2.build/Debug-iphoneos/VideoCamera2.build/VideoCamera2-project-headers.hmap -F/Users/mac/Documents/VideoCamera2/build/Debug-iphoneos -I/Users/mac/Documents/VideoCamera2/build/Debug-iphoneos/include -I/Users/mac/Documents/VideoCamera2/build/VideoCamera2.build/Debug-iphoneos/VideoCamera2.build/DerivedSources/armv6 -I/Users/mac/Documents/VideoCamera2/build/VideoCamera2.build/Debug-iphoneos/VideoCamera2.build/DerivedSources -c /Users/mac/Documents/VideoCamera2/VideoCamera2_Prefix.pch -o /var/folders/V5/V50X+xwaFHGY7+C6k0EAv++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/VideoCamera2_Prefix-fhnwycpwzigewuaxabnttrysatht/VideoCamera2_Prefix.pch.gch0#
+
+CProcessProductPackaging "/Users/mac/Library/MobileDevice/Provisioning Profiles/658CED48-411E-41AD-A945-4830E130A428.mobileprovision" /Users/mac/Documents/VideoCamera2/build/Debug-iphoneos/VideoCamera2.app/embedded.mobileprovision
+s360730808.307998
+e360730808.343064
+r1
+xProcessProductPackaging
+x/Users/mac/Library/MobileDevice/Provisioning Profiles/658CED48-411E-41AD-A945-4830E130A428.mobileprovision
+x/Users/mac/Documents/VideoCamera2/build/Debug-iphoneos/VideoCamera2.app/embedded.mobileprovision
+lSLF07#2@195"ProcessProductPackaging "/Users/mac/Library/MobileDevice/Provisioning Profiles/658CED48-411E-41AD-A945-4830E130A428.mobileprovision" build/Debug-iphoneos/VideoCamera2.app/embedded.mobileprovision360730808#360730808#0(0"0(0#0#96"/Users/mac/Documents/VideoCamera2/build/Debug-iphoneos/VideoCamera2.app/embedded.mobileprovision8620715680#416"    cd /Users/mac/Documents/VideoCamera2    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    <com.apple.tools.product-pkg-utility> "/Users/mac/Library/MobileDevice/Provisioning Profiles/658CED48-411E-41AD-A945-4830E130A428.mobileprovision" -o /Users/mac/Documents/VideoCamera2/build/Debug-iphoneos/VideoCamera2.app/embedded.mobileprovision0#
+
+CProcessProductPackaging "/Users/mac/Library/MobileDevice/Provisioning Profiles/658CED48-411E-41AD-A945-4830E130A428.mobileprovision" /Users/mac/Documents/VideoCamera2副本/build/Debug-iphoneos/VideoCamera2.app/embedded.mobileprovision
+r0
+
+CProcessProductPackaging "/Users/mac/Library/MobileDevice/Provisioning Profiles/AB1BD49F-FDE3-43E5-9FB0-6FAFB30A7BED.mobileprovision" /Users/mac/Documents/VideoCamera2副本/build/Debug-iphoneos/VideoCamera2.app/embedded.mobileprovision
+r0
+
+CProcessProductPackaging /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/Entitlements.plist /Users/mac/Documents/VideoCamera2/build/VideoCamera2.build/Debug-iphoneos/VideoCamera2.build/VideoCamera2.xcent
+s360730808.343302
+e360730808.366580
+r1
+xProcessProductPackaging
+x/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/Entitlements.plist
+x/Users/mac/Documents/VideoCamera2/build/VideoCamera2.build/Debug-iphoneos/VideoCamera2.build/VideoCamera2.xcent
+lSLF07#2@190"ProcessProductPackaging /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/Entitlements.plist build/VideoCamera2.build/Debug-iphoneos/VideoCamera2.build/VideoCamera2.xcent360730808#360730808#0(0"0(0#0#111"/Users/mac/Documents/VideoCamera2/build/VideoCamera2.build/Debug-iphoneos/VideoCamera2.build/VideoCamera2.xcent8621520096#437"    cd /Users/mac/Documents/VideoCamera2    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    <com.apple.tools.product-pkg-utility> /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/Entitlements.plist -entitlements -format xml -o /Users/mac/Documents/VideoCamera2/build/VideoCamera2.build/Debug-iphoneos/VideoCamera2.build/VideoCamera2.xcent0#
+
+CProcessProductPackaging /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/Entitlements.plist /Users/mac/Documents/VideoCamera2副本/build/VideoCamera2.build/Debug-iphoneos/VideoCamera2.build/VideoCamera2.xcent
+r0
+
+CProcessProductPackaging /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS5.0.sdk/Entitlements.plist /Users/mac/Documents/VideoCamera2副本/build/VideoCamera2.build/Debug-iphoneos/VideoCamera2.build/VideoCamera2.xcent
+r0
+
+CTouch /Users/mac/Documents/VideoCamera2/build/Debug-iphoneos/VideoCamera2.app
+s361166312.457824
+e361166312.460302
+r1
+xTouch
+x/Users/mac/Documents/VideoCamera2/build/Debug-iphoneos/VideoCamera2.app
+lSLF07#2@77"Touch /Users/mac/Documents/VideoCamera2/build/Debug-iphoneos/VideoCamera2.app361166312#361166312#0(0"0(0#0#0"8622126752#259"    cd /Users/mac/Documents/VideoCamera2    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c /Users/mac/Documents/VideoCamera2/build/Debug-iphoneos/VideoCamera2.app0#
+
+CTouch /Users/mac/Documents/VideoCamera2副本/build/Debug-iphoneos/VideoCamera2.app
+s363000697.755541
+e363000697.758160
+r1
+xTouch
+x/Users/mac/Documents/VideoCamera2副本/build/Debug-iphoneos/VideoCamera2.app
+lSLF07#2@83"Touch /Users/mac/Documents/VideoCamera2副本/build/Debug-iphoneos/VideoCamera2.app363000697#363000697#0(0"0(0#0#0"8651203232#271"    cd /Users/mac/Documents/VideoCamera2副本    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c /Users/mac/Documents/VideoCamera2副本/build/Debug-iphoneos/VideoCamera2.app0#
+
