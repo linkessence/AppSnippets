@@ -1,0 +1,437 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 46;
+	objects = {
+
+/* Begin PBXBuildFile section */
+		B96E103C16E98D30009C0950 /* UIKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = B96E103B16E98D30009C0950 /* UIKit.framework */; };
+		B96E103E16E98D30009C0950 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = B96E103D16E98D30009C0950 /* Foundation.framework */; };
+		B96E104016E98D30009C0950 /* CoreGraphics.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = B96E103F16E98D30009C0950 /* CoreGraphics.framework */; };
+		B96E104616E98D30009C0950 /* InfoPlist.strings in Resources */ = {isa = PBXBuildFile; fileRef = B96E104416E98D30009C0950 /* InfoPlist.strings */; };
+		B96E104816E98D30009C0950 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = B96E104716E98D30009C0950 /* main.m */; };
+		B96E104C16E98D30009C0950 /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = B96E104B16E98D30009C0950 /* AppDelegate.m */; };
+		B96E104E16E98D30009C0950 /* Default.png in Resources */ = {isa = PBXBuildFile; fileRef = B96E104D16E98D30009C0950 /* Default.png */; };
+		B96E105016E98D30009C0950 /* Default@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = B96E104F16E98D30009C0950 /* Default@2x.png */; };
+		B96E105216E98D30009C0950 /* Default-568h@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = B96E105116E98D30009C0950 /* Default-568h@2x.png */; };
+		B96E105516E98D30009C0950 /* ViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = B96E105416E98D30009C0950 /* ViewController.m */; };
+		B96E105816E98D30009C0950 /* ViewController.xib in Resources */ = {isa = PBXBuildFile; fileRef = B96E105616E98D30009C0950 /* ViewController.xib */; };
+		B96E108616E98D66009C0950 /* Emoji.m in Sources */ = {isa = PBXBuildFile; fileRef = B96E106016E98D66009C0950 /* Emoji.m */; };
+		B96E108716E98D66009C0950 /* EmojiEmoticons.m in Sources */ = {isa = PBXBuildFile; fileRef = B96E106216E98D66009C0950 /* EmojiEmoticons.m */; };
+		B96E108816E98D66009C0950 /* EmojiMapSymbols.m in Sources */ = {isa = PBXBuildFile; fileRef = B96E106416E98D66009C0950 /* EmojiMapSymbols.m */; };
+		B96E108916E98D66009C0950 /* EmojiPictographs.m in Sources */ = {isa = PBXBuildFile; fileRef = B96E106616E98D66009C0950 /* EmojiPictographs.m */; };
+		B96E108A16E98D66009C0950 /* EmojiTransport.m in Sources */ = {isa = PBXBuildFile; fileRef = B96E106816E98D66009C0950 /* EmojiTransport.m */; };
+		B96E108B16E98D66009C0950 /* FaceToolBar.m in Sources */ = {isa = PBXBuildFile; fileRef = B96E106A16E98D66009C0950 /* FaceToolBar.m */; };
+		B96E108C16E98D66009C0950 /* FacialView.m in Sources */ = {isa = PBXBuildFile; fileRef = B96E106C16E98D66009C0950 /* FacialView.m */; };
+		B96E108D16E98D66009C0950 /* UIExpandingTextView.m in Sources */ = {isa = PBXBuildFile; fileRef = B96E106E16E98D66009C0950 /* UIExpandingTextView.m */; };
+		B96E108E16E98D66009C0950 /* UIExpandingTextViewInternal.m in Sources */ = {isa = PBXBuildFile; fileRef = B96E107016E98D66009C0950 /* UIExpandingTextViewInternal.m */; };
+		B96E108F16E98D66009C0950 /* face.png in Resources */ = {isa = PBXBuildFile; fileRef = B96E107216E98D66009C0950 /* face.png */; };
+		B96E109016E98D66009C0950 /* face@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = B96E107316E98D66009C0950 /* face@2x.png */; };
+		B96E109116E98D66009C0950 /* faceDelete.png in Resources */ = {isa = PBXBuildFile; fileRef = B96E107416E98D66009C0950 /* faceDelete.png */; };
+		B96E109216E98D66009C0950 /* faceDelete@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = B96E107516E98D66009C0950 /* faceDelete@2x.png */; };
+		B96E109316E98D66009C0950 /* facesBack.png in Resources */ = {isa = PBXBuildFile; fileRef = B96E107616E98D66009C0950 /* facesBack.png */; };
+		B96E109416E98D66009C0950 /* facesBack@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = B96E107716E98D66009C0950 /* facesBack@2x.png */; };
+		B96E109516E98D66009C0950 /* InputBack.png in Resources */ = {isa = PBXBuildFile; fileRef = B96E107816E98D66009C0950 /* InputBack.png */; };
+		B96E109616E98D66009C0950 /* InputBack@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = B96E107916E98D66009C0950 /* InputBack@2x.png */; };
+		B96E109B16E98D66009C0950 /* Speak.png in Resources */ = {isa = PBXBuildFile; fileRef = B96E107E16E98D66009C0950 /* Speak.png */; };
+		B96E109C16E98D66009C0950 /* Speak@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = B96E107F16E98D66009C0950 /* Speak@2x.png */; };
+		B96E109F16E98D66009C0950 /* Text.png in Resources */ = {isa = PBXBuildFile; fileRef = B96E108216E98D66009C0950 /* Text.png */; };
+		B96E10A016E98D66009C0950 /* Text@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = B96E108316E98D66009C0950 /* Text@2x.png */; };
+		B96E10A116E98D66009C0950 /* Voice.png in Resources */ = {isa = PBXBuildFile; fileRef = B96E108416E98D66009C0950 /* Voice.png */; };
+		B96E10A216E98D66009C0950 /* Voice@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = B96E108516E98D66009C0950 /* Voice@2x.png */; };
+/* End PBXBuildFile section */
+
+/* Begin PBXFileReference section */
+		B96E103816E98D30009C0950 /* EmojiKeyboard.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = EmojiKeyboard.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		B96E103B16E98D30009C0950 /* UIKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = UIKit.framework; path = System/Library/Frameworks/UIKit.framework; sourceTree = SDKROOT; };
+		B96E103D16E98D30009C0950 /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = System/Library/Frameworks/Foundation.framework; sourceTree = SDKROOT; };
+		B96E103F16E98D30009C0950 /* CoreGraphics.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreGraphics.framework; path = System/Library/Frameworks/CoreGraphics.framework; sourceTree = SDKROOT; };
+		B96E104316E98D30009C0950 /* EmojiKeyboard-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = "EmojiKeyboard-Info.plist"; sourceTree = "<group>"; };
+		B96E104516E98D30009C0950 /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/InfoPlist.strings; sourceTree = "<group>"; };
+		B96E104716E98D30009C0950 /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
+		B96E104916E98D30009C0950 /* EmojiKeyboard-Prefix.pch */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "EmojiKeyboard-Prefix.pch"; sourceTree = "<group>"; };
+		B96E104A16E98D30009C0950 /* AppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = AppDelegate.h; sourceTree = "<group>"; };
+		B96E104B16E98D30009C0950 /* AppDelegate.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = AppDelegate.m; sourceTree = "<group>"; };
+		B96E104D16E98D30009C0950 /* Default.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Default.png; sourceTree = "<group>"; };
+		B96E104F16E98D30009C0950 /* Default@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Default@2x.png"; sourceTree = "<group>"; };
+		B96E105116E98D30009C0950 /* Default-568h@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Default-568h@2x.png"; sourceTree = "<group>"; };
+		B96E105316E98D30009C0950 /* ViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = ViewController.h; sourceTree = "<group>"; };
+		B96E105416E98D30009C0950 /* ViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = ViewController.m; sourceTree = "<group>"; };
+		B96E105716E98D30009C0950 /* en */ = {isa = PBXFileReference; lastKnownFileType = file.xib; name = en; path = en.lproj/ViewController.xib; sourceTree = "<group>"; };
+		B96E105F16E98D66009C0950 /* Emoji.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = Emoji.h; sourceTree = "<group>"; };
+		B96E106016E98D66009C0950 /* Emoji.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = Emoji.m; sourceTree = "<group>"; };
+		B96E106116E98D66009C0950 /* EmojiEmoticons.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = EmojiEmoticons.h; sourceTree = "<group>"; };
+		B96E106216E98D66009C0950 /* EmojiEmoticons.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = EmojiEmoticons.m; sourceTree = "<group>"; };
+		B96E106316E98D66009C0950 /* EmojiMapSymbols.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = EmojiMapSymbols.h; sourceTree = "<group>"; };
+		B96E106416E98D66009C0950 /* EmojiMapSymbols.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = EmojiMapSymbols.m; sourceTree = "<group>"; };
+		B96E106516E98D66009C0950 /* EmojiPictographs.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = EmojiPictographs.h; sourceTree = "<group>"; };
+		B96E106616E98D66009C0950 /* EmojiPictographs.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = EmojiPictographs.m; sourceTree = "<group>"; };
+		B96E106716E98D66009C0950 /* EmojiTransport.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = EmojiTransport.h; sourceTree = "<group>"; };
+		B96E106816E98D66009C0950 /* EmojiTransport.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = EmojiTransport.m; sourceTree = "<group>"; };
+		B96E106916E98D66009C0950 /* FaceToolBar.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = FaceToolBar.h; sourceTree = "<group>"; };
+		B96E106A16E98D66009C0950 /* FaceToolBar.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = FaceToolBar.m; sourceTree = "<group>"; };
+		B96E106B16E98D66009C0950 /* FacialView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = FacialView.h; sourceTree = "<group>"; };
+		B96E106C16E98D66009C0950 /* FacialView.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = FacialView.m; sourceTree = "<group>"; };
+		B96E106D16E98D66009C0950 /* UIExpandingTextView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = UIExpandingTextView.h; sourceTree = "<group>"; };
+		B96E106E16E98D66009C0950 /* UIExpandingTextView.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = UIExpandingTextView.m; sourceTree = "<group>"; };
+		B96E106F16E98D66009C0950 /* UIExpandingTextViewInternal.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = UIExpandingTextViewInternal.h; sourceTree = "<group>"; };
+		B96E107016E98D66009C0950 /* UIExpandingTextViewInternal.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = UIExpandingTextViewInternal.m; sourceTree = "<group>"; };
+		B96E107216E98D66009C0950 /* face.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = face.png; sourceTree = "<group>"; };
+		B96E107316E98D66009C0950 /* face@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "face@2x.png"; sourceTree = "<group>"; };
+		B96E107416E98D66009C0950 /* faceDelete.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = faceDelete.png; sourceTree = "<group>"; };
+		B96E107516E98D66009C0950 /* faceDelete@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "faceDelete@2x.png"; sourceTree = "<group>"; };
+		B96E107616E98D66009C0950 /* facesBack.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = facesBack.png; sourceTree = "<group>"; };
+		B96E107716E98D66009C0950 /* facesBack@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "facesBack@2x.png"; sourceTree = "<group>"; };
+		B96E107816E98D66009C0950 /* InputBack.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = InputBack.png; sourceTree = "<group>"; };
+		B96E107916E98D66009C0950 /* InputBack@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "InputBack@2x.png"; sourceTree = "<group>"; };
+		B96E107E16E98D66009C0950 /* Speak.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Speak.png; sourceTree = "<group>"; };
+		B96E107F16E98D66009C0950 /* Speak@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Speak@2x.png"; sourceTree = "<group>"; };
+		B96E108216E98D66009C0950 /* Text.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Text.png; sourceTree = "<group>"; };
+		B96E108316E98D66009C0950 /* Text@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Text@2x.png"; sourceTree = "<group>"; };
+		B96E108416E98D66009C0950 /* Voice.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Voice.png; sourceTree = "<group>"; };
+		B96E108516E98D66009C0950 /* Voice@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Voice@2x.png"; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		B96E103516E98D30009C0950 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				B96E103C16E98D30009C0950 /* UIKit.framework in Frameworks */,
+				B96E103E16E98D30009C0950 /* Foundation.framework in Frameworks */,
+				B96E104016E98D30009C0950 /* CoreGraphics.framework in Frameworks */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		B96E102F16E98D30009C0950 = {
+			isa = PBXGroup;
+			children = (
+				B96E104116E98D30009C0950 /* EmojiKeyboard */,
+				B96E103A16E98D30009C0950 /* Frameworks */,
+				B96E103916E98D30009C0950 /* Products */,
+			);
+			sourceTree = "<group>";
+		};
+		B96E103916E98D30009C0950 /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				B96E103816E98D30009C0950 /* EmojiKeyboard.app */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+		B96E103A16E98D30009C0950 /* Frameworks */ = {
+			isa = PBXGroup;
+			children = (
+				B96E103B16E98D30009C0950 /* UIKit.framework */,
+				B96E103D16E98D30009C0950 /* Foundation.framework */,
+				B96E103F16E98D30009C0950 /* CoreGraphics.framework */,
+			);
+			name = Frameworks;
+			sourceTree = "<group>";
+		};
+		B96E104116E98D30009C0950 /* EmojiKeyboard */ = {
+			isa = PBXGroup;
+			children = (
+				B96E105E16E98D65009C0950 /* Emoji-master */,
+				B96E107116E98D66009C0950 /* Images */,
+				B96E104A16E98D30009C0950 /* AppDelegate.h */,
+				B96E104B16E98D30009C0950 /* AppDelegate.m */,
+				B96E105316E98D30009C0950 /* ViewController.h */,
+				B96E105416E98D30009C0950 /* ViewController.m */,
+				B96E105616E98D30009C0950 /* ViewController.xib */,
+				B96E104216E98D30009C0950 /* Supporting Files */,
+			);
+			path = EmojiKeyboard;
+			sourceTree = "<group>";
+		};
+		B96E104216E98D30009C0950 /* Supporting Files */ = {
+			isa = PBXGroup;
+			children = (
+				B96E104316E98D30009C0950 /* EmojiKeyboard-Info.plist */,
+				B96E104416E98D30009C0950 /* InfoPlist.strings */,
+				B96E104716E98D30009C0950 /* main.m */,
+				B96E104916E98D30009C0950 /* EmojiKeyboard-Prefix.pch */,
+				B96E104D16E98D30009C0950 /* Default.png */,
+				B96E104F16E98D30009C0950 /* Default@2x.png */,
+				B96E105116E98D30009C0950 /* Default-568h@2x.png */,
+			);
+			name = "Supporting Files";
+			sourceTree = "<group>";
+		};
+		B96E105E16E98D65009C0950 /* Emoji-master */ = {
+			isa = PBXGroup;
+			children = (
+				B96E105F16E98D66009C0950 /* Emoji.h */,
+				B96E106016E98D66009C0950 /* Emoji.m */,
+				B96E106116E98D66009C0950 /* EmojiEmoticons.h */,
+				B96E106216E98D66009C0950 /* EmojiEmoticons.m */,
+				B96E106316E98D66009C0950 /* EmojiMapSymbols.h */,
+				B96E106416E98D66009C0950 /* EmojiMapSymbols.m */,
+				B96E106516E98D66009C0950 /* EmojiPictographs.h */,
+				B96E106616E98D66009C0950 /* EmojiPictographs.m */,
+				B96E106716E98D66009C0950 /* EmojiTransport.h */,
+				B96E106816E98D66009C0950 /* EmojiTransport.m */,
+				B96E106916E98D66009C0950 /* FaceToolBar.h */,
+				B96E106A16E98D66009C0950 /* FaceToolBar.m */,
+				B96E106B16E98D66009C0950 /* FacialView.h */,
+				B96E106C16E98D66009C0950 /* FacialView.m */,
+				B96E106D16E98D66009C0950 /* UIExpandingTextView.h */,
+				B96E106E16E98D66009C0950 /* UIExpandingTextView.m */,
+				B96E106F16E98D66009C0950 /* UIExpandingTextViewInternal.h */,
+				B96E107016E98D66009C0950 /* UIExpandingTextViewInternal.m */,
+			);
+			path = "Emoji-master";
+			sourceTree = SOURCE_ROOT;
+		};
+		B96E107116E98D66009C0950 /* Images */ = {
+			isa = PBXGroup;
+			children = (
+				B96E107216E98D66009C0950 /* face.png */,
+				B96E107316E98D66009C0950 /* face@2x.png */,
+				B96E107416E98D66009C0950 /* faceDelete.png */,
+				B96E107516E98D66009C0950 /* faceDelete@2x.png */,
+				B96E107616E98D66009C0950 /* facesBack.png */,
+				B96E107716E98D66009C0950 /* facesBack@2x.png */,
+				B96E107816E98D66009C0950 /* InputBack.png */,
+				B96E107916E98D66009C0950 /* InputBack@2x.png */,
+				B96E107E16E98D66009C0950 /* Speak.png */,
+				B96E107F16E98D66009C0950 /* Speak@2x.png */,
+				B96E108216E98D66009C0950 /* Text.png */,
+				B96E108316E98D66009C0950 /* Text@2x.png */,
+				B96E108416E98D66009C0950 /* Voice.png */,
+				B96E108516E98D66009C0950 /* Voice@2x.png */,
+			);
+			path = Images;
+			sourceTree = SOURCE_ROOT;
+		};
+/* End PBXGroup section */
+
+/* Begin PBXNativeTarget section */
+		B96E103716E98D30009C0950 /* EmojiKeyboard */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = B96E105B16E98D30009C0950 /* Build configuration list for PBXNativeTarget "EmojiKeyboard" */;
+			buildPhases = (
+				B96E103416E98D30009C0950 /* Sources */,
+				B96E103516E98D30009C0950 /* Frameworks */,
+				B96E103616E98D30009C0950 /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = EmojiKeyboard;
+			productName = EmojiKeyboard;
+			productReference = B96E103816E98D30009C0950 /* EmojiKeyboard.app */;
+			productType = "com.apple.product-type.application";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		B96E103016E98D30009C0950 /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				LastUpgradeCheck = 0460;
+				ORGANIZATIONNAME = wangjianle;
+			};
+			buildConfigurationList = B96E103316E98D30009C0950 /* Build configuration list for PBXProject "EmojiKeyboard" */;
+			compatibilityVersion = "Xcode 3.2";
+			developmentRegion = English;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+			);
+			mainGroup = B96E102F16E98D30009C0950;
+			productRefGroup = B96E103916E98D30009C0950 /* Products */;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				B96E103716E98D30009C0950 /* EmojiKeyboard */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXResourcesBuildPhase section */
+		B96E103616E98D30009C0950 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				B96E104616E98D30009C0950 /* InfoPlist.strings in Resources */,
+				B96E104E16E98D30009C0950 /* Default.png in Resources */,
+				B96E105016E98D30009C0950 /* Default@2x.png in Resources */,
+				B96E105216E98D30009C0950 /* Default-568h@2x.png in Resources */,
+				B96E105816E98D30009C0950 /* ViewController.xib in Resources */,
+				B96E108F16E98D66009C0950 /* face.png in Resources */,
+				B96E109016E98D66009C0950 /* face@2x.png in Resources */,
+				B96E109116E98D66009C0950 /* faceDelete.png in Resources */,
+				B96E109216E98D66009C0950 /* faceDelete@2x.png in Resources */,
+				B96E109316E98D66009C0950 /* facesBack.png in Resources */,
+				B96E109416E98D66009C0950 /* facesBack@2x.png in Resources */,
+				B96E109516E98D66009C0950 /* InputBack.png in Resources */,
+				B96E109616E98D66009C0950 /* InputBack@2x.png in Resources */,
+				B96E109B16E98D66009C0950 /* Speak.png in Resources */,
+				B96E109C16E98D66009C0950 /* Speak@2x.png in Resources */,
+				B96E109F16E98D66009C0950 /* Text.png in Resources */,
+				B96E10A016E98D66009C0950 /* Text@2x.png in Resources */,
+				B96E10A116E98D66009C0950 /* Voice.png in Resources */,
+				B96E10A216E98D66009C0950 /* Voice@2x.png in Resources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXResourcesBuildPhase section */
+
+/* Begin PBXSourcesBuildPhase section */
+		B96E103416E98D30009C0950 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				B96E104816E98D30009C0950 /* main.m in Sources */,
+				B96E104C16E98D30009C0950 /* AppDelegate.m in Sources */,
+				B96E105516E98D30009C0950 /* ViewController.m in Sources */,
+				B96E108616E98D66009C0950 /* Emoji.m in Sources */,
+				B96E108716E98D66009C0950 /* EmojiEmoticons.m in Sources */,
+				B96E108816E98D66009C0950 /* EmojiMapSymbols.m in Sources */,
+				B96E108916E98D66009C0950 /* EmojiPictographs.m in Sources */,
+				B96E108A16E98D66009C0950 /* EmojiTransport.m in Sources */,
+				B96E108B16E98D66009C0950 /* FaceToolBar.m in Sources */,
+				B96E108C16E98D66009C0950 /* FacialView.m in Sources */,
+				B96E108D16E98D66009C0950 /* UIExpandingTextView.m in Sources */,
+				B96E108E16E98D66009C0950 /* UIExpandingTextViewInternal.m in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin PBXVariantGroup section */
+		B96E104416E98D30009C0950 /* InfoPlist.strings */ = {
+			isa = PBXVariantGroup;
+			children = (
+				B96E104516E98D30009C0950 /* en */,
+			);
+			name = InfoPlist.strings;
+			sourceTree = "<group>";
+		};
+		B96E105616E98D30009C0950 /* ViewController.xib */ = {
+			isa = PBXVariantGroup;
+			children = (
+				B96E105716E98D30009C0950 /* en */,
+			);
+			name = ViewController.xib;
+			sourceTree = "<group>";
+		};
+/* End PBXVariantGroup section */
+
+/* Begin XCBuildConfiguration section */
+		B96E105916E98D30009C0950 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++0x";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				CODE_SIGN_IDENTITY = "iPhone Developer: ZHANG BO (8N25ZEH2ZQ)";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer: ZHANG BO (8N25ZEH2ZQ)";
+				COPY_PHASE_STRIP = NO;
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				GCC_SYMBOLS_PRIVATE_EXTERN = NO;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 5.0;
+				ONLY_ACTIVE_ARCH = YES;
+				PROVISIONING_PROFILE = "1D9BE1E1-A969-45AA-9300-6FCE27C30D92";
+				"PROVISIONING_PROFILE[sdk=iphoneos*]" = "1D9BE1E1-A969-45AA-9300-6FCE27C30D92";
+				SDKROOT = iphoneos;
+			};
+			name = Debug;
+		};
+		B96E105A16E98D30009C0950 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++0x";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				CODE_SIGN_IDENTITY = "iPhone Developer: ZHANG BO (8N25ZEH2ZQ)";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer: ZHANG BO (8N25ZEH2ZQ)";
+				COPY_PHASE_STRIP = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 5.0;
+				OTHER_CFLAGS = "-DNS_BLOCK_ASSERTIONS=1";
+				PROVISIONING_PROFILE = "1D9BE1E1-A969-45AA-9300-6FCE27C30D92";
+				"PROVISIONING_PROFILE[sdk=iphoneos*]" = "1D9BE1E1-A969-45AA-9300-6FCE27C30D92";
+				SDKROOT = iphoneos;
+				VALIDATE_PRODUCT = YES;
+			};
+			name = Release;
+		};
+		B96E105C16E98D30009C0950 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				GCC_PRECOMPILE_PREFIX_HEADER = YES;
+				GCC_PREFIX_HEADER = "EmojiKeyboard/EmojiKeyboard-Prefix.pch";
+				INFOPLIST_FILE = "EmojiKeyboard/EmojiKeyboard-Info.plist";
+				IPHONEOS_DEPLOYMENT_TARGET = 5.0;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				WRAPPER_EXTENSION = app;
+			};
+			name = Debug;
+		};
+		B96E105D16E98D30009C0950 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				GCC_PRECOMPILE_PREFIX_HEADER = YES;
+				GCC_PREFIX_HEADER = "EmojiKeyboard/EmojiKeyboard-Prefix.pch";
+				INFOPLIST_FILE = "EmojiKeyboard/EmojiKeyboard-Info.plist";
+				IPHONEOS_DEPLOYMENT_TARGET = 5.0;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				WRAPPER_EXTENSION = app;
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		B96E103316E98D30009C0950 /* Build configuration list for PBXProject "EmojiKeyboard" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				B96E105916E98D30009C0950 /* Debug */,
+				B96E105A16E98D30009C0950 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		B96E105B16E98D30009C0950 /* Build configuration list for PBXNativeTarget "EmojiKeyboard" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				B96E105C16E98D30009C0950 /* Debug */,
+				B96E105D16E98D30009C0950 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = B96E103016E98D30009C0950 /* Project object */;
+}
