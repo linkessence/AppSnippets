@@ -1,0 +1,4 @@
+language: objective-c
+script: 
+  - xctool -project Haneke.xcodeproj -scheme 'Haneke' -configuration Release -sdk iphonesimulator test
+  - xctool -project Haneke.xcodeproj -scheme 'HanekeDemo' -configuration Release -sdk iphonesimulator

@@ -1,0 +1,1190 @@
+T36000
+v6
+r1
+cCheck dependencies
+cProcessInfoPlistFile /Users/linke/Desktop/360度全景图例子源代码/Build/Products/Debug-iphonesimulator/36000.app/Info.plist /Users/linke/Desktop/360度全景图例子源代码/36000/36000-Info.plist
+cProcessPCH /Users/linke/Desktop/360度全景图例子源代码/Build/Intermediates/PrecompiledHeaders/36000-Prefix-chkbxhxkagluxvdimdruqawurgrg/36000-Prefix.pch.pch 36000/36000-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cProcessPCH /Users/linke/Desktop/360度全景图例子源代码/Build/Intermediates/PrecompiledHeaders/36000-Prefix-abnblkplaipngagaiifbexdhhidz/36000-Prefix.pch.pch 36000/36000-Prefix.pch normal i386 c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC Build/Intermediates/36000.build/Debug-iphonesimulator/36000.build/Objects-normal/i386/main.o /Users/linke/Desktop/360度全景图例子源代码/36000/main.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC Build/Intermediates/36000.build/Debug-iphonesimulator/36000.build/Objects-normal/i386/_6000AppDelegate.o /Users/linke/Desktop/360度全景图例子源代码/36000/_6000AppDelegate.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC Build/Intermediates/36000.build/Debug-iphonesimulator/36000.build/Objects-normal/i386/_6000ViewController.o /Users/linke/Desktop/360度全景图例子源代码/36000/_6000ViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC Build/Intermediates/36000.build/Debug-iphonesimulator/36000.build/Objects-normal/i386/glues_error.o /Users/linke/Desktop/360度全景图例子源代码/glues/glues_error.c normal i386 c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC Build/Intermediates/36000.build/Debug-iphonesimulator/36000.build/Objects-normal/i386/glues_mipmap.o /Users/linke/Desktop/360度全景图例子源代码/glues/glues_mipmap.c normal i386 c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC Build/Intermediates/36000.build/Debug-iphonesimulator/36000.build/Objects-normal/i386/glues_project.o /Users/linke/Desktop/360度全景图例子源代码/glues/glues_project.c normal i386 c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC Build/Intermediates/36000.build/Debug-iphonesimulator/36000.build/Objects-normal/i386/glues_quad.o /Users/linke/Desktop/360度全景图例子源代码/glues/glues_quad.c normal i386 c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC Build/Intermediates/36000.build/Debug-iphonesimulator/36000.build/Objects-normal/i386/glues_registry.o /Users/linke/Desktop/360度全景图例子源代码/glues/glues_registry.c normal i386 c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC Build/Intermediates/36000.build/Debug-iphonesimulator/36000.build/Objects-normal/i386/PLCamera.o /Users/linke/Desktop/360度全景图例子源代码/PL/PLCamera.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC Build/Intermediates/36000.build/Debug-iphonesimulator/36000.build/Objects-normal/i386/PLCube.o /Users/linke/Desktop/360度全景图例子源代码/PL/PLCube.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC Build/Intermediates/36000.build/Debug-iphonesimulator/36000.build/Objects-normal/i386/PLCylinder.o /Users/linke/Desktop/360度全景图例子源代码/PL/PLCylinder.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC Build/Intermediates/36000.build/Debug-iphonesimulator/36000.build/Objects-normal/i386/PLImage.o /Users/linke/Desktop/360度全景图例子源代码/PL/PLImage.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC Build/Intermediates/36000.build/Debug-iphonesimulator/36000.build/Objects-normal/i386/PLMath.o /Users/linke/Desktop/360度全景图例子源代码/PL/PLMath.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC Build/Intermediates/36000.build/Debug-iphonesimulator/36000.build/Objects-normal/i386/PLObject.o /Users/linke/Desktop/360度全景图例子源代码/PL/PLObject.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC Build/Intermediates/36000.build/Debug-iphonesimulator/36000.build/Objects-normal/i386/PLRenderer.o /Users/linke/Desktop/360度全景图例子源代码/PL/PLRenderer.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC Build/Intermediates/36000.build/Debug-iphonesimulator/36000.build/Objects-normal/i386/PLScene.o /Users/linke/Desktop/360度全景图例子源代码/PL/PLScene.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC Build/Intermediates/36000.build/Debug-iphonesimulator/36000.build/Objects-normal/i386/PLSceneElement.o /Users/linke/Desktop/360度全景图例子源代码/PL/PLSceneElement.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC Build/Intermediates/36000.build/Debug-iphonesimulator/36000.build/Objects-normal/i386/PLSphere.o /Users/linke/Desktop/360度全景图例子源代码/PL/PLSphere.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC Build/Intermediates/36000.build/Debug-iphonesimulator/36000.build/Objects-normal/i386/PLTexture.o /Users/linke/Desktop/360度全景图例子源代码/PL/PLTexture.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC Build/Intermediates/36000.build/Debug-iphonesimulator/36000.build/Objects-normal/i386/PLUtils.o /Users/linke/Desktop/360度全景图例子源代码/PL/PLUtils.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC Build/Intermediates/36000.build/Debug-iphonesimulator/36000.build/Objects-normal/i386/PLView.o /Users/linke/Desktop/360度全景图例子源代码/PL/PLView.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC Build/Intermediates/36000.build/Debug-iphonesimulator/36000.build/Objects-normal/i386/PLViewBase.o /Users/linke/Desktop/360度全景图例子源代码/PL/PLViewBase.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cLd /Users/linke/Desktop/360度全景图例子源代码/Build/Products/Debug-iphonesimulator/36000.app/36000 normal i386
+cGenerateDSYMFile /Users/linke/Desktop/360度全景图例子源代码/Build/Products/Debug-iphonesimulator/36000.app.dSYM /Users/linke/Desktop/360度全景图例子源代码/Build/Products/Debug-iphonesimulator/36000.app/36000
+cCopyStringsFile /Users/linke/Desktop/360度全景图例子源代码/Build/Products/Debug-iphonesimulator/36000.app/en.lproj/InfoPlist.strings 36000/en.lproj/InfoPlist.strings
+cCompileXIB /Users/linke/Desktop/360度全景图例子源代码/36000/en.lproj/MainWindow.xib
+cCompileXIB /Users/linke/Desktop/360度全景图例子源代码/36000/en.lproj/_6000ViewController.xib
+cCpResource 36000/pano.jpg Build/Products/Debug-iphonesimulator/36000.app/pano.jpg
+cTouch /Users/linke/Desktop/360度全景图例子源代码/Build/Products/Debug-iphonesimulator/36000.app
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk
+c0000000053119F8A0000000000000198
+t1393663882
+s408
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/SDKSettings.plist
+c000000005320309700000000000003B4
+t1394618519
+s948
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/CoreServices/SystemVersion.plist
+c00000000532030A0000000000000019E
+t1394618528
+s414
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c00000000532030A20000000000446820
+t1394618530
+s4483104
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c00000000532030A3000000000088D8C0
+t1394618531
+s8968384
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c00000000532030AB0000000001F1DE10
+t1394618539
+s32628240
+
+N/Users/linke/Desktop/360度全景图例子源代码/36000/36000-Info.plist
+c000000004E21670000000000000004E0
+t1310811904
+s1248
+
+N/Users/linke/Desktop/360度全景图例子源代码/36000/36000-Prefix.pch
+c000000004E2397D40000000000000122
+t1310955476
+s290
+
+N/Users/linke/Desktop/360度全景图例子源代码/36000/_6000AppDelegate.m
+c000000004E2165680000000000000953
+t1310811496
+s2387
+
+N/Users/linke/Desktop/360度全景图例子源代码/36000/_6000ViewController.m
+c000000004E2687C6000000000000056D
+t1311147974
+s1389
+
+N/Users/linke/Desktop/360度全景图例子源代码/36000/en.lproj/InfoPlist.strings
+c000000004E216568000000000000002D
+t1310811496
+s45
+
+N/Users/linke/Desktop/360度全景图例子源代码/36000/en.lproj/MainWindow.xib
+c000000004E2165680000000000004CE5
+t1310811496
+s19685
+
+N/Users/linke/Desktop/360度全景图例子源代码/36000/en.lproj/_6000ViewController.xib
+c000000004E2687840000000000002184
+t1311147908
+s8580
+
+N/Users/linke/Desktop/360度全景图例子源代码/36000/main.m
+c000000004E216568000000000000015C
+t1310811496
+s348
+
+N/Users/linke/Desktop/360度全景图例子源代码/36000/pano.jpg
+c000000004B6FEC66000000000002902B
+t1265626214
+s167979
+
+N/Users/linke/Desktop/360度全景图例子源代码/Build/Intermediates/36000.build/Debug-iphonesimulator/36000.build/Objects-normal/i386/36000.LinkFileList
+c00000000533A32B60000000000000CF5
+t1396322998
+s3317
+
+N/Users/linke/Desktop/360度全景图例子源代码/Build/Intermediates/36000.build/Debug-iphonesimulator/36000.build/Objects-normal/i386/PLCamera.o
+t1396323000
+s19960
+
+N/Users/linke/Desktop/360度全景图例子源代码/Build/Intermediates/36000.build/Debug-iphonesimulator/36000.build/Objects-normal/i386/PLCube.o
+t1396323000
+s13672
+
+N/Users/linke/Desktop/360度全景图例子源代码/Build/Intermediates/36000.build/Debug-iphonesimulator/36000.build/Objects-normal/i386/PLCylinder.o
+t1396323000
+s16332
+
+N/Users/linke/Desktop/360度全景图例子源代码/Build/Intermediates/36000.build/Debug-iphonesimulator/36000.build/Objects-normal/i386/PLImage.o
+t1396323000
+s37788
+
+N/Users/linke/Desktop/360度全景图例子源代码/Build/Intermediates/36000.build/Debug-iphonesimulator/36000.build/Objects-normal/i386/PLMath.o
+t1396323000
+s7972
+
+N/Users/linke/Desktop/360度全景图例子源代码/Build/Intermediates/36000.build/Debug-iphonesimulator/36000.build/Objects-normal/i386/PLObject.o
+t1396323000
+s43464
+
+N/Users/linke/Desktop/360度全景图例子源代码/Build/Intermediates/36000.build/Debug-iphonesimulator/36000.build/Objects-normal/i386/PLRenderer.o
+t1396323000
+s63464
+
+N/Users/linke/Desktop/360度全景图例子源代码/Build/Intermediates/36000.build/Debug-iphonesimulator/36000.build/Objects-normal/i386/PLScene.o
+t1396323000
+s20108
+
+N/Users/linke/Desktop/360度全景图例子源代码/Build/Intermediates/36000.build/Debug-iphonesimulator/36000.build/Objects-normal/i386/PLSceneElement.o
+t1396323000
+s30464
+
+N/Users/linke/Desktop/360度全景图例子源代码/Build/Intermediates/36000.build/Debug-iphonesimulator/36000.build/Objects-normal/i386/PLSphere.o
+t1396323000
+s11924
+
+N/Users/linke/Desktop/360度全景图例子源代码/Build/Intermediates/36000.build/Debug-iphonesimulator/36000.build/Objects-normal/i386/PLTexture.o
+t1396323000
+s24456
+
+N/Users/linke/Desktop/360度全景图例子源代码/Build/Intermediates/36000.build/Debug-iphonesimulator/36000.build/Objects-normal/i386/PLUtils.o
+t1396323000
+s4720
+
+N/Users/linke/Desktop/360度全景图例子源代码/Build/Intermediates/36000.build/Debug-iphonesimulator/36000.build/Objects-normal/i386/PLView.o
+t1396323000
+s61700
+
+N/Users/linke/Desktop/360度全景图例子源代码/Build/Intermediates/36000.build/Debug-iphonesimulator/36000.build/Objects-normal/i386/PLViewBase.o
+t1396323000
+s97876
+
+N/Users/linke/Desktop/360度全景图例子源代码/Build/Intermediates/36000.build/Debug-iphonesimulator/36000.build/Objects-normal/i386/_6000AppDelegate.o
+t1396323000
+s69404
+
+N/Users/linke/Desktop/360度全景图例子源代码/Build/Intermediates/36000.build/Debug-iphonesimulator/36000.build/Objects-normal/i386/_6000ViewController.o
+t1396323000
+s49192
+
+N/Users/linke/Desktop/360度全景图例子源代码/Build/Intermediates/36000.build/Debug-iphonesimulator/36000.build/Objects-normal/i386/glues_error.o
+t1396322999
+s6500
+
+N/Users/linke/Desktop/360度全景图例子源代码/Build/Intermediates/36000.build/Debug-iphonesimulator/36000.build/Objects-normal/i386/glues_mipmap.o
+t1396323000
+s57032
+
+N/Users/linke/Desktop/360度全景图例子源代码/Build/Intermediates/36000.build/Debug-iphonesimulator/36000.build/Objects-normal/i386/glues_project.o
+t1396323000
+s15348
+
+N/Users/linke/Desktop/360度全景图例子源代码/Build/Intermediates/36000.build/Debug-iphonesimulator/36000.build/Objects-normal/i386/glues_quad.o
+t1396323000
+s35676
+
+N/Users/linke/Desktop/360度全景图例子源代码/Build/Intermediates/36000.build/Debug-iphonesimulator/36000.build/Objects-normal/i386/glues_registry.o
+t1396323000
+s4044
+
+N/Users/linke/Desktop/360度全景图例子源代码/Build/Intermediates/36000.build/Debug-iphonesimulator/36000.build/Objects-normal/i386/main.o
+t1396322999
+s3812
+
+N/Users/linke/Desktop/360度全景图例子源代码/Build/Intermediates/PrecompiledHeaders/36000-Prefix-abnblkplaipngagaiifbexdhhidz/36000-Prefix.pch.pch
+t1396322998
+s119696
+
+N/Users/linke/Desktop/360度全景图例子源代码/Build/Intermediates/PrecompiledHeaders/36000-Prefix-chkbxhxkagluxvdimdruqawurgrg/36000-Prefix.pch.pch
+t1396322999
+s5306584
+
+N/Users/linke/Desktop/360度全景图例子源代码/Build/Products/Debug-iphonesimulator/36000.app
+t1396323001
+s238
+
+N/Users/linke/Desktop/360度全景图例子源代码/Build/Products/Debug-iphonesimulator/36000.app.dSYM
+t2
+s0
+
+N/Users/linke/Desktop/360度全景图例子源代码/Build/Products/Debug-iphonesimulator/36000.app/36000
+t1396323001
+s260140
+
+N/Users/linke/Desktop/360度全景图例子源代码/Build/Products/Debug-iphonesimulator/36000.app/Info.plist
+t1396322998
+s806
+
+N/Users/linke/Desktop/360度全景图例子源代码/Build/Products/Debug-iphonesimulator/36000.app/PkgInfo
+t1396322998
+s8
+
+N/Users/linke/Desktop/360度全景图例子源代码/Build/Products/Debug-iphonesimulator/36000.app/en.lproj/InfoPlist.strings
+t1396323001
+s42
+
+N/Users/linke/Desktop/360度全景图例子源代码/Build/Products/Debug-iphonesimulator/36000.app/en.lproj/MainWindow.nib
+t1396323001
+s1801
+
+N/Users/linke/Desktop/360度全景图例子源代码/Build/Products/Debug-iphonesimulator/36000.app/en.lproj/_6000ViewController.nib
+t1396323001
+s1447
+
+N/Users/linke/Desktop/360度全景图例子源代码/Build/Products/Debug-iphonesimulator/36000.app/pano.jpg
+t1396323001
+s167979
+
+N/Users/linke/Desktop/360度全景图例子源代码/OpenGLES.framework/OpenGLES
+c000000004D54D28000000000000191D0
+t1297404544
+s102864
+
+N/Users/linke/Desktop/360度全景图例子源代码/PL/PLCamera.m
+c000000004B7FF6300000000000000A99
+t1266677296
+s2713
+
+N/Users/linke/Desktop/360度全景图例子源代码/PL/PLCube.m
+c000000004B7FF6300000000000001043
+t1266677296
+s4163
+
+N/Users/linke/Desktop/360度全景图例子源代码/PL/PLCylinder.m
+c000000004B7FF630000000000000091F
+t1266677296
+s2335
+
+N/Users/linke/Desktop/360度全景图例子源代码/PL/PLImage.m
+c000000004B7D8AD2000000000000288C
+t1266518738
+s10380
+
+N/Users/linke/Desktop/360度全景图例子源代码/PL/PLMath.m
+c000000004B7D5EE80000000000000781
+t1266507496
+s1921
+
+N/Users/linke/Desktop/360度全景图例子源代码/PL/PLObject.m
+c000000004B7FF63000000000000014F0
+t1266677296
+s5360
+
+N/Users/linke/Desktop/360度全景图例子源代码/PL/PLRenderer.m
+c000000004B7FF3B20000000000001BA3
+t1266676658
+s7075
+
+N/Users/linke/Desktop/360度全景图例子源代码/PL/PLScene.m
+c000000004B7D1E680000000000000C4E
+t1266490984
+s3150
+
+N/Users/linke/Desktop/360度全景图例子源代码/PL/PLSceneElement.m
+c000000004B7D78480000000000002615
+t1266513992
+s9749
+
+N/Users/linke/Desktop/360度全景图例子源代码/PL/PLSphere.m
+c000000004B7FF630000000000000062C
+t1266677296
+s1580
+
+N/Users/linke/Desktop/360度全景图例子源代码/PL/PLTexture.m
+c000000004B7FF6300000000000001225
+t1266677296
+s4645
+
+N/Users/linke/Desktop/360度全景图例子源代码/PL/PLUtils.m
+c000000004B7D1E6A000000000000050B
+t1266490986
+s1291
+
+N/Users/linke/Desktop/360度全景图例子源代码/PL/PLView.m
+c000000004B7FF63000000000000011F7
+t1266677296
+s4599
+
+N/Users/linke/Desktop/360度全景图例子源代码/PL/PLViewBase.m
+c000000004B7FF63000000000000034AF
+t1266677296
+s13487
+
+N/Users/linke/Desktop/360度全景图例子源代码/QuartzCore.framework/QuartzCore
+c000000004D54D4200000000000162C50
+t1297404960
+s1453136
+
+N/Users/linke/Desktop/360度全景图例子源代码/glues/glues_error.c
+c000000004E23A3F4000000000000170C
+t1310958580
+s5900
+
+N/Users/linke/Desktop/360度全景图例子源代码/glues/glues_mipmap.c
+c000000004A1F789600000000000112CF
+t1243576470
+s70351
+
+N/Users/linke/Desktop/360度全景图例子源代码/glues/glues_project.c
+c000000004A1F72FA0000000000002B28
+t1243575034
+s11048
+
+N/Users/linke/Desktop/360度全景图例子源代码/glues/glues_quad.c
+c000000004A1F6FAC000000000000C93C
+t1243574188
+s51516
+
+N/Users/linke/Desktop/360度全景图例子源代码/glues/glues_registry.c
+c000000004A1F71360000000000000C65
+t1243574582
+s3173
+
+CBuild AST from /Users/linke/Desktop/360度全景图例子源代码/36000/_6000AppDelegate.m
+r0
+
+CBuild AST from /Users/linke/Desktop/360度全景图例子源代码/36000/_6000ViewController.m
+r0
+
+CBuild AST from /Users/linke/Desktop/360度全景图例子源代码/36000/main.m
+r0
+
+CBuild AST from /Users/linke/Desktop/360度全景图例子源代码/PL/PLCamera.m
+r0
+
+CBuild AST from /Users/linke/Desktop/360度全景图例子源代码/PL/PLCube.m
+r0
+
+CBuild AST from /Users/linke/Desktop/360度全景图例子源代码/PL/PLCylinder.m
+r0
+
+CBuild AST from /Users/linke/Desktop/360度全景图例子源代码/PL/PLImage.m
+r0
+
+CBuild AST from /Users/linke/Desktop/360度全景图例子源代码/PL/PLMath.m
+r0
+
+CBuild AST from /Users/linke/Desktop/360度全景图例子源代码/PL/PLObject.m
+r0
+
+CBuild AST from /Users/linke/Desktop/360度全景图例子源代码/PL/PLRenderer.m
+r0
+
+CBuild AST from /Users/linke/Desktop/360度全景图例子源代码/PL/PLScene.m
+r0
+
+CBuild AST from /Users/linke/Desktop/360度全景图例子源代码/PL/PLSceneElement.m
+r0
+
+CBuild AST from /Users/linke/Desktop/360度全景图例子源代码/PL/PLSphere.m
+r0
+
+CBuild AST from /Users/linke/Desktop/360度全景图例子源代码/PL/PLTexture.m
+r0
+
+CBuild AST from /Users/linke/Desktop/360度全景图例子源代码/PL/PLUtils.m
+r0
+
+CBuild AST from /Users/linke/Desktop/360度全景图例子源代码/PL/PLView.m
+r0
+
+CBuild AST from /Users/linke/Desktop/360度全景图例子源代码/PL/PLViewBase.m
+r0
+
+CBuild AST from /Users/linke/Desktop/360度全景图例子源代码/glues/glues_error.c
+r0
+
+CBuild AST from /Users/linke/Desktop/360度全景图例子源代码/glues/glues_mipmap.c
+r0
+
+CBuild AST from /Users/linke/Desktop/360度全景图例子源代码/glues/glues_project.c
+r0
+
+CBuild AST from /Users/linke/Desktop/360度全景图例子源代码/glues/glues_quad.c
+r0
+
+CBuild AST from /Users/linke/Desktop/360度全景图例子源代码/glues/glues_registry.c
+r0
+
+CCheck dependencies
+r0
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection18"Check dependencies18"Check dependencies9a9985366aeab841^34bcb9366aeab841^---0#1#1#--18"Check dependencies36"A399D1DC-4FAF-4A39-9F43-6389980B606F-
+
+CCompileC Build/Intermediates/36000.build/Debug-iphonesimulator/36000.build/Objects-normal/i386/PLCamera.o /Users/linke/Desktop/360度全景图例子源代码/PL/PLCamera.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s418015800.189037
+e418015800.345577
+r1
+xCompileC
+xBuild/Intermediates/36000.build/Debug-iphonesimulator/36000.build/Objects-normal/i386/PLCamera.o
+x/Users/linke/Desktop/360度全景图例子源代码/PL/PLCamera.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/linke/Desktop/360度全景图例子源代码/PL/PLCamera.m
+d/Users/linke/Desktop/360度全景图例子源代码/PL/PLCamera.h
+d/Users/linke/Desktop/360度全景图例子源代码/PL/PLObject.h
+d/Users/linke/Desktop/360度全景图例子源代码/PL/PLConstants.h
+d/Users/linke/Desktop/360度全景图例子源代码/PL/PLStructs.h
+d/Users/linke/Desktop/360度全景图例子源代码/PL/PLMath.h
+o/Users/linke/Desktop/360度全景图例子源代码/PL/PLCamera.m:54:9: warning: 'PLObject' may not respond to 'initializeValues'
+o        [super initializeValues];
+o         ~~~~~ ^
+o1 warning generated.
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection73"Compile /Users/linke/Desktop/360度全景图例子源代码/PL/PLCamera.m187"CompileC Build/Intermediates/36000.build/Debug-iphonesimulator/36000.build/Objects-normal/i386/PLCamera.o PL/PLCamera.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compilerf98430386aeab841^de8e58386aeab841^-202"/Users/linke/Desktop/360度全景图例子源代码/PL/PLCamera.m:54:9: warning: 'PLObject' may not respond to 'initializeValues'        [super initializeValues];         ~~~~~ ^1 warning generated.1(36%IDEClangDiagnosticActivityLogMessage2@48"'PLObject' may not respond to 'initializeValues'-418015800#18446744073709551615#0#-1#27"com.apple.dt.IDE.diagnostic23%DVTTextDocumentLocation3@126"file:///Users/linke/Desktop/360%E5%BA%A6%E5%85%A8%E6%99%AF%E5%9B%BE%E4%BE%8B%E5%AD%90%E6%BA%90%E4%BB%A3%E7%A0%81/PL/PLCamera.m0000000000000000^53#8#53#8#1414#0#14"Semantic Issue1(3@126"file:///Users/linke/Desktop/360%E5%BA%A6%E5%85%A8%E6%99%AF%E5%9B%BE%E4%BE%8B%E5%AD%90%E6%BA%90%E4%BB%A3%E7%A0%81/PL/PLCamera.m0000000000000000^53#2#53#7#1408#0#-0#0#1#-19%DVTDocumentLocation4@126"file:///Users/linke/Desktop/360%E5%BA%A6%E5%85%A8%E6%99%AF%E5%9B%BE%E4%BE%8B%E5%AD%90%E6%BA%90%E4%BB%A3%E7%A0%81/PL/PLCamera.m0000000000000000^3344"CompileC Build/Intermediates/36000.build/Debug-iphonesimulator/36000.build/Objects-normal/i386/PLCamera.o PL/PLCamera.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/linke/Desktop/360度全景图例子源代码    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-empty-body -Wno-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-constant-conversion -Wno-int-conversion -Wno-bool-conversion -Wno-enum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DDEBUG -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=4.2 -iquote /Users/linke/Desktop/360度全景图例子源代码/Build/Intermediates/36000.build/Debug-iphonesimulator/36000.build/36000-generated-files.hmap -I/Users/linke/Desktop/360度全景图例子源代码/Build/Intermediates/36000.build/Debug-iphonesimulator/36000.build/36000-own-target-headers.hmap -I/Users/linke/Desktop/360度全景图例子源代码/Build/Intermediates/36000.build/Debug-iphonesimulator/36000.build/36000-all-target-headers.hmap -iquote /Users/linke/Desktop/360度全景图例子源代码/Build/Intermediates/36000.build/Debug-iphonesimulator/36000.build/36000-project-headers.hmap -I/Users/linke/Desktop/360度全景图例子源代码/Build/Products/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/linke/Desktop/360度全景图例子源代码/Build/Intermediates/36000.build/Debug-iphonesimulator/36000.build/DerivedSources/i386 -I/Users/linke/Desktop/360度全景图例子源代码/Build/Intermediates/36000.build/Debug-iphonesimulator/36000.build/DerivedSources -F/Users/linke/Desktop/360度全景图例子源代码/Build/Products/Debug-iphonesimulator -F/Users/linke/Desktop/360度全景图例子源代码 -include /Users/linke/Desktop/360度全景图例子源代码/Build/Intermediates/PrecompiledHeaders/36000-Prefix-chkbxhxkagluxvdimdruqawurgrg/36000-Prefix.pch -MMD -MT dependencies -MF /Users/linke/Desktop/360度全景图例子源代码/Build/Intermediates/36000.build/Debug-iphonesimulator/36000.build/Objects-normal/i386/PLCamera.d --serialize-diagnostics /Users/linke/Desktop/360度全景图例子源代码/Build/Intermediates/36000.build/Debug-iphonesimula36"14D9AEC7-7519-495C-972B-48CA1EEAD203-
+b1618D0A6-7FFF-47D4-B60A-433B1BA3615C
+
+CCompileC Build/Intermediates/36000.build/Debug-iphonesimulator/36000.build/Objects-normal/i386/PLCube.o /Users/linke/Desktop/360度全景图例子源代码/PL/PLCube.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s418015800.196873
+e418015800.290301
+r1
+xCompileC
+xBuild/Intermediates/36000.build/Debug-iphonesimulator/36000.build/Objects-normal/i386/PLCube.o
+x/Users/linke/Desktop/360度全景图例子源代码/PL/PLCube.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/linke/Desktop/360度全景图例子源代码/PL/PLCube.m
+d/Users/linke/Desktop/360度全景图例子源代码/PL/PLCube.h
+d/Users/linke/Desktop/360度全景图例子源代码/PL/PLSceneElement.h
+d/Users/linke/Desktop/360度全景图例子源代码/OpenGLES.framework/Headers/ES1/gl.h
+d/Users/linke/Desktop/360度全景图例子源代码/OpenGLES.framework/Headers/ES1/glext.h
+d/Users/linke/Desktop/360度全景图例子源代码/glues/glu.h
+d/Users/linke/Desktop/360度全景图例子源代码/glues/glues.h
+d/Users/linke/Desktop/360度全景图例子源代码/PL/PLEnums.h
+d/Users/linke/Desktop/360度全景图例子源代码/PL/PLStructs.h
+d/Users/linke/Desktop/360度全景图例子源代码/PL/PLUtils.h
+d/Users/linke/Desktop/360度全景图例子源代码/PL/PLTexture.h
+d/Users/linke/Desktop/360度全景图例子源代码/PL/PLConstants.h
+d/Users/linke/Desktop/360度全景图例子源代码/PL/PLImage.h
+d/Users/linke/Desktop/360度全景图例子源代码/PL/PLMath.h
+d/Users/linke/Desktop/360度全景图例子源代码/PL/PLObject.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection71"Compile /Users/linke/Desktop/360度全景图例子源代码/PL/PLCube.m183"CompileC Build/Intermediates/36000.build/Debug-iphonesimulator/36000.build/Objects-normal/i386/PLCube.o PL/PLCube.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler268c32386aeab841^15524a386aeab841^---0#0#1#-19%DVTDocumentLocation2@124"file:///Users/linke/Desktop/360%E5%BA%A6%E5%85%A8%E6%99%AF%E5%9B%BE%E4%BE%8B%E5%AD%90%E6%BA%90%E4%BB%A3%E7%A0%81/PL/PLCube.m0000000000000000^3332"CompileC Build/Intermediates/36000.build/Debug-iphonesimulator/36000.build/Objects-normal/i386/PLCube.o PL/PLCube.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/linke/Desktop/360度全景图例子源代码    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-empty-body -Wno-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-constant-conversion -Wno-int-conversion -Wno-bool-conversion -Wno-enum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DDEBUG -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=4.2 -iquote /Users/linke/Desktop/360度全景图例子源代码/Build/Intermediates/36000.build/Debug-iphonesimulator/36000.build/36000-generated-files.hmap -I/Users/linke/Desktop/360度全景图例子源代码/Build/Intermediates/36000.build/Debug-iphonesimulator/36000.build/36000-own-target-headers.hmap -I/Users/linke/Desktop/360度全景图例子源代码/Build/Intermediates/36000.build/Debug-iphonesimulator/36000.build/36000-all-target-headers.hmap -iquote /Users/linke/Desktop/360度全景图例子源代码/Build/Intermediates/36000.build/Debug-iphonesimulator/36000.build/36000-project-headers.hmap -I/Users/linke/Desktop/360度全景图例子源代码/Build/Products/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/linke/Desktop/360度全景图例子源代码/Build/Intermediates/36000.build/Debug-iphonesimulator/36000.build/DerivedSources/i386 -I/Users/linke/Desktop/360度全景图例子源代码/Build/Intermediates/36000.build/Debug-iphonesimulator/36000.build/DerivedSources -F/Users/linke/Desktop/360度全景图例子源代码/Build/Products/Debug-iphonesimulator -F/Users/linke/Desktop/360度全景图例子源代码 -include /Users/linke/Desktop/360度全景图例子源代码/Build/Intermediates/PrecompiledHeaders/36000-Prefix-chkbxhxkagluxvdimdruqawurgrg/36000-Prefix.pch -MMD -MT dependencies -MF /Users/linke/Desktop/360度全景图例子源代码/Build/Intermediates/36000.build/Debug-iphonesimulator/36000.build/Objects-normal/i386/PLCube.d --serialize-diagnostics /Users/linke/Desktop/360度全景图例子源代码/Build/Intermediates/36000.build/Debug-iphone36"18B576CF-E3A1-46AD-A32A-2897A0C968F1-
+b1618D0A6-7FFF-47D4-B60A-433B1BA3615C
+
+CCompileC Build/Intermediates/36000.build/Debug-iphonesimulator/36000.build/Objects-normal/i386/PLCylinder.o /Users/linke/Desktop/360度全景图例子源代码/PL/PLCylinder.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s418015800.225854
+e418015800.343861
+r1
+xCompileC
+xBuild/Intermediates/36000.build/Debug-iphonesimulator/36000.build/Objects-normal/i386/PLCylinder.o
+x/Users/linke/Desktop/360度全景图例子源代码/PL/PLCylinder.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/linke/Desktop/360度全景图例子源代码/PL/PLCylinder.m
+d/Users/linke/Desktop/360度全景图例子源代码/PL/PLCylinder.h
+d/Users/linke/Desktop/360度全景图例子源代码/PL/PLSceneElement.h
+d/Users/linke/Desktop/360度全景图例子源代码/OpenGLES.framework/Headers/ES1/gl.h
+d/Users/linke/Desktop/360度全景图例子源代码/OpenGLES.framework/Headers/ES1/glext.h
+d/Users/linke/Desktop/360度全景图例子源代码/glues/glu.h
+d/Users/linke/Desktop/360度全景图例子源代码/glues/glues.h
+d/Users/linke/Desktop/360度全景图例子源代码/PL/PLEnums.h
+d/Users/linke/Desktop/360度全景图例子源代码/PL/PLStructs.h
+d/Users/linke/Desktop/360度全景图例子源代码/PL/PLUtils.h
+d/Users/linke/Desktop/360度全景图例子源代码/PL/PLTexture.h
+d/Users/linke/Desktop/360度全景图例子源代码/PL/PLConstants.h
+d/Users/linke/Desktop/360度全景图例子源代码/PL/PLImage.h
+d/Users/linke/Desktop/360度全景图例子源代码/PL/PLMath.h
+d/Users/linke/Desktop/360度全景图例子源代码/PL/PLObject.h
+o/Users/linke/Desktop/360度全景图例子源代码/PL/PLCylinder.m:48:9: warning: 'PLSceneElement' may not respond to 'initializeValues'
+o        [super initializeValues];
+o         ~~~~~ ^
+o1 warning generated.
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection75"Compile /Users/linke/Desktop/360度全景图例子源代码/PL/PLCylinder.m191"CompileC Build/Intermediates/36000.build/Debug-iphonesimulator/36000.build/Objects-normal/i386/PLCylinder.o PL/PLCylinder.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler24f239386aeab841^0a1158386aeab841^-210"/Users/linke/Desktop/360度全景图例子源代码/PL/PLCylinder.m:48:9: warning: 'PLSceneElement' may not respond to 'initializeValues'        [super initializeValues];         ~~~~~ ^1 warning generated.1(36%IDEClangDiagnosticActivityLogMessage2@54"'PLSceneElement' may not respond to 'initializeValues'-418015800#18446744073709551615#0#-1#27"com.apple.dt.IDE.diagnostic23%DVTTextDocumentLocation3@128"file:///Users/linke/Desktop/360%E5%BA%A6%E5%85%A8%E6%99%AF%E5%9B%BE%E4%BE%8B%E5%AD%90%E6%BA%90%E4%BB%A3%E7%A0%81/PL/PLCylinder.m0000000000000000^47#8#47#8#1206#0#14"Semantic Issue1(3@128"file:///Users/linke/Desktop/360%E5%BA%A6%E5%85%A8%E6%99%AF%E5%9B%BE%E4%BE%8B%E5%AD%90%E6%BA%90%E4%BB%A3%E7%A0%81/PL/PLCylinder.m0000000000000000^47#2#47#7#1200#0#-0#0#1#-19%DVTDocumentLocation4@128"file:///Users/linke/Desktop/360%E5%BA%A6%E5%85%A8%E6%99%AF%E5%9B%BE%E4%BE%8B%E5%AD%90%E6%BA%90%E4%BB%A3%E7%A0%81/PL/PLCylinder.m0000000000000000^3356"CompileC Build/Intermediates/36000.build/Debug-iphonesimulator/36000.build/Objects-normal/i386/PLCylinder.o PL/PLCylinder.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/linke/Desktop/360度全景图例子源代码    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-empty-body -Wno-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-constant-conversion -Wno-int-conversion -Wno-bool-conversion -Wno-enum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DDEBUG -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=4.2 -iquote /Users/linke/Desktop/360度全景图例子源代码/Build/Intermediates/36000.build/Debug-iphonesimulator/36000.build/36000-generated-files.hmap -I/Users/linke/Desktop/360度全景图例子源代码/Build/Intermediates/36000.build/Debug-iphonesimulator/36000.build/36000-own-target-headers.hmap -I/Users/linke/Desktop/360度全景图例子源代码/Build/Intermediates/36000.build/Debug-iphonesimulator/36000.build/36000-all-target-headers.hmap -iquote /Users/linke/Desktop/360度全景图例子源代码/Build/Intermediates/36000.build/Debug-iphonesimulator/36000.build/36000-project-headers.hmap -I/Users/linke/Desktop/360度全景图例子源代码/Build/Products/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/linke/Desktop/360度全景图例子源代码/Build/Intermediates/36000.build/Debug-iphonesimulator/36000.build/DerivedSources/i386 -I/Users/linke/Desktop/360度全景图例子源代码/Build/Intermediates/36000.build/Debug-iphonesimulator/36000.build/DerivedSources -F/Users/linke/Desktop/360度全景图例子源代码/Build/Products/Debug-iphonesimulator -F/Users/linke/Desktop/360度全景图例子源代码 -include /Users/linke/Desktop/360度全景图例子源代码/Build/Intermediates/PrecompiledHeaders/36000-Prefix-chkbxhxkagluxvdimdruqawurgrg/36000-Prefix.pch -MMD -MT dependencies -MF /Users/linke/Desktop/360度全景图例子源代码/Build/Intermediates/36000.build/Debug-iphonesimulator/36000.build/Objects-normal/i386/PLCylinder.d --serialize-diagnostics /Users/linke/Desktop/360度全景图例子源代码/Build/Intermediates/36000.build/Debug-iphonesimulator/3636"84762310-000D-4098-8B33-494CE8AB6BD9-
+b1618D0A6-7FFF-47D4-B60A-433B1BA3615C
+
+CCompileC Build/Intermediates/36000.build/Debug-iphonesimulator/36000.build/Objects-normal/i386/PLImage.o /Users/linke/Desktop/360度全景图例子源代码/PL/PLImage.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s418015800.238974
+e418015800.390483
+r1
+xCompileC
+xBuild/Intermediates/36000.build/Debug-iphonesimulator/36000.build/Objects-normal/i386/PLImage.o
+x/Users/linke/Desktop/360度全景图例子源代码/PL/PLImage.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/linke/Desktop/360度全景图例子源代码/PL/PLImage.m
+d/Users/linke/Desktop/360度全景图例子源代码/PL/PLImage.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection72"Compile /Users/linke/Desktop/360度全景图例子源代码/PL/PLImage.m185"CompileC Build/Intermediates/36000.build/Debug-iphonesimulator/36000.build/Objects-normal/i386/PLImage.o PL/PLImage.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compilerbe4b3d386aeab841^c2f663386aeab841^---0#0#1#-19%DVTDocumentLocation2@125"file:///Users/linke/Desktop/360%E5%BA%A6%E5%85%A8%E6%99%AF%E5%9B%BE%E4%BE%8B%E5%AD%90%E6%BA%90%E4%BB%A3%E7%A0%81/PL/PLImage.m0000000000000000^3338"CompileC Build/Intermediates/36000.build/Debug-iphonesimulator/36000.build/Objects-normal/i386/PLImage.o PL/PLImage.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/linke/Desktop/360度全景图例子源代码    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-empty-body -Wno-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-constant-conversion -Wno-int-conversion -Wno-bool-conversion -Wno-enum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DDEBUG -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=4.2 -iquote /Users/linke/Desktop/360度全景图例子源代码/Build/Intermediates/36000.build/Debug-iphonesimulator/36000.build/36000-generated-files.hmap -I/Users/linke/Desktop/360度全景图例子源代码/Build/Intermediates/36000.build/Debug-iphonesimulator/36000.build/36000-own-target-headers.hmap -I/Users/linke/Desktop/360度全景图例子源代码/Build/Intermediates/36000.build/Debug-iphonesimulator/36000.build/36000-all-target-headers.hmap -iquote /Users/linke/Desktop/360度全景图例子源代码/Build/Intermediates/36000.build/Debug-iphonesimulator/36000.build/36000-project-headers.hmap -I/Users/linke/Desktop/360度全景图例子源代码/Build/Products/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/linke/Desktop/360度全景图例子源代码/Build/Intermediates/36000.build/Debug-iphonesimulator/36000.build/DerivedSources/i386 -I/Users/linke/Desktop/360度全景图例子源代码/Build/Intermediates/36000.build/Debug-iphonesimulator/36000.build/DerivedSources -F/Users/linke/Desktop/360度全景图例子源代码/Build/Products/Debug-iphonesimulator -F/Users/linke/Desktop/360度全景图例子源代码 -include /Users/linke/Desktop/360度全景图例子源代码/Build/Intermediates/PrecompiledHeaders/36000-Prefix-chkbxhxkagluxvdimdruqawurgrg/36000-Prefix.pch -MMD -MT dependencies -MF /Users/linke/Desktop/360度全景图例子源代码/Build/Intermediates/36000.build/Debug-iphonesimulator/36000.build/Objects-normal/i386/PLImage.d --serialize-diagnostics /Users/linke/Desktop/360度全景图例子源代码/Build/Intermediates/36000.build/Debug-iphonesim36"4551D96D-70B8-4FFA-9B7A-D762C7F42F48-
+b1618D0A6-7FFF-47D4-B60A-433B1BA3615C
+
+CCompileC Build/Intermediates/36000.build/Debug-iphonesimulator/36000.build/Objects-normal/i386/PLMath.o /Users/linke/Desktop/360度全景图例子源代码/PL/PLMath.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s418015800.291148
+e418015800.371870
+r1
+xCompileC
+xBuild/Intermediates/36000.build/Debug-iphonesimulator/36000.build/Objects-normal/i386/PLMath.o
+x/Users/linke/Desktop/360度全景图例子源代码/PL/PLMath.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/linke/Desktop/360度全景图例子源代码/PL/PLMath.m
+d/Users/linke/Desktop/360度全景图例子源代码/PL/PLMath.h
+d/Users/linke/Desktop/360度全景图例子源代码/PL/PLStructs.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection71"Compile /Users/linke/Desktop/360度全景图例子源代码/PL/PLMath.m183"CompileC Build/Intermediates/36000.build/Debug-iphonesimulator/36000.build/Objects-normal/i386/PLMath.o PL/PLMath.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler26a74a386aeab841^be325f386aeab841^---0#0#1#-19%DVTDocumentLocation2@124"file:///Users/linke/Desktop/360%E5%BA%A6%E5%85%A8%E6%99%AF%E5%9B%BE%E4%BE%8B%E5%AD%90%E6%BA%90%E4%BB%A3%E7%A0%81/PL/PLMath.m0000000000000000^3332"CompileC Build/Intermediates/36000.build/Debug-iphonesimulator/36000.build/Objects-normal/i386/PLMath.o PL/PLMath.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/linke/Desktop/360度全景图例子源代码    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-empty-body -Wno-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-constant-conversion -Wno-int-conversion -Wno-bool-conversion -Wno-enum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DDEBUG -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=4.2 -iquote /Users/linke/Desktop/360度全景图例子源代码/Build/Intermediates/36000.build/Debug-iphonesimulator/36000.build/36000-generated-files.hmap -I/Users/linke/Desktop/360度全景图例子源代码/Build/Intermediates/36000.build/Debug-iphonesimulator/36000.build/36000-own-target-headers.hmap -I/Users/linke/Desktop/360度全景图例子源代码/Build/Intermediates/36000.build/Debug-iphonesimulator/36000.build/36000-all-target-headers.hmap -iquote /Users/linke/Desktop/360度全景图例子源代码/Build/Intermediates/36000.build/Debug-iphonesimulator/36000.build/36000-project-headers.hmap -I/Users/linke/Desktop/360度全景图例子源代码/Build/Products/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/linke/Desktop/360度全景图例子源代码/Build/Intermediates/36000.build/Debug-iphonesimulator/36000.build/DerivedSources/i386 -I/Users/linke/Desktop/360度全景图例子源代码/Build/Intermediates/36000.build/Debug-iphonesimulator/36000.build/DerivedSources -F/Users/linke/Desktop/360度全景图例子源代码/Build/Products/Debug-iphonesimulator -F/Users/linke/Desktop/360度全景图例子源代码 -include /Users/linke/Desktop/360度全景图例子源代码/Build/Intermediates/PrecompiledHeaders/36000-Prefix-chkbxhxkagluxvdimdruqawurgrg/36000-Prefix.pch -MMD -MT dependencies -MF /Users/linke/Desktop/360度全景图例子源代码/Build/Intermediates/36000.build/Debug-iphonesimulator/36000.build/Objects-normal/i386/PLMath.d --serialize-diagnostics /Users/linke/Desktop/360度全景图例子源代码/Build/Intermediates/36000.build/Debug-iphone36"ADEF62BF-8350-4651-913D-67E3F2C86667-
+b1618D0A6-7FFF-47D4-B60A-433B1BA3615C
+
+CCompileC Build/Intermediates/36000.build/Debug-iphonesimulator/36000.build/Objects-normal/i386/PLObject.o /Users/linke/Desktop/360度全景图例子源代码/PL/PLObject.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s418015800.344829
+e418015800.442912
+r1
+xCompileC
+xBuild/Intermediates/36000.build/Debug-iphonesimulator/36000.build/Objects-normal/i386/PLObject.o
+x/Users/linke/Desktop/360度全景图例子源代码/PL/PLObject.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/linke/Desktop/360度全景图例子源代码/PL/PLObject.m
+d/Users/linke/Desktop/360度全景图例子源代码/PL/PLObject.h
+d/Users/linke/Desktop/360度全景图例子源代码/PL/PLConstants.h
+d/Users/linke/Desktop/360度全景图例子源代码/PL/PLStructs.h
+d/Users/linke/Desktop/360度全景图例子源代码/PL/PLMath.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection73"Compile /Users/linke/Desktop/360度全景图例子源代码/PL/PLObject.m187"CompileC Build/Intermediates/36000.build/Debug-iphonesimulator/36000.build/Objects-normal/i386/PLObject.o PL/PLObject.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler78b958386aeab841^f71f71386aeab841^---0#0#1#-19%DVTDocumentLocation2@126"file:///Users/linke/Desktop/360%E5%BA%A6%E5%85%A8%E6%99%AF%E5%9B%BE%E4%BE%8B%E5%AD%90%E6%BA%90%E4%BB%A3%E7%A0%81/PL/PLObject.m0000000000000000^3344"CompileC Build/Intermediates/36000.build/Debug-iphonesimulator/36000.build/Objects-normal/i386/PLObject.o PL/PLObject.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/linke/Desktop/360度全景图例子源代码    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-empty-body -Wno-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-constant-conversion -Wno-int-conversion -Wno-bool-conversion -Wno-enum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DDEBUG -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=4.2 -iquote /Users/linke/Desktop/360度全景图例子源代码/Build/Intermediates/36000.build/Debug-iphonesimulator/36000.build/36000-generated-files.hmap -I/Users/linke/Desktop/360度全景图例子源代码/Build/Intermediates/36000.build/Debug-iphonesimulator/36000.build/36000-own-target-headers.hmap -I/Users/linke/Desktop/360度全景图例子源代码/Build/Intermediates/36000.build/Debug-iphonesimulator/36000.build/36000-all-target-headers.hmap -iquote /Users/linke/Desktop/360度全景图例子源代码/Build/Intermediates/36000.build/Debug-iphonesimulator/36000.build/36000-project-headers.hmap -I/Users/linke/Desktop/360度全景图例子源代码/Build/Products/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/linke/Desktop/360度全景图例子源代码/Build/Intermediates/36000.build/Debug-iphonesimulator/36000.build/DerivedSources/i386 -I/Users/linke/Desktop/360度全景图例子源代码/Build/Intermediates/36000.build/Debug-iphonesimulator/36000.build/DerivedSources -F/Users/linke/Desktop/360度全景图例子源代码/Build/Products/Debug-iphonesimulator -F/Users/linke/Desktop/360度全景图例子源代码 -include /Users/linke/Desktop/360度全景图例子源代码/Build/Intermediates/PrecompiledHeaders/36000-Prefix-chkbxhxkagluxvdimdruqawurgrg/36000-Prefix.pch -MMD -MT dependencies -MF /Users/linke/Desktop/360度全景图例子源代码/Build/Intermediates/36000.build/Debug-iphonesimulator/36000.build/Objects-normal/i386/PLObject.d --serialize-diagnostics /Users/linke/Desktop/360度全景图例子源代码/Build/Intermediates/36000.build/Debug-iphonesimula36"3ACD95F5-7FB3-4A74-8EC9-8301B48F7DE0-
+b1618D0A6-7FFF-47D4-B60A-433B1BA3615C
+
+CCompileC Build/Intermediates/36000.build/Debug-iphonesimulator/36000.build/Objects-normal/i386/PLRenderer.o /Users/linke/Desktop/360度全景图例子源代码/PL/PLRenderer.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s418015800.346950
+e418015800.476125
+r1
+xCompileC
+xBuild/Intermediates/36000.build/Debug-iphonesimulator/36000.build/Objects-normal/i386/PLRenderer.o
+x/Users/linke/Desktop/360度全景图例子源代码/PL/PLRenderer.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/linke/Desktop/360度全景图例子源代码/PL/PLRenderer.m
+d/Users/linke/Desktop/360度全景图例子源代码/PL/PLRenderer.h
+d/Users/linke/Desktop/360度全景图例子源代码/OpenGLES.framework/Headers/ES1/gl.h
+d/Users/linke/Desktop/360度全景图例子源代码/OpenGLES.framework/Headers/ES1/glext.h
+d/Users/linke/Desktop/360度全景图例子源代码/glues/glu.h
+d/Users/linke/Desktop/360度全景图例子源代码/glues/glues.h
+d/Users/linke/Desktop/360度全景图例子源代码/PL/PLStructs.h
+d/Users/linke/Desktop/360度全景图例子源代码/PL/PLCamera.h
+d/Users/linke/Desktop/360度全景图例子源代码/PL/PLObject.h
+d/Users/linke/Desktop/360度全景图例子源代码/PL/PLConstants.h
+d/Users/linke/Desktop/360度全景图例子源代码/PL/PLMath.h
+d/Users/linke/Desktop/360度全景图例子源代码/PL/PLScene.h
+d/Users/linke/Desktop/360度全景图例子源代码/PL/PLSceneElement.h
+d/Users/linke/Desktop/360度全景图例子源代码/PL/PLEnums.h
+d/Users/linke/Desktop/360度全景图例子源代码/PL/PLUtils.h
+d/Users/linke/Desktop/360度全景图例子源代码/PL/PLTexture.h
+d/Users/linke/Desktop/360度全景图例子源代码/PL/PLImage.h
+d/Users/linke/Desktop/360度全景图例子源代码/PL/PLViewBase.h
+o/Users/linke/Desktop/360度全景图例子源代码/PL/PLRenderer.m:165:10: warning: 4 enumeration values not handled in switch: 'UIDeviceOrientationUnknown', 'UIDeviceOrientationPortrait', 'UIDeviceOrientationFaceUp'... [-Wswitch]
+o        switch (deviceOrientation) 
+o                ^
+o1 warning generated.
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection75"Compile /Users/linke/Desktop/360度全景图例子源代码/PL/PLRenderer.m191"CompileC Build/Intermediates/36000.build/Debug-iphonesimulator/36000.build/Objects-normal/i386/PLRenderer.o PL/PLRenderer.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compilerfef358386aeab841^e2007a386aeab841^-307"/Users/linke/Desktop/360度全景图例子源代码/PL/PLRenderer.m:165:10: warning: 4 enumeration values not handled in switch: 'UIDeviceOrientationUnknown', 'UIDeviceOrientationPortrait', 'UIDeviceOrientationFaceUp'... [-Wswitch]        switch (deviceOrientation)                 ^1 warning generated.1(36%IDEClangDiagnosticActivityLogMessage2@135"4 enumeration values not handled in switch: 'UIDeviceOrientationUnknown', 'UIDeviceOrientationPortrait', 'UIDeviceOrientationFaceUp'...-418015800#18446744073709551615#0#-1#27"com.apple.dt.IDE.diagnostic23%DVTTextDocumentLocation3@128"file:///Users/linke/Desktop/360%E5%BA%A6%E5%85%A8%E6%99%AF%E5%9B%BE%E4%BE%8B%E5%AD%90%E6%BA%90%E4%BB%A3%E7%A0%81/PL/PLRenderer.m0000000000000000^164#9#164#9#4460#0#14"Semantic Issue--0#0#1#-19%DVTDocumentLocation4@128"file:///Users/linke/Desktop/360%E5%BA%A6%E5%85%A8%E6%99%AF%E5%9B%BE%E4%BE%8B%E5%AD%90%E6%BA%90%E4%BB%A3%E7%A0%81/PL/PLRenderer.m0000000000000000^3356"CompileC Build/Intermediates/36000.build/Debug-iphonesimulator/36000.build/Objects-normal/i386/PLRenderer.o PL/PLRenderer.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/linke/Desktop/360度全景图例子源代码    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-empty-body -Wno-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-constant-conversion -Wno-int-conversion -Wno-bool-conversion -Wno-enum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DDEBUG -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=4.2 -iquote /Users/linke/Desktop/360度全景图例子源代码/Build/Intermediates/36000.build/Debug-iphonesimulator/36000.build/36000-generated-files.hmap -I/Users/linke/Desktop/360度全景图例子源代码/Build/Intermediates/36000.build/Debug-iphonesimulator/36000.build/36000-own-target-headers.hmap -I/Users/linke/Desktop/360度全景图例子源代码/Build/Intermediates/36000.build/Debug-iphonesimulator/36000.build/36000-all-target-headers.hmap -iquote /Users/linke/Desktop/360度全景图例子源代码/Build/Intermediates/36000.build/Debug-iphonesimulator/36000.build/36000-project-headers.hmap -I/Users/linke/Desktop/360度全景图例子源代码/Build/Products/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/linke/Desktop/360度全景图例子源代码/Build/Intermediates/36000.build/Debug-iphonesimulator/36000.build/DerivedSources/i386 -I/Users/linke/Desktop/360度全景图例子源代码/Build/Intermediates/36000.build/Debug-iphonesimulator/36000.build/DerivedSources -F/Users/linke/Desktop/360度全景图例子源代码/Build/Products/Debug-iphonesimulator -F/Users/linke/Desktop/360度全景图例子源代码 -include /Users/linke/Desktop/360度全景图例子源代码/Build/Intermediates/PrecompiledHeaders/36000-Prefix-chkbxhxkagluxvdimdruqawurgrg/36000-Prefix.pch -MMD -MT dependencies -MF /Users/linke/Desktop/360度全景图例子源代码/Build/Intermediates/36000.build/Debug-iphonesimulator/36000.build/Objects-normal/i386/PLRenderer.d --serialize-diagnostics /Users/linke/Desktop/360度全景图例子源代码/Build/Intermediates/36000.build/Debug-iphonesimulator/3636"55314F3D-6972-41B9-9018-1A2E7258A284-
+b1618D0A6-7FFF-47D4-B60A-433B1BA3615C
+
+CCompileC Build/Intermediates/36000.build/Debug-iphonesimulator/36000.build/Objects-normal/i386/PLScene.o /Users/linke/Desktop/360度全景图例子源代码/PL/PLScene.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s418015800.374559
+e418015800.447327
+r1
+xCompileC
+xBuild/Intermediates/36000.build/Debug-iphonesimulator/36000.build/Objects-normal/i386/PLScene.o
+x/Users/linke/Desktop/360度全景图例子源代码/PL/PLScene.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/linke/Desktop/360度全景图例子源代码/PL/PLScene.m
+d/Users/linke/Desktop/360度全景图例子源代码/PL/PLScene.h
+d/Users/linke/Desktop/360度全景图例子源代码/PL/PLCamera.h
+d/Users/linke/Desktop/360度全景图例子源代码/PL/PLObject.h
+d/Users/linke/Desktop/360度全景图例子源代码/PL/PLConstants.h
+d/Users/linke/Desktop/360度全景图例子源代码/PL/PLStructs.h
+d/Users/linke/Desktop/360度全景图例子源代码/PL/PLMath.h
+d/Users/linke/Desktop/360度全景图例子源代码/PL/PLSceneElement.h
+d/Users/linke/Desktop/360度全景图例子源代码/OpenGLES.framework/Headers/ES1/gl.h
+d/Users/linke/Desktop/360度全景图例子源代码/OpenGLES.framework/Headers/ES1/glext.h
+d/Users/linke/Desktop/360度全景图例子源代码/glues/glu.h
+d/Users/linke/Desktop/360度全景图例子源代码/glues/glues.h
+d/Users/linke/Desktop/360度全景图例子源代码/PL/PLEnums.h
+d/Users/linke/Desktop/360度全景图例子源代码/PL/PLUtils.h
+d/Users/linke/Desktop/360度全景图例子源代码/PL/PLTexture.h
+d/Users/linke/Desktop/360度全景图例子源代码/PL/PLImage.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection72"Compile /Users/linke/Desktop/360度全景图例子源代码/PL/PLScene.m185"CompileC Build/Intermediates/36000.build/Debug-iphonesimulator/36000.build/Objects-normal/i386/PLScene.o PL/PLScene.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler680360386aeab841^068472386aeab841^---0#0#1#-19%DVTDocumentLocation2@125"file:///Users/linke/Desktop/360%E5%BA%A6%E5%85%A8%E6%99%AF%E5%9B%BE%E4%BE%8B%E5%AD%90%E6%BA%90%E4%BB%A3%E7%A0%81/PL/PLScene.m0000000000000000^3338"CompileC Build/Intermediates/36000.build/Debug-iphonesimulator/36000.build/Objects-normal/i386/PLScene.o PL/PLScene.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/linke/Desktop/360度全景图例子源代码    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-empty-body -Wno-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-constant-conversion -Wno-int-conversion -Wno-bool-conversion -Wno-enum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DDEBUG -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=4.2 -iquote /Users/linke/Desktop/360度全景图例子源代码/Build/Intermediates/36000.build/Debug-iphonesimulator/36000.build/36000-generated-files.hmap -I/Users/linke/Desktop/360度全景图例子源代码/Build/Intermediates/36000.build/Debug-iphonesimulator/36000.build/36000-own-target-headers.hmap -I/Users/linke/Desktop/360度全景图例子源代码/Build/Intermediates/36000.build/Debug-iphonesimulator/36000.build/36000-all-target-headers.hmap -iquote /Users/linke/Desktop/360度全景图例子源代码/Build/Intermediates/36000.build/Debug-iphonesimulator/36000.build/36000-project-headers.hmap -I/Users/linke/Desktop/360度全景图例子源代码/Build/Products/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/linke/Desktop/360度全景图例子源代码/Build/Intermediates/36000.build/Debug-iphonesimulator/36000.build/DerivedSources/i386 -I/Users/linke/Desktop/360度全景图例子源代码/Build/Intermediates/36000.build/Debug-iphonesimulator/36000.build/DerivedSources -F/Users/linke/Desktop/360度全景图例子源代码/Build/Products/Debug-iphonesimulator -F/Users/linke/Desktop/360度全景图例子源代码 -include /Users/linke/Desktop/360度全景图例子源代码/Build/Intermediates/PrecompiledHeaders/36000-Prefix-chkbxhxkagluxvdimdruqawurgrg/36000-Prefix.pch -MMD -MT dependencies -MF /Users/linke/Desktop/360度全景图例子源代码/Build/Intermediates/36000.build/Debug-iphonesimulator/36000.build/Objects-normal/i386/PLScene.d --serialize-diagnostics /Users/linke/Desktop/360度全景图例子源代码/Build/Intermediates/36000.build/Debug-iphonesim36"316D91C9-3055-4C30-9A97-DE5BCF3F32B8-
+b1618D0A6-7FFF-47D4-B60A-433B1BA3615C
+
+CCompileC Build/Intermediates/36000.build/Debug-iphonesimulator/36000.build/Objects-normal/i386/PLSceneElement.o /Users/linke/Desktop/360度全景图例子源代码/PL/PLSceneElement.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s418015800.391309
+e418015800.479555
+r1
+xCompileC
+xBuild/Intermediates/36000.build/Debug-iphonesimulator/36000.build/Objects-normal/i386/PLSceneElement.o
+x/Users/linke/Desktop/360度全景图例子源代码/PL/PLSceneElement.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/linke/Desktop/360度全景图例子源代码/PL/PLSceneElement.m
+d/Users/linke/Desktop/360度全景图例子源代码/PL/PLSceneElement.h
+d/Users/linke/Desktop/360度全景图例子源代码/OpenGLES.framework/Headers/ES1/gl.h
+d/Users/linke/Desktop/360度全景图例子源代码/OpenGLES.framework/Headers/ES1/glext.h
+d/Users/linke/Desktop/360度全景图例子源代码/glues/glu.h
+d/Users/linke/Desktop/360度全景图例子源代码/glues/glues.h
+d/Users/linke/Desktop/360度全景图例子源代码/PL/PLEnums.h
+d/Users/linke/Desktop/360度全景图例子源代码/PL/PLStructs.h
+d/Users/linke/Desktop/360度全景图例子源代码/PL/PLUtils.h
+d/Users/linke/Desktop/360度全景图例子源代码/PL/PLTexture.h
+d/Users/linke/Desktop/360度全景图例子源代码/PL/PLConstants.h
+d/Users/linke/Desktop/360度全景图例子源代码/PL/PLImage.h
+d/Users/linke/Desktop/360度全景图例子源代码/PL/PLMath.h
+d/Users/linke/Desktop/360度全景图例子源代码/PL/PLObject.h
+o/Users/linke/Desktop/360度全景图例子源代码/PL/PLSceneElement.m:67:9: warning: 'PLObject' may not respond to 'initializeValues'
+o        [super initializeValues];
+o         ~~~~~ ^
+o/Users/linke/Desktop/360度全景图例子源代码/PL/PLSceneElement.m:289:11: warning: 4 enumeration values not handled in switch: 'UIDeviceOrientationUnknown', 'UIDeviceOrientationPortrait', 'UIDeviceOrientationFaceUp'... [-Wswitch]
+o                        switch(oldOrientationValue)
+o                               ^
+o/Users/linke/Desktop/360度全景图例子源代码/PL/PLSceneElement.m:311:11: warning: 4 enumeration values not handled in switch: 'UIDeviceOrientationUnknown', 'UIDeviceOrientationPortraitUpsideDown', 'UIDeviceOrientationFaceUp'... [-Wswitch]
+o                        switch(oldOrientationValue)
+o                               ^
+o/Users/linke/Desktop/360度全景图例子源代码/PL/PLSceneElement.m:333:11: warning: enumeration values 'UIDeviceOrientationLandscapeLeft', 'UIDeviceOrientationFaceUp', and 'UIDeviceOrientationFaceDown' not handled in switch [-Wswitch]
+o                        switch(oldOrientationValue)
+o                               ^
+o/Users/linke/Desktop/360度全景图例子源代码/PL/PLSceneElement.m:356:11: warning: enumeration values 'UIDeviceOrientationLandscapeRight', 'UIDeviceOrientationFaceUp', and 'UIDeviceOrientationFaceDown' not handled in switch [-Wswitch]
+o                        switch(oldOrientationValue)
+o                               ^
+o/Users/linke/Desktop/360度全景图例子源代码/PL/PLSceneElement.m:283:10: warning: enumeration values 'UIDeviceOrientationFaceUp' and 'UIDeviceOrientationFaceDown' not handled in switch [-Wswitch]
+o        switch (orientationValue) 
+o                ^
+o6 warnings generated.
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection79"Compile /Users/linke/Desktop/360度全景图例子源代码/PL/PLSceneElement.m199"CompileC Build/Intermediates/36000.build/Debug-iphonesimulator/36000.build/Objects-normal/i386/PLSceneElement.o PL/PLSceneElement.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler275064386aeab841^f3aa7a386aeab841^-1660"/Users/linke/Desktop/360度全景图例子源代码/PL/PLSceneElement.m:67:9: warning: 'PLObject' may not respond to 'initializeValues'        [super initializeValues];         ~~~~~ ^/Users/linke/Desktop/360度全景图例子源代码/PL/PLSceneElement.m:289:11: warning: 4 enumeration values not handled in switch: 'UIDeviceOrientationUnknown', 'UIDeviceOrientationPortrait', 'UIDeviceOrientationFaceUp'... [-Wswitch]                        switch(oldOrientationValue)                               ^/Users/linke/Desktop/360度全景图例子源代码/PL/PLSceneElement.m:311:11: warning: 4 enumeration values not handled in switch: 'UIDeviceOrientationUnknown', 'UIDeviceOrientationPortraitUpsideDown', 'UIDeviceOrientationFaceUp'... [-Wswitch]                        switch(oldOrientationValue)                               ^/Users/linke/Desktop/360度全景图例子源代码/PL/PLSceneElement.m:333:11: warning: enumeration values 'UIDeviceOrientationLandscapeLeft', 'UIDeviceOrientationFaceUp', and 'UIDeviceOrientationFaceDown' not handled in switch [-Wswitch]                        switch(oldOrientationValue)                               ^/Users/linke/Desktop/360度全景图例子源代码/PL/PLSceneElement.m:356:11: warning: enumeration values 'UIDeviceOrientationLandscapeRight', 'UIDeviceOrientationFaceUp', and 'UIDeviceOrientationFaceDown' not handled in switch [-Wswitch]                        switch(oldOrientationValue)                               ^/Users/linke/Desktop/360度全景图例子源代码/PL/PLSceneElement.m:283:10: warning: enumeration values 'UIDeviceOrientationFaceUp' and 'UIDeviceOrientationFaceDown' 6(36%IDEClangDiagnosticActivityLogMessage2@48"'PLObject' may not respond to 'initializeValues'-418015800#18446744073709551615#0#-1#27"com.apple.dt.IDE.diagnostic23%DVTTextDocumentLocation3@132"file:///Users/linke/Desktop/360%E5%BA%A6%E5%85%A8%E6%99%AF%E5%9B%BE%E4%BE%8B%E5%AD%90%E6%BA%90%E4%BB%A3%E7%A0%81/PL/PLSceneElement.m0000000000000000^66#8#66#8#1939#0#14"Semantic Issue1(3@132"file:///Users/linke/Desktop/360%E5%BA%A6%E5%85%A8%E6%99%AF%E5%9B%BE%E4%BE%8B%E5%AD%90%E6%BA%90%E4%BB%A3%E7%A0%81/PL/PLSceneElement.m0000000000000000^66#2#66#7#1933#0#-2@135"4 enumeration values not handled in switch: 'UIDeviceOrientationUnknown', 'UIDeviceOrientationPortrait', 'UIDeviceOrientationFaceUp'...-418015800#18446744073709551615#0#-1#27"com.apple.dt.IDE.diagnostic3@132"file:///Users/linke/Desktop/360%E5%BA%A6%E5%85%A8%E6%99%AF%E5%9B%BE%E4%BE%8B%E5%AD%90%E6%BA%90%E4%BB%A3%E7%A0%81/PL/PLSceneElement.m0000000000000000^288#10#288#10#6926#0#14"Semantic Issue--2@145"4 enumeration values not handled in switch: 'UIDeviceOrientationUnknown', 'UIDeviceOrientationPortraitUpsideDown', 'UIDeviceOrientationFaceUp'...-418015800#18446744073709551615#0#-1#27"com.apple.dt.IDE.diagnostic3@132"file:///Users/linke/Desktop/360%E5%BA%A6%E5%85%A8%E6%99%AF%E5%9B%BE%E4%BE%8B%E5%AD%90%E6%BA%90%E4%BB%A3%E7%A0%81/PL/PLSceneElement.m0000000000000000^310#10#310#10#7626#0#14"Semantic Issue--2@139"Enumeration values 'UIDeviceOrientationLandscapeLeft', 'UIDeviceOrientationFaceUp', and 'UIDeviceOrientationFaceDown' not handled in switch-418015800#18446744073709551615#0#-1#27"com.apple.dt.IDE.diagnostic3@132"file:///Users/linke/Desktop/360%E5%BA%A6%E5%85%A8%E6%99%AF%E5%9B%BE%E4%BE%8B%E5%AD%90%E6%BA%90%E4%BB%A3%E7%A0%81/PL/PLSceneElement.m0000000000000000^332#10#332#10#8306#0#14"Semantic Issue--2@140"Enumeration values 'UIDeviceOrientationLandscapeRight', 'UIDeviceOrientationFaceUp', and 'UIDeviceOrientationFaceDown' not handled in switch-418015800#18446744073709551615#0#-1#27"com.apple.dt.IDE.diagnostic3@132"file:///Users/linke/Desktop/360%E5%BA%A6%E5%85%A8%E6%99%AF%E5%9B%BE%E4%BE%8B%E5%AD%90%E6%BA%90%E4%BB%A3%E7%A0%81/PL/PLSceneElement.m0000000000000000^355#10#355#10#9027#0#14"Semantic Issue--2@102"Enumeration values 'UIDeviceOrientationFaceUp' and 'UIDeviceOrientationFaceDown' not handled in switch-418015800#18446744073709551615#0#-1#27"com.apple.dt.IDE.diagnostic3@132"file:///Users/linke/Desktop/360%E5%BA%A6%E5%85%A8%E6%99%AF%E5%9B%BE%E4%BE%8B%E5%AD%90%E6%BA%90%E4%BB%A3%E7%A0%81/PL/PLSceneElement.m0000000000000000^282#9#282#9#6658#0#14"Semantic Issue--0#0#1#-19%DVTDocumentLocation4@132"file:///Users/linke/Desktop/360%E5%BA%A6%E5%85%A8%E6%99%AF%E5%9B%BE%E4%BE%8B%E5%AD%90%E6%BA%90%E4%BB%A3%E7%A0%81/PL/PLSceneElement.m0000000000000000^3380"CompileC Build/Intermediates/36000.build/Debug-iphonesimulator/36000.build/Objects-normal/i386/PLSceneElement.o PL/PLSceneElement.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/linke/Desktop/360度全景图例子源代码    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-empty-body -Wno-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-constant-conversion -Wno-int-conversion -Wno-bool-conversion -Wno-enum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DDEBUG -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=4.2 -iquote /Users/linke/Desktop/360度全景图例子源代码/Build/Intermediates/36000.build/Debug-iphonesimulator/36000.build/36000-generated-files.hmap -I/Users/linke/Desktop/360度全景图例子源代码/Build/Intermediates/36000.build/Debug-iphonesimulator/36000.build/36000-own-target-headers.hmap -I/Users/linke/Desktop/360度全景图例子源代码/Build/Intermediates/36000.build/Debug-iphonesimulator/36000.build/36000-all-target-headers.hmap -iquote /Users/linke/Desktop/360度全景图例子源代码/Build/Intermediates/36000.build/Debug-iphonesimulator/36000.build/36000-project-headers.hmap -I/Users/linke/Desktop/360度全景图例子源代码/Build/Products/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/linke/Desktop/360度全景图例子源代码/Build/Intermediates/36000.build/Debug-iphonesimulator/36000.build/DerivedSources/i386 -I/Users/linke/Desktop/360度全景图例子源代码/Build/Intermediates/36000.build/Debug-iphonesimulator/36000.build/DerivedSources -F/Users/linke/Desktop/360度全景图例子源代码/Build/Products/Debug-iphonesimulator -F/Users/linke/Desktop/360度全景图例子源代码 -include /Users/linke/Desktop/360度全景图例子源代码/Build/Intermediates/PrecompiledHeaders/36000-Prefix-chkbxhxkagluxvdimdruqawurgrg/36000-Prefix.pch -MMD -MT dependencies -MF /Users/linke/Desktop/360度全景图例子源代码/Build/Intermediates/36000.build/Debug-iphonesimulator/36000.build/Objects-normal/i386/PLSceneElement.d --serialize-diagnostics /Users/linke/Desktop/360度全景图例子源代码/Build/Intermediates/36000.build/Debug-iphonesimulator/36000.build/Ob36"AE668480-35F1-4CC6-AC65-6D72358F753E-
+b1618D0A6-7FFF-47D4-B60A-433B1BA3615C
+
+CCompileC Build/Intermediates/36000.build/Debug-iphonesimulator/36000.build/Objects-normal/i386/PLSphere.o /Users/linke/Desktop/360度全景图例子源代码/PL/PLSphere.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s418015800.443261
+e418015800.501838
+r1
+xCompileC
+xBuild/Intermediates/36000.build/Debug-iphonesimulator/36000.build/Objects-normal/i386/PLSphere.o
+x/Users/linke/Desktop/360度全景图例子源代码/PL/PLSphere.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/linke/Desktop/360度全景图例子源代码/PL/PLSphere.m
+d/Users/linke/Desktop/360度全景图例子源代码/PL/PLSphere.h
+d/Users/linke/Desktop/360度全景图例子源代码/PL/PLSceneElement.h
+d/Users/linke/Desktop/360度全景图例子源代码/OpenGLES.framework/Headers/ES1/gl.h
+d/Users/linke/Desktop/360度全景图例子源代码/OpenGLES.framework/Headers/ES1/glext.h
+d/Users/linke/Desktop/360度全景图例子源代码/glues/glu.h
+d/Users/linke/Desktop/360度全景图例子源代码/glues/glues.h
+d/Users/linke/Desktop/360度全景图例子源代码/PL/PLEnums.h
+d/Users/linke/Desktop/360度全景图例子源代码/PL/PLStructs.h
+d/Users/linke/Desktop/360度全景图例子源代码/PL/PLUtils.h
+d/Users/linke/Desktop/360度全景图例子源代码/PL/PLTexture.h
+d/Users/linke/Desktop/360度全景图例子源代码/PL/PLConstants.h
+d/Users/linke/Desktop/360度全景图例子源代码/PL/PLImage.h
+d/Users/linke/Desktop/360度全景图例子源代码/PL/PLMath.h
+d/Users/linke/Desktop/360度全景图例子源代码/PL/PLObject.h
+o/Users/linke/Desktop/360度全景图例子源代码/PL/PLSphere.m:45:9: warning: 'PLSceneElement' may not respond to 'initializeValues'
+o        [super initializeValues];
+o         ~~~~~ ^
+o1 warning generated.
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection73"Compile /Users/linke/Desktop/360度全景图例子源代码/PL/PLSphere.m187"CompileC Build/Intermediates/36000.build/Debug-iphonesimulator/36000.build/Objects-normal/i386/PLSphere.o PL/PLSphere.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compilercde671386aeab841^2cbb80386aeab841^-208"/Users/linke/Desktop/360度全景图例子源代码/PL/PLSphere.m:45:9: warning: 'PLSceneElement' may not respond to 'initializeValues'        [super initializeValues];         ~~~~~ ^1 warning generated.1(36%IDEClangDiagnosticActivityLogMessage2@54"'PLSceneElement' may not respond to 'initializeValues'-418015800#18446744073709551615#0#-1#27"com.apple.dt.IDE.diagnostic23%DVTTextDocumentLocation3@126"file:///Users/linke/Desktop/360%E5%BA%A6%E5%85%A8%E6%99%AF%E5%9B%BE%E4%BE%8B%E5%AD%90%E6%BA%90%E4%BB%A3%E7%A0%81/PL/PLSphere.m0000000000000000^44#8#44#8#1141#0#14"Semantic Issue1(3@126"file:///Users/linke/Desktop/360%E5%BA%A6%E5%85%A8%E6%99%AF%E5%9B%BE%E4%BE%8B%E5%AD%90%E6%BA%90%E4%BB%A3%E7%A0%81/PL/PLSphere.m0000000000000000^44#2#44#7#1135#0#-0#0#1#-19%DVTDocumentLocation4@126"file:///Users/linke/Desktop/360%E5%BA%A6%E5%85%A8%E6%99%AF%E5%9B%BE%E4%BE%8B%E5%AD%90%E6%BA%90%E4%BB%A3%E7%A0%81/PL/PLSphere.m0000000000000000^3344"CompileC Build/Intermediates/36000.build/Debug-iphonesimulator/36000.build/Objects-normal/i386/PLSphere.o PL/PLSphere.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/linke/Desktop/360度全景图例子源代码    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-empty-body -Wno-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-constant-conversion -Wno-int-conversion -Wno-bool-conversion -Wno-enum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DDEBUG -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=4.2 -iquote /Users/linke/Desktop/360度全景图例子源代码/Build/Intermediates/36000.build/Debug-iphonesimulator/36000.build/36000-generated-files.hmap -I/Users/linke/Desktop/360度全景图例子源代码/Build/Intermediates/36000.build/Debug-iphonesimulator/36000.build/36000-own-target-headers.hmap -I/Users/linke/Desktop/360度全景图例子源代码/Build/Intermediates/36000.build/Debug-iphonesimulator/36000.build/36000-all-target-headers.hmap -iquote /Users/linke/Desktop/360度全景图例子源代码/Build/Intermediates/36000.build/Debug-iphonesimulator/36000.build/36000-project-headers.hmap -I/Users/linke/Desktop/360度全景图例子源代码/Build/Products/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/linke/Desktop/360度全景图例子源代码/Build/Intermediates/36000.build/Debug-iphonesimulator/36000.build/DerivedSources/i386 -I/Users/linke/Desktop/360度全景图例子源代码/Build/Intermediates/36000.build/Debug-iphonesimulator/36000.build/DerivedSources -F/Users/linke/Desktop/360度全景图例子源代码/Build/Products/Debug-iphonesimulator -F/Users/linke/Desktop/360度全景图例子源代码 -include /Users/linke/Desktop/360度全景图例子源代码/Build/Intermediates/PrecompiledHeaders/36000-Prefix-chkbxhxkagluxvdimdruqawurgrg/36000-Prefix.pch -MMD -MT dependencies -MF /Users/linke/Desktop/360度全景图例子源代码/Build/Intermediates/36000.build/Debug-iphonesimulator/36000.build/Objects-normal/i386/PLSphere.d --serialize-diagnostics /Users/linke/Desktop/360度全景图例子源代码/Build/Intermediates/36000.build/Debug-iphonesimula36"AC4F8E89-8029-49E1-8758-C36D5E84F26D-
+b1618D0A6-7FFF-47D4-B60A-433B1BA3615C
+
+CCompileC Build/Intermediates/36000.build/Debug-iphonesimulator/36000.build/Objects-normal/i386/PLTexture.o /Users/linke/Desktop/360度全景图例子源代码/PL/PLTexture.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s418015800.448059
+e418015800.526454
+r1
+xCompileC
+xBuild/Intermediates/36000.build/Debug-iphonesimulator/36000.build/Objects-normal/i386/PLTexture.o
+x/Users/linke/Desktop/360度全景图例子源代码/PL/PLTexture.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/linke/Desktop/360度全景图例子源代码/PL/PLTexture.m
+d/Users/linke/Desktop/360度全景图例子源代码/PL/PLTexture.h
+d/Users/linke/Desktop/360度全景图例子源代码/OpenGLES.framework/Headers/ES1/gl.h
+d/Users/linke/Desktop/360度全景图例子源代码/OpenGLES.framework/Headers/ES1/glext.h
+d/Users/linke/Desktop/360度全景图例子源代码/glues/glu.h
+d/Users/linke/Desktop/360度全景图例子源代码/glues/glues.h
+d/Users/linke/Desktop/360度全景图例子源代码/PL/PLConstants.h
+d/Users/linke/Desktop/360度全景图例子源代码/PL/PLImage.h
+d/Users/linke/Desktop/360度全景图例子源代码/PL/PLMath.h
+d/Users/linke/Desktop/360度全景图例子源代码/PL/PLStructs.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection74"Compile /Users/linke/Desktop/360度全景图例子源代码/PL/PLTexture.m189"CompileC Build/Intermediates/36000.build/Debug-iphonesimulator/36000.build/Objects-normal/i386/PLTexture.o PL/PLTexture.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compilerf2d172386aeab841^7ac686386aeab841^---0#0#1#-19%DVTDocumentLocation2@127"file:///Users/linke/Desktop/360%E5%BA%A6%E5%85%A8%E6%99%AF%E5%9B%BE%E4%BE%8B%E5%AD%90%E6%BA%90%E4%BB%A3%E7%A0%81/PL/PLTexture.m0000000000000000^3350"CompileC Build/Intermediates/36000.build/Debug-iphonesimulator/36000.build/Objects-normal/i386/PLTexture.o PL/PLTexture.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/linke/Desktop/360度全景图例子源代码    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-empty-body -Wno-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-constant-conversion -Wno-int-conversion -Wno-bool-conversion -Wno-enum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DDEBUG -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=4.2 -iquote /Users/linke/Desktop/360度全景图例子源代码/Build/Intermediates/36000.build/Debug-iphonesimulator/36000.build/36000-generated-files.hmap -I/Users/linke/Desktop/360度全景图例子源代码/Build/Intermediates/36000.build/Debug-iphonesimulator/36000.build/36000-own-target-headers.hmap -I/Users/linke/Desktop/360度全景图例子源代码/Build/Intermediates/36000.build/Debug-iphonesimulator/36000.build/36000-all-target-headers.hmap -iquote /Users/linke/Desktop/360度全景图例子源代码/Build/Intermediates/36000.build/Debug-iphonesimulator/36000.build/36000-project-headers.hmap -I/Users/linke/Desktop/360度全景图例子源代码/Build/Products/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/linke/Desktop/360度全景图例子源代码/Build/Intermediates/36000.build/Debug-iphonesimulator/36000.build/DerivedSources/i386 -I/Users/linke/Desktop/360度全景图例子源代码/Build/Intermediates/36000.build/Debug-iphonesimulator/36000.build/DerivedSources -F/Users/linke/Desktop/360度全景图例子源代码/Build/Products/Debug-iphonesimulator -F/Users/linke/Desktop/360度全景图例子源代码 -include /Users/linke/Desktop/360度全景图例子源代码/Build/Intermediates/PrecompiledHeaders/36000-Prefix-chkbxhxkagluxvdimdruqawurgrg/36000-Prefix.pch -MMD -MT dependencies -MF /Users/linke/Desktop/360度全景图例子源代码/Build/Intermediates/36000.build/Debug-iphonesimulator/36000.build/Objects-normal/i386/PLTexture.d --serialize-diagnostics /Users/linke/Desktop/360度全景图例子源代码/Build/Intermediates/36000.build/Debug-iphonesimulator36"91966730-E89E-43E6-AEA0-02F6D6B39493-
+b1618D0A6-7FFF-47D4-B60A-433B1BA3615C
+
+CCompileC Build/Intermediates/36000.build/Debug-iphonesimulator/36000.build/Objects-normal/i386/PLUtils.o /Users/linke/Desktop/360度全景图例子源代码/PL/PLUtils.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s418015800.477162
+e418015800.507655
+r1
+xCompileC
+xBuild/Intermediates/36000.build/Debug-iphonesimulator/36000.build/Objects-normal/i386/PLUtils.o
+x/Users/linke/Desktop/360度全景图例子源代码/PL/PLUtils.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/linke/Desktop/360度全景图例子源代码/PL/PLUtils.m
+d/Users/linke/Desktop/360度全景图例子源代码/PL/PLUtils.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection72"Compile /Users/linke/Desktop/360度全景图例子源代码/PL/PLUtils.m185"CompileC Build/Intermediates/36000.build/Debug-iphonesimulator/36000.build/Objects-normal/i386/PLUtils.o PL/PLUtils.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compilerae4a7a386aeab841^f1f581386aeab841^---0#0#1#-19%DVTDocumentLocation2@125"file:///Users/linke/Desktop/360%E5%BA%A6%E5%85%A8%E6%99%AF%E5%9B%BE%E4%BE%8B%E5%AD%90%E6%BA%90%E4%BB%A3%E7%A0%81/PL/PLUtils.m0000000000000000^3338"CompileC Build/Intermediates/36000.build/Debug-iphonesimulator/36000.build/Objects-normal/i386/PLUtils.o PL/PLUtils.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/linke/Desktop/360度全景图例子源代码    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-empty-body -Wno-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-constant-conversion -Wno-int-conversion -Wno-bool-conversion -Wno-enum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DDEBUG -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=4.2 -iquote /Users/linke/Desktop/360度全景图例子源代码/Build/Intermediates/36000.build/Debug-iphonesimulator/36000.build/36000-generated-files.hmap -I/Users/linke/Desktop/360度全景图例子源代码/Build/Intermediates/36000.build/Debug-iphonesimulator/36000.build/36000-own-target-headers.hmap -I/Users/linke/Desktop/360度全景图例子源代码/Build/Intermediates/36000.build/Debug-iphonesimulator/36000.build/36000-all-target-headers.hmap -iquote /Users/linke/Desktop/360度全景图例子源代码/Build/Intermediates/36000.build/Debug-iphonesimulator/36000.build/36000-project-headers.hmap -I/Users/linke/Desktop/360度全景图例子源代码/Build/Products/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/linke/Desktop/360度全景图例子源代码/Build/Intermediates/36000.build/Debug-iphonesimulator/36000.build/DerivedSources/i386 -I/Users/linke/Desktop/360度全景图例子源代码/Build/Intermediates/36000.build/Debug-iphonesimulator/36000.build/DerivedSources -F/Users/linke/Desktop/360度全景图例子源代码/Build/Products/Debug-iphonesimulator -F/Users/linke/Desktop/360度全景图例子源代码 -include /Users/linke/Desktop/360度全景图例子源代码/Build/Intermediates/PrecompiledHeaders/36000-Prefix-chkbxhxkagluxvdimdruqawurgrg/36000-Prefix.pch -MMD -MT dependencies -MF /Users/linke/Desktop/360度全景图例子源代码/Build/Intermediates/36000.build/Debug-iphonesimulator/36000.build/Objects-normal/i386/PLUtils.d --serialize-diagnostics /Users/linke/Desktop/360度全景图例子源代码/Build/Intermediates/36000.build/Debug-iphonesim36"B4DCE0AF-AFF7-46E7-A0B6-354BC7DD5FA6-
+b1618D0A6-7FFF-47D4-B60A-433B1BA3615C
+
+CCompileC Build/Intermediates/36000.build/Debug-iphonesimulator/36000.build/Objects-normal/i386/PLView.o /Users/linke/Desktop/360度全景图例子源代码/PL/PLView.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s418015800.480592
+e418015800.568764
+r1
+xCompileC
+xBuild/Intermediates/36000.build/Debug-iphonesimulator/36000.build/Objects-normal/i386/PLView.o
+x/Users/linke/Desktop/360度全景图例子源代码/PL/PLView.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/linke/Desktop/360度全景图例子源代码/PL/PLView.m
+d/Users/linke/Desktop/360度全景图例子源代码/PL/PLView.h
+d/Users/linke/Desktop/360度全景图例子源代码/PL/PLMath.h
+d/Users/linke/Desktop/360度全景图例子源代码/PL/PLStructs.h
+d/Users/linke/Desktop/360度全景图例子源代码/PL/PLEnums.h
+d/Users/linke/Desktop/360度全景图例子源代码/PL/PLViewBase.h
+d/Users/linke/Desktop/360度全景图例子源代码/OpenGLES.framework/Headers/ES1/gl.h
+d/Users/linke/Desktop/360度全景图例子源代码/OpenGLES.framework/Headers/ES1/glext.h
+d/Users/linke/Desktop/360度全景图例子源代码/PL/PLConstants.h
+d/Users/linke/Desktop/360度全景图例子源代码/PL/PLRenderer.h
+d/Users/linke/Desktop/360度全景图例子源代码/glues/glu.h
+d/Users/linke/Desktop/360度全景图例子源代码/glues/glues.h
+d/Users/linke/Desktop/360度全景图例子源代码/PL/PLCamera.h
+d/Users/linke/Desktop/360度全景图例子源代码/PL/PLObject.h
+d/Users/linke/Desktop/360度全景图例子源代码/PL/PLScene.h
+d/Users/linke/Desktop/360度全景图例子源代码/PL/PLSceneElement.h
+d/Users/linke/Desktop/360度全景图例子源代码/PL/PLUtils.h
+d/Users/linke/Desktop/360度全景图例子源代码/PL/PLTexture.h
+d/Users/linke/Desktop/360度全景图例子源代码/PL/PLImage.h
+d/Users/linke/Desktop/360度全景图例子源代码/PL/PLCylinder.h
+d/Users/linke/Desktop/360度全景图例子源代码/PL/PLSphere.h
+d/Users/linke/Desktop/360度全景图例子源代码/PL/PLCube.h
+o/Users/linke/Desktop/360度全景图例子源代码/PL/PLView.m:42:9: warning: 'PLViewBase' may not respond to 'allocAndInitVariables'
+o        [super allocAndInitVariables];
+o         ~~~~~ ^
+o/Users/linke/Desktop/360度全景图例子源代码/PL/PLView.m:50:9: warning: 'PLViewBase' may not respond to 'initializeValues'
+o        [super initializeValues];
+o         ~~~~~ ^
+o/Users/linke/Desktop/360度全景图例子源代码/PL/PLView.m:125:12: warning: 'PLViewBase' may not respond to 'calculateFov:'
+o        if([super calculateFov:touches])
+o            ~~~~~ ^
+o3 warnings generated.
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection71"Compile /Users/linke/Desktop/360度全景图例子源代码/PL/PLView.m183"CompileC Build/Intermediates/36000.build/Debug-iphonesimulator/36000.build/Objects-normal/i386/PLView.o PL/PLView.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler492a7b386aeab841^d2ff92386aeab841^-584"/Users/linke/Desktop/360度全景图例子源代码/PL/PLView.m:42:9: warning: 'PLViewBase' may not respond to 'allocAndInitVariables'        [super allocAndInitVariables];         ~~~~~ ^/Users/linke/Desktop/360度全景图例子源代码/PL/PLView.m:50:9: warning: 'PLViewBase' may not respond to 'initializeValues'        [super initializeValues];         ~~~~~ ^/Users/linke/Desktop/360度全景图例子源代码/PL/PLView.m:125:12: warning: 'PLViewBase' may not respond to 'calculateFov:'        if([super calculateFov:touches])            ~~~~~ ^3 warnings generated.3(36%IDEClangDiagnosticActivityLogMessage2@55"'PLViewBase' may not respond to 'allocAndInitVariables'-418015800#18446744073709551615#0#-1#27"com.apple.dt.IDE.diagnostic23%DVTTextDocumentLocation3@124"file:///Users/linke/Desktop/360%E5%BA%A6%E5%85%A8%E6%99%AF%E5%9B%BE%E4%BE%8B%E5%AD%90%E6%BA%90%E4%BB%A3%E7%A0%81/PL/PLView.m0000000000000000^41#8#41#8#1064#0#14"Semantic Issue1(3@124"file:///Users/linke/Desktop/360%E5%BA%A6%E5%85%A8%E6%99%AF%E5%9B%BE%E4%BE%8B%E5%AD%90%E6%BA%90%E4%BB%A3%E7%A0%81/PL/PLView.m0000000000000000^41#2#41#7#1058#0#-2@50"'PLViewBase' may not respond to 'initializeValues'-418015800#18446744073709551615#0#-1#27"com.apple.dt.IDE.diagnostic3@124"file:///Users/linke/Desktop/360%E5%BA%A6%E5%85%A8%E6%99%AF%E5%9B%BE%E4%BE%8B%E5%AD%90%E6%BA%90%E4%BB%A3%E7%A0%81/PL/PLView.m0000000000000000^49#8#49#8#1250#0#14"Semantic Issue1(3@124"file:///Users/linke/Desktop/360%E5%BA%A6%E5%85%A8%E6%99%AF%E5%9B%BE%E4%BE%8B%E5%AD%90%E6%BA%90%E4%BB%A3%E7%A0%81/PL/PLView.m0000000000000000^49#2#49#7#1244#0#-2@47"'PLViewBase' may not respond to 'calculateFov:'-418015800#18446744073709551615#0#-1#27"com.apple.dt.IDE.diagnostic3@124"file:///Users/linke/Desktop/360%E5%BA%A6%E5%85%A8%E6%99%AF%E5%9B%BE%E4%BE%8B%E5%AD%90%E6%BA%90%E4%BB%A3%E7%A0%81/PL/PLView.m0000000000000000^124#11#124#11#3111#0#14"Semantic Issue1(3@124"file:///Users/linke/Desktop/360%E5%BA%A6%E5%85%A8%E6%99%AF%E5%9B%BE%E4%BE%8B%E5%AD%90%E6%BA%90%E4%BB%A3%E7%A0%81/PL/PLView.m0000000000000000^124#5#124#10#3105#0#-0#0#1#-19%DVTDocumentLocation4@124"file:///Users/linke/Desktop/360%E5%BA%A6%E5%85%A8%E6%99%AF%E5%9B%BE%E4%BE%8B%E5%AD%90%E6%BA%90%E4%BB%A3%E7%A0%81/PL/PLView.m0000000000000000^3332"CompileC Build/Intermediates/36000.build/Debug-iphonesimulator/36000.build/Objects-normal/i386/PLView.o PL/PLView.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/linke/Desktop/360度全景图例子源代码    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-empty-body -Wno-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-constant-conversion -Wno-int-conversion -Wno-bool-conversion -Wno-enum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DDEBUG -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=4.2 -iquote /Users/linke/Desktop/360度全景图例子源代码/Build/Intermediates/36000.build/Debug-iphonesimulator/36000.build/36000-generated-files.hmap -I/Users/linke/Desktop/360度全景图例子源代码/Build/Intermediates/36000.build/Debug-iphonesimulator/36000.build/36000-own-target-headers.hmap -I/Users/linke/Desktop/360度全景图例子源代码/Build/Intermediates/36000.build/Debug-iphonesimulator/36000.build/36000-all-target-headers.hmap -iquote /Users/linke/Desktop/360度全景图例子源代码/Build/Intermediates/36000.build/Debug-iphonesimulator/36000.build/36000-project-headers.hmap -I/Users/linke/Desktop/360度全景图例子源代码/Build/Products/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/linke/Desktop/360度全景图例子源代码/Build/Intermediates/36000.build/Debug-iphonesimulator/36000.build/DerivedSources/i386 -I/Users/linke/Desktop/360度全景图例子源代码/Build/Intermediates/36000.build/Debug-iphonesimulator/36000.build/DerivedSources -F/Users/linke/Desktop/360度全景图例子源代码/Build/Products/Debug-iphonesimulator -F/Users/linke/Desktop/360度全景图例子源代码 -include /Users/linke/Desktop/360度全景图例子源代码/Build/Intermediates/PrecompiledHeaders/36000-Prefix-chkbxhxkagluxvdimdruqawurgrg/36000-Prefix.pch -MMD -MT dependencies -MF /Users/linke/Desktop/360度全景图例子源代码/Build/Intermediates/36000.build/Debug-iphonesimulator/36000.build/Objects-normal/i386/PLView.d --serialize-diagnostics /Users/linke/Desktop/360度全景图例子源代码/Build/Intermediates/36000.build/Debug-iphone36"E41B520E-043C-49C7-A667-386A07BC19CE-
+b1618D0A6-7FFF-47D4-B60A-433B1BA3615C
+
+CCompileC Build/Intermediates/36000.build/Debug-iphonesimulator/36000.build/Objects-normal/i386/PLViewBase.o /Users/linke/Desktop/360度全景图例子源代码/PL/PLViewBase.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s418015800.503552
+e418015800.610138
+r1
+xCompileC
+xBuild/Intermediates/36000.build/Debug-iphonesimulator/36000.build/Objects-normal/i386/PLViewBase.o
+x/Users/linke/Desktop/360度全景图例子源代码/PL/PLViewBase.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/linke/Desktop/360度全景图例子源代码/PL/PLViewBase.m
+d/Users/linke/Desktop/360度全景图例子源代码/PL/PLViewBase.h
+d/Users/linke/Desktop/360度全景图例子源代码/OpenGLES.framework/Headers/ES1/gl.h
+d/Users/linke/Desktop/360度全景图例子源代码/OpenGLES.framework/Headers/ES1/glext.h
+d/Users/linke/Desktop/360度全景图例子源代码/PL/PLConstants.h
+d/Users/linke/Desktop/360度全景图例子源代码/PL/PLEnums.h
+d/Users/linke/Desktop/360度全景图例子源代码/PL/PLMath.h
+d/Users/linke/Desktop/360度全景图例子源代码/PL/PLStructs.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection75"Compile /Users/linke/Desktop/360度全景图例子源代码/PL/PLViewBase.m191"CompileC Build/Intermediates/36000.build/Debug-iphonesimulator/36000.build/Objects-normal/i386/PLViewBase.o PL/PLViewBase.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compilerb30881386aeab841^1e339c386aeab841^---0#0#1#-19%DVTDocumentLocation2@128"file:///Users/linke/Desktop/360%E5%BA%A6%E5%85%A8%E6%99%AF%E5%9B%BE%E4%BE%8B%E5%AD%90%E6%BA%90%E4%BB%A3%E7%A0%81/PL/PLViewBase.m0000000000000000^3356"CompileC Build/Intermediates/36000.build/Debug-iphonesimulator/36000.build/Objects-normal/i386/PLViewBase.o PL/PLViewBase.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/linke/Desktop/360度全景图例子源代码    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-empty-body -Wno-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-constant-conversion -Wno-int-conversion -Wno-bool-conversion -Wno-enum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DDEBUG -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=4.2 -iquote /Users/linke/Desktop/360度全景图例子源代码/Build/Intermediates/36000.build/Debug-iphonesimulator/36000.build/36000-generated-files.hmap -I/Users/linke/Desktop/360度全景图例子源代码/Build/Intermediates/36000.build/Debug-iphonesimulator/36000.build/36000-own-target-headers.hmap -I/Users/linke/Desktop/360度全景图例子源代码/Build/Intermediates/36000.build/Debug-iphonesimulator/36000.build/36000-all-target-headers.hmap -iquote /Users/linke/Desktop/360度全景图例子源代码/Build/Intermediates/36000.build/Debug-iphonesimulator/36000.build/36000-project-headers.hmap -I/Users/linke/Desktop/360度全景图例子源代码/Build/Products/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/linke/Desktop/360度全景图例子源代码/Build/Intermediates/36000.build/Debug-iphonesimulator/36000.build/DerivedSources/i386 -I/Users/linke/Desktop/360度全景图例子源代码/Build/Intermediates/36000.build/Debug-iphonesimulator/36000.build/DerivedSources -F/Users/linke/Desktop/360度全景图例子源代码/Build/Products/Debug-iphonesimulator -F/Users/linke/Desktop/360度全景图例子源代码 -include /Users/linke/Desktop/360度全景图例子源代码/Build/Intermediates/PrecompiledHeaders/36000-Prefix-chkbxhxkagluxvdimdruqawurgrg/36000-Prefix.pch -MMD -MT dependencies -MF /Users/linke/Desktop/360度全景图例子源代码/Build/Intermediates/36000.build/Debug-iphonesimulator/36000.build/Objects-normal/i386/PLViewBase.d --serialize-diagnostics /Users/linke/Desktop/360度全景图例子源代码/Build/Intermediates/36000.build/Debug-iphonesimulator/3636"6502EE84-1106-4A21-8960-CDF639F4AB48-
+b1618D0A6-7FFF-47D4-B60A-433B1BA3615C
+
+CCompileC Build/Intermediates/36000.build/Debug-iphonesimulator/36000.build/Objects-normal/i386/_6000AppDelegate.o /Users/linke/Desktop/360度全景图例子源代码/36000/_6000AppDelegate.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s418015799.623323
+e418015800.080351
+r1
+xCompileC
+xBuild/Intermediates/36000.build/Debug-iphonesimulator/36000.build/Objects-normal/i386/_6000AppDelegate.o
+x/Users/linke/Desktop/360度全景图例子源代码/36000/_6000AppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/linke/Desktop/360度全景图例子源代码/36000/_6000AppDelegate.m
+d/Users/linke/Desktop/360度全景图例子源代码/36000/_6000AppDelegate.h
+d/Users/linke/Desktop/360度全景图例子源代码/36000/_6000ViewController.h
+d/Users/linke/Desktop/360度全景图例子源代码/PL/PLView.h
+d/Users/linke/Desktop/360度全景图例子源代码/PL/PLMath.h
+d/Users/linke/Desktop/360度全景图例子源代码/PL/PLStructs.h
+d/Users/linke/Desktop/360度全景图例子源代码/PL/PLEnums.h
+d/Users/linke/Desktop/360度全景图例子源代码/PL/PLViewBase.h
+d/Users/linke/Desktop/360度全景图例子源代码/OpenGLES.framework/Headers/ES1/gl.h
+d/Users/linke/Desktop/360度全景图例子源代码/OpenGLES.framework/Headers/ES1/glext.h
+d/Users/linke/Desktop/360度全景图例子源代码/PL/PLConstants.h
+d/Users/linke/Desktop/360度全景图例子源代码/PL/PLRenderer.h
+d/Users/linke/Desktop/360度全景图例子源代码/glues/glu.h
+d/Users/linke/Desktop/360度全景图例子源代码/glues/glues.h
+d/Users/linke/Desktop/360度全景图例子源代码/PL/PLCamera.h
+d/Users/linke/Desktop/360度全景图例子源代码/PL/PLObject.h
+d/Users/linke/Desktop/360度全景图例子源代码/PL/PLScene.h
+d/Users/linke/Desktop/360度全景图例子源代码/PL/PLSceneElement.h
+d/Users/linke/Desktop/360度全景图例子源代码/PL/PLUtils.h
+d/Users/linke/Desktop/360度全景图例子源代码/PL/PLTexture.h
+d/Users/linke/Desktop/360度全景图例子源代码/PL/PLImage.h
+d/Users/linke/Desktop/360度全景图例子源代码/PL/PLCylinder.h
+d/Users/linke/Desktop/360度全景图例子源代码/PL/PLSphere.h
+d/Users/linke/Desktop/360度全景图例子源代码/PL/PLCube.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection84"Compile /Users/linke/Desktop/360度全景图例子源代码/36000/_6000AppDelegate.m206"CompileC Build/Intermediates/36000.build/Debug-iphonesimulator/36000.build/Objects-normal/i386/_6000AppDelegate.o 36000/_6000AppDelegate.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler36ae9f376aeab841^bc9214386aeab841^---0#0#1#-19%DVTDocumentLocation2@137"file:///Users/linke/Desktop/360%E5%BA%A6%E5%85%A8%E6%99%AF%E5%9B%BE%E4%BE%8B%E5%AD%90%E6%BA%90%E4%BB%A3%E7%A0%81/36000/_6000AppDelegate.m0000000000000000^3398"CompileC Build/Intermediates/36000.build/Debug-iphonesimulator/36000.build/Objects-normal/i386/_6000AppDelegate.o 36000/_6000AppDelegate.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/linke/Desktop/360度全景图例子源代码    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-empty-body -Wno-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-constant-conversion -Wno-int-conversion -Wno-bool-conversion -Wno-enum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DDEBUG -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=4.2 -iquote /Users/linke/Desktop/360度全景图例子源代码/Build/Intermediates/36000.build/Debug-iphonesimulator/36000.build/36000-generated-files.hmap -I/Users/linke/Desktop/360度全景图例子源代码/Build/Intermediates/36000.build/Debug-iphonesimulator/36000.build/36000-own-target-headers.hmap -I/Users/linke/Desktop/360度全景图例子源代码/Build/Intermediates/36000.build/Debug-iphonesimulator/36000.build/36000-all-target-headers.hmap -iquote /Users/linke/Desktop/360度全景图例子源代码/Build/Intermediates/36000.build/Debug-iphonesimulator/36000.build/36000-project-headers.hmap -I/Users/linke/Desktop/360度全景图例子源代码/Build/Products/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/linke/Desktop/360度全景图例子源代码/Build/Intermediates/36000.build/Debug-iphonesimulator/36000.build/DerivedSources/i386 -I/Users/linke/Desktop/360度全景图例子源代码/Build/Intermediates/36000.build/Debug-iphonesimulator/36000.build/DerivedSources -F/Users/linke/Desktop/360度全景图例子源代码/Build/Products/Debug-iphonesimulator -F/Users/linke/Desktop/360度全景图例子源代码 -include /Users/linke/Desktop/360度全景图例子源代码/Build/Intermediates/PrecompiledHeaders/36000-Prefix-chkbxhxkagluxvdimdruqawurgrg/36000-Prefix.pch -MMD -MT dependencies -MF /Users/linke/Desktop/360度全景图例子源代码/Build/Intermediates/36000.build/Debug-iphonesimulator/36000.build/Objects-normal/i386/_6000AppDelegate.d --serialize-diagnostics /Users/linke/Desktop/360度全景图例子源代码/Build/Intermediates/36000.build/Debug-iphonesimulator/36000.build/Objects-nor36"F4E2692B-051A-4B91-AEE3-333E8FDA7667-
+b1618D0A6-7FFF-47D4-B60A-433B1BA3615C
+
+CCompileC Build/Intermediates/36000.build/Debug-iphonesimulator/36000.build/Objects-normal/i386/_6000ViewController.o /Users/linke/Desktop/360度全景图例子源代码/36000/_6000ViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s418015799.623689
+e418015800.071975
+r1
+xCompileC
+xBuild/Intermediates/36000.build/Debug-iphonesimulator/36000.build/Objects-normal/i386/_6000ViewController.o
+x/Users/linke/Desktop/360度全景图例子源代码/36000/_6000ViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/linke/Desktop/360度全景图例子源代码/36000/_6000ViewController.m
+d/Users/linke/Desktop/360度全景图例子源代码/36000/_6000ViewController.h
+d/Users/linke/Desktop/360度全景图例子源代码/PL/PLView.h
+d/Users/linke/Desktop/360度全景图例子源代码/PL/PLMath.h
+d/Users/linke/Desktop/360度全景图例子源代码/PL/PLStructs.h
+d/Users/linke/Desktop/360度全景图例子源代码/PL/PLEnums.h
+d/Users/linke/Desktop/360度全景图例子源代码/PL/PLViewBase.h
+d/Users/linke/Desktop/360度全景图例子源代码/OpenGLES.framework/Headers/ES1/gl.h
+d/Users/linke/Desktop/360度全景图例子源代码/OpenGLES.framework/Headers/ES1/glext.h
+d/Users/linke/Desktop/360度全景图例子源代码/PL/PLConstants.h
+d/Users/linke/Desktop/360度全景图例子源代码/PL/PLRenderer.h
+d/Users/linke/Desktop/360度全景图例子源代码/glues/glu.h
+d/Users/linke/Desktop/360度全景图例子源代码/glues/glues.h
+d/Users/linke/Desktop/360度全景图例子源代码/PL/PLCamera.h
+d/Users/linke/Desktop/360度全景图例子源代码/PL/PLObject.h
+d/Users/linke/Desktop/360度全景图例子源代码/PL/PLScene.h
+d/Users/linke/Desktop/360度全景图例子源代码/PL/PLSceneElement.h
+d/Users/linke/Desktop/360度全景图例子源代码/PL/PLUtils.h
+d/Users/linke/Desktop/360度全景图例子源代码/PL/PLTexture.h
+d/Users/linke/Desktop/360度全景图例子源代码/PL/PLImage.h
+d/Users/linke/Desktop/360度全景图例子源代码/PL/PLCylinder.h
+d/Users/linke/Desktop/360度全景图例子源代码/PL/PLSphere.h
+d/Users/linke/Desktop/360度全景图例子源代码/PL/PLCube.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection87"Compile /Users/linke/Desktop/360度全景图例子源代码/36000/_6000ViewController.m212"CompileC Build/Intermediates/36000.build/Debug-iphonesimulator/36000.build/Objects-normal/i386/_6000ViewController.o 36000/_6000ViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compilera2d39f376aeab841^f46c12386aeab841^---0#0#1#-19%DVTDocumentLocation2@140"file:///Users/linke/Desktop/360%E5%BA%A6%E5%85%A8%E6%99%AF%E5%9B%BE%E4%BE%8B%E5%AD%90%E6%BA%90%E4%BB%A3%E7%A0%81/36000/_6000ViewController.m0000000000000000^3416"CompileC Build/Intermediates/36000.build/Debug-iphonesimulator/36000.build/Objects-normal/i386/_6000ViewController.o 36000/_6000ViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/linke/Desktop/360度全景图例子源代码    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-empty-body -Wno-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-constant-conversion -Wno-int-conversion -Wno-bool-conversion -Wno-enum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DDEBUG -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=4.2 -iquote /Users/linke/Desktop/360度全景图例子源代码/Build/Intermediates/36000.build/Debug-iphonesimulator/36000.build/36000-generated-files.hmap -I/Users/linke/Desktop/360度全景图例子源代码/Build/Intermediates/36000.build/Debug-iphonesimulator/36000.build/36000-own-target-headers.hmap -I/Users/linke/Desktop/360度全景图例子源代码/Build/Intermediates/36000.build/Debug-iphonesimulator/36000.build/36000-all-target-headers.hmap -iquote /Users/linke/Desktop/360度全景图例子源代码/Build/Intermediates/36000.build/Debug-iphonesimulator/36000.build/36000-project-headers.hmap -I/Users/linke/Desktop/360度全景图例子源代码/Build/Products/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/linke/Desktop/360度全景图例子源代码/Build/Intermediates/36000.build/Debug-iphonesimulator/36000.build/DerivedSources/i386 -I/Users/linke/Desktop/360度全景图例子源代码/Build/Intermediates/36000.build/Debug-iphonesimulator/36000.build/DerivedSources -F/Users/linke/Desktop/360度全景图例子源代码/Build/Products/Debug-iphonesimulator -F/Users/linke/Desktop/360度全景图例子源代码 -include /Users/linke/Desktop/360度全景图例子源代码/Build/Intermediates/PrecompiledHeaders/36000-Prefix-chkbxhxkagluxvdimdruqawurgrg/36000-Prefix.pch -MMD -MT dependencies -MF /Users/linke/Desktop/360度全景图例子源代码/Build/Intermediates/36000.build/Debug-iphonesimulator/36000.build/Objects-normal/i386/_6000ViewController.d --serialize-diagnostics /Users/linke/Desktop/360度全景图例子源代码/Build/Intermediates/36000.build/Debug-iphonesimulator/36000.build/Objects-normal/i386/36"62518340-3FF6-4956-A178-930A552C6B7B-
+b1618D0A6-7FFF-47D4-B60A-433B1BA3615C
+
+CCompileC Build/Intermediates/36000.build/Debug-iphonesimulator/36000.build/Objects-normal/i386/glues_error.o /Users/linke/Desktop/360度全景图例子源代码/glues/glues_error.c normal i386 c com.apple.compilers.llvm.clang.1_0.compiler
+s418015799.624420
+e418015799.986508
+r1
+xCompileC
+xBuild/Intermediates/36000.build/Debug-iphonesimulator/36000.build/Objects-normal/i386/glues_error.o
+x/Users/linke/Desktop/360度全景图例子源代码/glues/glues_error.c
+xnormal
+xi386
+xc
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/linke/Desktop/360度全景图例子源代码/glues/glues_error.c
+d/Users/linke/Desktop/360度全景图例子源代码/glues/glues_error.h
+d/Users/linke/Desktop/360度全景图例子源代码/OpenGLES.framework/Headers/ES1/gl.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection79"Compile /Users/linke/Desktop/360度全景图例子源代码/glues/glues_error.c186"CompileC Build/Intermediates/36000.build/Debug-iphonesimulator/36000.build/Objects-normal/i386/glues_error.o glues/glues_error.c normal i386 c com.apple.compilers.llvm.clang.1_0.compilerd8f59f376aeab841^6493fc376aeab841^---0#0#1#-19%DVTDocumentLocation2@132"file:///Users/linke/Desktop/360%E5%BA%A6%E5%85%A8%E6%99%AF%E5%9B%BE%E4%BE%8B%E5%AD%90%E6%BA%90%E4%BB%A3%E7%A0%81/glues/glues_error.c0000000000000000^3111"CompileC Build/Intermediates/36000.build/Debug-iphonesimulator/36000.build/Objects-normal/i386/glues_error.o glues/glues_error.c normal i386 c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/linke/Desktop/360度全景图例子源代码    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x c -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-empty-body -Wno-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-constant-conversion -Wno-int-conversion -Wno-bool-conversion -Wno-enum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -DDEBUG -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wdeprecated-declarations -g -Wno-sign-conversion -mios-simulator-version-min=4.2 -iquote /Users/linke/Desktop/360度全景图例子源代码/Build/Intermediates/36000.build/Debug-iphonesimulator/36000.build/36000-generated-files.hmap -I/Users/linke/Desktop/360度全景图例子源代码/Build/Intermediates/36000.build/Debug-iphonesimulator/36000.build/36000-own-target-headers.hmap -I/Users/linke/Desktop/360度全景图例子源代码/Build/Intermediates/36000.build/Debug-iphonesimulator/36000.build/36000-all-target-headers.hmap -iquote /Users/linke/Desktop/360度全景图例子源代码/Build/Intermediates/36000.build/Debug-iphonesimulator/36000.build/36000-project-headers.hmap -I/Users/linke/Desktop/360度全景图例子源代码/Build/Products/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/linke/Desktop/360度全景图例子源代码/Build/Intermediates/36000.build/Debug-iphonesimulator/36000.build/DerivedSources/i386 -I/Users/linke/Desktop/360度全景图例子源代码/Build/Intermediates/36000.build/Debug-iphonesimulator/36000.build/DerivedSources -F/Users/linke/Desktop/360度全景图例子源代码/Build/Products/Debug-iphonesimulator -F/Users/linke/Desktop/360度全景图例子源代码 -include /Users/linke/Desktop/360度全景图例子源代码/Build/Intermediates/PrecompiledHeaders/36000-Prefix-abnblkplaipngagaiifbexdhhidz/36000-Prefix.pch -MMD -MT dependencies -MF /Users/linke/Desktop/360度全景图例子源代码/Build/Intermediates/36000.build/Debug-iphonesimulator/36000.build/Objects-normal/i386/glues_error.d --serialize-diagnostics /Users/linke/Desktop/360度全景图例子源代码/Build/Intermediates/36000.build/Debug-iphonesimulator/36000.bu36"F94649FE-D5D9-4A84-A92C-1E0AF2289DE0-
+b1618D0A6-7FFF-47D4-B60A-433B1BA3615C
+
+CCompileC Build/Intermediates/36000.build/Debug-iphonesimulator/36000.build/Objects-normal/i386/glues_mipmap.o /Users/linke/Desktop/360度全景图例子源代码/glues/glues_mipmap.c normal i386 c com.apple.compilers.llvm.clang.1_0.compiler
+s418015799.987902
+e418015800.238122
+r1
+xCompileC
+xBuild/Intermediates/36000.build/Debug-iphonesimulator/36000.build/Objects-normal/i386/glues_mipmap.o
+x/Users/linke/Desktop/360度全景图例子源代码/glues/glues_mipmap.c
+xnormal
+xi386
+xc
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/linke/Desktop/360度全景图例子源代码/glues/glues_mipmap.c
+d/Users/linke/Desktop/360度全景图例子源代码/glues/glues_mipmap.h
+d/Users/linke/Desktop/360度全景图例子源代码/OpenGLES.framework/Headers/ES1/gl.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection80"Compile /Users/linke/Desktop/360度全景图例子源代码/glues/glues_mipmap.c188"CompileC Build/Intermediates/36000.build/Debug-iphonesimulator/36000.build/Objects-normal/i386/glues_mipmap.o glues/glues_mipmap.c normal i386 c com.apple.compilers.llvm.clang.1_0.compilera707fd376aeab841^4a093d386aeab841^---0#0#1#-19%DVTDocumentLocation2@133"file:///Users/linke/Desktop/360%E5%BA%A6%E5%85%A8%E6%99%AF%E5%9B%BE%E4%BE%8B%E5%AD%90%E6%BA%90%E4%BB%A3%E7%A0%81/glues/glues_mipmap.c0000000000000000^3117"CompileC Build/Intermediates/36000.build/Debug-iphonesimulator/36000.build/Objects-normal/i386/glues_mipmap.o glues/glues_mipmap.c normal i386 c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/linke/Desktop/360度全景图例子源代码    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x c -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-empty-body -Wno-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-constant-conversion -Wno-int-conversion -Wno-bool-conversion -Wno-enum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -DDEBUG -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wdeprecated-declarations -g -Wno-sign-conversion -mios-simulator-version-min=4.2 -iquote /Users/linke/Desktop/360度全景图例子源代码/Build/Intermediates/36000.build/Debug-iphonesimulator/36000.build/36000-generated-files.hmap -I/Users/linke/Desktop/360度全景图例子源代码/Build/Intermediates/36000.build/Debug-iphonesimulator/36000.build/36000-own-target-headers.hmap -I/Users/linke/Desktop/360度全景图例子源代码/Build/Intermediates/36000.build/Debug-iphonesimulator/36000.build/36000-all-target-headers.hmap -iquote /Users/linke/Desktop/360度全景图例子源代码/Build/Intermediates/36000.build/Debug-iphonesimulator/36000.build/36000-project-headers.hmap -I/Users/linke/Desktop/360度全景图例子源代码/Build/Products/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/linke/Desktop/360度全景图例子源代码/Build/Intermediates/36000.build/Debug-iphonesimulator/36000.build/DerivedSources/i386 -I/Users/linke/Desktop/360度全景图例子源代码/Build/Intermediates/36000.build/Debug-iphonesimulator/36000.build/DerivedSources -F/Users/linke/Desktop/360度全景图例子源代码/Build/Products/Debug-iphonesimulator -F/Users/linke/Desktop/360度全景图例子源代码 -include /Users/linke/Desktop/360度全景图例子源代码/Build/Intermediates/PrecompiledHeaders/36000-Prefix-abnblkplaipngagaiifbexdhhidz/36000-Prefix.pch -MMD -MT dependencies -MF /Users/linke/Desktop/360度全景图例子源代码/Build/Intermediates/36000.build/Debug-iphonesimulator/36000.build/Objects-normal/i386/glues_mipmap.d --serialize-diagnostics /Users/linke/Desktop/360度全景图例子源代码/Build/Intermediates/36000.build/Debug-iphonesimulator/36000.build36"3CE595D9-7B33-4D9F-B6F0-68380B1D872F-
+b1618D0A6-7FFF-47D4-B60A-433B1BA3615C
+
+CCompileC Build/Intermediates/36000.build/Debug-iphonesimulator/36000.build/Objects-normal/i386/glues_project.o /Users/linke/Desktop/360度全景图例子源代码/glues/glues_project.c normal i386 c com.apple.compilers.llvm.clang.1_0.compiler
+s418015799.991937
+e418015800.196095
+r1
+xCompileC
+xBuild/Intermediates/36000.build/Debug-iphonesimulator/36000.build/Objects-normal/i386/glues_project.o
+x/Users/linke/Desktop/360度全景图例子源代码/glues/glues_project.c
+xnormal
+xi386
+xc
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/linke/Desktop/360度全景图例子源代码/glues/glues_project.c
+d/Users/linke/Desktop/360度全景图例子源代码/glues/glues_project.h
+d/Users/linke/Desktop/360度全景图例子源代码/OpenGLES.framework/Headers/ES1/gl.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection81"Compile /Users/linke/Desktop/360度全景图例子源代码/glues/glues_project.c190"CompileC Build/Intermediates/36000.build/Debug-iphonesimulator/36000.build/Objects-normal/i386/glues_project.o glues/glues_project.c normal i386 c com.apple.compilers.llvm.clang.1_0.compileraa0dfe376aeab841^763432386aeab841^---0#0#1#-19%DVTDocumentLocation2@134"file:///Users/linke/Desktop/360%E5%BA%A6%E5%85%A8%E6%99%AF%E5%9B%BE%E4%BE%8B%E5%AD%90%E6%BA%90%E4%BB%A3%E7%A0%81/glues/glues_project.c0000000000000000^3123"CompileC Build/Intermediates/36000.build/Debug-iphonesimulator/36000.build/Objects-normal/i386/glues_project.o glues/glues_project.c normal i386 c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/linke/Desktop/360度全景图例子源代码    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x c -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-empty-body -Wno-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-constant-conversion -Wno-int-conversion -Wno-bool-conversion -Wno-enum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -DDEBUG -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wdeprecated-declarations -g -Wno-sign-conversion -mios-simulator-version-min=4.2 -iquote /Users/linke/Desktop/360度全景图例子源代码/Build/Intermediates/36000.build/Debug-iphonesimulator/36000.build/36000-generated-files.hmap -I/Users/linke/Desktop/360度全景图例子源代码/Build/Intermediates/36000.build/Debug-iphonesimulator/36000.build/36000-own-target-headers.hmap -I/Users/linke/Desktop/360度全景图例子源代码/Build/Intermediates/36000.build/Debug-iphonesimulator/36000.build/36000-all-target-headers.hmap -iquote /Users/linke/Desktop/360度全景图例子源代码/Build/Intermediates/36000.build/Debug-iphonesimulator/36000.build/36000-project-headers.hmap -I/Users/linke/Desktop/360度全景图例子源代码/Build/Products/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/linke/Desktop/360度全景图例子源代码/Build/Intermediates/36000.build/Debug-iphonesimulator/36000.build/DerivedSources/i386 -I/Users/linke/Desktop/360度全景图例子源代码/Build/Intermediates/36000.build/Debug-iphonesimulator/36000.build/DerivedSources -F/Users/linke/Desktop/360度全景图例子源代码/Build/Products/Debug-iphonesimulator -F/Users/linke/Desktop/360度全景图例子源代码 -include /Users/linke/Desktop/360度全景图例子源代码/Build/Intermediates/PrecompiledHeaders/36000-Prefix-abnblkplaipngagaiifbexdhhidz/36000-Prefix.pch -MMD -MT dependencies -MF /Users/linke/Desktop/360度全景图例子源代码/Build/Intermediates/36000.build/Debug-iphonesimulator/36000.build/Objects-normal/i386/glues_project.d --serialize-diagnostics /Users/linke/Desktop/360度全景图例子源代码/Build/Intermediates/36000.build/Debug-iphonesimulator/36000.build/Ob36"2CFF0CDB-8CF4-45C0-A043-FBB5F8DBD839-
+b1618D0A6-7FFF-47D4-B60A-433B1BA3615C
+
+CCompileC Build/Intermediates/36000.build/Debug-iphonesimulator/36000.build/Objects-normal/i386/glues_quad.o /Users/linke/Desktop/360度全景图例子源代码/glues/glues_quad.c normal i386 c com.apple.compilers.llvm.clang.1_0.compiler
+s418015800.072945
+e418015800.224994
+r1
+xCompileC
+xBuild/Intermediates/36000.build/Debug-iphonesimulator/36000.build/Objects-normal/i386/glues_quad.o
+x/Users/linke/Desktop/360度全景图例子源代码/glues/glues_quad.c
+xnormal
+xi386
+xc
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/linke/Desktop/360度全景图例子源代码/glues/glues_quad.c
+d/Users/linke/Desktop/360度全景图例子源代码/glues/glues_quad.h
+d/Users/linke/Desktop/360度全景图例子源代码/OpenGLES.framework/Headers/ES1/gl.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection78"Compile /Users/linke/Desktop/360度全景图例子源代码/glues/glues_quad.c184"CompileC Build/Intermediates/36000.build/Debug-iphonesimulator/36000.build/Objects-normal/i386/glues_quad.o glues/glues_quad.c normal i386 c com.apple.compilers.llvm.clang.1_0.compilerb0c912386aeab841^789939386aeab841^---0#0#1#-19%DVTDocumentLocation2@131"file:///Users/linke/Desktop/360%E5%BA%A6%E5%85%A8%E6%99%AF%E5%9B%BE%E4%BE%8B%E5%AD%90%E6%BA%90%E4%BB%A3%E7%A0%81/glues/glues_quad.c0000000000000000^3105"CompileC Build/Intermediates/36000.build/Debug-iphonesimulator/36000.build/Objects-normal/i386/glues_quad.o glues/glues_quad.c normal i386 c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/linke/Desktop/360度全景图例子源代码    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x c -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-empty-body -Wno-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-constant-conversion -Wno-int-conversion -Wno-bool-conversion -Wno-enum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -DDEBUG -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wdeprecated-declarations -g -Wno-sign-conversion -mios-simulator-version-min=4.2 -iquote /Users/linke/Desktop/360度全景图例子源代码/Build/Intermediates/36000.build/Debug-iphonesimulator/36000.build/36000-generated-files.hmap -I/Users/linke/Desktop/360度全景图例子源代码/Build/Intermediates/36000.build/Debug-iphonesimulator/36000.build/36000-own-target-headers.hmap -I/Users/linke/Desktop/360度全景图例子源代码/Build/Intermediates/36000.build/Debug-iphonesimulator/36000.build/36000-all-target-headers.hmap -iquote /Users/linke/Desktop/360度全景图例子源代码/Build/Intermediates/36000.build/Debug-iphonesimulator/36000.build/36000-project-headers.hmap -I/Users/linke/Desktop/360度全景图例子源代码/Build/Products/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/linke/Desktop/360度全景图例子源代码/Build/Intermediates/36000.build/Debug-iphonesimulator/36000.build/DerivedSources/i386 -I/Users/linke/Desktop/360度全景图例子源代码/Build/Intermediates/36000.build/Debug-iphonesimulator/36000.build/DerivedSources -F/Users/linke/Desktop/360度全景图例子源代码/Build/Products/Debug-iphonesimulator -F/Users/linke/Desktop/360度全景图例子源代码 -include /Users/linke/Desktop/360度全景图例子源代码/Build/Intermediates/PrecompiledHeaders/36000-Prefix-abnblkplaipngagaiifbexdhhidz/36000-Prefix.pch -MMD -MT dependencies -MF /Users/linke/Desktop/360度全景图例子源代码/Build/Intermediates/36000.build/Debug-iphonesimulator/36000.build/Objects-normal/i386/glues_quad.d --serialize-diagnostics /Users/linke/Desktop/360度全景图例子源代码/Build/Intermediates/36000.build/Debug-iphonesimulator/3600036"7C96B4CF-9731-4B05-B223-F260F7F0682B-
+b1618D0A6-7FFF-47D4-B60A-433B1BA3615C
+
+CCompileC Build/Intermediates/36000.build/Debug-iphonesimulator/36000.build/Objects-normal/i386/glues_registry.o /Users/linke/Desktop/360度全景图例子源代码/glues/glues_registry.c normal i386 c com.apple.compilers.llvm.clang.1_0.compiler
+s418015800.082250
+e418015800.188495
+r1
+xCompileC
+xBuild/Intermediates/36000.build/Debug-iphonesimulator/36000.build/Objects-normal/i386/glues_registry.o
+x/Users/linke/Desktop/360度全景图例子源代码/glues/glues_registry.c
+xnormal
+xi386
+xc
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/linke/Desktop/360度全景图例子源代码/glues/glues_registry.c
+d/Users/linke/Desktop/360度全景图例子源代码/glues/glues_registry.h
+d/Users/linke/Desktop/360度全景图例子源代码/OpenGLES.framework/Headers/ES1/gl.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection82"Compile /Users/linke/Desktop/360度全景图例子源代码/glues/glues_registry.c192"CompileC Build/Intermediates/36000.build/Debug-iphonesimulator/36000.build/Objects-normal/i386/glues_registry.o glues/glues_registry.c normal i386 c com.apple.compilers.llvm.clang.1_0.compiler063015386aeab841^475430386aeab841^---0#0#1#-19%DVTDocumentLocation2@135"file:///Users/linke/Desktop/360%E5%BA%A6%E5%85%A8%E6%99%AF%E5%9B%BE%E4%BE%8B%E5%AD%90%E6%BA%90%E4%BB%A3%E7%A0%81/glues/glues_registry.c0000000000000000^3129"CompileC Build/Intermediates/36000.build/Debug-iphonesimulator/36000.build/Objects-normal/i386/glues_registry.o glues/glues_registry.c normal i386 c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/linke/Desktop/360度全景图例子源代码    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x c -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-empty-body -Wno-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-constant-conversion -Wno-int-conversion -Wno-bool-conversion -Wno-enum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -DDEBUG -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wdeprecated-declarations -g -Wno-sign-conversion -mios-simulator-version-min=4.2 -iquote /Users/linke/Desktop/360度全景图例子源代码/Build/Intermediates/36000.build/Debug-iphonesimulator/36000.build/36000-generated-files.hmap -I/Users/linke/Desktop/360度全景图例子源代码/Build/Intermediates/36000.build/Debug-iphonesimulator/36000.build/36000-own-target-headers.hmap -I/Users/linke/Desktop/360度全景图例子源代码/Build/Intermediates/36000.build/Debug-iphonesimulator/36000.build/36000-all-target-headers.hmap -iquote /Users/linke/Desktop/360度全景图例子源代码/Build/Intermediates/36000.build/Debug-iphonesimulator/36000.build/36000-project-headers.hmap -I/Users/linke/Desktop/360度全景图例子源代码/Build/Products/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/linke/Desktop/360度全景图例子源代码/Build/Intermediates/36000.build/Debug-iphonesimulator/36000.build/DerivedSources/i386 -I/Users/linke/Desktop/360度全景图例子源代码/Build/Intermediates/36000.build/Debug-iphonesimulator/36000.build/DerivedSources -F/Users/linke/Desktop/360度全景图例子源代码/Build/Products/Debug-iphonesimulator -F/Users/linke/Desktop/360度全景图例子源代码 -include /Users/linke/Desktop/360度全景图例子源代码/Build/Intermediates/PrecompiledHeaders/36000-Prefix-abnblkplaipngagaiifbexdhhidz/36000-Prefix.pch -MMD -MT dependencies -MF /Users/linke/Desktop/360度全景图例子源代码/Build/Intermediates/36000.build/Debug-iphonesimulator/36000.build/Objects-normal/i386/glues_registry.d --serialize-diagnostics /Users/linke/Desktop/360度全景图例子源代码/Build/Intermediates/36000.build/Debug-iphonesimulator/36000.build/Objec36"6C133B5A-20F1-4AB7-9967-B837695D4DCE-
+b1618D0A6-7FFF-47D4-B60A-433B1BA3615C
+
+CCompileC Build/Intermediates/36000.build/Debug-iphonesimulator/36000.build/Objects-normal/i386/main.o /Users/linke/Desktop/360度全景图例子源代码/36000/main.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s418015799.622962
+e418015799.990529
+r1
+xCompileC
+xBuild/Intermediates/36000.build/Debug-iphonesimulator/36000.build/Objects-normal/i386/main.o
+x/Users/linke/Desktop/360度全景图例子源代码/36000/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/linke/Desktop/360度全景图例子源代码/36000/main.m
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection72"Compile /Users/linke/Desktop/360度全景图例子源代码/36000/main.m182"CompileC Build/Intermediates/36000.build/Debug-iphonesimulator/36000.build/Objects-normal/i386/main.o 36000/main.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler80999f376aeab841^a393fd376aeab841^---0#0#1#-19%DVTDocumentLocation2@125"file:///Users/linke/Desktop/360%E5%BA%A6%E5%85%A8%E6%99%AF%E5%9B%BE%E4%BE%8B%E5%AD%90%E6%BA%90%E4%BB%A3%E7%A0%81/36000/main.m0000000000000000^3326"CompileC Build/Intermediates/36000.build/Debug-iphonesimulator/36000.build/Objects-normal/i386/main.o 36000/main.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/linke/Desktop/360度全景图例子源代码    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-empty-body -Wno-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-constant-conversion -Wno-int-conversion -Wno-bool-conversion -Wno-enum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DDEBUG -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=4.2 -iquote /Users/linke/Desktop/360度全景图例子源代码/Build/Intermediates/36000.build/Debug-iphonesimulator/36000.build/36000-generated-files.hmap -I/Users/linke/Desktop/360度全景图例子源代码/Build/Intermediates/36000.build/Debug-iphonesimulator/36000.build/36000-own-target-headers.hmap -I/Users/linke/Desktop/360度全景图例子源代码/Build/Intermediates/36000.build/Debug-iphonesimulator/36000.build/36000-all-target-headers.hmap -iquote /Users/linke/Desktop/360度全景图例子源代码/Build/Intermediates/36000.build/Debug-iphonesimulator/36000.build/36000-project-headers.hmap -I/Users/linke/Desktop/360度全景图例子源代码/Build/Products/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/linke/Desktop/360度全景图例子源代码/Build/Intermediates/36000.build/Debug-iphonesimulator/36000.build/DerivedSources/i386 -I/Users/linke/Desktop/360度全景图例子源代码/Build/Intermediates/36000.build/Debug-iphonesimulator/36000.build/DerivedSources -F/Users/linke/Desktop/360度全景图例子源代码/Build/Products/Debug-iphonesimulator -F/Users/linke/Desktop/360度全景图例子源代码 -include /Users/linke/Desktop/360度全景图例子源代码/Build/Intermediates/PrecompiledHeaders/36000-Prefix-chkbxhxkagluxvdimdruqawurgrg/36000-Prefix.pch -MMD -MT dependencies -MF /Users/linke/Desktop/360度全景图例子源代码/Build/Intermediates/36000.build/Debug-iphonesimulator/36000.build/Objects-normal/i386/main.d --serialize-diagnostics /Users/linke/Desktop/360度全景图例子源代码/Build/Intermediates/36000.build/Debug-iph36"6BBC7593-40EF-4228-991C-1EDBD67D92CE-
+b1618D0A6-7FFF-47D4-B60A-433B1BA3615C
+
+CCompileXIB /Users/linke/Desktop/360度全景图例子源代码/36000/en.lproj/MainWindow.xib
+s418015801.167037
+e418015801.225417
+r1
+xCompileXIB
+x/Users/linke/Desktop/360度全景图例子源代码/36000/en.lproj/MainWindow.xib
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection91"Compiling /Users/linke/Desktop/360度全景图例子源代码/36000/en.lproj/MainWindow.xib40"CompileXIB 36000/en.lproj/MainWindow.xib69e12a396aeab841^c8b539396aeab841^---0#0#1#-19%DVTDocumentLocation2@142"file:///Users/linke/Desktop/360%E5%BA%A6%E5%85%A8%E6%99%AF%E5%9B%BE%E4%BE%8B%E5%AD%90%E6%BA%90%E4%BB%A3%E7%A0%81/36000/en.lproj/MainWindow.xib0000000000000000^805"CompileXIB 36000/en.lproj/MainWindow.xib    cd /Users/linke/Desktop/360度全景图例子源代码    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    export XCODE_DEVELOPER_USR_PATH=/Applications/Xcode.app/Contents/Developer/usr/bin/..    /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/ibtool --errors --warnings --notices --minimum-deployment-target 4.2 --output-format human-readable-text --compile /Users/linke/Desktop/360度全景图例子源代码/Build/Products/Debug-iphonesimulator/36000.app/en.lproj/MainWindow.nib /Users/linke/Desktop/360度全景图例子源代码/36000/en.lproj/MainWindow.xib36"BE06FE68-9F59-481D-902F-174C4CFB906B-
+b1618D0A6-7FFF-47D4-B60A-433B1BA3615C
+
+CCompileXIB /Users/linke/Desktop/360度全景图例子源代码/36000/en.lproj/_6000ViewController.xib
+s418015801.167556
+e418015801.215917
+r1
+xCompileXIB
+x/Users/linke/Desktop/360度全景图例子源代码/36000/en.lproj/_6000ViewController.xib
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection100"Compiling /Users/linke/Desktop/360度全景图例子源代码/36000/en.lproj/_6000ViewController.xib49"CompileXIB 36000/en.lproj/_6000ViewController.xibbef82a396aeab841^cf4d37396aeab841^---0#0#1#-19%DVTDocumentLocation2@151"file:///Users/linke/Desktop/360%E5%BA%A6%E5%85%A8%E6%99%AF%E5%9B%BE%E4%BE%8B%E5%AD%90%E6%BA%90%E4%BB%A3%E7%A0%81/36000/en.lproj/_6000ViewController.xib0000000000000000^832"CompileXIB 36000/en.lproj/_6000ViewController.xib    cd /Users/linke/Desktop/360度全景图例子源代码    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    export XCODE_DEVELOPER_USR_PATH=/Applications/Xcode.app/Contents/Developer/usr/bin/..    /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/ibtool --errors --warnings --notices --minimum-deployment-target 4.2 --output-format human-readable-text --compile /Users/linke/Desktop/360度全景图例子源代码/Build/Products/Debug-iphonesimulator/36000.app/en.lproj/_6000ViewController.nib /Users/linke/Desktop/360度全景图例子源代码/36000/en.lproj/_6000ViewController.xib36"308BEDA0-D852-412F-BCA5-20F75E38699C-
+b1618D0A6-7FFF-47D4-B60A-433B1BA3615C
+
+CCopyStringsFile /Users/linke/Desktop/360度全景图例子源代码/Build/Products/Debug-iphonesimulator/36000.app/en.lproj/InfoPlist.strings 36000/en.lproj/InfoPlist.strings
+s418015801.166797
+e418015801.199950
+r1
+xCopyStringsFile
+x/Users/linke/Desktop/360度全景图例子源代码/Build/Products/Debug-iphonesimulator/36000.app/en.lproj/InfoPlist.strings
+x36000/en.lproj/InfoPlist.strings
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection37"Copy 36000/en.lproj/InfoPlist.strings122"CopyStringsFile Build/Products/Debug-iphonesimulator/36000.app/en.lproj/InfoPlist.strings 36000/en.lproj/InfoPlist.strings87c32a396aeab841^6a3233396aeab841^---0#0#1#-19%DVTDocumentLocation2@145"file:///Users/linke/Desktop/360%E5%BA%A6%E5%85%A8%E6%99%AF%E5%9B%BE%E4%BE%8B%E5%AD%90%E6%BA%90%E4%BB%A3%E7%A0%81/36000/en.lproj/InfoPlist.strings0000000000000000^611"CopyStringsFile Build/Products/Debug-iphonesimulator/36000.app/en.lproj/InfoPlist.strings 36000/en.lproj/InfoPlist.strings    cd /Users/linke/Desktop/360度全景图例子源代码    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copyStrings --validate --inputencoding utf-8 --outputencoding binary --outdir /Users/linke/Desktop/360度全景图例子源代码/Build/Products/Debug-iphonesimulator/36000.app/en.lproj -- 36000/en.lproj/InfoPlist.strings36"AFF18142-3956-428C-A40D-2C3E9D8475A0-
+b1618D0A6-7FFF-47D4-B60A-433B1BA3615C
+
+CCpResource 36000/pano.jpg Build/Products/Debug-iphonesimulator/36000.app/pano.jpg
+s418015801.167661
+e418015801.188368
+r1
+xCpResource
+x36000/pano.jpg
+xBuild/Products/Debug-iphonesimulator/36000.app/pano.jpg
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection60"Copy Build/Products/Debug-iphonesimulator/36000.app/pano.jpg81"CpResource 36000/pano.jpg Build/Products/Debug-iphonesimulator/36000.app/pano.jpg3ffe2a396aeab841^5a4830396aeab841^---0#0#1#-19%DVTDocumentLocation2@168"file:///Users/linke/Desktop/360%E5%BA%A6%E5%85%A8%E6%99%AF%E5%9B%BE%E4%BE%8B%E5%AD%90%E6%BA%90%E4%BB%A3%E7%A0%81/Build/Products/Debug-iphonesimulator/36000.app/pano.jpg0034fc0bddffdf42^614"CpResource 36000/pano.jpg Build/Products/Debug-iphonesimulator/36000.app/pano.jpg    cd /Users/linke/Desktop/360度全景图例子源代码    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/linke/Desktop/360度全景图例子源代码/36000/pano.jpg /Users/linke/Desktop/360度全景图例子源代码/Build/Products/Debug-iphonesimulator/36000.app36"54A4EC54-CA42-4C02-A685-28E84C4F05E4-
+b1618D0A6-7FFF-47D4-B60A-433B1BA3615C
+
+CGenerateDSYMFile /Users/linke/Desktop/360度全景图例子源代码/Build/Products/Debug-iphonesimulator/36000.app.dSYM /Users/linke/Desktop/360度全景图例子源代码/Build/Products/Debug-iphonesimulator/36000.app/36000
+s418015801.076850
+e418015801.166224
+r1
+xGenerateDSYMFile
+x/Users/linke/Desktop/360度全景图例子源代码/Build/Products/Debug-iphonesimulator/36000.app.dSYM
+x/Users/linke/Desktop/360度全景图例子源代码/Build/Products/Debug-iphonesimulator/36000.app/36000
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection112"Generate /Users/linke/Desktop/360度全景图例子源代码/Build/Products/Debug-iphonesimulator/36000.app.dSYM121"GenerateDSYMFile Build/Products/Debug-iphonesimulator/36000.app.dSYM Build/Products/Debug-iphonesimulator/36000.app/36000aaba13396aeab841^a48e2a396aeab841^---0#0#1#-19%DVTDocumentLocation2@164"file:///Users/linke/Desktop/360%E5%BA%A6%E5%85%A8%E6%99%AF%E5%9B%BE%E4%BE%8B%E5%AD%90%E6%BA%90%E4%BB%A3%E7%A0%81/Build/Products/Debug-iphonesimulator/36000.app.dSYM0034fc0bddffdf42^688"GenerateDSYMFile Build/Products/Debug-iphonesimulator/36000.app.dSYM Build/Products/Debug-iphonesimulator/36000.app/36000    cd /Users/linke/Desktop/360度全景图例子源代码    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/dsymutil /Users/linke/Desktop/360度全景图例子源代码/Build/Products/Debug-iphonesimulator/36000.app/36000 -o /Users/linke/Desktop/360度全景图例子源代码/Build/Products/Debug-iphonesimulator/36000.app.dSYM36"85691327-12F0-442B-9F0B-41F958A2C524-
+b1618D0A6-7FFF-47D4-B60A-433B1BA3615C
+
+CLd /Users/linke/Desktop/360度全景图例子源代码/Build/Products/Debug-iphonesimulator/36000.app/36000 normal i386
+s418015800.611965
+e418015801.075823
+r1
+xLd
+x/Users/linke/Desktop/360度全景图例子源代码/Build/Products/Debug-iphonesimulator/36000.app/36000
+xnormal
+xi386
+d/Users/linke/Desktop/360度全景图例子源代码/Build/Intermediates/36000.build/Debug-iphonesimulator/36000.build/Objects-normal/i386/36000.LinkFileList
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/crt1.o
+d/Users/linke/Desktop/360度全景图例子源代码/Build/Intermediates/36000.build/Debug-iphonesimulator/36000.build/Objects-normal/i386/main.o
+d/Users/linke/Desktop/360度全景图例子源代码/Build/Intermediates/36000.build/Debug-iphonesimulator/36000.build/Objects-normal/i386/_6000AppDelegate.o
+d/Users/linke/Desktop/360度全景图例子源代码/Build/Intermediates/36000.build/Debug-iphonesimulator/36000.build/Objects-normal/i386/_6000ViewController.o
+d/Users/linke/Desktop/360度全景图例子源代码/Build/Intermediates/36000.build/Debug-iphonesimulator/36000.build/Objects-normal/i386/glues_error.o
+d/Users/linke/Desktop/360度全景图例子源代码/Build/Intermediates/36000.build/Debug-iphonesimulator/36000.build/Objects-normal/i386/glues_mipmap.o
+d/Users/linke/Desktop/360度全景图例子源代码/Build/Intermediates/36000.build/Debug-iphonesimulator/36000.build/Objects-normal/i386/glues_project.o
+d/Users/linke/Desktop/360度全景图例子源代码/Build/Intermediates/36000.build/Debug-iphonesimulator/36000.build/Objects-normal/i386/glues_quad.o
+d/Users/linke/Desktop/360度全景图例子源代码/Build/Intermediates/36000.build/Debug-iphonesimulator/36000.build/Objects-normal/i386/glues_registry.o
+d/Users/linke/Desktop/360度全景图例子源代码/Build/Intermediates/36000.build/Debug-iphonesimulator/36000.build/Objects-normal/i386/PLCamera.o
+d/Users/linke/Desktop/360度全景图例子源代码/Build/Intermediates/36000.build/Debug-iphonesimulator/36000.build/Objects-normal/i386/PLCube.o
+d/Users/linke/Desktop/360度全景图例子源代码/Build/Intermediates/36000.build/Debug-iphonesimulator/36000.build/Objects-normal/i386/PLCylinder.o
+d/Users/linke/Desktop/360度全景图例子源代码/Build/Intermediates/36000.build/Debug-iphonesimulator/36000.build/Objects-normal/i386/PLImage.o
+d/Users/linke/Desktop/360度全景图例子源代码/Build/Intermediates/36000.build/Debug-iphonesimulator/36000.build/Objects-normal/i386/PLMath.o
+d/Users/linke/Desktop/360度全景图例子源代码/Build/Intermediates/36000.build/Debug-iphonesimulator/36000.build/Objects-normal/i386/PLObject.o
+d/Users/linke/Desktop/360度全景图例子源代码/Build/Intermediates/36000.build/Debug-iphonesimulator/36000.build/Objects-normal/i386/PLRenderer.o
+d/Users/linke/Desktop/360度全景图例子源代码/Build/Intermediates/36000.build/Debug-iphonesimulator/36000.build/Objects-normal/i386/PLScene.o
+d/Users/linke/Desktop/360度全景图例子源代码/Build/Intermediates/36000.build/Debug-iphonesimulator/36000.build/Objects-normal/i386/PLSceneElement.o
+d/Users/linke/Desktop/360度全景图例子源代码/Build/Intermediates/36000.build/Debug-iphonesimulator/36000.build/Objects-normal/i386/PLSphere.o
+d/Users/linke/Desktop/360度全景图例子源代码/Build/Intermediates/36000.build/Debug-iphonesimulator/36000.build/Objects-normal/i386/PLTexture.o
+d/Users/linke/Desktop/360度全景图例子源代码/Build/Intermediates/36000.build/Debug-iphonesimulator/36000.build/Objects-normal/i386/PLUtils.o
+d/Users/linke/Desktop/360度全景图例子源代码/Build/Intermediates/36000.build/Debug-iphonesimulator/36000.build/Objects-normal/i386/PLView.o
+d/Users/linke/Desktop/360度全景图例子源代码/Build/Intermediates/36000.build/Debug-iphonesimulator/36000.build/Objects-normal/i386/PLViewBase.o
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+d/Users/linke/Desktop/360度全景图例子源代码/OpenGLES.framework/OpenGLES
+d/Users/linke/Desktop/360度全景图例子源代码/QuartzCore.framework/QuartzCore
+d/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/arc/libarclite_iphonesimulator.a
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/libobjc.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/libSystem.dylib
+d/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/5.1/lib/darwin/libclang_rt.ios.a
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/PrivateFrameworks/UIFoundation.framework/UIFoundation
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_override.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libcache_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libcommonCrypto_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libcorecrypto_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libcompiler_rt_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libcopyfile_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libdispatch.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libdyld_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libmacho_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libnotify_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libremovefile_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_sim_blocks.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_sim_c.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_sim_dnssd.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_sim_info.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_sim_m.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_network.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libunwind_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libxpc.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_sim_configuration.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_sim_asl.dylib
+d/usr/lib/libSystem.B.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/CoreFoundation.framework/CoreFoundation
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/host/libdyld.dylib
+d/usr/lib/system/libcache.dylib
+d/usr/lib/system/libcommonCrypto.dylib
+d/usr/lib/system/libcompiler_rt.dylib
+d/usr/lib/system/libcopyfile.dylib
+d/usr/lib/system/libcorecrypto.dylib
+d/usr/lib/system/libkeymgr.dylib
+d/usr/lib/system/liblaunch.dylib
+d/usr/lib/system/libmacho.dylib
+d/usr/lib/system/libquarantine.dylib
+d/usr/lib/system/libremovefile.dylib
+d/usr/lib/system/libsystem_asl.dylib
+d/usr/lib/system/libsystem_blocks.dylib
+d/usr/lib/system/libsystem_c.dylib
+d/usr/lib/system/libsystem_configuration.dylib
+d/usr/lib/system/libsystem_dnssd.dylib
+d/usr/lib/system/libsystem_info.dylib
+d/usr/lib/system/libsystem_kernel.dylib
+d/usr/lib/system/libsystem_m.dylib
+d/usr/lib/system/libsystem_malloc.dylib
+d/usr/lib/system/libsystem_notify.dylib
+d/usr/lib/system/libsystem_platform.dylib
+d/usr/lib/system/libsystem_pthread.dylib
+d/usr/lib/system/libsystem_sandbox.dylib
+d/usr/lib/system/libunc.dylib
+d/usr/lib/system/libunwind.dylib
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection109"Link /Users/linke/Desktop/360度全景图例子源代码/Build/Products/Debug-iphonesimulator/36000.app/3600067"Ld Build/Products/Debug-iphonesimulator/36000.app/36000 normal i38690bf9c386aeab841^fd6913396aeab841^---0#0#1#--1406"Ld Build/Products/Debug-iphonesimulator/36000.app/36000 normal i386    cd /Users/linke/Desktop/360度全景图例子源代码    export IPHONEOS_DEPLOYMENT_TARGET=4.2    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -arch i386 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -L/Users/linke/Desktop/360度全景图例子源代码/Build/Products/Debug-iphonesimulator -F/Users/linke/Desktop/360度全景图例子源代码/Build/Products/Debug-iphonesimulator -F/Users/linke/Desktop/360度全景图例子源代码 -filelist /Users/linke/Desktop/360度全景图例子源代码/Build/Intermediates/36000.build/Debug-iphonesimulator/36000.build/Objects-normal/i386/36000.LinkFileList -Xlinker -objc_abi_version -Xlinker 2 -fobjc-link-runtime -Xlinker -no_implicit_dylibs -mios-simulator-version-min=4.2 -framework UIKit -framework Foundation -framework CoreGraphics -framework OpenGLES -framework QuartzCore -Xlinker -dependency_info -Xlinker /Users/linke/Desktop/360度全景图例子源代码/Build/Intermediates/36000.build/Debug-iphonesimulator/36000.build/Objects-normal/i386/36000_de36"468ACBE9-1F34-430A-A9B5-3E481EF83385-
+b1618D0A6-7FFF-47D4-B60A-433B1BA3615C
+
+CProcessInfoPlistFile /Users/linke/Desktop/360度全景图例子源代码/Build/Products/Debug-iphonesimulator/36000.app/Info.plist /Users/linke/Desktop/360度全景图例子源代码/36000/36000-Info.plist
+s418015798.726347
+e418015798.728035
+r1
+xProcessInfoPlistFile
+x/Users/linke/Desktop/360度全景图例子源代码/Build/Products/Debug-iphonesimulator/36000.app/Info.plist
+x/Users/linke/Desktop/360度全景图例子源代码/36000/36000-Info.plist
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection82"Process /Users/linke/Desktop/360度全景图例子源代码/36000/36000-Info.plist101"ProcessInfoPlistFile Build/Products/Debug-iphonesimulator/36000.app/Info.plist 36000/36000-Info.plist50ffb9366aeab841^2462ba366aeab841^---0#0#1#-19%DVTDocumentLocation2@135"file:///Users/linke/Desktop/360%E5%BA%A6%E5%85%A8%E6%99%AF%E5%9B%BE%E4%BE%8B%E5%AD%90%E6%BA%90%E4%BB%A3%E7%A0%81/36000/36000-Info.plist0000000000000000^754"ProcessInfoPlistFile Build/Products/Debug-iphonesimulator/36000.app/Info.plist 36000/36000-Info.plist    cd /Users/linke/Desktop/360度全景图例子源代码    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility /Users/linke/Desktop/360度全景图例子源代码/36000/36000-Info.plist -genpkginfo /Users/linke/Desktop/360度全景图例子源代码/Build/Products/Debug-iphonesimulator/36000.app/PkgInfo -expandbuildsettings -format binary -platform iphonesimulator -o /Users/linke/Desktop/360度全景图例子源代码/Build/Products/Debug-iphonesimulator/36000.app/Info.plist36"8A493969-4367-4C73-8268-D75477C8CE27-
+b1618D0A6-7FFF-47D4-B60A-433B1BA3615C
+
+CProcessPCH /Users/linke/Desktop/360度全景图例子源代码/Build/Intermediates/PrecompiledHeaders/36000-Prefix-abnblkplaipngagaiifbexdhhidz/36000-Prefix.pch.pch 36000/36000-Prefix.pch normal i386 c com.apple.compilers.llvm.clang.1_0.compiler
+s418015798.728942
+e418015799.014573
+r1
+xProcessPCH
+x/Users/linke/Desktop/360度全景图例子源代码/Build/Intermediates/PrecompiledHeaders/36000-Prefix-abnblkplaipngagaiifbexdhhidz/36000-Prefix.pch.pch
+x36000/36000-Prefix.pch
+xnormal
+xi386
+xc
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/linke/Desktop/360度全景图例子源代码/36000/36000-Prefix.pch
+o/Users/linke/Desktop/360度全景图例子源代码/36000/36000-Prefix.pch:6:2: warning: "This project uses features only available in iPhone SDK 3.0 and later." [-W#warnings]
+o#warning "This project uses features only available in iPhone SDK 3.0 and later."
+o ^
+o1 warning generated.
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection33"Precompile 36000/36000-Prefix.pch193"ProcessPCH Build/Intermediates/PrecompiledHeaders/36000-Prefix-abnblkplaipngagaiifbexdhhidz/36000-Prefix.pch.pch 36000/36000-Prefix.pch normal i386 c com.apple.compilers.llvm.clang.1_0.compilerf6b5ba366aeab841^27bd03376aeab841^-282"/Users/linke/Desktop/360度全景图例子源代码/36000/36000-Prefix.pch:6:2: warning: "This project uses features only available in iPhone SDK 3.0 and later." [-W#warnings]#warning "This project uses features only available in iPhone SDK 3.0 and later." ^1 warning generated.1(36%IDEClangDiagnosticActivityLogMessage2@72""This project uses features only available in iPhone SDK 3.0 and later."-418015799#18446744073709551615#0#-1#27"com.apple.dt.IDE.diagnostic23%DVTTextDocumentLocation3@135"file:///Users/linke/Desktop/360%E5%BA%A6%E5%85%A8%E6%99%AF%E5%9B%BE%E4%BE%8B%E5%AD%90%E6%BA%90%E4%BB%A3%E7%A0%81/36000/36000-Prefix.pch0000000000000000^5#1#5#1#112#0#18"#warning Directive--0#0#1#-19%DVTDocumentLocation4@135"file:///Users/linke/Desktop/360%E5%BA%A6%E5%85%A8%E6%99%AF%E5%9B%BE%E4%BE%8B%E5%AD%90%E6%BA%90%E4%BB%A3%E7%A0%81/36000/36000-Prefix.pch0000000000000000^2989"ProcessPCH Build/Intermediates/PrecompiledHeaders/36000-Prefix-abnblkplaipngagaiifbexdhhidz/36000-Prefix.pch.pch 36000/36000-Prefix.pch normal i386 c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/linke/Desktop/360度全景图例子源代码    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x c-header -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-empty-body -Wno-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-constant-conversion -Wno-int-conversion -Wno-bool-conversion -Wno-enum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -DDEBUG -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wdeprecated-declarations -g -Wno-sign-conversion -mios-simulator-version-min=4.2 -iquote /Users/linke/Desktop/360度全景图例子源代码/Build/Intermediates/36000.build/Debug-iphonesimulator/36000.build/36000-generated-files.hmap -I/Users/linke/Desktop/360度全景图例子源代码/Build/Intermediates/36000.build/Debug-iphonesimulator/36000.build/36000-own-target-headers.hmap -I/Users/linke/Desktop/360度全景图例子源代码/Build/Intermediates/36000.build/Debug-iphonesimulator/36000.build/36000-all-target-headers.hmap -iquote /Users/linke/Desktop/360度全景图例子源代码/Build/Intermediates/36000.build/Debug-iphonesimulator/36000.build/36000-project-headers.hmap -I/Users/linke/Desktop/360度全景图例子源代码/Build/Products/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/linke/Desktop/360度全景图例子源代码/Build/Intermediates/36000.build/Debug-iphonesimulator/36000.build/DerivedSources/i386 -I/Users/linke/Desktop/360度全景图例子源代码/Build/Intermediates/36000.build/Debug-iphonesimulator/36000.build/DerivedSources -F/Users/linke/Desktop/360度全景图例子源代码/Build/Products/Debug-iphonesimulator -F/Users/linke/Desktop/360度全景图例子源代码 --serialize-diagnostics /Users/linke/Desktop/360度全景图例子源代码/Build/Intermediates/PrecompiledHeaders/36000-Prefix-abnblkplaipngagaiifbexdhhidz/36000-Prefix.pch.dia -MMD -MT dependencies -MF /Users/linke/Desktop/360度全景图例子源代码/Build/Intermediates/PrecompiledHeaders/36000-Prefix-abnblkplaipngagaiifbexdhhidz/3636"7F466744-0BA3-43DA-80A0-6C4DCECFB833-
+b1618D0A6-7FFF-47D4-B60A-433B1BA3615C
+
+CProcessPCH /Users/linke/Desktop/360度全景图例子源代码/Build/Intermediates/PrecompiledHeaders/36000-Prefix-chkbxhxkagluxvdimdruqawurgrg/36000-Prefix.pch.pch 36000/36000-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s418015798.728636
+e418015799.622284
+r1
+xProcessPCH
+x/Users/linke/Desktop/360度全景图例子源代码/Build/Intermediates/PrecompiledHeaders/36000-Prefix-chkbxhxkagluxvdimdruqawurgrg/36000-Prefix.pch.pch
+x36000/36000-Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/linke/Desktop/360度全景图例子源代码/36000/36000-Prefix.pch
+o/Users/linke/Desktop/360度全景图例子源代码/36000/36000-Prefix.pch:6:2: warning: "This project uses features only available in iPhone SDK 3.0 and later." [-W#warnings]
+o#warning "This project uses features only available in iPhone SDK 3.0 and later."
+o ^
+o1 warning generated.
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection33"Precompile 36000/36000-Prefix.pch203"ProcessPCH Build/Intermediates/PrecompiledHeaders/36000-Prefix-chkbxhxkagluxvdimdruqawurgrg/36000-Prefix.pch.pch 36000/36000-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler45a0ba366aeab841^514f9f376aeab841^-282"/Users/linke/Desktop/360度全景图例子源代码/36000/36000-Prefix.pch:6:2: warning: "This project uses features only available in iPhone SDK 3.0 and later." [-W#warnings]#warning "This project uses features only available in iPhone SDK 3.0 and later." ^1 warning generated.1(36%IDEClangDiagnosticActivityLogMessage2@72""This project uses features only available in iPhone SDK 3.0 and later."-418015799#18446744073709551615#0#-1#27"com.apple.dt.IDE.diagnostic23%DVTTextDocumentLocation3@135"file:///Users/linke/Desktop/360%E5%BA%A6%E5%85%A8%E6%99%AF%E5%9B%BE%E4%BE%8B%E5%AD%90%E6%BA%90%E4%BB%A3%E7%A0%81/36000/36000-Prefix.pch0000000000000000^5#1#5#1#112#0#18"#warning Directive--0#0#1#-19%DVTDocumentLocation4@135"file:///Users/linke/Desktop/360%E5%BA%A6%E5%85%A8%E6%99%AF%E5%9B%BE%E4%BE%8B%E5%AD%90%E6%BA%90%E4%BB%A3%E7%A0%81/36000/36000-Prefix.pch0000000000000000^3246"ProcessPCH Build/Intermediates/PrecompiledHeaders/36000-Prefix-chkbxhxkagluxvdimdruqawurgrg/36000-Prefix.pch.pch 36000/36000-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/linke/Desktop/360度全景图例子源代码    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c-header -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-empty-body -Wno-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-constant-conversion -Wno-int-conversion -Wno-bool-conversion -Wno-enum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DDEBUG -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=4.2 -iquote /Users/linke/Desktop/360度全景图例子源代码/Build/Intermediates/36000.build/Debug-iphonesimulator/36000.build/36000-generated-files.hmap -I/Users/linke/Desktop/360度全景图例子源代码/Build/Intermediates/36000.build/Debug-iphonesimulator/36000.build/36000-own-target-headers.hmap -I/Users/linke/Desktop/360度全景图例子源代码/Build/Intermediates/36000.build/Debug-iphonesimulator/36000.build/36000-all-target-headers.hmap -iquote /Users/linke/Desktop/360度全景图例子源代码/Build/Intermediates/36000.build/Debug-iphonesimulator/36000.build/36000-project-headers.hmap -I/Users/linke/Desktop/360度全景图例子源代码/Build/Products/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/linke/Desktop/360度全景图例子源代码/Build/Intermediates/36000.build/Debug-iphonesimulator/36000.build/DerivedSources/i386 -I/Users/linke/Desktop/360度全景图例子源代码/Build/Intermediates/36000.build/Debug-iphonesimulator/36000.build/DerivedSources -F/Users/linke/Desktop/360度全景图例子源代码/Build/Products/Debug-iphonesimulator -F/Users/linke/Desktop/360度全景图例子源代码 --serialize-diagnostics /Users/linke/Desktop/360度全景图例子源代码/Build/Intermediates/PrecompiledHeaders/36000-Prefix-chkbxhxkagluxvdimdruqawurgrg/36000-Prefix.pch.dia -MMD -MT dependencies -MF /Users/linke/Desktop/360度全景图例子源代码/Build/Intermediates/PrecompiledHeaders/36000-Prefix-chkbxhxkagluxvdimdruqawurgrg/3636"658AC2D4-1372-42F5-8F07-B41EB5DC07AF-
+b1618D0A6-7FFF-47D4-B60A-433B1BA3615C
+
+CProcessPCH /Users/linke/Library/Developer/Xcode/DerivedData/36000-exzgldqfmntxfoezzphgdgwklajn/Index/PrecompiledHeaders/36000-Prefix-cnxqaeuyydmzavedstibowuevxub_ast/36000-Prefix.pch.pch 36000/36000-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.astbuilder
+r0
+
+CProcessPCH /Users/linke/Library/Developer/Xcode/DerivedData/36000-exzgldqfmntxfoezzphgdgwklajn/Index/PrecompiledHeaders/36000-Prefix-gljwtdndthkhgldllnhygitkwemg_ast/36000-Prefix.pch.pch 36000/36000-Prefix.pch normal i386 c com.apple.compilers.llvm.clang.1_0.astbuilder
+r0
+
+CTouch /Users/linke/Desktop/360度全景图例子源代码/Build/Products/Debug-iphonesimulator/36000.app
+r0
+

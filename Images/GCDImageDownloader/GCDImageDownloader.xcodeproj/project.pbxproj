@@ -1,0 +1,291 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 46;
+	objects = {
+
+/* Begin PBXBuildFile section */
+		F937B4311388C8FD002A3F5B /* UIKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = F937B4301388C8FD002A3F5B /* UIKit.framework */; };
+		F937B4331388C8FD002A3F5B /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = F937B4321388C8FD002A3F5B /* Foundation.framework */; };
+		F937B4351388C8FD002A3F5B /* CoreGraphics.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = F937B4341388C8FD002A3F5B /* CoreGraphics.framework */; };
+		F937B43B1388C8FD002A3F5B /* InfoPlist.strings in Resources */ = {isa = PBXBuildFile; fileRef = F937B4391388C8FD002A3F5B /* InfoPlist.strings */; };
+		F937B43E1388C8FD002A3F5B /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = F937B43D1388C8FD002A3F5B /* main.m */; };
+		F937B4411388C8FD002A3F5B /* GCDImageDownloaderAppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = F937B4401388C8FD002A3F5B /* GCDImageDownloaderAppDelegate.m */; };
+		F937B4441388C8FD002A3F5B /* MainWindow.xib in Resources */ = {isa = PBXBuildFile; fileRef = F937B4421388C8FD002A3F5B /* MainWindow.xib */; };
+		F937B4471388C8FD002A3F5B /* GCDImageDownloaderViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = F937B4461388C8FD002A3F5B /* GCDImageDownloaderViewController.m */; };
+		F937B44A1388C8FD002A3F5B /* GCDImageDownloaderViewController.xib in Resources */ = {isa = PBXBuildFile; fileRef = F937B4481388C8FD002A3F5B /* GCDImageDownloaderViewController.xib */; };
+		F937B4521388C905002A3F5B /* UIImageView+DispatchLoad.m in Sources */ = {isa = PBXBuildFile; fileRef = F937B4511388C905002A3F5B /* UIImageView+DispatchLoad.m */; };
+/* End PBXBuildFile section */
+
+/* Begin PBXFileReference section */
+		F937B42C1388C8FD002A3F5B /* GCDImageDownloader.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = GCDImageDownloader.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		F937B4301388C8FD002A3F5B /* UIKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = UIKit.framework; path = System/Library/Frameworks/UIKit.framework; sourceTree = SDKROOT; };
+		F937B4321388C8FD002A3F5B /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = System/Library/Frameworks/Foundation.framework; sourceTree = SDKROOT; };
+		F937B4341388C8FD002A3F5B /* CoreGraphics.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreGraphics.framework; path = System/Library/Frameworks/CoreGraphics.framework; sourceTree = SDKROOT; };
+		F937B4381388C8FD002A3F5B /* GCDImageDownloader-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = "GCDImageDownloader-Info.plist"; sourceTree = "<group>"; };
+		F937B43A1388C8FD002A3F5B /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/InfoPlist.strings; sourceTree = "<group>"; };
+		F937B43C1388C8FD002A3F5B /* GCDImageDownloader-Prefix.pch */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "GCDImageDownloader-Prefix.pch"; sourceTree = "<group>"; };
+		F937B43D1388C8FD002A3F5B /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
+		F937B43F1388C8FD002A3F5B /* GCDImageDownloaderAppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = GCDImageDownloaderAppDelegate.h; sourceTree = "<group>"; };
+		F937B4401388C8FD002A3F5B /* GCDImageDownloaderAppDelegate.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = GCDImageDownloaderAppDelegate.m; sourceTree = "<group>"; };
+		F937B4431388C8FD002A3F5B /* en */ = {isa = PBXFileReference; lastKnownFileType = file.xib; name = en; path = en.lproj/MainWindow.xib; sourceTree = "<group>"; };
+		F937B4451388C8FD002A3F5B /* GCDImageDownloaderViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = GCDImageDownloaderViewController.h; sourceTree = "<group>"; };
+		F937B4461388C8FD002A3F5B /* GCDImageDownloaderViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = GCDImageDownloaderViewController.m; sourceTree = "<group>"; };
+		F937B4491388C8FD002A3F5B /* en */ = {isa = PBXFileReference; lastKnownFileType = file.xib; name = en; path = en.lproj/GCDImageDownloaderViewController.xib; sourceTree = "<group>"; };
+		F937B4501388C905002A3F5B /* UIImageView+DispatchLoad.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "UIImageView+DispatchLoad.h"; sourceTree = "<group>"; };
+		F937B4511388C905002A3F5B /* UIImageView+DispatchLoad.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = "UIImageView+DispatchLoad.m"; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		F937B4291388C8FD002A3F5B /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				F937B4311388C8FD002A3F5B /* UIKit.framework in Frameworks */,
+				F937B4331388C8FD002A3F5B /* Foundation.framework in Frameworks */,
+				F937B4351388C8FD002A3F5B /* CoreGraphics.framework in Frameworks */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		F937B4211388C8FD002A3F5B = {
+			isa = PBXGroup;
+			children = (
+				F937B4361388C8FD002A3F5B /* GCDImageDownloader */,
+				F937B42F1388C8FD002A3F5B /* Frameworks */,
+				F937B42D1388C8FD002A3F5B /* Products */,
+			);
+			sourceTree = "<group>";
+		};
+		F937B42D1388C8FD002A3F5B /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				F937B42C1388C8FD002A3F5B /* GCDImageDownloader.app */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+		F937B42F1388C8FD002A3F5B /* Frameworks */ = {
+			isa = PBXGroup;
+			children = (
+				F937B4301388C8FD002A3F5B /* UIKit.framework */,
+				F937B4321388C8FD002A3F5B /* Foundation.framework */,
+				F937B4341388C8FD002A3F5B /* CoreGraphics.framework */,
+			);
+			name = Frameworks;
+			sourceTree = "<group>";
+		};
+		F937B4361388C8FD002A3F5B /* GCDImageDownloader */ = {
+			isa = PBXGroup;
+			children = (
+				F937B4501388C905002A3F5B /* UIImageView+DispatchLoad.h */,
+				F937B4511388C905002A3F5B /* UIImageView+DispatchLoad.m */,
+				F937B43F1388C8FD002A3F5B /* GCDImageDownloaderAppDelegate.h */,
+				F937B4401388C8FD002A3F5B /* GCDImageDownloaderAppDelegate.m */,
+				F937B4421388C8FD002A3F5B /* MainWindow.xib */,
+				F937B4451388C8FD002A3F5B /* GCDImageDownloaderViewController.h */,
+				F937B4461388C8FD002A3F5B /* GCDImageDownloaderViewController.m */,
+				F937B4481388C8FD002A3F5B /* GCDImageDownloaderViewController.xib */,
+				F937B4371388C8FD002A3F5B /* Supporting Files */,
+			);
+			path = GCDImageDownloader;
+			sourceTree = "<group>";
+		};
+		F937B4371388C8FD002A3F5B /* Supporting Files */ = {
+			isa = PBXGroup;
+			children = (
+				F937B4381388C8FD002A3F5B /* GCDImageDownloader-Info.plist */,
+				F937B4391388C8FD002A3F5B /* InfoPlist.strings */,
+				F937B43C1388C8FD002A3F5B /* GCDImageDownloader-Prefix.pch */,
+				F937B43D1388C8FD002A3F5B /* main.m */,
+			);
+			name = "Supporting Files";
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXNativeTarget section */
+		F937B42B1388C8FD002A3F5B /* GCDImageDownloader */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = F937B44D1388C8FD002A3F5B /* Build configuration list for PBXNativeTarget "GCDImageDownloader" */;
+			buildPhases = (
+				F937B4281388C8FD002A3F5B /* Sources */,
+				F937B4291388C8FD002A3F5B /* Frameworks */,
+				F937B42A1388C8FD002A3F5B /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = GCDImageDownloader;
+			productName = GCDImageDownloader;
+			productReference = F937B42C1388C8FD002A3F5B /* GCDImageDownloader.app */;
+			productType = "com.apple.product-type.application";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		F937B4231388C8FD002A3F5B /* Project object */ = {
+			isa = PBXProject;
+			buildConfigurationList = F937B4261388C8FD002A3F5B /* Build configuration list for PBXProject "GCDImageDownloader" */;
+			compatibilityVersion = "Xcode 3.2";
+			developmentRegion = English;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+			);
+			mainGroup = F937B4211388C8FD002A3F5B;
+			productRefGroup = F937B42D1388C8FD002A3F5B /* Products */;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				F937B42B1388C8FD002A3F5B /* GCDImageDownloader */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXResourcesBuildPhase section */
+		F937B42A1388C8FD002A3F5B /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				F937B43B1388C8FD002A3F5B /* InfoPlist.strings in Resources */,
+				F937B4441388C8FD002A3F5B /* MainWindow.xib in Resources */,
+				F937B44A1388C8FD002A3F5B /* GCDImageDownloaderViewController.xib in Resources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXResourcesBuildPhase section */
+
+/* Begin PBXSourcesBuildPhase section */
+		F937B4281388C8FD002A3F5B /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				F937B43E1388C8FD002A3F5B /* main.m in Sources */,
+				F937B4411388C8FD002A3F5B /* GCDImageDownloaderAppDelegate.m in Sources */,
+				F937B4471388C8FD002A3F5B /* GCDImageDownloaderViewController.m in Sources */,
+				F937B4521388C905002A3F5B /* UIImageView+DispatchLoad.m in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin PBXVariantGroup section */
+		F937B4391388C8FD002A3F5B /* InfoPlist.strings */ = {
+			isa = PBXVariantGroup;
+			children = (
+				F937B43A1388C8FD002A3F5B /* en */,
+			);
+			name = InfoPlist.strings;
+			sourceTree = "<group>";
+		};
+		F937B4421388C8FD002A3F5B /* MainWindow.xib */ = {
+			isa = PBXVariantGroup;
+			children = (
+				F937B4431388C8FD002A3F5B /* en */,
+			);
+			name = MainWindow.xib;
+			sourceTree = "<group>";
+		};
+		F937B4481388C8FD002A3F5B /* GCDImageDownloaderViewController.xib */ = {
+			isa = PBXVariantGroup;
+			children = (
+				F937B4491388C8FD002A3F5B /* en */,
+			);
+			name = GCDImageDownloaderViewController.xib;
+			sourceTree = "<group>";
+		};
+/* End PBXVariantGroup section */
+
+/* Begin XCBuildConfiguration section */
+		F937B44B1388C8FD002A3F5B /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ARCHS = "$(ARCHS_UNIVERSAL_IPHONE_OS)";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PREPROCESSOR_DEFINITIONS = DEBUG;
+				GCC_SYMBOLS_PRIVATE_EXTERN = NO;
+				GCC_VERSION = com.apple.compilers.llvmgcc42;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 4.3;
+				SDKROOT = iphoneos;
+				TARGETED_DEVICE_FAMILY = 2;
+			};
+			name = Debug;
+		};
+		F937B44C1388C8FD002A3F5B /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ARCHS = "$(ARCHS_UNIVERSAL_IPHONE_OS)";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_VERSION = com.apple.compilers.llvmgcc42;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 4.3;
+				OTHER_CFLAGS = "-DNS_BLOCK_ASSERTIONS=1";
+				SDKROOT = iphoneos;
+				TARGETED_DEVICE_FAMILY = 2;
+			};
+			name = Release;
+		};
+		F937B44E1388C8FD002A3F5B /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				COPY_PHASE_STRIP = NO;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_PRECOMPILE_PREFIX_HEADER = YES;
+				GCC_PREFIX_HEADER = "GCDImageDownloader/GCDImageDownloader-Prefix.pch";
+				INFOPLIST_FILE = "GCDImageDownloader/GCDImageDownloader-Info.plist";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				WRAPPER_EXTENSION = app;
+			};
+			name = Debug;
+		};
+		F937B44F1388C8FD002A3F5B /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				COPY_PHASE_STRIP = YES;
+				GCC_PRECOMPILE_PREFIX_HEADER = YES;
+				GCC_PREFIX_HEADER = "GCDImageDownloader/GCDImageDownloader-Prefix.pch";
+				INFOPLIST_FILE = "GCDImageDownloader/GCDImageDownloader-Info.plist";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				VALIDATE_PRODUCT = YES;
+				WRAPPER_EXTENSION = app;
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		F937B4261388C8FD002A3F5B /* Build configuration list for PBXProject "GCDImageDownloader" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				F937B44B1388C8FD002A3F5B /* Debug */,
+				F937B44C1388C8FD002A3F5B /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		F937B44D1388C8FD002A3F5B /* Build configuration list for PBXNativeTarget "GCDImageDownloader" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				F937B44E1388C8FD002A3F5B /* Debug */,
+				F937B44F1388C8FD002A3F5B /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = F937B4231388C8FD002A3F5B /* Project object */;
+}

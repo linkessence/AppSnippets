@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<document type="com.apple.InterfaceBuilder3.CocoaTouch.Storyboard.XIB" version="3.0" toolsVersion="4510" systemVersion="12F45" targetRuntime="iOS.CocoaTouch.iPad" propertyAccessControl="none" useAutolayout="YES" initialViewController="Rio-D4-8Kz">
+    <dependencies>
+        <deployment defaultVersion="1552" identifier="iOS"/>
+        <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="3742"/>
+    </dependencies>
+    <scenes>
+        <!--View Controller-->
+        <scene sceneID="4">
+            <objects>
+                <viewController id="2" customClass="ViewController" sceneMemberID="viewController">
+                    <layoutGuides>
+                        <viewControllerLayoutGuide type="top" id="GH4-sq-AvS"/>
+                        <viewControllerLayoutGuide type="bottom" id="I0r-XT-Ihz"/>
+                    </layoutGuides>
+                    <view key="view" contentMode="scaleToFill" id="5">
+                        <rect key="frame" x="0.0" y="0.0" width="768" height="1024"/>
+                        <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
+                        <subviews>
+                            <toolbar opaque="NO" clearsContextBeforeDrawing="NO" contentMode="scaleToFill" barStyle="blackTranslucent" translatesAutoresizingMaskIntoConstraints="NO" id="cgQ-E0-jOJ">
+                                <rect key="frame" x="0.0" y="980" width="768" height="44"/>
+                                <items>
+                                    <barButtonItem title="Select Image" id="irX-Zh-Wk4">
+                                        <connections>
+                                            <action selector="btnSelectImageClicked:" destination="2" id="QOG-Jf-tuH"/>
+                                        </connections>
+                                    </barButtonItem>
+                                    <barButtonItem style="plain" systemItem="flexibleSpace" id="Rr7-7l-wjB"/>
+                                    <barButtonItem title="ReKognize Image" id="Wo8-fX-01b"/>
+                                </items>
+                            </toolbar>
+                            <imageView userInteractionEnabled="NO" contentMode="scaleToFill" translatesAutoresizingMaskIntoConstraints="NO" id="8p1-Q6-7aW">
+                                <rect key="frame" x="0.0" y="32" width="768" height="960"/>
+                                <constraints>
+                                    <constraint firstAttribute="height" constant="960" id="QLe-Qk-Nmm"/>
+                                </constraints>
+                            </imageView>
+                        </subviews>
+                        <color key="backgroundColor" white="1" alpha="1" colorSpace="custom" customColorSpace="calibratedWhite"/>
+                        <constraints>
+                            <constraint firstItem="8p1-Q6-7aW" firstAttribute="leading" secondItem="5" secondAttribute="leading" id="8GO-Fi-N5d"/>
+                            <constraint firstItem="cgQ-E0-jOJ" firstAttribute="trailing" secondItem="5" secondAttribute="trailing" id="IFO-et-UTE"/>
+                            <constraint firstItem="8p1-Q6-7aW" firstAttribute="centerY" secondItem="5" secondAttribute="centerY" id="KqG-dO-EtP"/>
+                            <constraint firstItem="cgQ-E0-jOJ" firstAttribute="bottom" secondItem="5" secondAttribute="bottom" id="d77-eC-IiL"/>
+                            <constraint firstItem="cgQ-E0-jOJ" firstAttribute="leading" secondItem="5" secondAttribute="leading" id="fKO-FJ-goI"/>
+                            <constraint firstItem="8p1-Q6-7aW" firstAttribute="trailing" secondItem="5" secondAttribute="trailing" id="kVJ-ZC-S6T"/>
+                        </constraints>
+                    </view>
+                    <navigationItem key="navigationItem" id="Bah-2B-Tdn"/>
+                </viewController>
+                <placeholder placeholderIdentifier="IBFirstResponder" id="3" sceneMemberID="firstResponder"/>
+            </objects>
+            <point key="canvasLocation" x="993" y="-341"/>
+        </scene>
+        <!--Navigation Controller-->
+        <scene sceneID="56C-bb-IzN">
+            <objects>
+                <navigationController id="Rio-D4-8Kz" sceneMemberID="viewController">
+                    <toolbarItems/>
+                    <navigationBar key="navigationBar" contentMode="scaleToFill" id="p4Z-kr-DEf">
+                        <rect key="frame" x="0.0" y="0.0" width="768" height="44"/>
+                        <autoresizingMask key="autoresizingMask"/>
+                    </navigationBar>
+                    <nil name="viewControllers"/>
+                    <connections>
+                        <segue destination="2" kind="relationship" relationship="rootViewController" id="WAN-AU-UDy"/>
+                    </connections>
+                </navigationController>
+                <placeholder placeholderIdentifier="IBFirstResponder" id="OmY-nU-Rhf" userLabel="First Responder" sceneMemberID="firstResponder"/>
+            </objects>
+            <point key="canvasLocation" x="19" y="-341"/>
+        </scene>
+    </scenes>
+    <simulatedMetricsContainer key="defaultSimulatedMetrics">
+        <simulatedStatusBarMetrics key="statusBar"/>
+        <simulatedOrientationMetrics key="orientation"/>
+        <simulatedScreenMetrics key="destination"/>
+    </simulatedMetricsContainer>
+</document>

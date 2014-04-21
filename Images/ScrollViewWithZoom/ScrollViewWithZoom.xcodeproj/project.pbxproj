@@ -1,0 +1,332 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 46;
+	objects = {
+
+/* Begin PBXBuildFile section */
+		CE9205831702B1B8002AEA66 /* UIKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = CE9205821702B1B8002AEA66 /* UIKit.framework */; };
+		CE9205851702B1B8002AEA66 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = CE9205841702B1B8002AEA66 /* Foundation.framework */; };
+		CE9205871702B1B8002AEA66 /* CoreGraphics.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = CE9205861702B1B8002AEA66 /* CoreGraphics.framework */; };
+		CE92058D1702B1B8002AEA66 /* InfoPlist.strings in Resources */ = {isa = PBXBuildFile; fileRef = CE92058B1702B1B8002AEA66 /* InfoPlist.strings */; };
+		CE92058F1702B1B8002AEA66 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = CE92058E1702B1B8002AEA66 /* main.m */; };
+		CE9205931702B1B8002AEA66 /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = CE9205921702B1B8002AEA66 /* AppDelegate.m */; };
+		CE9205951702B1B8002AEA66 /* Default.png in Resources */ = {isa = PBXBuildFile; fileRef = CE9205941702B1B8002AEA66 /* Default.png */; };
+		CE9205971702B1B8002AEA66 /* Default@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = CE9205961702B1B8002AEA66 /* Default@2x.png */; };
+		CE9205991702B1B8002AEA66 /* Default-568h@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = CE9205981702B1B8002AEA66 /* Default-568h@2x.png */; };
+		CE92059C1702B1B8002AEA66 /* ViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = CE92059B1702B1B8002AEA66 /* ViewController.m */; };
+		CE9205A71702B1CE002AEA66 /* MRZoomScrollView.m in Sources */ = {isa = PBXBuildFile; fileRef = CE9205A51702B1CE002AEA66 /* MRZoomScrollView.m */; };
+		CE99EBDD1703E1D200592024 /* 1.png in Resources */ = {isa = PBXBuildFile; fileRef = CE99EBDC1703E1D200592024 /* 1.png */; };
+		CE99EBE01703E8AB00592024 /* 2.png in Resources */ = {isa = PBXBuildFile; fileRef = CE99EBDE1703E8AB00592024 /* 2.png */; };
+		CE99EBE11703E8AB00592024 /* 3.png in Resources */ = {isa = PBXBuildFile; fileRef = CE99EBDF1703E8AB00592024 /* 3.png */; };
+/* End PBXBuildFile section */
+
+/* Begin PBXFileReference section */
+		CE92057F1702B1B8002AEA66 /* ScrollViewWithZoom.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = ScrollViewWithZoom.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		CE9205821702B1B8002AEA66 /* UIKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = UIKit.framework; path = System/Library/Frameworks/UIKit.framework; sourceTree = SDKROOT; };
+		CE9205841702B1B8002AEA66 /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = System/Library/Frameworks/Foundation.framework; sourceTree = SDKROOT; };
+		CE9205861702B1B8002AEA66 /* CoreGraphics.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreGraphics.framework; path = System/Library/Frameworks/CoreGraphics.framework; sourceTree = SDKROOT; };
+		CE92058A1702B1B8002AEA66 /* ScrollViewWithZoom-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = "ScrollViewWithZoom-Info.plist"; sourceTree = "<group>"; };
+		CE92058C1702B1B8002AEA66 /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/InfoPlist.strings; sourceTree = "<group>"; };
+		CE92058E1702B1B8002AEA66 /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
+		CE9205901702B1B8002AEA66 /* ScrollViewWithZoom-Prefix.pch */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "ScrollViewWithZoom-Prefix.pch"; sourceTree = "<group>"; };
+		CE9205911702B1B8002AEA66 /* AppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = AppDelegate.h; sourceTree = "<group>"; };
+		CE9205921702B1B8002AEA66 /* AppDelegate.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = AppDelegate.m; sourceTree = "<group>"; };
+		CE9205941702B1B8002AEA66 /* Default.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Default.png; sourceTree = "<group>"; };
+		CE9205961702B1B8002AEA66 /* Default@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Default@2x.png"; sourceTree = "<group>"; };
+		CE9205981702B1B8002AEA66 /* Default-568h@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Default-568h@2x.png"; sourceTree = "<group>"; };
+		CE92059A1702B1B8002AEA66 /* ViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = ViewController.h; sourceTree = "<group>"; };
+		CE92059B1702B1B8002AEA66 /* ViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = ViewController.m; sourceTree = "<group>"; };
+		CE9205A51702B1CE002AEA66 /* MRZoomScrollView.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = MRZoomScrollView.m; sourceTree = "<group>"; };
+		CE9205A61702B1CE002AEA66 /* MRZoomScrollView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = MRZoomScrollView.h; sourceTree = "<group>"; };
+		CE99EBDC1703E1D200592024 /* 1.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = 1.png; sourceTree = "<group>"; };
+		CE99EBDE1703E8AB00592024 /* 2.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = 2.png; sourceTree = "<group>"; };
+		CE99EBDF1703E8AB00592024 /* 3.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = 3.png; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		CE92057C1702B1B8002AEA66 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				CE9205831702B1B8002AEA66 /* UIKit.framework in Frameworks */,
+				CE9205851702B1B8002AEA66 /* Foundation.framework in Frameworks */,
+				CE9205871702B1B8002AEA66 /* CoreGraphics.framework in Frameworks */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		CE9205761702B1B8002AEA66 = {
+			isa = PBXGroup;
+			children = (
+				CE9205881702B1B8002AEA66 /* ScrollViewWithZoom */,
+				CE9205811702B1B8002AEA66 /* Frameworks */,
+				CE9205801702B1B8002AEA66 /* Products */,
+			);
+			sourceTree = "<group>";
+		};
+		CE9205801702B1B8002AEA66 /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				CE92057F1702B1B8002AEA66 /* ScrollViewWithZoom.app */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+		CE9205811702B1B8002AEA66 /* Frameworks */ = {
+			isa = PBXGroup;
+			children = (
+				CE9205821702B1B8002AEA66 /* UIKit.framework */,
+				CE9205841702B1B8002AEA66 /* Foundation.framework */,
+				CE9205861702B1B8002AEA66 /* CoreGraphics.framework */,
+			);
+			name = Frameworks;
+			sourceTree = "<group>";
+		};
+		CE9205881702B1B8002AEA66 /* ScrollViewWithZoom */ = {
+			isa = PBXGroup;
+			children = (
+				CE9205911702B1B8002AEA66 /* AppDelegate.h */,
+				CE9205921702B1B8002AEA66 /* AppDelegate.m */,
+				CE92059A1702B1B8002AEA66 /* ViewController.h */,
+				CE92059B1702B1B8002AEA66 /* ViewController.m */,
+				CE9205A61702B1CE002AEA66 /* MRZoomScrollView.h */,
+				CE9205A51702B1CE002AEA66 /* MRZoomScrollView.m */,
+				CE9205891702B1B8002AEA66 /* Supporting Files */,
+			);
+			path = ScrollViewWithZoom;
+			sourceTree = "<group>";
+		};
+		CE9205891702B1B8002AEA66 /* Supporting Files */ = {
+			isa = PBXGroup;
+			children = (
+				CE99EBE21703E97800592024 /* images */,
+				CE92058A1702B1B8002AEA66 /* ScrollViewWithZoom-Info.plist */,
+				CE92058B1702B1B8002AEA66 /* InfoPlist.strings */,
+				CE92058E1702B1B8002AEA66 /* main.m */,
+				CE9205901702B1B8002AEA66 /* ScrollViewWithZoom-Prefix.pch */,
+				CE9205941702B1B8002AEA66 /* Default.png */,
+				CE9205961702B1B8002AEA66 /* Default@2x.png */,
+				CE9205981702B1B8002AEA66 /* Default-568h@2x.png */,
+			);
+			name = "Supporting Files";
+			sourceTree = "<group>";
+		};
+		CE99EBE21703E97800592024 /* images */ = {
+			isa = PBXGroup;
+			children = (
+				CE99EBDC1703E1D200592024 /* 1.png */,
+				CE99EBDE1703E8AB00592024 /* 2.png */,
+				CE99EBDF1703E8AB00592024 /* 3.png */,
+			);
+			name = images;
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXNativeTarget section */
+		CE92057E1702B1B8002AEA66 /* ScrollViewWithZoom */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = CE9205A21702B1B8002AEA66 /* Build configuration list for PBXNativeTarget "ScrollViewWithZoom" */;
+			buildPhases = (
+				CE92057B1702B1B8002AEA66 /* Sources */,
+				CE92057C1702B1B8002AEA66 /* Frameworks */,
+				CE92057D1702B1B8002AEA66 /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = ScrollViewWithZoom;
+			productName = ScrollViewWithZoom;
+			productReference = CE92057F1702B1B8002AEA66 /* ScrollViewWithZoom.app */;
+			productType = "com.apple.product-type.application";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		CE9205771702B1B8002AEA66 /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				LastUpgradeCheck = 0460;
+				ORGANIZATIONNAME = xuym;
+			};
+			buildConfigurationList = CE92057A1702B1B8002AEA66 /* Build configuration list for PBXProject "ScrollViewWithZoom" */;
+			compatibilityVersion = "Xcode 3.2";
+			developmentRegion = English;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+			);
+			mainGroup = CE9205761702B1B8002AEA66;
+			productRefGroup = CE9205801702B1B8002AEA66 /* Products */;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				CE92057E1702B1B8002AEA66 /* ScrollViewWithZoom */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXResourcesBuildPhase section */
+		CE92057D1702B1B8002AEA66 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				CE92058D1702B1B8002AEA66 /* InfoPlist.strings in Resources */,
+				CE9205951702B1B8002AEA66 /* Default.png in Resources */,
+				CE9205971702B1B8002AEA66 /* Default@2x.png in Resources */,
+				CE9205991702B1B8002AEA66 /* Default-568h@2x.png in Resources */,
+				CE99EBDD1703E1D200592024 /* 1.png in Resources */,
+				CE99EBE01703E8AB00592024 /* 2.png in Resources */,
+				CE99EBE11703E8AB00592024 /* 3.png in Resources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXResourcesBuildPhase section */
+
+/* Begin PBXSourcesBuildPhase section */
+		CE92057B1702B1B8002AEA66 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				CE92058F1702B1B8002AEA66 /* main.m in Sources */,
+				CE9205931702B1B8002AEA66 /* AppDelegate.m in Sources */,
+				CE92059C1702B1B8002AEA66 /* ViewController.m in Sources */,
+				CE9205A71702B1CE002AEA66 /* MRZoomScrollView.m in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin PBXVariantGroup section */
+		CE92058B1702B1B8002AEA66 /* InfoPlist.strings */ = {
+			isa = PBXVariantGroup;
+			children = (
+				CE92058C1702B1B8002AEA66 /* en */,
+			);
+			name = InfoPlist.strings;
+			sourceTree = "<group>";
+		};
+/* End PBXVariantGroup section */
+
+/* Begin XCBuildConfiguration section */
+		CE9205A01702B1B8002AEA66 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++0x";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				CODE_SIGN_IDENTITY = "iPhone Developer: Lam Jia Heng (Z292PP74XG)";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer: Lam Jia Heng (Z292PP74XG)";
+				COPY_PHASE_STRIP = NO;
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				GCC_SYMBOLS_PRIVATE_EXTERN = NO;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 6.1;
+				ONLY_ACTIVE_ARCH = YES;
+				PROVISIONING_PROFILE = "273B9ACD-5E45-4290-8D8A-5C5CAE49743B";
+				"PROVISIONING_PROFILE[sdk=iphoneos*]" = "273B9ACD-5E45-4290-8D8A-5C5CAE49743B";
+				SDKROOT = iphoneos;
+			};
+			name = Debug;
+		};
+		CE9205A11702B1B8002AEA66 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++0x";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				CODE_SIGN_IDENTITY = "iPhone Developer: Lam Jia Heng (Z292PP74XG)";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer: Lam Jia Heng (Z292PP74XG)";
+				COPY_PHASE_STRIP = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 6.1;
+				OTHER_CFLAGS = "-DNS_BLOCK_ASSERTIONS=1";
+				PROVISIONING_PROFILE = "273B9ACD-5E45-4290-8D8A-5C5CAE49743B";
+				"PROVISIONING_PROFILE[sdk=iphoneos*]" = "273B9ACD-5E45-4290-8D8A-5C5CAE49743B";
+				SDKROOT = iphoneos;
+				VALIDATE_PRODUCT = YES;
+			};
+			name = Release;
+		};
+		CE9205A31702B1B8002AEA66 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				CODE_SIGN_IDENTITY = "iPhone Developer: Lam Jia Heng (Z292PP74XG)";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer: Lam Jia Heng (Z292PP74XG)";
+				GCC_PRECOMPILE_PREFIX_HEADER = YES;
+				GCC_PREFIX_HEADER = "ScrollViewWithZoom/ScrollViewWithZoom-Prefix.pch";
+				INFOPLIST_FILE = "ScrollViewWithZoom/ScrollViewWithZoom-Info.plist";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				PROVISIONING_PROFILE = "273B9ACD-5E45-4290-8D8A-5C5CAE49743B";
+				"PROVISIONING_PROFILE[sdk=iphoneos*]" = "273B9ACD-5E45-4290-8D8A-5C5CAE49743B";
+				WRAPPER_EXTENSION = app;
+			};
+			name = Debug;
+		};
+		CE9205A41702B1B8002AEA66 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				CODE_SIGN_IDENTITY = "iPhone Developer: Lam Jia Heng (Z292PP74XG)";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer: Lam Jia Heng (Z292PP74XG)";
+				GCC_PRECOMPILE_PREFIX_HEADER = YES;
+				GCC_PREFIX_HEADER = "ScrollViewWithZoom/ScrollViewWithZoom-Prefix.pch";
+				INFOPLIST_FILE = "ScrollViewWithZoom/ScrollViewWithZoom-Info.plist";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				PROVISIONING_PROFILE = "273B9ACD-5E45-4290-8D8A-5C5CAE49743B";
+				"PROVISIONING_PROFILE[sdk=iphoneos*]" = "273B9ACD-5E45-4290-8D8A-5C5CAE49743B";
+				WRAPPER_EXTENSION = app;
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		CE92057A1702B1B8002AEA66 /* Build configuration list for PBXProject "ScrollViewWithZoom" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				CE9205A01702B1B8002AEA66 /* Debug */,
+				CE9205A11702B1B8002AEA66 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		CE9205A21702B1B8002AEA66 /* Build configuration list for PBXNativeTarget "ScrollViewWithZoom" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				CE9205A31702B1B8002AEA66 /* Debug */,
+				CE9205A41702B1B8002AEA66 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = CE9205771702B1B8002AEA66 /* Project object */;
+}

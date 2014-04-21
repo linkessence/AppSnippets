@@ -1,0 +1,494 @@
+TMaskTest
+v7
+r0
+t291225650.247058
+cCheck dependencies
+cProcessInfoPlistFile "/Users/cwood/Downloads/MaskTest 2/build/Debug-iphonesimulator/MaskTest.app/Info.plist" Info.plist
+cCompileXIB "/Users/cwood/Downloads/MaskTest 2/MainWindow.xib"
+cCpResource build/Debug-iphonesimulator/MaskTest.app/header.jpg Classes/header.jpg
+cCpResource build/Debug-iphonesimulator/MaskTest.app/ivy.jpg Classes/ivy.jpg
+cProcessPCH /var/folders/r0/r0rTzzsVHFeHB1wW0kj56k+++TM/-Caches-/com.apple.Xcode.502/SharedPrecompiledHeaders/MaskTest_Prefix-bcbfkroaycsfujfjgfvfuwtkrvvd/MaskTest_Prefix.pch.gch MaskTest_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/SimplerMaskTest.build/Debug-iphonesimulator/MaskTest.build/Objects-normal/i386/main.o "/Users/cwood/Downloads/MaskTest 2/main.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/SimplerMaskTest.build/Debug-iphonesimulator/MaskTest.build/Objects-normal/i386/SimplerMaskTestAppDelegate.o "/Users/cwood/Downloads/MaskTest 2/Classes/SimplerMaskTestAppDelegate.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/SimplerMaskTest.build/Debug-iphonesimulator/MaskTest.build/Objects-normal/i386/MagnifierView.o "/Users/cwood/Downloads/MaskTest 2/Classes/MagnifierView.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/SimplerMaskTest.build/Debug-iphonesimulator/MaskTest.build/Objects-normal/i386/TouchReader.o "/Users/cwood/Downloads/MaskTest 2/Classes/TouchReader.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cLd "/Users/cwood/Downloads/MaskTest 2/build/Debug-iphonesimulator/MaskTest.app/MaskTest" normal i386
+cGenerateDSYMFile "/Users/cwood/Downloads/MaskTest 2/build/Debug-iphonesimulator/MaskTest.app.dSYM" "/Users/cwood/Downloads/MaskTest 2/build/Debug-iphonesimulator/MaskTest.app/MaskTest"
+cTouch "/Users/cwood/Downloads/MaskTest 2/build/Debug-iphonesimulator/MaskTest.app"
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk
+c000000004B75F62C00000000000000EE
+t1266021932
+s238
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004A0BAA26000000000026DB00
+t1242278438
+s2546432
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004A0BAB370000000000260C20
+t1242278711
+s2493472
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004A0BAB250000000000001355
+t1242278693
+s4949
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk/System/Library/Frameworks/QuartzCore.framework/Headers/QuartzCore.h
+c000000004A0BADD7000000000000007D
+t1242279383
+s125
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004A0CBEBB000000000000075E
+t1242349243
+s1886
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004A0CBF5F0000000001432D80
+t1242349407
+s21179776
+
+N/Users/cwood/Downloads/MaskTest 2/Classes/DrawView.h
+c000000004BAB763600000000000000CE
+t1269528118
+s206
+i<UIKit/UIKit.h>
+
+N/Users/cwood/Downloads/MaskTest 2/Classes/DrawView.m
+c000000004BAB7636000000000000031D
+t1269528118
+s797
+i"DrawView.h"
+
+N/Users/cwood/Downloads/MaskTest 2/Classes/MagnifierView.h
+c000000004BAB7E3E00000000000000FE
+t1269530174
+s254
+i<UIKit/UIKit.h>
+
+N/Users/cwood/Downloads/MaskTest 2/Classes/MagnifierView.m
+c000000004BAB83D20000000000000529
+t1269531602
+s1321
+i"MagnifierView.h"
+i<QuartzCore/QuartzCore.h>
+
+N/Users/cwood/Downloads/MaskTest 2/Classes/MaskTestAppDelegate.h
+c00000000494F58DB00000000000001E3
+t1229936859
+s483
+i<UIKit/UIKit.h>
+
+N/Users/cwood/Downloads/MaskTest 2/Classes/MaskTestAppDelegate.m
+c00000000494F58DB000000000000026D
+t1229936859
+s621
+i"MaskTestAppDelegate.h"
+i"MaskTestViewController.h"
+
+N/Users/cwood/Downloads/MaskTest 2/Classes/MaskTestViewController.h
+c00000000494F58DB00000000000000EF
+t1229936859
+s239
+i<UIKit/UIKit.h>
+
+N/Users/cwood/Downloads/MaskTest 2/Classes/MaskTestViewController.m
+c000000004950A1D90000000000000546
+t1230021081
+s1350
+i"MaskTestViewController.h"
+i"CustomView.h"
+i"DrawView.h"
+
+N/Users/cwood/Downloads/MaskTest 2/Classes/SimplerMaskTestAppDelegate.h
+c000000004BAB870A00000000000000F7
+t1269532426
+s247
+i<UIKit/UIKit.h>
+
+N/Users/cwood/Downloads/MaskTest 2/Classes/SimplerMaskTestAppDelegate.m
+c000000004BAB87490000000000000188
+t1269532489
+s392
+i"SimplerMaskTestAppDelegate.h"
+
+N/Users/cwood/Downloads/MaskTest 2/Classes/SimplerMaskTestViewController.h
+c000000004BAB79DF00000000000000A0
+t1269529055
+s160
+i<UIKit/UIKit.h>
+
+N/Users/cwood/Downloads/MaskTest 2/Classes/SimplerMaskTestViewController.m
+c000000004BAB7A050000000000000171
+t1269529093
+s369
+i"SimplerMaskTestViewController.h"
+
+N/Users/cwood/Downloads/MaskTest 2/Classes/TouchReader.h
+c000000004BAB8427000000000000011F
+t1269531687
+s287
+i<UIKit/UIKit.h>
+i"MagnifierView.h"
+
+N/Users/cwood/Downloads/MaskTest 2/Classes/TouchReader.m
+c000000004BAB88780000000000000567
+t1269532792
+s1383
+i"TouchReader.h"
+i"MagnifierView.h"
+
+N/Users/cwood/Downloads/MaskTest 2/Classes/header.jpg
+c000000004BAB78EB00000000000028D4
+t1269528811
+s10452
+
+N/Users/cwood/Downloads/MaskTest 2/Classes/ivy.jpg
+c000000004BAB7BF1000000000000A1A0
+t1269529585
+s41376
+
+N/Users/cwood/Downloads/MaskTest 2/Classes/loop.png
+c000000004950B51B0000000000015F7D
+t1230026011
+s89981
+
+N/Users/cwood/Downloads/MaskTest 2/Classes/loopmask.png
+c00000000494F5914000000000001378A
+t1229936916
+s79754
+
+N/Users/cwood/Downloads/MaskTest 2/Classes/rust.jpg
+c00000000481674EE0000000000005923
+t1209431278
+s22819
+
+N/Users/cwood/Downloads/MaskTest 2/MainWindow.xib
+c000000004BAB87BC00000000000042E8
+t1269532604
+s17128
+
+N/Users/cwood/Downloads/MaskTest 2/MaskTestViewController.xib
+c0000000049509E6800000000000017EB
+t1230020200
+s6123
+
+N/Users/cwood/Downloads/MaskTest 2/MaskTest_Prefix.pch
+c000000004BAB763600000000000000C7
+t1269528118
+s199
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/Users/cwood/Downloads/MaskTest 2/SimplerMaskTestViewController.xib
+c000000004BAB7D29000000000000366A
+t1269529897
+s13930
+
+N/Users/cwood/Downloads/MaskTest 2/build/Debug-iphonesimulator/MaskTest.app
+t1269532850
+s272
+
+N/Users/cwood/Downloads/MaskTest 2/build/Debug-iphonesimulator/MaskTest.app.dSYM
+t1269532850
+s102
+
+N/Users/cwood/Downloads/MaskTest 2/build/Debug-iphonesimulator/MaskTest.app/Info.plist
+t1269532849
+s563
+
+N/Users/cwood/Downloads/MaskTest 2/build/Debug-iphonesimulator/MaskTest.app/MainWindow.nib
+t1269532849
+s3584
+
+N/Users/cwood/Downloads/MaskTest 2/build/Debug-iphonesimulator/MaskTest.app/MaskTest
+t1269532850
+s21284
+
+N/Users/cwood/Downloads/MaskTest 2/build/Debug-iphonesimulator/MaskTest.app/MaskTestViewController.nib
+t1230020712
+s1176
+
+N/Users/cwood/Downloads/MaskTest 2/build/Debug-iphonesimulator/MaskTest.app/PkgInfo
+t1269532849
+s8
+
+N/Users/cwood/Downloads/MaskTest 2/build/Debug-iphonesimulator/MaskTest.app/SimplerMaskTestViewController.nib
+t1269529917
+s3139
+
+N/Users/cwood/Downloads/MaskTest 2/build/Debug-iphonesimulator/MaskTest.app/header.jpg
+t1269532849
+s10452
+
+N/Users/cwood/Downloads/MaskTest 2/build/Debug-iphonesimulator/MaskTest.app/ivy.jpg
+t1269532849
+s41376
+
+N/Users/cwood/Downloads/MaskTest 2/build/Debug-iphonesimulator/MaskTest.app/loop.png
+t1230026031
+s89981
+
+N/Users/cwood/Downloads/MaskTest 2/build/Debug-iphonesimulator/MaskTest.app/loopmask.png
+t1229937431
+s79754
+
+N/Users/cwood/Downloads/MaskTest 2/build/Debug-iphonesimulator/MaskTest.app/rust.jpg
+t1229937431
+s22819
+
+N/Users/cwood/Downloads/MaskTest 2/build/SimplerMaskTest.build/Debug-iphonesimulator/MaskTest.build/Objects-normal/i386/DrawView.o
+t1269528240
+s11080
+
+N/Users/cwood/Downloads/MaskTest 2/build/SimplerMaskTest.build/Debug-iphonesimulator/MaskTest.build/Objects-normal/i386/MagnifierView.o
+t1269532850
+s15424
+
+N/Users/cwood/Downloads/MaskTest 2/build/SimplerMaskTest.build/Debug-iphonesimulator/MaskTest.build/Objects-normal/i386/MaskTest.LinkFileList
+c000000004BAB88B1000000000000021E
+t1269532849
+s542
+
+N/Users/cwood/Downloads/MaskTest 2/build/SimplerMaskTest.build/Debug-iphonesimulator/MaskTest.build/Objects-normal/i386/MaskTestAppDelegate.o
+t2
+s0
+
+N/Users/cwood/Downloads/MaskTest 2/build/SimplerMaskTest.build/Debug-iphonesimulator/MaskTest.build/Objects-normal/i386/MaskTestViewController.o
+t2
+s0
+
+N/Users/cwood/Downloads/MaskTest 2/build/SimplerMaskTest.build/Debug-iphonesimulator/MaskTest.build/Objects-normal/i386/SimplerMaskTestAppDelegate.o
+t1269532850
+s36036
+
+N/Users/cwood/Downloads/MaskTest 2/build/SimplerMaskTest.build/Debug-iphonesimulator/MaskTest.build/Objects-normal/i386/SimplerMaskTestViewController.o
+t1269529781
+s28232
+
+N/Users/cwood/Downloads/MaskTest 2/build/SimplerMaskTest.build/Debug-iphonesimulator/MaskTest.build/Objects-normal/i386/TouchReader.o
+t1269532850
+s16608
+
+N/Users/cwood/Downloads/MaskTest 2/build/SimplerMaskTest.build/Debug-iphonesimulator/MaskTest.build/Objects-normal/i386/main.o
+t1269532850
+s5940
+
+N/Users/cwood/Downloads/MaskTest 2/main.m
+c000000004BAB8404000000000000010B
+t1269531652
+s267
+i<UIKit/UIKit.h>
+
+N/var/folders/r0/r0rTzzsVHFeHB1wW0kj56k+++TM/-Caches-/com.apple.Xcode.502/SharedPrecompiledHeaders/MaskTest_Prefix-bcbfkroaycsfujfjgfvfuwtkrvvd/MaskTest_Prefix.pch.gch
+t1269528240
+s12957072
+
+N/var/folders/r0/r0rTzzsVHFeHB1wW0kj56k+++TM/-Caches-/com.apple.Xcode.502/SharedPrecompiledHeaders/MaskTest_Prefix-bfsalnvadpmnisblhzkyoosobcup/MaskTest_Prefix.pch.gch
+t1269528119
+s12957072
+
+NInfo.plist
+c000000004BAB841B0000000000000383
+t1269531675
+s899
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies291225649#291225649#0(0"0(0#1#0"4300885448#0"0#
+
+CCompileC build/SimplerMaskTest.build/Debug-iphonesimulator/MaskTest.build/Objects-normal/i386/DrawView.o "/Users/cwood/Downloads/MaskTest 2/Classes/DrawView.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s291221040.594189
+e291221040.664374
+r1
+xCompileC
+xbuild/SimplerMaskTest.build/Debug-iphonesimulator/MaskTest.build/Objects-normal/i386/DrawView.o
+x/Users/cwood/Downloads/MaskTest 2/Classes/DrawView.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@60"Compile /Users/cwood/Downloads/MaskTest 2/Classes/DrawView.m291221040#291221040#0(0"0(0#0#52"/Users/cwood/Downloads/MaskTest 2/Classes/DrawView.m4300885448#1909"    cd "/Users/cwood/Downloads/MaskTest 2"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote "/Users/cwood/Downloads/MaskTest 2/build/SimplerMaskTest.build/Debug-iphonesimulator/MaskTest.build/MaskTest-generated-files.hmap" "-I/Users/cwood/Downloads/MaskTest 2/build/SimplerMaskTest.build/Debug-iphonesimulator/MaskTest.build/MaskTest-own-target-headers.hmap" "-I/Users/cwood/Downloads/MaskTest 2/build/SimplerMaskTest.build/Debug-iphonesimulator/MaskTest.build/MaskTest-all-target-headers.hmap" -iquote "/Users/cwood/Downloads/MaskTest 2/build/SimplerMaskTest.build/Debug-iphonesimulator/MaskTest.build/MaskTest-project-headers.hmap" "-F/Users/cwood/Downloads/MaskTest 2/build/Debug-iphonesimulator" "-I/Users/cwood/Downloads/MaskTest 2/build/Debug-iphonesimulator/include" "-I/Users/cwood/Downloads/MaskTest 2/build/SimplerMaskTest.build/Debug-iphonesimulator/MaskTest.build/DerivedSources/i386" "-I/Users/cwood/Downloads/MaskTest 2/build/SimplerMaskTest.build/Debug-iphonesimulator/MaskTest.build/DerivedSources" -include /var/folders/r0/r0rTzzsVHFeHB1wW0kj56k+++TM/-Caches-/com.apple.Xcode.502/SharedPrecompiledHeaders/MaskTest_Prefix-bcbfkroaycsfujfjgfvfuwtkrvvd/MaskTest_Prefix.pch -c "/Users/cwood/Downloads/MaskTest 2/Classes/DrawView.m" -o "/Users/cwood/Downloads/MaskTest 2/build/SimplerMaskTest.build/Debug-iphonesimulator/MaskTest.build/Objects-normal/i386/DrawView.o"0#
+
+CCompileC build/SimplerMaskTest.build/Debug-iphonesimulator/MaskTest.build/Objects-normal/i386/MagnifierView.o "/Users/cwood/Downloads/MaskTest 2/Classes/MagnifierView.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s291225650.097855
+e291225650.193478
+r1
+xCompileC
+xbuild/SimplerMaskTest.build/Debug-iphonesimulator/MaskTest.build/Objects-normal/i386/MagnifierView.o
+x/Users/cwood/Downloads/MaskTest 2/Classes/MagnifierView.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@65"Compile /Users/cwood/Downloads/MaskTest 2/Classes/MagnifierView.m291225650#291225650#0(0"0(0#0#57"/Users/cwood/Downloads/MaskTest 2/Classes/MagnifierView.m4300885448#1919"    cd "/Users/cwood/Downloads/MaskTest 2"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote "/Users/cwood/Downloads/MaskTest 2/build/SimplerMaskTest.build/Debug-iphonesimulator/MaskTest.build/MaskTest-generated-files.hmap" "-I/Users/cwood/Downloads/MaskTest 2/build/SimplerMaskTest.build/Debug-iphonesimulator/MaskTest.build/MaskTest-own-target-headers.hmap" "-I/Users/cwood/Downloads/MaskTest 2/build/SimplerMaskTest.build/Debug-iphonesimulator/MaskTest.build/MaskTest-all-target-headers.hmap" -iquote "/Users/cwood/Downloads/MaskTest 2/build/SimplerMaskTest.build/Debug-iphonesimulator/MaskTest.build/MaskTest-project-headers.hmap" "-F/Users/cwood/Downloads/MaskTest 2/build/Debug-iphonesimulator" "-I/Users/cwood/Downloads/MaskTest 2/build/Debug-iphonesimulator/include" "-I/Users/cwood/Downloads/MaskTest 2/build/SimplerMaskTest.build/Debug-iphonesimulator/MaskTest.build/DerivedSources/i386" "-I/Users/cwood/Downloads/MaskTest 2/build/SimplerMaskTest.build/Debug-iphonesimulator/MaskTest.build/DerivedSources" -include /var/folders/r0/r0rTzzsVHFeHB1wW0kj56k+++TM/-Caches-/com.apple.Xcode.502/SharedPrecompiledHeaders/MaskTest_Prefix-bcbfkroaycsfujfjgfvfuwtkrvvd/MaskTest_Prefix.pch -c "/Users/cwood/Downloads/MaskTest 2/Classes/MagnifierView.m" -o "/Users/cwood/Downloads/MaskTest 2/build/SimplerMaskTest.build/Debug-iphonesimulator/MaskTest.build/Objects-normal/i386/MagnifierView.o"0#
+
+CCompileC build/SimplerMaskTest.build/Debug-iphonesimulator/MaskTest.build/Objects-normal/i386/MaskTestAppDelegate.o "/Users/cwood/Downloads/MaskTest 2/Classes/MaskTestAppDelegate.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/SimplerMaskTest.build/Debug-iphonesimulator/MaskTest.build/Objects-normal/i386/MaskTestViewController.o "/Users/cwood/Downloads/MaskTest 2/Classes/MaskTestViewController.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/SimplerMaskTest.build/Debug-iphonesimulator/MaskTest.build/Objects-normal/i386/SimplerMaskTestAppDelegate.o "/Users/cwood/Downloads/MaskTest 2/Classes/SimplerMaskTestAppDelegate.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s291225650.021974
+e291225650.126760
+r1
+xCompileC
+xbuild/SimplerMaskTest.build/Debug-iphonesimulator/MaskTest.build/Objects-normal/i386/SimplerMaskTestAppDelegate.o
+x/Users/cwood/Downloads/MaskTest 2/Classes/SimplerMaskTestAppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@78"Compile /Users/cwood/Downloads/MaskTest 2/Classes/SimplerMaskTestAppDelegate.m291225650#291225650#0(0"0(0#0#70"/Users/cwood/Downloads/MaskTest 2/Classes/SimplerMaskTestAppDelegate.m4300885448#1945"    cd "/Users/cwood/Downloads/MaskTest 2"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote "/Users/cwood/Downloads/MaskTest 2/build/SimplerMaskTest.build/Debug-iphonesimulator/MaskTest.build/MaskTest-generated-files.hmap" "-I/Users/cwood/Downloads/MaskTest 2/build/SimplerMaskTest.build/Debug-iphonesimulator/MaskTest.build/MaskTest-own-target-headers.hmap" "-I/Users/cwood/Downloads/MaskTest 2/build/SimplerMaskTest.build/Debug-iphonesimulator/MaskTest.build/MaskTest-all-target-headers.hmap" -iquote "/Users/cwood/Downloads/MaskTest 2/build/SimplerMaskTest.build/Debug-iphonesimulator/MaskTest.build/MaskTest-project-headers.hmap" "-F/Users/cwood/Downloads/MaskTest 2/build/Debug-iphonesimulator" "-I/Users/cwood/Downloads/MaskTest 2/build/Debug-iphonesimulator/include" "-I/Users/cwood/Downloads/MaskTest 2/build/SimplerMaskTest.build/Debug-iphonesimulator/MaskTest.build/DerivedSources/i386" "-I/Users/cwood/Downloads/MaskTest 2/build/SimplerMaskTest.build/Debug-iphonesimulator/MaskTest.build/DerivedSources" -include /var/folders/r0/r0rTzzsVHFeHB1wW0kj56k+++TM/-Caches-/com.apple.Xcode.502/SharedPrecompiledHeaders/MaskTest_Prefix-bcbfkroaycsfujfjgfvfuwtkrvvd/MaskTest_Prefix.pch -c "/Users/cwood/Downloads/MaskTest 2/Classes/SimplerMaskTestAppDelegate.m" -o "/Users/cwood/Downloads/MaskTest 2/build/SimplerMaskTest.build/Debug-iphonesimulator/MaskTest.build/Objects-normal/i386/SimplerMaskTestAppDelegate.o"0#
+
+CCompileC build/SimplerMaskTest.build/Debug-iphonesimulator/MaskTest.build/Objects-normal/i386/SimplerMaskTestViewController.o "/Users/cwood/Downloads/MaskTest 2/Classes/SimplerMaskTestViewController.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s291222580.969888
+e291222581.092587
+r1
+xCompileC
+xbuild/SimplerMaskTest.build/Debug-iphonesimulator/MaskTest.build/Objects-normal/i386/SimplerMaskTestViewController.o
+x/Users/cwood/Downloads/MaskTest 2/Classes/SimplerMaskTestViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@81"Compile /Users/cwood/Downloads/MaskTest 2/Classes/SimplerMaskTestViewController.m291222580#291222581#0(0"0(0#0#73"/Users/cwood/Downloads/MaskTest 2/Classes/SimplerMaskTestViewController.m4300885448#1951"    cd "/Users/cwood/Downloads/MaskTest 2"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote "/Users/cwood/Downloads/MaskTest 2/build/SimplerMaskTest.build/Debug-iphonesimulator/MaskTest.build/MaskTest-generated-files.hmap" "-I/Users/cwood/Downloads/MaskTest 2/build/SimplerMaskTest.build/Debug-iphonesimulator/MaskTest.build/MaskTest-own-target-headers.hmap" "-I/Users/cwood/Downloads/MaskTest 2/build/SimplerMaskTest.build/Debug-iphonesimulator/MaskTest.build/MaskTest-all-target-headers.hmap" -iquote "/Users/cwood/Downloads/MaskTest 2/build/SimplerMaskTest.build/Debug-iphonesimulator/MaskTest.build/MaskTest-project-headers.hmap" "-F/Users/cwood/Downloads/MaskTest 2/build/Debug-iphonesimulator" "-I/Users/cwood/Downloads/MaskTest 2/build/Debug-iphonesimulator/include" "-I/Users/cwood/Downloads/MaskTest 2/build/SimplerMaskTest.build/Debug-iphonesimulator/MaskTest.build/DerivedSources/i386" "-I/Users/cwood/Downloads/MaskTest 2/build/SimplerMaskTest.build/Debug-iphonesimulator/MaskTest.build/DerivedSources" -include /var/folders/r0/r0rTzzsVHFeHB1wW0kj56k+++TM/-Caches-/com.apple.Xcode.502/SharedPrecompiledHeaders/MaskTest_Prefix-bcbfkroaycsfujfjgfvfuwtkrvvd/MaskTest_Prefix.pch -c "/Users/cwood/Downloads/MaskTest 2/Classes/SimplerMaskTestViewController.m" -o "/Users/cwood/Downloads/MaskTest 2/build/SimplerMaskTest.build/Debug-iphonesimulator/MaskTest.build/Objects-normal/i386/SimplerMaskTestViewController.o"0#
+
+CCompileC build/SimplerMaskTest.build/Debug-iphonesimulator/MaskTest.build/Objects-normal/i386/TouchReader.o "/Users/cwood/Downloads/MaskTest 2/Classes/TouchReader.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s291225650.126866
+e291225650.213040
+r1
+xCompileC
+xbuild/SimplerMaskTest.build/Debug-iphonesimulator/MaskTest.build/Objects-normal/i386/TouchReader.o
+x/Users/cwood/Downloads/MaskTest 2/Classes/TouchReader.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@63"Compile /Users/cwood/Downloads/MaskTest 2/Classes/TouchReader.m291225650#291225650#0(0"0(0#0#55"/Users/cwood/Downloads/MaskTest 2/Classes/TouchReader.m4300885448#1915"    cd "/Users/cwood/Downloads/MaskTest 2"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote "/Users/cwood/Downloads/MaskTest 2/build/SimplerMaskTest.build/Debug-iphonesimulator/MaskTest.build/MaskTest-generated-files.hmap" "-I/Users/cwood/Downloads/MaskTest 2/build/SimplerMaskTest.build/Debug-iphonesimulator/MaskTest.build/MaskTest-own-target-headers.hmap" "-I/Users/cwood/Downloads/MaskTest 2/build/SimplerMaskTest.build/Debug-iphonesimulator/MaskTest.build/MaskTest-all-target-headers.hmap" -iquote "/Users/cwood/Downloads/MaskTest 2/build/SimplerMaskTest.build/Debug-iphonesimulator/MaskTest.build/MaskTest-project-headers.hmap" "-F/Users/cwood/Downloads/MaskTest 2/build/Debug-iphonesimulator" "-I/Users/cwood/Downloads/MaskTest 2/build/Debug-iphonesimulator/include" "-I/Users/cwood/Downloads/MaskTest 2/build/SimplerMaskTest.build/Debug-iphonesimulator/MaskTest.build/DerivedSources/i386" "-I/Users/cwood/Downloads/MaskTest 2/build/SimplerMaskTest.build/Debug-iphonesimulator/MaskTest.build/DerivedSources" -include /var/folders/r0/r0rTzzsVHFeHB1wW0kj56k+++TM/-Caches-/com.apple.Xcode.502/SharedPrecompiledHeaders/MaskTest_Prefix-bcbfkroaycsfujfjgfvfuwtkrvvd/MaskTest_Prefix.pch -c "/Users/cwood/Downloads/MaskTest 2/Classes/TouchReader.m" -o "/Users/cwood/Downloads/MaskTest 2/build/SimplerMaskTest.build/Debug-iphonesimulator/MaskTest.build/Objects-normal/i386/TouchReader.o"0#
+
+CCompileC build/SimplerMaskTest.build/Debug-iphonesimulator/MaskTest.build/Objects-normal/i386/main.o "/Users/cwood/Downloads/MaskTest 2/main.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s291225650.020869
+e291225650.097746
+r1
+xCompileC
+xbuild/SimplerMaskTest.build/Debug-iphonesimulator/MaskTest.build/Objects-normal/i386/main.o
+x/Users/cwood/Downloads/MaskTest 2/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@48"Compile /Users/cwood/Downloads/MaskTest 2/main.m291225650#291225650#0(0"0(0#0#40"/Users/cwood/Downloads/MaskTest 2/main.m4300885448#1893"    cd "/Users/cwood/Downloads/MaskTest 2"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote "/Users/cwood/Downloads/MaskTest 2/build/SimplerMaskTest.build/Debug-iphonesimulator/MaskTest.build/MaskTest-generated-files.hmap" "-I/Users/cwood/Downloads/MaskTest 2/build/SimplerMaskTest.build/Debug-iphonesimulator/MaskTest.build/MaskTest-own-target-headers.hmap" "-I/Users/cwood/Downloads/MaskTest 2/build/SimplerMaskTest.build/Debug-iphonesimulator/MaskTest.build/MaskTest-all-target-headers.hmap" -iquote "/Users/cwood/Downloads/MaskTest 2/build/SimplerMaskTest.build/Debug-iphonesimulator/MaskTest.build/MaskTest-project-headers.hmap" "-F/Users/cwood/Downloads/MaskTest 2/build/Debug-iphonesimulator" "-I/Users/cwood/Downloads/MaskTest 2/build/Debug-iphonesimulator/include" "-I/Users/cwood/Downloads/MaskTest 2/build/SimplerMaskTest.build/Debug-iphonesimulator/MaskTest.build/DerivedSources/i386" "-I/Users/cwood/Downloads/MaskTest 2/build/SimplerMaskTest.build/Debug-iphonesimulator/MaskTest.build/DerivedSources" -include /var/folders/r0/r0rTzzsVHFeHB1wW0kj56k+++TM/-Caches-/com.apple.Xcode.502/SharedPrecompiledHeaders/MaskTest_Prefix-bcbfkroaycsfujfjgfvfuwtkrvvd/MaskTest_Prefix.pch -c "/Users/cwood/Downloads/MaskTest 2/main.m" -o "/Users/cwood/Downloads/MaskTest 2/build/SimplerMaskTest.build/Debug-iphonesimulator/MaskTest.build/Objects-normal/i386/main.o"0#
+
+CCompileXIB "/Users/cwood/Downloads/MaskTest 2/MainWindow.xib"
+s291225649.681116
+e291225650.020570
+r1
+xCompileXIB
+x/Users/cwood/Downloads/MaskTest 2/MainWindow.xib
+lSLF07#2@25"CompileXIB MainWindow.xib291225649#291225650#0(0"0(0#0#48"/Users/cwood/Downloads/MaskTest 2/MainWindow.xib4300885448#472"    cd "/Users/cwood/Downloads/MaskTest 2"    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 3.0    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile "/Users/cwood/Downloads/MaskTest 2/build/Debug-iphonesimulator/MaskTest.app/MainWindow.nib" "/Users/cwood/Downloads/MaskTest 2/MainWindow.xib"0#
+
+CCompileXIB "/Users/cwood/Downloads/MaskTest 2/MaskTestViewController.xib"
+r0
+
+CCompileXIB "/Users/cwood/Downloads/MaskTest 2/SimplerMaskTestViewController.xib"
+s291222717.347505
+e291222717.694776
+r1
+xCompileXIB
+x/Users/cwood/Downloads/MaskTest 2/SimplerMaskTestViewController.xib
+lSLF07#2@44"CompileXIB SimplerMaskTestViewController.xib291222717#291222717#0(0"0(0#0#67"/Users/cwood/Downloads/MaskTest 2/SimplerMaskTestViewController.xib4300885448#510"    cd "/Users/cwood/Downloads/MaskTest 2"    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 3.0    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile "/Users/cwood/Downloads/MaskTest 2/build/Debug-iphonesimulator/MaskTest.app/SimplerMaskTestViewController.nib" "/Users/cwood/Downloads/MaskTest 2/SimplerMaskTestViewController.xib"0#
+
+CCpResource build/Debug-iphonesimulator/MaskTest.app/header.jpg Classes/header.jpg
+s291225649.681931
+e291225649.687576
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/MaskTest.app/header.jpg
+xClasses/header.jpg
+lSLF07#2@23"Copy Classes/header.jpg291225649#291225649#0(0"0(0#0#52"/Users/cwood/Downloads/MaskTest 2/Classes/header.jpg4300885448#454"    cd "/Users/cwood/Downloads/MaskTest 2"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks "/Users/cwood/Downloads/MaskTest 2/Classes/header.jpg" "/Users/cwood/Downloads/MaskTest 2/build/Debug-iphonesimulator/MaskTest.app"0#
+
+CCpResource build/Debug-iphonesimulator/MaskTest.app/ivy.jpg Classes/ivy.jpg
+s291225649.682568
+e291225649.691608
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/MaskTest.app/ivy.jpg
+xClasses/ivy.jpg
+lSLF07#2@20"Copy Classes/ivy.jpg291225649#291225649#0(0"0(0#0#49"/Users/cwood/Downloads/MaskTest 2/Classes/ivy.jpg4300885448#451"    cd "/Users/cwood/Downloads/MaskTest 2"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks "/Users/cwood/Downloads/MaskTest 2/Classes/ivy.jpg" "/Users/cwood/Downloads/MaskTest 2/build/Debug-iphonesimulator/MaskTest.app"0#
+
+CCpResource build/Debug-iphonesimulator/MaskTest.app/loop.png Classes/loop.png
+r0
+
+CCpResource build/Debug-iphonesimulator/MaskTest.app/loopmask.png Classes/loopmask.png
+r0
+
+CCpResource build/Debug-iphonesimulator/MaskTest.app/rust.jpg Classes/rust.jpg
+r0
+
+CGenerateDSYMFile "/Users/cwood/Downloads/MaskTest 2/build/Debug-iphonesimulator/MaskTest.app.dSYM" "/Users/cwood/Downloads/MaskTest 2/build/Debug-iphonesimulator/MaskTest.app/MaskTest"
+s291225650.231077
+e291225650.244185
+r1
+xGenerateDSYMFile
+x/Users/cwood/Downloads/MaskTest 2/build/Debug-iphonesimulator/MaskTest.app.dSYM
+x/Users/cwood/Downloads/MaskTest 2/build/Debug-iphonesimulator/MaskTest.app/MaskTest
+lSLF07#2@112"GenerateDSYMFile build/Debug-iphonesimulator/MaskTest.app.dSYM build/Debug-iphonesimulator/MaskTest.app/MaskTest291225650#291225650#0(0"0(0#0#83"/Users/cwood/Downloads/MaskTest 2/build/Debug-iphonesimulator/MaskTest.app/MaskTest4300885448#377"    cd "/Users/cwood/Downloads/MaskTest 2"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/dsymutil "/Users/cwood/Downloads/MaskTest 2/build/Debug-iphonesimulator/MaskTest.app/MaskTest" -o "/Users/cwood/Downloads/MaskTest 2/build/Debug-iphonesimulator/MaskTest.app.dSYM"0#
+
+CLd "/Users/cwood/Downloads/MaskTest 2/build/Debug-iphonesimulator/MaskTest.app/MaskTest" normal i386
+s291225650.213139
+e291225650.230969
+r1
+xLd
+x/Users/cwood/Downloads/MaskTest 2/build/Debug-iphonesimulator/MaskTest.app/MaskTest
+xnormal
+xi386
+lSLF07#2@88"Link /Users/cwood/Downloads/MaskTest 2/build/Debug-iphonesimulator/MaskTest.app/MaskTest291225650#291225650#0(0"0(0#0#0"4300885448#859"    cd "/Users/cwood/Downloads/MaskTest 2"    setenv MACOSX_DEPLOYMENT_TARGET 10.5    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -arch i386 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk "-L/Users/cwood/Downloads/MaskTest 2/build/Debug-iphonesimulator" "-F/Users/cwood/Downloads/MaskTest 2/build/Debug-iphonesimulator" -filelist "/Users/cwood/Downloads/MaskTest 2/build/SimplerMaskTest.build/Debug-iphonesimulator/MaskTest.build/Objects-normal/i386/MaskTest.LinkFileList" -mmacosx-version-min=10.5 -framework Foundation -framework UIKit -framework CoreGraphics -o "/Users/cwood/Downloads/MaskTest 2/build/Debug-iphonesimulator/MaskTest.app/MaskTest"0#
+
+CProcessInfoPlistFile "/Users/cwood/Downloads/MaskTest 2/build/Debug-iphonesimulator/MaskTest.app/Info.plist" Info.plist
+s291225649.665179
+e291225649.681013
+r1
+xProcessInfoPlistFile
+x/Users/cwood/Downloads/MaskTest 2/build/Debug-iphonesimulator/MaskTest.app/Info.plist
+xInfo.plist
+lSLF07#2@18"Process Info.plist291225649#291225649#0(0"0(0#0#44"/Users/cwood/Downloads/MaskTest 2/Info.plist4300885448#464"    cd "/Users/cwood/Downloads/MaskTest 2"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility Info.plist -genpkginfo "/Users/cwood/Downloads/MaskTest 2/build/Debug-iphonesimulator/MaskTest.app/PkgInfo" -expandbuildsettings -format binary -platform iphonesimulator -o "/Users/cwood/Downloads/MaskTest 2/build/Debug-iphonesimulator/MaskTest.app/Info.plist"0#
+
+CProcessPCH /var/folders/r0/r0rTzzsVHFeHB1wW0kj56k+++TM/-Caches-/com.apple.Xcode.502/SharedPrecompiledHeaders/MaskTest_Prefix-bcbfkroaycsfujfjgfvfuwtkrvvd/MaskTest_Prefix.pch.gch MaskTest_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+s291221039.208495
+e291221040.459079
+r1
+xProcessPCH
+x/var/folders/r0/r0rTzzsVHFeHB1wW0kj56k+++TM/-Caches-/com.apple.Xcode.502/SharedPrecompiledHeaders/MaskTest_Prefix-bcbfkroaycsfujfjgfvfuwtkrvvd/MaskTest_Prefix.pch.gch
+xMaskTest_Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@30"Precompile MaskTest_Prefix.pch291221039#291221040#0(0"0(0#0#53"/Users/cwood/Downloads/MaskTest 2/MaskTest_Prefix.pch4300885448#1780"    cd "/Users/cwood/Downloads/MaskTest 2"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote "/Users/cwood/Downloads/MaskTest 2/build/SimplerMaskTest.build/Debug-iphonesimulator/MaskTest.build/MaskTest-generated-files.hmap" "-I/Users/cwood/Downloads/MaskTest 2/build/SimplerMaskTest.build/Debug-iphonesimulator/MaskTest.build/MaskTest-own-target-headers.hmap" "-I/Users/cwood/Downloads/MaskTest 2/build/SimplerMaskTest.build/Debug-iphonesimulator/MaskTest.build/MaskTest-all-target-headers.hmap" -iquote "/Users/cwood/Downloads/MaskTest 2/build/SimplerMaskTest.build/Debug-iphonesimulator/MaskTest.build/MaskTest-project-headers.hmap" "-F/Users/cwood/Downloads/MaskTest 2/build/Debug-iphonesimulator" "-I/Users/cwood/Downloads/MaskTest 2/build/Debug-iphonesimulator/include" "-I/Users/cwood/Downloads/MaskTest 2/build/SimplerMaskTest.build/Debug-iphonesimulator/MaskTest.build/DerivedSources/i386" "-I/Users/cwood/Downloads/MaskTest 2/build/SimplerMaskTest.build/Debug-iphonesimulator/MaskTest.build/DerivedSources" -c "/Users/cwood/Downloads/MaskTest 2/MaskTest_Prefix.pch" -o /var/folders/r0/r0rTzzsVHFeHB1wW0kj56k+++TM/-Caches-/com.apple.Xcode.502/SharedPrecompiledHeaders/MaskTest_Prefix-bcbfkroaycsfujfjgfvfuwtkrvvd/MaskTest_Prefix.pch.gch0#
+
+CProcessPCH /var/folders/r0/r0rTzzsVHFeHB1wW0kj56k+++TM/-Caches-/com.apple.Xcode.502/SharedPrecompiledHeaders/MaskTest_Prefix-bfsalnvadpmnisblhzkyoosobcup/MaskTest_Prefix.pch.gch MaskTest_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+s291220918.621840
+e291220919.512663
+r1
+xProcessPCH
+x/var/folders/r0/r0rTzzsVHFeHB1wW0kj56k+++TM/-Caches-/com.apple.Xcode.502/SharedPrecompiledHeaders/MaskTest_Prefix-bfsalnvadpmnisblhzkyoosobcup/MaskTest_Prefix.pch.gch
+xMaskTest_Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@30"Precompile MaskTest_Prefix.pch291220918#291220919#0(0"0(0#0#53"/Users/cwood/Downloads/MaskTest 2/MaskTest_Prefix.pch7011312367772722176#1780"    cd "/Users/cwood/Downloads/MaskTest 2"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote "/Users/cwood/Downloads/MaskTest 2/build/SimplerMaskTest.build/Debug-iphonesimulator/MaskTest.build/MaskTest-generated-files.hmap" "-I/Users/cwood/Downloads/MaskTest 2/build/SimplerMaskTest.build/Debug-iphonesimulator/MaskTest.build/MaskTest-own-target-headers.hmap" "-I/Users/cwood/Downloads/MaskTest 2/build/SimplerMaskTest.build/Debug-iphonesimulator/MaskTest.build/MaskTest-all-target-headers.hmap" -iquote "/Users/cwood/Downloads/MaskTest 2/build/SimplerMaskTest.build/Debug-iphonesimulator/MaskTest.build/MaskTest-project-headers.hmap" "-F/Users/cwood/Downloads/MaskTest 2/build/Debug-iphonesimulator" "-I/Users/cwood/Downloads/MaskTest 2/build/Debug-iphonesimulator/include" "-I/Users/cwood/Downloads/MaskTest 2/build/SimplerMaskTest.build/Debug-iphonesimulator/MaskTest.build/DerivedSources/i386" "-I/Users/cwood/Downloads/MaskTest 2/build/SimplerMaskTest.build/Debug-iphonesimulator/MaskTest.build/DerivedSources" -c "/Users/cwood/Downloads/MaskTest 2/MaskTest_Prefix.pch" -o /var/folders/r0/r0rTzzsVHFeHB1wW0kj56k+++TM/-Caches-/com.apple.Xcode.502/SharedPrecompiledHeaders/MaskTest_Prefix-bfsalnvadpmnisblhzkyoosobcup/MaskTest_Prefix.pch.gch0#
+
+CTouch "/Users/cwood/Downloads/MaskTest 2/build/Debug-iphonesimulator/MaskTest.app"
+s291225650.244279
+e291225650.247022
+r1
+xTouch
+x/Users/cwood/Downloads/MaskTest 2/build/Debug-iphonesimulator/MaskTest.app
+lSLF07#2@80"Touch /Users/cwood/Downloads/MaskTest 2/build/Debug-iphonesimulator/MaskTest.app291225650#291225650#0(0"0(0#0#0"4300885448#273"    cd "/Users/cwood/Downloads/MaskTest 2"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c "/Users/cwood/Downloads/MaskTest 2/build/Debug-iphonesimulator/MaskTest.app"0#
+

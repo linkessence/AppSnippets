@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<document type="com.apple.InterfaceBuilder3.CocoaTouch.Storyboard.XIB" version="3.0" toolsVersion="4510" systemVersion="13A603" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES" initialViewController="vXZ-lx-hvc">
+    <dependencies>
+        <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="3742"/>
+    </dependencies>
+    <scenes>
+        <!--View Controller-->
+        <scene sceneID="ufC-wZ-h7g">
+            <objects>
+                <viewController id="vXZ-lx-hvc" customClass="ANViewController" sceneMemberID="viewController">
+                    <layoutGuides>
+                        <viewControllerLayoutGuide type="top" id="RJv-Yg-0cp"/>
+                        <viewControllerLayoutGuide type="bottom" id="mYJ-o7-DSl"/>
+                    </layoutGuides>
+                    <view key="view" contentMode="scaleToFill" id="kh9-bI-dsS">
+                        <rect key="frame" x="0.0" y="0.0" width="320" height="568"/>
+                        <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                        <subviews>
+                            <imageView userInteractionEnabled="NO" contentMode="scaleAspectFill" horizontalHuggingPriority="251" verticalHuggingPriority="251" image="nature.jpg" translatesAutoresizingMaskIntoConstraints="NO" id="GMC-bf-ljl" customClass="ANBlurredImageView">
+                                <rect key="frame" x="0.0" y="0.0" width="320" height="568"/>
+                                <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
+                            </imageView>
+                            <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="96G-TJ-CbM">
+                                <rect key="frame" x="145" y="518" width="30" height="30"/>
+                                <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                                <state key="normal" title="Blur">
+                                    <color key="titleShadowColor" white="0.5" alpha="1" colorSpace="calibratedWhite"/>
+                                </state>
+                                <connections>
+                                    <action selector="blur:" destination="vXZ-lx-hvc" eventType="touchUpInside" id="G8H-UZ-4j7"/>
+                                </connections>
+                            </button>
+                            <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="dUH-Uf-4C1">
+                                <rect key="frame" x="20" y="518" width="75" height="30"/>
+                                <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                                <state key="normal" title="Tinted Blur">
+                                    <color key="titleShadowColor" white="0.5" alpha="1" colorSpace="calibratedWhite"/>
+                                </state>
+                                <connections>
+                                    <action selector="blurWithTint:" destination="vXZ-lx-hvc" eventType="touchUpInside" id="05L-m3-hz8"/>
+                                </connections>
+                            </button>
+                            <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="zXb-pA-AKv">
+                                <rect key="frame" x="254" y="518" width="46" height="30"/>
+                                <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                                <state key="normal" title="Unblur">
+                                    <color key="titleShadowColor" white="0.5" alpha="1" colorSpace="calibratedWhite"/>
+                                </state>
+                                <connections>
+                                    <action selector="unBlur:" destination="vXZ-lx-hvc" eventType="touchUpInside" id="eJc-4X-7lJ"/>
+                                </connections>
+                            </button>
+                            <activityIndicatorView hidden="YES" opaque="NO" contentMode="scaleToFill" horizontalHuggingPriority="750" verticalHuggingPriority="750" hidesWhenStopped="YES" style="whiteLarge" translatesAutoresizingMaskIntoConstraints="NO" id="BFZ-p1-C3I">
+                                <rect key="frame" x="142" y="270" width="37" height="37"/>
+                                <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                            </activityIndicatorView>
+                        </subviews>
+                        <color key="backgroundColor" white="1" alpha="1" colorSpace="custom" customColorSpace="calibratedWhite"/>
+                        <constraints>
+                            <constraint firstItem="GMC-bf-ljl" firstAttribute="top" secondItem="kh9-bI-dsS" secondAttribute="top" id="241-FY-cvV"/>
+                            <constraint firstItem="96G-TJ-CbM" firstAttribute="centerX" secondItem="kh9-bI-dsS" secondAttribute="centerX" id="2TU-Fp-FNN"/>
+                            <constraint firstItem="mYJ-o7-DSl" firstAttribute="top" secondItem="96G-TJ-CbM" secondAttribute="bottom" constant="20" id="9NS-wA-1Ti"/>
+                            <constraint firstItem="96G-TJ-CbM" firstAttribute="centerX" secondItem="BFZ-p1-C3I" secondAttribute="centerX" id="E3R-uR-ttC"/>
+                            <constraint firstAttribute="bottom" secondItem="GMC-bf-ljl" secondAttribute="bottom" id="H9s-h0-A55"/>
+                            <constraint firstItem="zXb-pA-AKv" firstAttribute="leading" secondItem="96G-TJ-CbM" secondAttribute="trailing" constant="79" id="IbT-Uh-f8A"/>
+                            <constraint firstItem="GMC-bf-ljl" firstAttribute="leading" secondItem="kh9-bI-dsS" secondAttribute="leading" id="KRz-ZX-H4E"/>
+                            <constraint firstItem="96G-TJ-CbM" firstAttribute="leading" secondItem="dUH-Uf-4C1" secondAttribute="trailing" constant="50" id="LWd-lR-Rqe"/>
+                            <constraint firstItem="BFZ-p1-C3I" firstAttribute="top" secondItem="RJv-Yg-0cp" secondAttribute="bottom" constant="250" id="bTT-Pm-hcU"/>
+                            <constraint firstItem="mYJ-o7-DSl" firstAttribute="top" secondItem="zXb-pA-AKv" secondAttribute="bottom" constant="20" id="ggi-BW-eaR"/>
+                            <constraint firstItem="mYJ-o7-DSl" firstAttribute="top" secondItem="dUH-Uf-4C1" secondAttribute="bottom" constant="20" id="sK6-yU-qqD"/>
+                            <constraint firstItem="96G-TJ-CbM" firstAttribute="centerX" secondItem="GMC-bf-ljl" secondAttribute="centerX" id="wG8-uz-bpv"/>
+                        </constraints>
+                    </view>
+                    <connections>
+                        <outlet property="blurButton" destination="96G-TJ-CbM" id="5k6-k9-4gb"/>
+                        <outlet property="blurWithTintButton" destination="dUH-Uf-4C1" id="LZQ-Yd-Z7H"/>
+                        <outlet property="imageView" destination="GMC-bf-ljl" id="wHT-Q6-BFn"/>
+                        <outlet property="spinner" destination="BFZ-p1-C3I" id="THf-tY-wOl"/>
+                        <outlet property="unblurButton" destination="zXb-pA-AKv" id="eNh-IR-Zb0"/>
+                    </connections>
+                </viewController>
+                <placeholder placeholderIdentifier="IBFirstResponder" id="x5A-6p-PRh" sceneMemberID="firstResponder"/>
+            </objects>
+        </scene>
+    </scenes>
+    <resources>
+        <image name="nature.jpg" width="1024" height="683"/>
+    </resources>
+    <simulatedMetricsContainer key="defaultSimulatedMetrics">
+        <simulatedStatusBarMetrics key="statusBar"/>
+        <simulatedOrientationMetrics key="orientation"/>
+        <simulatedScreenMetrics key="destination" type="retina4"/>
+    </simulatedMetricsContainer>
+</document>

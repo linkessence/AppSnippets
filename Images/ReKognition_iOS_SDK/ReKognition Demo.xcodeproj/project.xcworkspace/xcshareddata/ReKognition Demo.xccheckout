@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>13C7F873-3B58-4553-997B-84B8FB641EA2</string>
+	<key>IDESourceControlProjectName</key>
+	<string>ReKognition Demo</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>4145AC9D-BDA8-43CD-A871-F60D8843AADA</key>
+		<string>https://github.com/orbeus/ReKognition_iOS_SDK.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>ReKognition Demo.xcodeproj/project.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>4145AC9D-BDA8-43CD-A871-F60D8843AADA</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/orbeus/ReKognition_iOS_SDK.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>110</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>4145AC9D-BDA8-43CD-A871-F60D8843AADA</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>4145AC9D-BDA8-43CD-A871-F60D8843AADA</string>
+			<key>IDESourceControlWCCName</key>
+			<string>ReKognition_iOS_SDK</string>
+		</dict>
+	</array>
+</dict>
+</plist>
