@@ -1,0 +1,284 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 46;
+	objects = {
+
+/* Begin PBXBuildFile section */
+		0F516B0D164368A300E20241 /* UIKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 0F516B0C164368A300E20241 /* UIKit.framework */; };
+		0F516B0F164368A300E20241 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 0F516B0E164368A300E20241 /* Foundation.framework */; };
+		0F516B11164368A300E20241 /* CoreGraphics.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 0F516B10164368A300E20241 /* CoreGraphics.framework */; };
+		0F516B17164368A300E20241 /* InfoPlist.strings in Resources */ = {isa = PBXBuildFile; fileRef = 0F516B15164368A300E20241 /* InfoPlist.strings */; };
+		0F516B19164368A300E20241 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 0F516B18164368A300E20241 /* main.m */; };
+		0F516B1D164368A300E20241 /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 0F516B1C164368A300E20241 /* AppDelegate.m */; };
+		0F516B1F164368A300E20241 /* Default.png in Resources */ = {isa = PBXBuildFile; fileRef = 0F516B1E164368A300E20241 /* Default.png */; };
+		0F516B21164368A300E20241 /* Default@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 0F516B20164368A300E20241 /* Default@2x.png */; };
+		0F516B23164368A300E20241 /* Default-568h@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 0F516B22164368A300E20241 /* Default-568h@2x.png */; };
+		0F516B2F164368D700E20241 /* ROllLabel.m in Sources */ = {isa = PBXBuildFile; fileRef = 0F516B2E164368D700E20241 /* ROllLabel.m */; };
+/* End PBXBuildFile section */
+
+/* Begin PBXFileReference section */
+		0F516B08164368A300E20241 /* RollLabel.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = RollLabel.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		0F516B0C164368A300E20241 /* UIKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = UIKit.framework; path = System/Library/Frameworks/UIKit.framework; sourceTree = SDKROOT; };
+		0F516B0E164368A300E20241 /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = System/Library/Frameworks/Foundation.framework; sourceTree = SDKROOT; };
+		0F516B10164368A300E20241 /* CoreGraphics.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreGraphics.framework; path = System/Library/Frameworks/CoreGraphics.framework; sourceTree = SDKROOT; };
+		0F516B14164368A300E20241 /* RollLabel-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = "RollLabel-Info.plist"; sourceTree = "<group>"; };
+		0F516B16164368A300E20241 /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/InfoPlist.strings; sourceTree = "<group>"; };
+		0F516B18164368A300E20241 /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
+		0F516B1A164368A300E20241 /* RollLabel-Prefix.pch */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "RollLabel-Prefix.pch"; sourceTree = "<group>"; };
+		0F516B1B164368A300E20241 /* AppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = AppDelegate.h; sourceTree = "<group>"; };
+		0F516B1C164368A300E20241 /* AppDelegate.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = AppDelegate.m; sourceTree = "<group>"; };
+		0F516B1E164368A300E20241 /* Default.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Default.png; sourceTree = "<group>"; };
+		0F516B20164368A300E20241 /* Default@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Default@2x.png"; sourceTree = "<group>"; };
+		0F516B22164368A300E20241 /* Default-568h@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Default-568h@2x.png"; sourceTree = "<group>"; };
+		0F516B2D164368D700E20241 /* ROllLabel.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ROllLabel.h; sourceTree = "<group>"; };
+		0F516B2E164368D700E20241 /* ROllLabel.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = ROllLabel.m; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		0F516B05164368A300E20241 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				0F516B0D164368A300E20241 /* UIKit.framework in Frameworks */,
+				0F516B0F164368A300E20241 /* Foundation.framework in Frameworks */,
+				0F516B11164368A300E20241 /* CoreGraphics.framework in Frameworks */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		0F516AFD164368A300E20241 = {
+			isa = PBXGroup;
+			children = (
+				0F516B12164368A300E20241 /* RollLabel */,
+				0F516B0B164368A300E20241 /* Frameworks */,
+				0F516B09164368A300E20241 /* Products */,
+			);
+			sourceTree = "<group>";
+		};
+		0F516B09164368A300E20241 /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				0F516B08164368A300E20241 /* RollLabel.app */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+		0F516B0B164368A300E20241 /* Frameworks */ = {
+			isa = PBXGroup;
+			children = (
+				0F516B0C164368A300E20241 /* UIKit.framework */,
+				0F516B0E164368A300E20241 /* Foundation.framework */,
+				0F516B10164368A300E20241 /* CoreGraphics.framework */,
+			);
+			name = Frameworks;
+			sourceTree = "<group>";
+		};
+		0F516B12164368A300E20241 /* RollLabel */ = {
+			isa = PBXGroup;
+			children = (
+				0F516B1B164368A300E20241 /* AppDelegate.h */,
+				0F516B1C164368A300E20241 /* AppDelegate.m */,
+				0F516B2D164368D700E20241 /* ROllLabel.h */,
+				0F516B2E164368D700E20241 /* ROllLabel.m */,
+				0F516B13164368A300E20241 /* Supporting Files */,
+			);
+			path = RollLabel;
+			sourceTree = "<group>";
+		};
+		0F516B13164368A300E20241 /* Supporting Files */ = {
+			isa = PBXGroup;
+			children = (
+				0F516B14164368A300E20241 /* RollLabel-Info.plist */,
+				0F516B15164368A300E20241 /* InfoPlist.strings */,
+				0F516B18164368A300E20241 /* main.m */,
+				0F516B1A164368A300E20241 /* RollLabel-Prefix.pch */,
+				0F516B1E164368A300E20241 /* Default.png */,
+				0F516B20164368A300E20241 /* Default@2x.png */,
+				0F516B22164368A300E20241 /* Default-568h@2x.png */,
+			);
+			name = "Supporting Files";
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXNativeTarget section */
+		0F516B07164368A300E20241 /* RollLabel */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 0F516B26164368A300E20241 /* Build configuration list for PBXNativeTarget "RollLabel" */;
+			buildPhases = (
+				0F516B04164368A300E20241 /* Sources */,
+				0F516B05164368A300E20241 /* Frameworks */,
+				0F516B06164368A300E20241 /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = RollLabel;
+			productName = RollLabel;
+			productReference = 0F516B08164368A300E20241 /* RollLabel.app */;
+			productType = "com.apple.product-type.application";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		0F516AFF164368A300E20241 /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				LastUpgradeCheck = 0450;
+				ORGANIZATIONNAME = "周兴龙";
+			};
+			buildConfigurationList = 0F516B02164368A300E20241 /* Build configuration list for PBXProject "RollLabel" */;
+			compatibilityVersion = "Xcode 3.2";
+			developmentRegion = English;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+			);
+			mainGroup = 0F516AFD164368A300E20241;
+			productRefGroup = 0F516B09164368A300E20241 /* Products */;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				0F516B07164368A300E20241 /* RollLabel */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXResourcesBuildPhase section */
+		0F516B06164368A300E20241 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				0F516B17164368A300E20241 /* InfoPlist.strings in Resources */,
+				0F516B1F164368A300E20241 /* Default.png in Resources */,
+				0F516B21164368A300E20241 /* Default@2x.png in Resources */,
+				0F516B23164368A300E20241 /* Default-568h@2x.png in Resources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXResourcesBuildPhase section */
+
+/* Begin PBXSourcesBuildPhase section */
+		0F516B04164368A300E20241 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				0F516B19164368A300E20241 /* main.m in Sources */,
+				0F516B1D164368A300E20241 /* AppDelegate.m in Sources */,
+				0F516B2F164368D700E20241 /* ROllLabel.m in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin PBXVariantGroup section */
+		0F516B15164368A300E20241 /* InfoPlist.strings */ = {
+			isa = PBXVariantGroup;
+			children = (
+				0F516B16164368A300E20241 /* en */,
+			);
+			name = InfoPlist.strings;
+			sourceTree = "<group>";
+		};
+/* End PBXVariantGroup section */
+
+/* Begin XCBuildConfiguration section */
+		0F516B24164368A300E20241 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++0x";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				COPY_PHASE_STRIP = NO;
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				GCC_SYMBOLS_PRIVATE_EXTERN = NO;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 6.0;
+				SDKROOT = iphoneos;
+			};
+			name = Debug;
+		};
+		0F516B25164368A300E20241 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++0x";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				COPY_PHASE_STRIP = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 6.0;
+				OTHER_CFLAGS = "-DNS_BLOCK_ASSERTIONS=1";
+				SDKROOT = iphoneos;
+				VALIDATE_PRODUCT = YES;
+			};
+			name = Release;
+		};
+		0F516B27164368A300E20241 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				GCC_PRECOMPILE_PREFIX_HEADER = YES;
+				GCC_PREFIX_HEADER = "RollLabel/RollLabel-Prefix.pch";
+				INFOPLIST_FILE = "RollLabel/RollLabel-Info.plist";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				WRAPPER_EXTENSION = app;
+			};
+			name = Debug;
+		};
+		0F516B28164368A300E20241 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				GCC_PRECOMPILE_PREFIX_HEADER = YES;
+				GCC_PREFIX_HEADER = "RollLabel/RollLabel-Prefix.pch";
+				INFOPLIST_FILE = "RollLabel/RollLabel-Info.plist";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				WRAPPER_EXTENSION = app;
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		0F516B02164368A300E20241 /* Build configuration list for PBXProject "RollLabel" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				0F516B24164368A300E20241 /* Debug */,
+				0F516B25164368A300E20241 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		0F516B26164368A300E20241 /* Build configuration list for PBXNativeTarget "RollLabel" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				0F516B27164368A300E20241 /* Debug */,
+				0F516B28164368A300E20241 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = 0F516AFF164368A300E20241 /* Project object */;
+}

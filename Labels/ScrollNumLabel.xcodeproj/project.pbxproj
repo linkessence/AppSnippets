@@ -1,0 +1,315 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 46;
+	objects = {
+
+/* Begin PBXBuildFile section */
+		229C8BB115FA144D001DB168 /* UIKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 229C8BB015FA144D001DB168 /* UIKit.framework */; };
+		229C8BB315FA144D001DB168 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 229C8BB215FA144D001DB168 /* Foundation.framework */; };
+		229C8BB515FA144D001DB168 /* CoreGraphics.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 229C8BB415FA144D001DB168 /* CoreGraphics.framework */; };
+		229C8BBB15FA144D001DB168 /* InfoPlist.strings in Resources */ = {isa = PBXBuildFile; fileRef = 229C8BB915FA144D001DB168 /* InfoPlist.strings */; };
+		229C8BBD15FA144D001DB168 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 229C8BBC15FA144D001DB168 /* main.m */; };
+		229C8BC115FA144D001DB168 /* ZCWAppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 229C8BC015FA144D001DB168 /* ZCWAppDelegate.m */; };
+		229C8BC415FA144D001DB168 /* ZCWViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 229C8BC315FA144D001DB168 /* ZCWViewController.m */; };
+		229C8BC715FA144D001DB168 /* ZCWViewController.xib in Resources */ = {isa = PBXBuildFile; fileRef = 229C8BC515FA144D001DB168 /* ZCWViewController.xib */; };
+		229C8BD515FA152B001DB168 /* ZCWScrollNumView.m in Sources */ = {isa = PBXBuildFile; fileRef = 229C8BCE15FA152B001DB168 /* ZCWScrollNumView.m */; };
+		229C8BD615FA152B001DB168 /* bj_numbg.png in Resources */ = {isa = PBXBuildFile; fileRef = 229C8BCF15FA152B001DB168 /* bj_numbg.png */; };
+		229C8BD715FA152B001DB168 /* bj_numbg@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 229C8BD015FA152B001DB168 /* bj_numbg@2x.png */; };
+		229C8BD815FA152B001DB168 /* money_bg_mask.png in Resources */ = {isa = PBXBuildFile; fileRef = 229C8BD115FA152B001DB168 /* money_bg_mask.png */; };
+		229C8BD915FA152B001DB168 /* money_bg_mask@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 229C8BD215FA152B001DB168 /* money_bg_mask@2x.png */; };
+		229C8BDA15FA152B001DB168 /* money_bg.png in Resources */ = {isa = PBXBuildFile; fileRef = 229C8BD315FA152B001DB168 /* money_bg.png */; };
+		229C8BDB15FA152B001DB168 /* money_bg@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 229C8BD415FA152B001DB168 /* money_bg@2x.png */; };
+/* End PBXBuildFile section */
+
+/* Begin PBXFileReference section */
+		229C8BAC15FA144D001DB168 /* ScrollNumLabel.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = ScrollNumLabel.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		229C8BB015FA144D001DB168 /* UIKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = UIKit.framework; path = System/Library/Frameworks/UIKit.framework; sourceTree = SDKROOT; };
+		229C8BB215FA144D001DB168 /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = System/Library/Frameworks/Foundation.framework; sourceTree = SDKROOT; };
+		229C8BB415FA144D001DB168 /* CoreGraphics.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreGraphics.framework; path = System/Library/Frameworks/CoreGraphics.framework; sourceTree = SDKROOT; };
+		229C8BB815FA144D001DB168 /* ScrollNumLabel-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = "ScrollNumLabel-Info.plist"; sourceTree = "<group>"; };
+		229C8BBA15FA144D001DB168 /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/InfoPlist.strings; sourceTree = "<group>"; };
+		229C8BBC15FA144D001DB168 /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
+		229C8BBE15FA144D001DB168 /* ScrollNumLabel-Prefix.pch */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "ScrollNumLabel-Prefix.pch"; sourceTree = "<group>"; };
+		229C8BBF15FA144D001DB168 /* ZCWAppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = ZCWAppDelegate.h; sourceTree = "<group>"; };
+		229C8BC015FA144D001DB168 /* ZCWAppDelegate.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = ZCWAppDelegate.m; sourceTree = "<group>"; };
+		229C8BC215FA144D001DB168 /* ZCWViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = ZCWViewController.h; sourceTree = "<group>"; };
+		229C8BC315FA144D001DB168 /* ZCWViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = ZCWViewController.m; sourceTree = "<group>"; };
+		229C8BC615FA144D001DB168 /* en */ = {isa = PBXFileReference; lastKnownFileType = file.xib; name = en; path = en.lproj/ZCWViewController.xib; sourceTree = "<group>"; };
+		229C8BCD15FA152B001DB168 /* ZCWScrollNumView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ZCWScrollNumView.h; sourceTree = "<group>"; };
+		229C8BCE15FA152B001DB168 /* ZCWScrollNumView.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; lineEnding = 0; path = ZCWScrollNumView.m; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.objc; };
+		229C8BCF15FA152B001DB168 /* bj_numbg.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = bj_numbg.png; sourceTree = "<group>"; };
+		229C8BD015FA152B001DB168 /* bj_numbg@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "bj_numbg@2x.png"; sourceTree = "<group>"; };
+		229C8BD115FA152B001DB168 /* money_bg_mask.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = money_bg_mask.png; sourceTree = "<group>"; };
+		229C8BD215FA152B001DB168 /* money_bg_mask@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "money_bg_mask@2x.png"; sourceTree = "<group>"; };
+		229C8BD315FA152B001DB168 /* money_bg.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = money_bg.png; sourceTree = "<group>"; };
+		229C8BD415FA152B001DB168 /* money_bg@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "money_bg@2x.png"; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		229C8BA915FA144D001DB168 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				229C8BB115FA144D001DB168 /* UIKit.framework in Frameworks */,
+				229C8BB315FA144D001DB168 /* Foundation.framework in Frameworks */,
+				229C8BB515FA144D001DB168 /* CoreGraphics.framework in Frameworks */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		229C8BA115FA144D001DB168 = {
+			isa = PBXGroup;
+			children = (
+				229C8BB615FA144D001DB168 /* ScrollNumLabel */,
+				229C8BAF15FA144D001DB168 /* Frameworks */,
+				229C8BAD15FA144D001DB168 /* Products */,
+			);
+			sourceTree = "<group>";
+		};
+		229C8BAD15FA144D001DB168 /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				229C8BAC15FA144D001DB168 /* ScrollNumLabel.app */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+		229C8BAF15FA144D001DB168 /* Frameworks */ = {
+			isa = PBXGroup;
+			children = (
+				229C8BB015FA144D001DB168 /* UIKit.framework */,
+				229C8BB215FA144D001DB168 /* Foundation.framework */,
+				229C8BB415FA144D001DB168 /* CoreGraphics.framework */,
+			);
+			name = Frameworks;
+			sourceTree = "<group>";
+		};
+		229C8BB615FA144D001DB168 /* ScrollNumLabel */ = {
+			isa = PBXGroup;
+			children = (
+				229C8BCD15FA152B001DB168 /* ZCWScrollNumView.h */,
+				229C8BCE15FA152B001DB168 /* ZCWScrollNumView.m */,
+				229C8BCF15FA152B001DB168 /* bj_numbg.png */,
+				229C8BD015FA152B001DB168 /* bj_numbg@2x.png */,
+				229C8BD115FA152B001DB168 /* money_bg_mask.png */,
+				229C8BD215FA152B001DB168 /* money_bg_mask@2x.png */,
+				229C8BD315FA152B001DB168 /* money_bg.png */,
+				229C8BD415FA152B001DB168 /* money_bg@2x.png */,
+				229C8BBF15FA144D001DB168 /* ZCWAppDelegate.h */,
+				229C8BC015FA144D001DB168 /* ZCWAppDelegate.m */,
+				229C8BC215FA144D001DB168 /* ZCWViewController.h */,
+				229C8BC315FA144D001DB168 /* ZCWViewController.m */,
+				229C8BC515FA144D001DB168 /* ZCWViewController.xib */,
+				229C8BB715FA144D001DB168 /* Supporting Files */,
+			);
+			path = ScrollNumLabel;
+			sourceTree = "<group>";
+		};
+		229C8BB715FA144D001DB168 /* Supporting Files */ = {
+			isa = PBXGroup;
+			children = (
+				229C8BB815FA144D001DB168 /* ScrollNumLabel-Info.plist */,
+				229C8BB915FA144D001DB168 /* InfoPlist.strings */,
+				229C8BBC15FA144D001DB168 /* main.m */,
+				229C8BBE15FA144D001DB168 /* ScrollNumLabel-Prefix.pch */,
+			);
+			name = "Supporting Files";
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXNativeTarget section */
+		229C8BAB15FA144D001DB168 /* ScrollNumLabel */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 229C8BCA15FA144D001DB168 /* Build configuration list for PBXNativeTarget "ScrollNumLabel" */;
+			buildPhases = (
+				229C8BA815FA144D001DB168 /* Sources */,
+				229C8BA915FA144D001DB168 /* Frameworks */,
+				229C8BAA15FA144D001DB168 /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = ScrollNumLabel;
+			productName = ScrollNumLabel;
+			productReference = 229C8BAC15FA144D001DB168 /* ScrollNumLabel.app */;
+			productType = "com.apple.product-type.application";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		229C8BA315FA144D001DB168 /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				CLASSPREFIX = ZCW;
+				LastUpgradeCheck = 0440;
+				ORGANIZATIONNAME = zangcw;
+			};
+			buildConfigurationList = 229C8BA615FA144D001DB168 /* Build configuration list for PBXProject "ScrollNumLabel" */;
+			compatibilityVersion = "Xcode 3.2";
+			developmentRegion = English;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+			);
+			mainGroup = 229C8BA115FA144D001DB168;
+			productRefGroup = 229C8BAD15FA144D001DB168 /* Products */;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				229C8BAB15FA144D001DB168 /* ScrollNumLabel */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXResourcesBuildPhase section */
+		229C8BAA15FA144D001DB168 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				229C8BBB15FA144D001DB168 /* InfoPlist.strings in Resources */,
+				229C8BC715FA144D001DB168 /* ZCWViewController.xib in Resources */,
+				229C8BD615FA152B001DB168 /* bj_numbg.png in Resources */,
+				229C8BD715FA152B001DB168 /* bj_numbg@2x.png in Resources */,
+				229C8BD815FA152B001DB168 /* money_bg_mask.png in Resources */,
+				229C8BD915FA152B001DB168 /* money_bg_mask@2x.png in Resources */,
+				229C8BDA15FA152B001DB168 /* money_bg.png in Resources */,
+				229C8BDB15FA152B001DB168 /* money_bg@2x.png in Resources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXResourcesBuildPhase section */
+
+/* Begin PBXSourcesBuildPhase section */
+		229C8BA815FA144D001DB168 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				229C8BBD15FA144D001DB168 /* main.m in Sources */,
+				229C8BC115FA144D001DB168 /* ZCWAppDelegate.m in Sources */,
+				229C8BC415FA144D001DB168 /* ZCWViewController.m in Sources */,
+				229C8BD515FA152B001DB168 /* ZCWScrollNumView.m in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin PBXVariantGroup section */
+		229C8BB915FA144D001DB168 /* InfoPlist.strings */ = {
+			isa = PBXVariantGroup;
+			children = (
+				229C8BBA15FA144D001DB168 /* en */,
+			);
+			name = InfoPlist.strings;
+			sourceTree = "<group>";
+		};
+		229C8BC515FA144D001DB168 /* ZCWViewController.xib */ = {
+			isa = PBXVariantGroup;
+			children = (
+				229C8BC615FA144D001DB168 /* en */,
+			);
+			name = ZCWViewController.xib;
+			sourceTree = "<group>";
+		};
+/* End PBXVariantGroup section */
+
+/* Begin XCBuildConfiguration section */
+		229C8BC815FA144D001DB168 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				ARCHS = "$(ARCHS_STANDARD_32_BIT)";
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++0x";
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				COPY_PHASE_STRIP = NO;
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				GCC_SYMBOLS_PRIVATE_EXTERN = NO;
+				GCC_VERSION = com.apple.compilers.llvm.clang.1_0;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 5.1;
+				SDKROOT = iphoneos;
+			};
+			name = Debug;
+		};
+		229C8BC915FA144D001DB168 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				ARCHS = "$(ARCHS_STANDARD_32_BIT)";
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++0x";
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				COPY_PHASE_STRIP = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_VERSION = com.apple.compilers.llvm.clang.1_0;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 5.1;
+				OTHER_CFLAGS = "-DNS_BLOCK_ASSERTIONS=1";
+				SDKROOT = iphoneos;
+				VALIDATE_PRODUCT = YES;
+			};
+			name = Release;
+		};
+		229C8BCB15FA144D001DB168 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				GCC_PRECOMPILE_PREFIX_HEADER = YES;
+				GCC_PREFIX_HEADER = "ScrollNumLabel/ScrollNumLabel-Prefix.pch";
+				INFOPLIST_FILE = "ScrollNumLabel/ScrollNumLabel-Info.plist";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				WRAPPER_EXTENSION = app;
+			};
+			name = Debug;
+		};
+		229C8BCC15FA144D001DB168 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				GCC_PRECOMPILE_PREFIX_HEADER = YES;
+				GCC_PREFIX_HEADER = "ScrollNumLabel/ScrollNumLabel-Prefix.pch";
+				INFOPLIST_FILE = "ScrollNumLabel/ScrollNumLabel-Info.plist";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				WRAPPER_EXTENSION = app;
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		229C8BA615FA144D001DB168 /* Build configuration list for PBXProject "ScrollNumLabel" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				229C8BC815FA144D001DB168 /* Debug */,
+				229C8BC915FA144D001DB168 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		229C8BCA15FA144D001DB168 /* Build configuration list for PBXNativeTarget "ScrollNumLabel" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				229C8BCB15FA144D001DB168 /* Debug */,
+				229C8BCC15FA144D001DB168 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = 229C8BA315FA144D001DB168 /* Project object */;
+}

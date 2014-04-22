@@ -1,0 +1,709 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 46;
+	objects = {
+
+/* Begin PBXBuildFile section */
+		F31D3E3917FAC0EC00979522 /* EGOCache.m in Sources */ = {isa = PBXBuildFile; fileRef = F31D3E3017FAC0EC00979522 /* EGOCache.m */; settings = {COMPILER_FLAGS = "-fno-objc-arc"; }; };
+		F31D3E3A17FAC0EC00979522 /* EGOImageLoadConnection.m in Sources */ = {isa = PBXBuildFile; fileRef = F31D3E3317FAC0EC00979522 /* EGOImageLoadConnection.m */; settings = {COMPILER_FLAGS = "-fno-objc-arc"; }; };
+		F31D3E3B17FAC0EC00979522 /* EGOImageLoader.m in Sources */ = {isa = PBXBuildFile; fileRef = F31D3E3517FAC0EC00979522 /* EGOImageLoader.m */; settings = {COMPILER_FLAGS = "-fno-objc-arc"; }; };
+		F31D3E3C17FAC0EC00979522 /* EGOImageView.m in Sources */ = {isa = PBXBuildFile; fileRef = F31D3E3817FAC0EC00979522 /* EGOImageView.m */; settings = {COMPILER_FLAGS = "-fno-objc-arc"; }; };
+		F3C37803180438040050A32C /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = F3C69A3017F1A78400222259 /* Foundation.framework */; };
+		F3C37824180438380050A32C /* AOTag.m in Sources */ = {isa = PBXBuildFile; fileRef = F3C69A6017F1A82800222259 /* AOTag.m */; };
+		F3C37825180438380050A32C /* EGOCache.m in Sources */ = {isa = PBXBuildFile; fileRef = F31D3E3017FAC0EC00979522 /* EGOCache.m */; settings = {COMPILER_FLAGS = "-fno-objc-arc"; }; };
+		F3C37826180438380050A32C /* EGOImageLoadConnection.m in Sources */ = {isa = PBXBuildFile; fileRef = F31D3E3317FAC0EC00979522 /* EGOImageLoadConnection.m */; settings = {COMPILER_FLAGS = "-fno-objc-arc"; }; };
+		F3C37827180438380050A32C /* EGOImageLoader.m in Sources */ = {isa = PBXBuildFile; fileRef = F31D3E3517FAC0EC00979522 /* EGOImageLoader.m */; settings = {COMPILER_FLAGS = "-fno-objc-arc"; }; };
+		F3C37828180438380050A32C /* EGOImageView.m in Sources */ = {isa = PBXBuildFile; fileRef = F31D3E3817FAC0EC00979522 /* EGOImageView.m */; settings = {COMPILER_FLAGS = "-fno-objc-arc"; }; };
+		F3C37829180438510050A32C /* AOTag.h in CopyFiles */ = {isa = PBXBuildFile; fileRef = F3C69A5F17F1A82800222259 /* AOTag.h */; };
+		F3C3782B18043B140050A32C /* README.md in Resources */ = {isa = PBXBuildFile; fileRef = F3C3782A18043B140050A32C /* README.md */; };
+		F3C69A3117F1A78400222259 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = F3C69A3017F1A78400222259 /* Foundation.framework */; };
+		F3C69A3317F1A78400222259 /* CoreGraphics.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = F3C69A3217F1A78400222259 /* CoreGraphics.framework */; };
+		F3C69A3517F1A78400222259 /* UIKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = F3C69A3417F1A78400222259 /* UIKit.framework */; };
+		F3C69A3B17F1A78500222259 /* InfoPlist.strings in Resources */ = {isa = PBXBuildFile; fileRef = F3C69A3917F1A78500222259 /* InfoPlist.strings */; };
+		F3C69A3D17F1A78500222259 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = F3C69A3C17F1A78500222259 /* main.m */; };
+		F3C69A4117F1A78500222259 /* AOAppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = F3C69A4017F1A78500222259 /* AOAppDelegate.m */; };
+		F3C69A4317F1A78500222259 /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = F3C69A4217F1A78500222259 /* Images.xcassets */; };
+		F3C69A4A17F1A78500222259 /* XCTest.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = F3C69A4917F1A78500222259 /* XCTest.framework */; };
+		F3C69A4B17F1A78500222259 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = F3C69A3017F1A78400222259 /* Foundation.framework */; };
+		F3C69A4C17F1A78500222259 /* UIKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = F3C69A3417F1A78400222259 /* UIKit.framework */; };
+		F3C69A5417F1A78500222259 /* InfoPlist.strings in Resources */ = {isa = PBXBuildFile; fileRef = F3C69A5217F1A78500222259 /* InfoPlist.strings */; };
+		F3C69A5617F1A78500222259 /* AOTagDemoTests.m in Sources */ = {isa = PBXBuildFile; fileRef = F3C69A5517F1A78500222259 /* AOTagDemoTests.m */; };
+		F3C69A6117F1A82800222259 /* AOTag.m in Sources */ = {isa = PBXBuildFile; fileRef = F3C69A6017F1A82800222259 /* AOTag.m */; };
+		F3C69A6617F1ADE900222259 /* AOViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = F3C69A6417F1ADE900222259 /* AOViewController.m */; };
+		F3C69A6717F1ADE900222259 /* AOViewController.xib in Resources */ = {isa = PBXBuildFile; fileRef = F3C69A6517F1ADE900222259 /* AOViewController.xib */; };
+		F3C69A8C17F1BA0900222259 /* arya.jpg in Resources */ = {isa = PBXBuildFile; fileRef = F3C69A7C17F1BA0900222259 /* arya.jpg */; };
+		F3C69A8D17F1BA0900222259 /* arya@2x.jpg in Resources */ = {isa = PBXBuildFile; fileRef = F3C69A7D17F1BA0900222259 /* arya@2x.jpg */; };
+		F3C69A8E17F1BA0900222259 /* catherine.jpg in Resources */ = {isa = PBXBuildFile; fileRef = F3C69A7E17F1BA0900222259 /* catherine.jpg */; };
+		F3C69A8F17F1BA0900222259 /* catherine@2x.jpg in Resources */ = {isa = PBXBuildFile; fileRef = F3C69A7F17F1BA0900222259 /* catherine@2x.jpg */; };
+		F3C69A9017F1BA0900222259 /* cersei.jpg in Resources */ = {isa = PBXBuildFile; fileRef = F3C69A8017F1BA0900222259 /* cersei.jpg */; };
+		F3C69A9117F1BA0900222259 /* cersei@2x.jpg in Resources */ = {isa = PBXBuildFile; fileRef = F3C69A8117F1BA0900222259 /* cersei@2x.jpg */; };
+		F3C69A9217F1BA0900222259 /* jaime.jpg in Resources */ = {isa = PBXBuildFile; fileRef = F3C69A8217F1BA0900222259 /* jaime.jpg */; };
+		F3C69A9317F1BA0900222259 /* jaime@2x.jpg in Resources */ = {isa = PBXBuildFile; fileRef = F3C69A8317F1BA0900222259 /* jaime@2x.jpg */; };
+		F3C69A9417F1BA0900222259 /* john.jpg in Resources */ = {isa = PBXBuildFile; fileRef = F3C69A8417F1BA0900222259 /* john.jpg */; };
+		F3C69A9517F1BA0900222259 /* john@2x.jpg in Resources */ = {isa = PBXBuildFile; fileRef = F3C69A8517F1BA0900222259 /* john@2x.jpg */; };
+		F3C69A9617F1BA0900222259 /* robert.jpg in Resources */ = {isa = PBXBuildFile; fileRef = F3C69A8617F1BA0900222259 /* robert.jpg */; };
+		F3C69A9717F1BA0900222259 /* robert@2x.jpg in Resources */ = {isa = PBXBuildFile; fileRef = F3C69A8717F1BA0900222259 /* robert@2x.jpg */; };
+		F3C69A9817F1BA0900222259 /* sansa.jpg in Resources */ = {isa = PBXBuildFile; fileRef = F3C69A8817F1BA0900222259 /* sansa.jpg */; };
+		F3C69A9917F1BA0900222259 /* sansa@2x.jpg in Resources */ = {isa = PBXBuildFile; fileRef = F3C69A8917F1BA0900222259 /* sansa@2x.jpg */; };
+		F3C69A9A17F1BA0900222259 /* tyrion.jpg in Resources */ = {isa = PBXBuildFile; fileRef = F3C69A8A17F1BA0900222259 /* tyrion.jpg */; };
+		F3C69A9B17F1BA0900222259 /* tyrion@2x.jpg in Resources */ = {isa = PBXBuildFile; fileRef = F3C69A8B17F1BA0900222259 /* tyrion@2x.jpg */; };
+/* End PBXBuildFile section */
+
+/* Begin PBXContainerItemProxy section */
+		F3C69A4D17F1A78500222259 /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = F3C69A2517F1A78400222259 /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = F3C69A2C17F1A78400222259;
+			remoteInfo = AOTagDemo;
+		};
+/* End PBXContainerItemProxy section */
+
+/* Begin PBXCopyFilesBuildPhase section */
+		F3C37800180438040050A32C /* CopyFiles */ = {
+			isa = PBXCopyFilesBuildPhase;
+			buildActionMask = 2147483647;
+			dstPath = "include/$(PRODUCT_NAME)";
+			dstSubfolderSpec = 16;
+			files = (
+				F3C37829180438510050A32C /* AOTag.h in CopyFiles */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXCopyFilesBuildPhase section */
+
+/* Begin PBXFileReference section */
+		F31D3E2F17FAC0EC00979522 /* EGOCache.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = EGOCache.h; sourceTree = "<group>"; };
+		F31D3E3017FAC0EC00979522 /* EGOCache.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = EGOCache.m; sourceTree = "<group>"; };
+		F31D3E3217FAC0EC00979522 /* EGOImageLoadConnection.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = EGOImageLoadConnection.h; sourceTree = "<group>"; };
+		F31D3E3317FAC0EC00979522 /* EGOImageLoadConnection.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = EGOImageLoadConnection.m; sourceTree = "<group>"; };
+		F31D3E3417FAC0EC00979522 /* EGOImageLoader.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = EGOImageLoader.h; sourceTree = "<group>"; };
+		F31D3E3517FAC0EC00979522 /* EGOImageLoader.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = EGOImageLoader.m; sourceTree = "<group>"; };
+		F31D3E3717FAC0EC00979522 /* EGOImageView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = EGOImageView.h; sourceTree = "<group>"; };
+		F31D3E3817FAC0EC00979522 /* EGOImageView.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = EGOImageView.m; sourceTree = "<group>"; };
+		F3C37802180438040050A32C /* libAOTag.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; path = libAOTag.a; sourceTree = BUILT_PRODUCTS_DIR; };
+		F3C3782A18043B140050A32C /* README.md */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; name = README.md; path = ../README.md; sourceTree = "<group>"; };
+		F3C69A2D17F1A78400222259 /* AOTagDemo.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = AOTagDemo.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		F3C69A3017F1A78400222259 /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = System/Library/Frameworks/Foundation.framework; sourceTree = SDKROOT; };
+		F3C69A3217F1A78400222259 /* CoreGraphics.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreGraphics.framework; path = System/Library/Frameworks/CoreGraphics.framework; sourceTree = SDKROOT; };
+		F3C69A3417F1A78400222259 /* UIKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = UIKit.framework; path = System/Library/Frameworks/UIKit.framework; sourceTree = SDKROOT; };
+		F3C69A3817F1A78500222259 /* AOTagDemo-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = "AOTagDemo-Info.plist"; sourceTree = "<group>"; };
+		F3C69A3A17F1A78500222259 /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/InfoPlist.strings; sourceTree = "<group>"; };
+		F3C69A3C17F1A78500222259 /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
+		F3C69A3E17F1A78500222259 /* AOTagDemo-Prefix.pch */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "AOTagDemo-Prefix.pch"; sourceTree = "<group>"; };
+		F3C69A3F17F1A78500222259 /* AOAppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = AOAppDelegate.h; sourceTree = "<group>"; };
+		F3C69A4017F1A78500222259 /* AOAppDelegate.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = AOAppDelegate.m; sourceTree = "<group>"; };
+		F3C69A4217F1A78500222259 /* Images.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Images.xcassets; sourceTree = "<group>"; };
+		F3C69A4817F1A78500222259 /* AOTagDemoTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = AOTagDemoTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
+		F3C69A4917F1A78500222259 /* XCTest.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = XCTest.framework; path = Library/Frameworks/XCTest.framework; sourceTree = DEVELOPER_DIR; };
+		F3C69A5117F1A78500222259 /* AOTagDemoTests-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = "AOTagDemoTests-Info.plist"; sourceTree = "<group>"; };
+		F3C69A5317F1A78500222259 /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/InfoPlist.strings; sourceTree = "<group>"; };
+		F3C69A5517F1A78500222259 /* AOTagDemoTests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = AOTagDemoTests.m; sourceTree = "<group>"; };
+		F3C69A5F17F1A82800222259 /* AOTag.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = AOTag.h; path = src/AOTag.h; sourceTree = "<group>"; };
+		F3C69A6017F1A82800222259 /* AOTag.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = AOTag.m; path = src/AOTag.m; sourceTree = "<group>"; };
+		F3C69A6317F1ADE900222259 /* AOViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = AOViewController.h; sourceTree = "<group>"; };
+		F3C69A6417F1ADE900222259 /* AOViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = AOViewController.m; sourceTree = "<group>"; };
+		F3C69A6517F1ADE900222259 /* AOViewController.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = AOViewController.xib; sourceTree = "<group>"; };
+		F3C69A7C17F1BA0900222259 /* arya.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = arya.jpg; sourceTree = "<group>"; };
+		F3C69A7D17F1BA0900222259 /* arya@2x.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "arya@2x.jpg"; sourceTree = "<group>"; };
+		F3C69A7E17F1BA0900222259 /* catherine.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = catherine.jpg; sourceTree = "<group>"; };
+		F3C69A7F17F1BA0900222259 /* catherine@2x.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "catherine@2x.jpg"; sourceTree = "<group>"; };
+		F3C69A8017F1BA0900222259 /* cersei.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = cersei.jpg; sourceTree = "<group>"; };
+		F3C69A8117F1BA0900222259 /* cersei@2x.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "cersei@2x.jpg"; sourceTree = "<group>"; };
+		F3C69A8217F1BA0900222259 /* jaime.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = jaime.jpg; sourceTree = "<group>"; };
+		F3C69A8317F1BA0900222259 /* jaime@2x.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "jaime@2x.jpg"; sourceTree = "<group>"; };
+		F3C69A8417F1BA0900222259 /* john.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = john.jpg; sourceTree = "<group>"; };
+		F3C69A8517F1BA0900222259 /* john@2x.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "john@2x.jpg"; sourceTree = "<group>"; };
+		F3C69A8617F1BA0900222259 /* robert.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = robert.jpg; sourceTree = "<group>"; };
+		F3C69A8717F1BA0900222259 /* robert@2x.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "robert@2x.jpg"; sourceTree = "<group>"; };
+		F3C69A8817F1BA0900222259 /* sansa.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = sansa.jpg; sourceTree = "<group>"; };
+		F3C69A8917F1BA0900222259 /* sansa@2x.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "sansa@2x.jpg"; sourceTree = "<group>"; };
+		F3C69A8A17F1BA0900222259 /* tyrion.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = tyrion.jpg; sourceTree = "<group>"; };
+		F3C69A8B17F1BA0900222259 /* tyrion@2x.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "tyrion@2x.jpg"; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		F3C377FF180438040050A32C /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				F3C37803180438040050A32C /* Foundation.framework in Frameworks */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		F3C69A2A17F1A78400222259 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				F3C69A3317F1A78400222259 /* CoreGraphics.framework in Frameworks */,
+				F3C69A3517F1A78400222259 /* UIKit.framework in Frameworks */,
+				F3C69A3117F1A78400222259 /* Foundation.framework in Frameworks */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		F3C69A4517F1A78500222259 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				F3C69A4A17F1A78500222259 /* XCTest.framework in Frameworks */,
+				F3C69A4C17F1A78500222259 /* UIKit.framework in Frameworks */,
+				F3C69A4B17F1A78500222259 /* Foundation.framework in Frameworks */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		F31D3E1A17FAACBE00979522 /* Vendor */ = {
+			isa = PBXGroup;
+			children = (
+				F31D3E2E17FAC0EC00979522 /* EGOCache */,
+				F31D3E3117FAC0EC00979522 /* EGOImageLoader */,
+				F31D3E3617FAC0EC00979522 /* EGOImageView */,
+			);
+			name = Vendor;
+			sourceTree = "<group>";
+		};
+		F31D3E2E17FAC0EC00979522 /* EGOCache */ = {
+			isa = PBXGroup;
+			children = (
+				F31D3E2F17FAC0EC00979522 /* EGOCache.h */,
+				F31D3E3017FAC0EC00979522 /* EGOCache.m */,
+			);
+			name = EGOCache;
+			path = AOTagDemo/src/EGOImageLoading/EGOCache;
+			sourceTree = "<group>";
+		};
+		F31D3E3117FAC0EC00979522 /* EGOImageLoader */ = {
+			isa = PBXGroup;
+			children = (
+				F31D3E3217FAC0EC00979522 /* EGOImageLoadConnection.h */,
+				F31D3E3317FAC0EC00979522 /* EGOImageLoadConnection.m */,
+				F31D3E3417FAC0EC00979522 /* EGOImageLoader.h */,
+				F31D3E3517FAC0EC00979522 /* EGOImageLoader.m */,
+			);
+			name = EGOImageLoader;
+			path = AOTagDemo/src/EGOImageLoading/EGOImageLoader;
+			sourceTree = "<group>";
+		};
+		F31D3E3617FAC0EC00979522 /* EGOImageView */ = {
+			isa = PBXGroup;
+			children = (
+				F31D3E3717FAC0EC00979522 /* EGOImageView.h */,
+				F31D3E3817FAC0EC00979522 /* EGOImageView.m */,
+			);
+			name = EGOImageView;
+			path = AOTagDemo/src/EGOImageLoading/EGOImageView;
+			sourceTree = "<group>";
+		};
+		F3C69A2417F1A78400222259 = {
+			isa = PBXGroup;
+			children = (
+				F3C3782A18043B140050A32C /* README.md */,
+				F3C69A3617F1A78400222259 /* AOTagDemo */,
+				F31D3E1A17FAACBE00979522 /* Vendor */,
+				F3C69A4F17F1A78500222259 /* AOTagDemoTests */,
+				F3C69A2F17F1A78400222259 /* Frameworks */,
+				F3C69A2E17F1A78400222259 /* Products */,
+			);
+			sourceTree = "<group>";
+		};
+		F3C69A2E17F1A78400222259 /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				F3C69A2D17F1A78400222259 /* AOTagDemo.app */,
+				F3C69A4817F1A78500222259 /* AOTagDemoTests.xctest */,
+				F3C37802180438040050A32C /* libAOTag.a */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+		F3C69A2F17F1A78400222259 /* Frameworks */ = {
+			isa = PBXGroup;
+			children = (
+				F3C69A3017F1A78400222259 /* Foundation.framework */,
+				F3C69A3217F1A78400222259 /* CoreGraphics.framework */,
+				F3C69A3417F1A78400222259 /* UIKit.framework */,
+				F3C69A4917F1A78500222259 /* XCTest.framework */,
+			);
+			name = Frameworks;
+			sourceTree = "<group>";
+		};
+		F3C69A3617F1A78400222259 /* AOTagDemo */ = {
+			isa = PBXGroup;
+			children = (
+				F3C69A3F17F1A78500222259 /* AOAppDelegate.h */,
+				F3C69A4017F1A78500222259 /* AOAppDelegate.m */,
+				F3C69A6317F1ADE900222259 /* AOViewController.h */,
+				F3C69A6417F1ADE900222259 /* AOViewController.m */,
+				F3C69A6517F1ADE900222259 /* AOViewController.xib */,
+				F3C69A5F17F1A82800222259 /* AOTag.h */,
+				F3C69A6017F1A82800222259 /* AOTag.m */,
+				F3C69A4217F1A78500222259 /* Images.xcassets */,
+				F3C69A7B17F1BA0900222259 /* Images */,
+				F3C69A3717F1A78500222259 /* Supporting Files */,
+			);
+			path = AOTagDemo;
+			sourceTree = "<group>";
+		};
+		F3C69A3717F1A78500222259 /* Supporting Files */ = {
+			isa = PBXGroup;
+			children = (
+				F3C69A3817F1A78500222259 /* AOTagDemo-Info.plist */,
+				F3C69A3917F1A78500222259 /* InfoPlist.strings */,
+				F3C69A3C17F1A78500222259 /* main.m */,
+				F3C69A3E17F1A78500222259 /* AOTagDemo-Prefix.pch */,
+			);
+			name = "Supporting Files";
+			sourceTree = "<group>";
+		};
+		F3C69A4F17F1A78500222259 /* AOTagDemoTests */ = {
+			isa = PBXGroup;
+			children = (
+				F3C69A5517F1A78500222259 /* AOTagDemoTests.m */,
+				F3C69A5017F1A78500222259 /* Supporting Files */,
+			);
+			path = AOTagDemoTests;
+			sourceTree = "<group>";
+		};
+		F3C69A5017F1A78500222259 /* Supporting Files */ = {
+			isa = PBXGroup;
+			children = (
+				F3C69A5117F1A78500222259 /* AOTagDemoTests-Info.plist */,
+				F3C69A5217F1A78500222259 /* InfoPlist.strings */,
+			);
+			name = "Supporting Files";
+			sourceTree = "<group>";
+		};
+		F3C69A7B17F1BA0900222259 /* Images */ = {
+			isa = PBXGroup;
+			children = (
+				F3C69A7C17F1BA0900222259 /* arya.jpg */,
+				F3C69A7D17F1BA0900222259 /* arya@2x.jpg */,
+				F3C69A7E17F1BA0900222259 /* catherine.jpg */,
+				F3C69A7F17F1BA0900222259 /* catherine@2x.jpg */,
+				F3C69A8017F1BA0900222259 /* cersei.jpg */,
+				F3C69A8117F1BA0900222259 /* cersei@2x.jpg */,
+				F3C69A8217F1BA0900222259 /* jaime.jpg */,
+				F3C69A8317F1BA0900222259 /* jaime@2x.jpg */,
+				F3C69A8417F1BA0900222259 /* john.jpg */,
+				F3C69A8517F1BA0900222259 /* john@2x.jpg */,
+				F3C69A8617F1BA0900222259 /* robert.jpg */,
+				F3C69A8717F1BA0900222259 /* robert@2x.jpg */,
+				F3C69A8817F1BA0900222259 /* sansa.jpg */,
+				F3C69A8917F1BA0900222259 /* sansa@2x.jpg */,
+				F3C69A8A17F1BA0900222259 /* tyrion.jpg */,
+				F3C69A8B17F1BA0900222259 /* tyrion@2x.jpg */,
+			);
+			path = Images;
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXNativeTarget section */
+		F3C37801180438040050A32C /* AOTag */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = F3C37822180438050050A32C /* Build configuration list for PBXNativeTarget "AOTag" */;
+			buildPhases = (
+				F3C377FE180438040050A32C /* Sources */,
+				F3C377FF180438040050A32C /* Frameworks */,
+				F3C37800180438040050A32C /* CopyFiles */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = AOTag;
+			productName = AOTag;
+			productReference = F3C37802180438040050A32C /* libAOTag.a */;
+			productType = "com.apple.product-type.library.static";
+		};
+		F3C69A2C17F1A78400222259 /* AOTagDemo */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = F3C69A5917F1A78500222259 /* Build configuration list for PBXNativeTarget "AOTagDemo" */;
+			buildPhases = (
+				F3C69A2917F1A78400222259 /* Sources */,
+				F3C69A2A17F1A78400222259 /* Frameworks */,
+				F3C69A2B17F1A78400222259 /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = AOTagDemo;
+			productName = AOTagDemo;
+			productReference = F3C69A2D17F1A78400222259 /* AOTagDemo.app */;
+			productType = "com.apple.product-type.application";
+		};
+		F3C69A4717F1A78500222259 /* AOTagDemoTests */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = F3C69A5C17F1A78500222259 /* Build configuration list for PBXNativeTarget "AOTagDemoTests" */;
+			buildPhases = (
+				F3C69A4417F1A78500222259 /* Sources */,
+				F3C69A4517F1A78500222259 /* Frameworks */,
+				F3C69A4617F1A78500222259 /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+				F3C69A4E17F1A78500222259 /* PBXTargetDependency */,
+			);
+			name = AOTagDemoTests;
+			productName = AOTagDemoTests;
+			productReference = F3C69A4817F1A78500222259 /* AOTagDemoTests.xctest */;
+			productType = "com.apple.product-type.bundle.unit-test";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		F3C69A2517F1A78400222259 /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				CLASSPREFIX = AO;
+				LastUpgradeCheck = 0500;
+				ORGANIZATIONNAME = Appsido;
+				TargetAttributes = {
+					F3C69A4717F1A78500222259 = {
+						TestTargetID = F3C69A2C17F1A78400222259;
+					};
+				};
+			};
+			buildConfigurationList = F3C69A2817F1A78400222259 /* Build configuration list for PBXProject "AOTagDemo" */;
+			compatibilityVersion = "Xcode 3.2";
+			developmentRegion = English;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+			);
+			mainGroup = F3C69A2417F1A78400222259;
+			productRefGroup = F3C69A2E17F1A78400222259 /* Products */;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				F3C69A2C17F1A78400222259 /* AOTagDemo */,
+				F3C69A4717F1A78500222259 /* AOTagDemoTests */,
+				F3C37801180438040050A32C /* AOTag */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXResourcesBuildPhase section */
+		F3C69A2B17F1A78400222259 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				F3C69A9117F1BA0900222259 /* cersei@2x.jpg in Resources */,
+				F3C69A9917F1BA0900222259 /* sansa@2x.jpg in Resources */,
+				F3C3782B18043B140050A32C /* README.md in Resources */,
+				F3C69A9B17F1BA0900222259 /* tyrion@2x.jpg in Resources */,
+				F3C69A8C17F1BA0900222259 /* arya.jpg in Resources */,
+				F3C69A8F17F1BA0900222259 /* catherine@2x.jpg in Resources */,
+				F3C69A9617F1BA0900222259 /* robert.jpg in Resources */,
+				F3C69A6717F1ADE900222259 /* AOViewController.xib in Resources */,
+				F3C69A9517F1BA0900222259 /* john@2x.jpg in Resources */,
+				F3C69A8D17F1BA0900222259 /* arya@2x.jpg in Resources */,
+				F3C69A9A17F1BA0900222259 /* tyrion.jpg in Resources */,
+				F3C69A9017F1BA0900222259 /* cersei.jpg in Resources */,
+				F3C69A9217F1BA0900222259 /* jaime.jpg in Resources */,
+				F3C69A3B17F1A78500222259 /* InfoPlist.strings in Resources */,
+				F3C69A4317F1A78500222259 /* Images.xcassets in Resources */,
+				F3C69A9317F1BA0900222259 /* jaime@2x.jpg in Resources */,
+				F3C69A9717F1BA0900222259 /* robert@2x.jpg in Resources */,
+				F3C69A9417F1BA0900222259 /* john.jpg in Resources */,
+				F3C69A9817F1BA0900222259 /* sansa.jpg in Resources */,
+				F3C69A8E17F1BA0900222259 /* catherine.jpg in Resources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		F3C69A4617F1A78500222259 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				F3C69A5417F1A78500222259 /* InfoPlist.strings in Resources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXResourcesBuildPhase section */
+
+/* Begin PBXSourcesBuildPhase section */
+		F3C377FE180438040050A32C /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				F3C37824180438380050A32C /* AOTag.m in Sources */,
+				F3C37825180438380050A32C /* EGOCache.m in Sources */,
+				F3C37826180438380050A32C /* EGOImageLoadConnection.m in Sources */,
+				F3C37827180438380050A32C /* EGOImageLoader.m in Sources */,
+				F3C37828180438380050A32C /* EGOImageView.m in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		F3C69A2917F1A78400222259 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				F3C69A6617F1ADE900222259 /* AOViewController.m in Sources */,
+				F31D3E3B17FAC0EC00979522 /* EGOImageLoader.m in Sources */,
+				F31D3E3C17FAC0EC00979522 /* EGOImageView.m in Sources */,
+				F3C69A4117F1A78500222259 /* AOAppDelegate.m in Sources */,
+				F3C69A6117F1A82800222259 /* AOTag.m in Sources */,
+				F3C69A3D17F1A78500222259 /* main.m in Sources */,
+				F31D3E3917FAC0EC00979522 /* EGOCache.m in Sources */,
+				F31D3E3A17FAC0EC00979522 /* EGOImageLoadConnection.m in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		F3C69A4417F1A78500222259 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				F3C69A5617F1A78500222259 /* AOTagDemoTests.m in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin PBXTargetDependency section */
+		F3C69A4E17F1A78500222259 /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			target = F3C69A2C17F1A78400222259 /* AOTagDemo */;
+			targetProxy = F3C69A4D17F1A78500222259 /* PBXContainerItemProxy */;
+		};
+/* End PBXTargetDependency section */
+
+/* Begin PBXVariantGroup section */
+		F3C69A3917F1A78500222259 /* InfoPlist.strings */ = {
+			isa = PBXVariantGroup;
+			children = (
+				F3C69A3A17F1A78500222259 /* en */,
+			);
+			name = InfoPlist.strings;
+			sourceTree = "<group>";
+		};
+		F3C69A5217F1A78500222259 /* InfoPlist.strings */ = {
+			isa = PBXVariantGroup;
+			children = (
+				F3C69A5317F1A78500222259 /* en */,
+			);
+			name = InfoPlist.strings;
+			sourceTree = "<group>";
+		};
+/* End PBXVariantGroup section */
+
+/* Begin XCBuildConfiguration section */
+		F3C3781E180438050050A32C /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ARCHS = "$(ARCHS_STANDARD_INCLUDING_64_BIT)";
+				DSTROOT = /tmp/AOTag.dst;
+				GCC_PRECOMPILE_PREFIX_HEADER = YES;
+				GCC_PREFIX_HEADER = "AOTag/AOTag-Prefix.pch";
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				OTHER_LDFLAGS = "-ObjC";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SKIP_INSTALL = YES;
+			};
+			name = Debug;
+		};
+		F3C3781F180438050050A32C /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ARCHS = "$(ARCHS_STANDARD_INCLUDING_64_BIT)";
+				DSTROOT = /tmp/AOTag.dst;
+				GCC_PRECOMPILE_PREFIX_HEADER = YES;
+				GCC_PREFIX_HEADER = "AOTag/AOTag-Prefix.pch";
+				OTHER_LDFLAGS = "-ObjC";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SKIP_INSTALL = YES;
+			};
+			name = Release;
+		};
+		F3C69A5717F1A78500222259 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				ARCHS = "$(ARCHS_STANDARD_INCLUDING_64_BIT)";
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++0x";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				COPY_PHASE_STRIP = NO;
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				GCC_SYMBOLS_PRIVATE_EXTERN = NO;
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 7.0;
+				ONLY_ACTIVE_ARCH = YES;
+				SDKROOT = iphoneos;
+			};
+			name = Debug;
+		};
+		F3C69A5817F1A78500222259 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				ARCHS = "$(ARCHS_STANDARD_INCLUDING_64_BIT)";
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++0x";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				COPY_PHASE_STRIP = YES;
+				ENABLE_NS_ASSERTIONS = NO;
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 7.0;
+				SDKROOT = iphoneos;
+				VALIDATE_PRODUCT = YES;
+			};
+			name = Release;
+		};
+		F3C69A5A17F1A78500222259 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				ASSETCATALOG_COMPILER_LAUNCHIMAGE_NAME = LaunchImage;
+				GCC_PRECOMPILE_PREFIX_HEADER = YES;
+				GCC_PREFIX_HEADER = "AOTagDemo/AOTagDemo-Prefix.pch";
+				INFOPLIST_FILE = "AOTagDemo/AOTagDemo-Info.plist";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				WRAPPER_EXTENSION = app;
+			};
+			name = Debug;
+		};
+		F3C69A5B17F1A78500222259 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				ASSETCATALOG_COMPILER_LAUNCHIMAGE_NAME = LaunchImage;
+				GCC_PRECOMPILE_PREFIX_HEADER = YES;
+				GCC_PREFIX_HEADER = "AOTagDemo/AOTagDemo-Prefix.pch";
+				INFOPLIST_FILE = "AOTagDemo/AOTagDemo-Info.plist";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				WRAPPER_EXTENSION = app;
+			};
+			name = Release;
+		};
+		F3C69A5D17F1A78500222259 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ARCHS = "$(ARCHS_STANDARD_INCLUDING_64_BIT)";
+				BUNDLE_LOADER = "$(BUILT_PRODUCTS_DIR)/AOTagDemo.app/AOTagDemo";
+				FRAMEWORK_SEARCH_PATHS = (
+					"$(SDKROOT)/Developer/Library/Frameworks",
+					"$(inherited)",
+					"$(DEVELOPER_FRAMEWORKS_DIR)",
+				);
+				GCC_PRECOMPILE_PREFIX_HEADER = YES;
+				GCC_PREFIX_HEADER = "AOTagDemo/AOTagDemo-Prefix.pch";
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				INFOPLIST_FILE = "AOTagDemoTests/AOTagDemoTests-Info.plist";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				TEST_HOST = "$(BUNDLE_LOADER)";
+				WRAPPER_EXTENSION = xctest;
+			};
+			name = Debug;
+		};
+		F3C69A5E17F1A78500222259 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ARCHS = "$(ARCHS_STANDARD_INCLUDING_64_BIT)";
+				BUNDLE_LOADER = "$(BUILT_PRODUCTS_DIR)/AOTagDemo.app/AOTagDemo";
+				FRAMEWORK_SEARCH_PATHS = (
+					"$(SDKROOT)/Developer/Library/Frameworks",
+					"$(inherited)",
+					"$(DEVELOPER_FRAMEWORKS_DIR)",
+				);
+				GCC_PRECOMPILE_PREFIX_HEADER = YES;
+				GCC_PREFIX_HEADER = "AOTagDemo/AOTagDemo-Prefix.pch";
+				INFOPLIST_FILE = "AOTagDemoTests/AOTagDemoTests-Info.plist";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				TEST_HOST = "$(BUNDLE_LOADER)";
+				WRAPPER_EXTENSION = xctest;
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		F3C37822180438050050A32C /* Build configuration list for PBXNativeTarget "AOTag" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				F3C3781E180438050050A32C /* Debug */,
+				F3C3781F180438050050A32C /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		F3C69A2817F1A78400222259 /* Build configuration list for PBXProject "AOTagDemo" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				F3C69A5717F1A78500222259 /* Debug */,
+				F3C69A5817F1A78500222259 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		F3C69A5917F1A78500222259 /* Build configuration list for PBXNativeTarget "AOTagDemo" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				F3C69A5A17F1A78500222259 /* Debug */,
+				F3C69A5B17F1A78500222259 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		F3C69A5C17F1A78500222259 /* Build configuration list for PBXNativeTarget "AOTagDemoTests" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				F3C69A5D17F1A78500222259 /* Debug */,
+				F3C69A5E17F1A78500222259 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = F3C69A2517F1A78400222259 /* Project object */;
+}

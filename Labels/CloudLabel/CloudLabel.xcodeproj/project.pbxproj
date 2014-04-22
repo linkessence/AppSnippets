@@ -1,0 +1,328 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 46;
+	objects = {
+
+/* Begin PBXBuildFile section */
+		A400B0F117CDCCA6001AA893 /* UIKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = A400B0F017CDCCA6001AA893 /* UIKit.framework */; };
+		A400B0F317CDCCA6001AA893 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = A400B0F217CDCCA6001AA893 /* Foundation.framework */; };
+		A400B0F517CDCCA6001AA893 /* CoreGraphics.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = A400B0F417CDCCA6001AA893 /* CoreGraphics.framework */; };
+		A400B0FB17CDCCA6001AA893 /* InfoPlist.strings in Resources */ = {isa = PBXBuildFile; fileRef = A400B0F917CDCCA6001AA893 /* InfoPlist.strings */; };
+		A400B0FD17CDCCA6001AA893 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = A400B0FC17CDCCA6001AA893 /* main.m */; };
+		A400B10117CDCCA6001AA893 /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = A400B10017CDCCA6001AA893 /* AppDelegate.m */; };
+		A400B10317CDCCA6001AA893 /* Default.png in Resources */ = {isa = PBXBuildFile; fileRef = A400B10217CDCCA6001AA893 /* Default.png */; };
+		A400B10517CDCCA6001AA893 /* Default@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = A400B10417CDCCA6001AA893 /* Default@2x.png */; };
+		A400B10717CDCCA6001AA893 /* Default-568h@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = A400B10617CDCCA6001AA893 /* Default-568h@2x.png */; };
+		A400B10A17CDCCA6001AA893 /* ViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = A400B10917CDCCA6001AA893 /* ViewController.m */; };
+		A400B10D17CDCCA6001AA893 /* ViewController.xib in Resources */ = {isa = PBXBuildFile; fileRef = A400B10B17CDCCA6001AA893 /* ViewController.xib */; };
+		A400B11417CDCEA9001AA893 /* QuartzCore.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = A400B11317CDCEA9001AA893 /* QuartzCore.framework */; };
+		A4A536DC17D7898400A36847 /* CoreFoundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = A4A536DB17D7898400A36847 /* CoreFoundation.framework */; };
+		A4DC63B417D45D6B00AE281B /* CloudView.m in Sources */ = {isa = PBXBuildFile; fileRef = A4DC63B317D45D6B00AE281B /* CloudView.m */; };
+		A4F0FB4717D9ABE200BB64B3 /* NSObject+KVC.m in Sources */ = {isa = PBXBuildFile; fileRef = A4F0FB4617D9ABE200BB64B3 /* NSObject+KVC.m */; };
+/* End PBXBuildFile section */
+
+/* Begin PBXFileReference section */
+		A400B0EC17CDCCA6001AA893 /* CloudLabel.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = CloudLabel.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		A400B0F017CDCCA6001AA893 /* UIKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = UIKit.framework; path = System/Library/Frameworks/UIKit.framework; sourceTree = SDKROOT; };
+		A400B0F217CDCCA6001AA893 /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = System/Library/Frameworks/Foundation.framework; sourceTree = SDKROOT; };
+		A400B0F417CDCCA6001AA893 /* CoreGraphics.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreGraphics.framework; path = System/Library/Frameworks/CoreGraphics.framework; sourceTree = SDKROOT; };
+		A400B0F817CDCCA6001AA893 /* CloudLabel-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = "CloudLabel-Info.plist"; sourceTree = "<group>"; };
+		A400B0FA17CDCCA6001AA893 /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/InfoPlist.strings; sourceTree = "<group>"; };
+		A400B0FC17CDCCA6001AA893 /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
+		A400B0FE17CDCCA6001AA893 /* CloudLabel-Prefix.pch */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "CloudLabel-Prefix.pch"; sourceTree = "<group>"; };
+		A400B0FF17CDCCA6001AA893 /* AppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = AppDelegate.h; sourceTree = "<group>"; };
+		A400B10017CDCCA6001AA893 /* AppDelegate.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = AppDelegate.m; sourceTree = "<group>"; };
+		A400B10217CDCCA6001AA893 /* Default.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Default.png; sourceTree = "<group>"; };
+		A400B10417CDCCA6001AA893 /* Default@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Default@2x.png"; sourceTree = "<group>"; };
+		A400B10617CDCCA6001AA893 /* Default-568h@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Default-568h@2x.png"; sourceTree = "<group>"; };
+		A400B10817CDCCA6001AA893 /* ViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = ViewController.h; sourceTree = "<group>"; };
+		A400B10917CDCCA6001AA893 /* ViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = ViewController.m; sourceTree = "<group>"; };
+		A400B10C17CDCCA6001AA893 /* en */ = {isa = PBXFileReference; lastKnownFileType = file.xib; name = en; path = en.lproj/ViewController.xib; sourceTree = "<group>"; };
+		A400B11317CDCEA9001AA893 /* QuartzCore.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = QuartzCore.framework; path = System/Library/Frameworks/QuartzCore.framework; sourceTree = SDKROOT; };
+		A4A536DB17D7898400A36847 /* CoreFoundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreFoundation.framework; path = System/Library/Frameworks/CoreFoundation.framework; sourceTree = SDKROOT; };
+		A4DC63B217D45D6B00AE281B /* CloudView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = CloudView.h; sourceTree = "<group>"; };
+		A4DC63B317D45D6B00AE281B /* CloudView.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = CloudView.m; sourceTree = "<group>"; };
+		A4F0FB4517D9ABE200BB64B3 /* NSObject+KVC.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "NSObject+KVC.h"; sourceTree = "<group>"; };
+		A4F0FB4617D9ABE200BB64B3 /* NSObject+KVC.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = "NSObject+KVC.m"; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		A400B0E917CDCCA6001AA893 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				A4A536DC17D7898400A36847 /* CoreFoundation.framework in Frameworks */,
+				A400B11417CDCEA9001AA893 /* QuartzCore.framework in Frameworks */,
+				A400B0F117CDCCA6001AA893 /* UIKit.framework in Frameworks */,
+				A400B0F317CDCCA6001AA893 /* Foundation.framework in Frameworks */,
+				A400B0F517CDCCA6001AA893 /* CoreGraphics.framework in Frameworks */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		A400B0E117CDCCA6001AA893 = {
+			isa = PBXGroup;
+			children = (
+				A4A536DB17D7898400A36847 /* CoreFoundation.framework */,
+				A400B11317CDCEA9001AA893 /* QuartzCore.framework */,
+				A400B0F617CDCCA6001AA893 /* CloudLabel */,
+				A400B0EF17CDCCA6001AA893 /* Frameworks */,
+				A400B0ED17CDCCA6001AA893 /* Products */,
+			);
+			sourceTree = "<group>";
+		};
+		A400B0ED17CDCCA6001AA893 /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				A400B0EC17CDCCA6001AA893 /* CloudLabel.app */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+		A400B0EF17CDCCA6001AA893 /* Frameworks */ = {
+			isa = PBXGroup;
+			children = (
+				A400B0F017CDCCA6001AA893 /* UIKit.framework */,
+				A400B0F217CDCCA6001AA893 /* Foundation.framework */,
+				A400B0F417CDCCA6001AA893 /* CoreGraphics.framework */,
+			);
+			name = Frameworks;
+			sourceTree = "<group>";
+		};
+		A400B0F617CDCCA6001AA893 /* CloudLabel */ = {
+			isa = PBXGroup;
+			children = (
+				A400B0FF17CDCCA6001AA893 /* AppDelegate.h */,
+				A400B10017CDCCA6001AA893 /* AppDelegate.m */,
+				A400B10817CDCCA6001AA893 /* ViewController.h */,
+				A400B10917CDCCA6001AA893 /* ViewController.m */,
+				A4DC63B217D45D6B00AE281B /* CloudView.h */,
+				A4DC63B317D45D6B00AE281B /* CloudView.m */,
+				A4F0FB4517D9ABE200BB64B3 /* NSObject+KVC.h */,
+				A4F0FB4617D9ABE200BB64B3 /* NSObject+KVC.m */,
+				A400B10B17CDCCA6001AA893 /* ViewController.xib */,
+				A400B0F717CDCCA6001AA893 /* Supporting Files */,
+			);
+			path = CloudLabel;
+			sourceTree = "<group>";
+		};
+		A400B0F717CDCCA6001AA893 /* Supporting Files */ = {
+			isa = PBXGroup;
+			children = (
+				A400B0F817CDCCA6001AA893 /* CloudLabel-Info.plist */,
+				A400B0F917CDCCA6001AA893 /* InfoPlist.strings */,
+				A400B0FC17CDCCA6001AA893 /* main.m */,
+				A400B0FE17CDCCA6001AA893 /* CloudLabel-Prefix.pch */,
+				A400B10217CDCCA6001AA893 /* Default.png */,
+				A400B10417CDCCA6001AA893 /* Default@2x.png */,
+				A400B10617CDCCA6001AA893 /* Default-568h@2x.png */,
+			);
+			name = "Supporting Files";
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXNativeTarget section */
+		A400B0EB17CDCCA6001AA893 /* CloudLabel */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = A400B11017CDCCA6001AA893 /* Build configuration list for PBXNativeTarget "CloudLabel" */;
+			buildPhases = (
+				A400B0E817CDCCA6001AA893 /* Sources */,
+				A400B0E917CDCCA6001AA893 /* Frameworks */,
+				A400B0EA17CDCCA6001AA893 /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = CloudLabel;
+			productName = CloudLabel;
+			productReference = A400B0EC17CDCCA6001AA893 /* CloudLabel.app */;
+			productType = "com.apple.product-type.application";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		A400B0E317CDCCA6001AA893 /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				LastUpgradeCheck = 0450;
+				ORGANIZATIONNAME = PowerAuras;
+			};
+			buildConfigurationList = A400B0E617CDCCA6001AA893 /* Build configuration list for PBXProject "CloudLabel" */;
+			compatibilityVersion = "Xcode 3.2";
+			developmentRegion = English;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+			);
+			mainGroup = A400B0E117CDCCA6001AA893;
+			productRefGroup = A400B0ED17CDCCA6001AA893 /* Products */;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				A400B0EB17CDCCA6001AA893 /* CloudLabel */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXResourcesBuildPhase section */
+		A400B0EA17CDCCA6001AA893 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				A400B0FB17CDCCA6001AA893 /* InfoPlist.strings in Resources */,
+				A400B10317CDCCA6001AA893 /* Default.png in Resources */,
+				A400B10517CDCCA6001AA893 /* Default@2x.png in Resources */,
+				A400B10717CDCCA6001AA893 /* Default-568h@2x.png in Resources */,
+				A400B10D17CDCCA6001AA893 /* ViewController.xib in Resources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXResourcesBuildPhase section */
+
+/* Begin PBXSourcesBuildPhase section */
+		A400B0E817CDCCA6001AA893 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				A400B0FD17CDCCA6001AA893 /* main.m in Sources */,
+				A400B10117CDCCA6001AA893 /* AppDelegate.m in Sources */,
+				A400B10A17CDCCA6001AA893 /* ViewController.m in Sources */,
+				A4DC63B417D45D6B00AE281B /* CloudView.m in Sources */,
+				A4F0FB4717D9ABE200BB64B3 /* NSObject+KVC.m in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin PBXVariantGroup section */
+		A400B0F917CDCCA6001AA893 /* InfoPlist.strings */ = {
+			isa = PBXVariantGroup;
+			children = (
+				A400B0FA17CDCCA6001AA893 /* en */,
+			);
+			name = InfoPlist.strings;
+			sourceTree = "<group>";
+		};
+		A400B10B17CDCCA6001AA893 /* ViewController.xib */ = {
+			isa = PBXVariantGroup;
+			children = (
+				A400B10C17CDCCA6001AA893 /* en */,
+			);
+			name = ViewController.xib;
+			sourceTree = "<group>";
+		};
+/* End PBXVariantGroup section */
+
+/* Begin XCBuildConfiguration section */
+		A400B10E17CDCCA6001AA893 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++0x";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				COPY_PHASE_STRIP = NO;
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				GCC_SYMBOLS_PRIVATE_EXTERN = NO;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 6.0;
+				ONLY_ACTIVE_ARCH = YES;
+				SDKROOT = iphoneos;
+			};
+			name = Debug;
+		};
+		A400B10F17CDCCA6001AA893 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++0x";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				COPY_PHASE_STRIP = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 6.0;
+				OTHER_CFLAGS = "-DNS_BLOCK_ASSERTIONS=1";
+				SDKROOT = iphoneos;
+				VALIDATE_PRODUCT = YES;
+			};
+			name = Release;
+		};
+		A400B11117CDCCA6001AA893 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				CODE_SIGN_IDENTITY = "iPhone Developer: liu yang (S8JF357Z7M)";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer: liu yang (S8JF357Z7M)";
+				GCC_PRECOMPILE_PREFIX_HEADER = YES;
+				GCC_PREFIX_HEADER = "CloudLabel/CloudLabel-Prefix.pch";
+				INFOPLIST_FILE = "CloudLabel/CloudLabel-Info.plist";
+				IPHONEOS_DEPLOYMENT_TARGET = 5.0;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				PROVISIONING_PROFILE = "15D85256-C793-44F7-8D0E-1CDE053E27DD";
+				"PROVISIONING_PROFILE[sdk=iphoneos*]" = "15D85256-C793-44F7-8D0E-1CDE053E27DD";
+				WRAPPER_EXTENSION = app;
+			};
+			name = Debug;
+		};
+		A400B11217CDCCA6001AA893 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				CODE_SIGN_IDENTITY = "iPhone Developer: liu yang (S8JF357Z7M)";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer: liu yang (S8JF357Z7M)";
+				GCC_PRECOMPILE_PREFIX_HEADER = YES;
+				GCC_PREFIX_HEADER = "CloudLabel/CloudLabel-Prefix.pch";
+				INFOPLIST_FILE = "CloudLabel/CloudLabel-Info.plist";
+				IPHONEOS_DEPLOYMENT_TARGET = 5.0;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				PROVISIONING_PROFILE = "15D85256-C793-44F7-8D0E-1CDE053E27DD";
+				"PROVISIONING_PROFILE[sdk=iphoneos*]" = "15D85256-C793-44F7-8D0E-1CDE053E27DD";
+				WRAPPER_EXTENSION = app;
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		A400B0E617CDCCA6001AA893 /* Build configuration list for PBXProject "CloudLabel" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				A400B10E17CDCCA6001AA893 /* Debug */,
+				A400B10F17CDCCA6001AA893 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		A400B11017CDCCA6001AA893 /* Build configuration list for PBXNativeTarget "CloudLabel" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				A400B11117CDCCA6001AA893 /* Debug */,
+				A400B11217CDCCA6001AA893 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = A400B0E317CDCCA6001AA893 /* Project object */;
+}
