@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/%E7%BE%A4%E8%B1%A1%E5%B2%9B/!svn/ver/5/IOS/QunXiangDao2/QunXiangDao2/control/Sqlite
+END
+CSqlite.m
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/%E7%BE%A4%E8%B1%A1%E5%B2%9B/!svn/ver/5/IOS/QunXiangDao2/QunXiangDao2/control/Sqlite/CSqlite.m
+END
+sqlite3.c
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/%E7%BE%A4%E8%B1%A1%E5%B2%9B/!svn/ver/5/IOS/QunXiangDao2/QunXiangDao2/control/Sqlite/sqlite3.c
+END
+shell.c
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/%E7%BE%A4%E8%B1%A1%E5%B2%9B/!svn/ver/5/IOS/QunXiangDao2/QunXiangDao2/control/Sqlite/shell.c
+END
+CSqlite.h
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/%E7%BE%A4%E8%B1%A1%E5%B2%9B/!svn/ver/5/IOS/QunXiangDao2/QunXiangDao2/control/Sqlite/CSqlite.h
+END
+sqlite3.h
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/%E7%BE%A4%E8%B1%A1%E5%B2%9B/!svn/ver/5/IOS/QunXiangDao2/QunXiangDao2/control/Sqlite/sqlite3.h
+END
+sqlite3ext.h
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/%E7%BE%A4%E8%B1%A1%E5%B2%9B/!svn/ver/5/IOS/QunXiangDao2/QunXiangDao2/control/Sqlite/sqlite3ext.h
+END
