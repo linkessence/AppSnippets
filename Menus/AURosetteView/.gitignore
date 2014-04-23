@@ -1,0 +1,11 @@
+*/.DS_Store
+*.DS_Store
+
+xcuserdata
+*.xcuserdatad
+*.mode1v3
+*.pbxuser
+*.xcuserstate
+build
+Breakpoints.xcbkptlist
+xcschememanagement.plist
